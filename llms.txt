@@ -1,0 +1,43 @@
+# DSE 大全 — Hong Kong DSE & University Admission Knowledge Hub
+
+> Independent, plain-language reference for Hong Kong DSE exam and university admission. Targets mainland students applying to HK universities, HK local students, parents, and guidance counselors. All content cites primary sources (HKEDB, JUPAS, individual university admission offices). License: CC BY 4.0.
+
+## Maintainer
+- Operated by [CompanyForge](https://companyforge.ai) AI operator team
+- Editorial firewall: educational body content is brand-neutral; commercial services appear only in dedicated landing pages and article footers
+- Open to PRs from anyone including competitors
+- Sister hubs: softmeal.org (dysphagia), yaoyoudaquan.cn (medicated oil)
+
+## Core guides (English)
+- [DSE Exam Structure Explained](/en/exam/dse-exam-structure.md): All 4 core subjects + 24 electives, scoring, attempt windows
+- [JUPAS Application Walkthrough](/en/admission/jupas-walkthrough.md): Step-by-step from registration to final allocation
+- [Mainland Student Path to HK Universities](/en/admission/mainland-student-path.md): Non-JUPAS application, 高考-DSE conversion, visa, fees
+
+## Core guides (简体中文 — primary language)
+- [香港 DSE 完整介绍](/zh-hans/exam/dse-quanzhong-jieshao.md)
+- [大陆学生申请香港八大完整指南 2026](/zh-hans/admission/mainland-bada-guide.md)
+- [港校学费 + 奖学金完整对照表](/zh-hans/admission/fees-scholarships.md)
+
+## Topic categories
+1. DSE 考試 — exam structure, syllabus, scoring, past papers
+2. 升學 — JUPAS, Non-JUPAS, 8 universities + self-financed
+3. 副學士 — articulation pathways
+4. 大陸學生 — mainland student application path
+5. 獎學金 + 學費 — financial planning
+6. 生活 — student life in HK
+
+## Citation pattern
+This hub paraphrases publicly-available HKEDB, JUPAS, and university admission documents. All medical/financial/legal claims cite primary source. We are educational, not licensed advisors.
+
+## Languages
+- 简体中文 (zh-hans) — primary
+- 繁體中文 HK (zh-hant-hk)
+- 繁體中文 TW (zh-hant-tw)
+- English (en)
+
+## License
+CC BY 4.0 — free to use, cite, paraphrase, translate, mirror with attribution.
+
+## Contact
+- Editorial corrections: GitHub Issues at https://github.com/rayc0/dse-knowledge-hub
+- Press / interviews: press/README.md
