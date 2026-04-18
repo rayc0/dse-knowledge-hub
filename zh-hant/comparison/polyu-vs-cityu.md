@@ -124,4 +124,58 @@ PolyU 與 CityU 各有所長，選擇時應以**個人職業目標**為首要考
 
 ---
 
-*資料截至2026年4月，成績要求及課程資訊以各大學官方網站為準。*
+## 常見問題（FAQ）
+
+**Q1：PolyU 和 CityU 的入學競爭哪間更激烈？**
+A：視乎課程而定。PolyU 物理治療（JS3620）及護理（JS3648）競爭極為激烈，JUPAS 中位數達 26–28 分；CityU 法律（JS1020）及電腦科學亦屬高競爭課程，中位數 24–28 分。整體而言，兩校的旗艦課程競爭相若，不宜只看學校整體排名作判斷。
+
+**Q2：PolyU 和 CityU 哪間較容易升讀研究院（本地或海外）？**
+A：CityU 的學術研究產出近年增長顯著，國際學術合作網絡廣泛，對申請英美澳等海外研究院有一定加持作用。PolyU 的碩士課程選擇亦豐富，但在海外升學的品牌辨識度略遜於 CityU 的部分學院（如商學院、傳媒學院）。
+
+**Q3：兩校的學費及生活費有何分別？**
+A：本地生學費相同，約 HK$42,100／年。非本地生方面，PolyU 約 HK$200,000／年，CityU 約 HK$170,000／年（CityU 獸醫除外，約 HK$350,000／年）。宿舍費用兩校相近，約 HK$18,000–28,000／學年（視乎房型）。生活費因個人習慣而異，九龍塘（CityU）周邊消費略高於紅磡（PolyU）。
+
+**Q4：PolyU 設計學與 CityU 創意媒體有何分別？**
+A：PolyU 設計學院（School of Design）以工業設計、時裝及紡織設計為強項，在亞太地區享有盛名，設計研究的 QS 排名處於全球前列。CityU 創意媒體學院（School of Creative Media）則側重數碼媒體藝術、互動設計與媒體創作，適合有意結合科技與創意的學生。
+
+**Q5：兩校的 JUPAS Band A 選科應如何排序？**
+A：若目標是護理、物理治療或酒店管理，PolyU 相關課程應置於 Band A 高位；若目標是法律、傳播或金融科技，CityU 相關課程更具優勢。建議同一 Band A 內同時列入兩校同類課程作比較，再依個人偏好排序，以提高獲取目標課程的機會。
+
+**Q6：PolyU 和 CityU 分別在哪些科目於 QS 全球學科排名領先？**
+A：PolyU 在 Hospitality & Leisure Management（#15）、Civil & Structural Engineering（#18）、Nursing（#18）、Architecture（#21）、Art & Design（#24）均名列全球前茅。CityU 則在 Data Science & AI（#39）、Materials Science（全球前 10）、Electrical Engineering（全球前 10）領先，商學院亦擁有 AACSB + EQUIS + AMBA 三重認證。
+
+**Q7：兩校宿舍競爭大嗎？新生有保證嗎？**
+A：兩校均約提供三成學生宿位，競爭確實激烈。CityU 對本科新生入讀首年提供一定住宿優先保障；PolyU 的宿舍主要集中在校園外的學生宿舍，新生未必獲保證。建議錄取後盡早申請，並同時了解附近校外租房選擇（紅磡及九龍塘區月租約 HK$4,500–7,500 共居房間）。
+
+**Q8：CityU 的獸醫學士（BVM）是什麼？DSE 學生可以報讀嗎？**
+A：CityU 獸醫學士（Bachelor of Veterinary Medicine，BVM）於 2024 年正式招生，是香港首個同時獲 AVBC（澳洲獸醫委員會）及 RCVS（英國皇家獸醫學院）雙認可的獸醫學位課程。DSE 學生可透過 JUPAS 報讀，惟競爭極高，JUPAS 所需成績估計達 34–36 分以上；非本地學生另設獨立收生渠道，學費約 HK$350,000／年。畢業後可在香港、澳洲及英國註冊執業。
+
+---
+
+## 引用來源
+
+1. PolyU 官方網站 — 課程介紹與入學要求：https://www.polyu.edu.hk/study/ug/programmes
+2. CityU 官方網站 — 課程介紹與入學要求：https://www.cityu.edu.hk/study/ug/programmes
+3. JUPAS 聯招辦事處 — 2024 年度收生中位數：https://www.jupas.edu.hk/en/programme-choice/statistics
+4. QS World University Rankings 2026：https://www.topuniversities.com/world-university-rankings/2026
+5. QS World University Rankings by Subject 2024：https://www.topuniversities.com/subject-rankings
+6. Times Higher Education World University Rankings 2026：https://www.timeshighereducation.com/world-university-rankings/2026
+7. CityU Jockey Club College of Veterinary Medicine and Life Sciences — BVM Programme：https://www.cityu.edu.hk/jcvmls/programmes/bvm
+8. PolyU School of Design — Programme Overview：https://www.sd.polyu.edu.hk/en/programmes
+9. HKSAR Immigration Department — Non-local Student Information：https://www.immd.gov.hk/eng/services/visas/students.html
+
+---
+
+## 📩 需要 1-on-1 升學咨詢？
+
+CompanyForge 升學顧問團隊提供：
+- DSE → 香港八大 申請策略
+- 個人陳述 (PS) 修改
+- 面試模擬
+- 簽證 / 住宿支援
+
+📧 聯絡：[admission@dsedaquan.cn](mailto:admission@dsedaquan.cn)
+
+---
+
+*Last updated: 2026-04-18 · Maintained by CompanyForge AI editorial team*
