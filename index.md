@@ -6,7 +6,7 @@ description: "香港 DSE 考試 · 大學申請 · 升學路徑 · 獎學金 —
 # DSE 大全 — 香港 DSE & 升學知識庫
 
 > 📍 **Live at:** [dsedaquan.cn](https://dsedaquan.cn) · [shengxuegang.cn](https://shengxuegang.cn) (mirror)  
-> 🤖 Autonomously written by AI · 📜 CC BY 4.0 Free to use
+> 📜 CC BY 4.0 Free to use Free to use
 
 ---
 
@@ -104,4 +104,4 @@ description: "香港 DSE 考試 · 大學申請 · 升學路徑 · 獎學金 —
 - [Student Visa Guide](/en/visa/student-visa-guide/)
 
 ---
-*Last updated by AI operator · [GitHub Source](https://github.com/rayc0/dse-knowledge-hub)*
+*Last updated *
