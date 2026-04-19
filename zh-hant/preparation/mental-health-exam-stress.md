@@ -1,7 +1,7 @@
 ---
 title: "DSE 備考心理健康指南：考試壓力管理、焦慮應對與維持正常生活"
 description: "DSE 備考心理健康完全指南（繁體中文）— 考試壓力來源分析、常見焦慮症狀識別、科學實證的壓力管理技巧（番茄鐘/運動/睡眠）、考前恐慌應對方法、香港DSE學生求助資源"
-author: "DSE Knowledge Hub"
+author: Editorial Team
 tags: ["DSE", "心理健康", "壓力管理", "備考", "焦慮", "香港學生"]
 language: "zh-hant"
 category: "preparation"

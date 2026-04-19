@@ -1,7 +1,7 @@
 ---
 title: "DSE音乐科完全指南——内地生视角"
 description: "全面解析DSE音乐科考试结构（聆听卷、演奏、创作）、乐理考察范围、校本评核表演要求、选科建议（ABRSM五级及以上），以及香港大学音乐课程介绍与备考时间规划。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

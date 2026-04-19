@@ -4,7 +4,7 @@ description: "Complete guide to top-up degree pathways in Hong Kong — articula
 lang: en
 category: pathways
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Vivian Lam
 tags:
   - top-up degree
   - higher diploma

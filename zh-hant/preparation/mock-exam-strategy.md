@@ -1,7 +1,7 @@
 ---
 title: "DSE模擬試策略：如何透過Mock Exam最大化備考效益"
 description: "DSE模擬試（Mock Exam）的最佳使用方法 — 計時做卷技巧、有效批改自評方法、錯題分析、校內Mock與自行操練的配合，以及如何根據模擬試結果調整最後衝刺策略"
-author: "DSE Knowledge Hub"
+author: Vivian Lam
 tags: ["DSE", "模擬試", "Mock Exam", "備考", "操卷"]
 language: "zh-hant"
 last_updated: "2026-04-18"

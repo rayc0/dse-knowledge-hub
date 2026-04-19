@@ -1,7 +1,7 @@
 ---
 title: "DSE通识教育／公民与社会发展完全指南——内地生视角"
 description: "全面解析DSE通识教育（LS）至公民与社会发展（CS）的演变历程、2024年后新考试结构、校本评核与笔试要点、香港认同/中国发展/全球化等核心议题，以及内地生如何利用中国议题优势取得高分。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

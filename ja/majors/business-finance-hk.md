@@ -1,7 +1,7 @@
 ---
 title: "香港のビジネス・ファイナンス学部ガイド：HKU・HKUST・CUHKの入学要件と日本人の機会"
 description: "日本語による香港ビジネス・ファイナンス学部完全ガイド — HKU経営学部(BBA)・HKUST経営大学院・CUHKビジネススクール（CGSB）の特徴比較、JUPAS最低DSEスコア、日本人学生の就職先（ゴールドマン/JPモルガン/マッキンゼー等）、香港FinTech・資産運用業界への就職力、CFA・ACCA資格との連携、ダブルディグリー・交換留学オプション"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"

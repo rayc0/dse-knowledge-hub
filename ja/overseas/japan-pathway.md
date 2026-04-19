@@ -1,7 +1,7 @@
 ---
 title: "DSEから日本の大学進学ガイド：帰国子女枠・IB準用・学費と文科省認定校への出願方法"
 description: "日本語によるDSE→日本大学進学完全ガイド — DSE保有者が日本の大学に出願する際の帰国子女選抜の活用法、文科省による香港DSEの正式認定状況、東京大学・早稲田大学・慶應義塾大学のDSE/帰国子女要件と受験方法、DSEスコアとAO入試・英語入試の組み合わせ、日本学生支援機構（JASSO）奨学金の適用、香港在住日本人の子弟が帰国する際の大学受験戦略"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "overseas"
 last_updated: "2026-04-18"

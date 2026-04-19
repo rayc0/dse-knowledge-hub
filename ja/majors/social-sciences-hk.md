@@ -1,7 +1,7 @@
 ---
 title: "香港の社会科学・人文学部ガイド：HKU/CUHK/HKUST社会科学系の入学要件と就職環境"
 description: "日本語による香港社会科学系学部完全ガイド — HKU/CUHK/HKUST/HKBUの社会科学（社会学/心理学/政治学/国際関係）と人文学（歴史/哲学/英文学）の学部概要と入学スコア、文系DSE科目（英語/中国語/通識/経済/歴史）との対応、心理学学士の資格から大学院・臨床心理士への道、社会科学系の就職先（NGO/政府/金融コンプライアンス/コンサルティング）、日本人学生に人気の学部・専攻"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"

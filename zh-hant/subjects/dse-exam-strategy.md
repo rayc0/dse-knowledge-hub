@@ -1,7 +1,7 @@
 ---
 title: "DSE應考策略大全：時間管理、答題技巧與高分心理準備"
 description: "DSE應考全攻略 — 考試前3個月備考計劃、考試當日時間分配策略、MC題技巧（排除法·首選策略）、LQ（長答題）PEEL結構、ESQ（延伸回應題）評核重點、答錯不扣分策略、考試焦慮管理、常見失分陷阱，適用於DSE所有科目"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 language: "zh-hant"
 category: "subjects"
 tags: ["DSE", "應考策略", "HKDSE", "時間管理"]

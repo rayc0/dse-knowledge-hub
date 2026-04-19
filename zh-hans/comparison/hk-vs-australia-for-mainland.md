@@ -11,7 +11,7 @@ date: 2026-04-17
 
 > **摘要** — 2026 年起澳洲 485 毕业工签正式缩短至本科/授课硕士 2 年、研究型硕博 3 年，签证费涨到 AUD 4,600；配合学费每年约 AUD 50,000 与生活费 AUD 25,000，一个大陆学生澳洲八大（Go8）四年总开销约 200 万人民币。同期香港八大对大陆高考生独立招生、IANG 签证仍为 24 个月且无薪资门槛、本科四年全包约 115-140 万人民币。本文逐项对比申请、成本、QS 排名、毕业工签、移民路径，并给出 5 个常见家庭场景的推荐选择。
 >
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用澳洲移民局（Home Affairs）、Study Australia、香港 8 所 UGC 资助大学招生页面、QS World University Rankings 2026 及澳洲八大联盟官网数据。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用澳洲移民局（Home Affairs）、Study Australia、香港 8 所 UGC 资助大学招生页面、QS World University Rankings 2026 及澳洲八大联盟官网数据。License: CC BY 4.0.
 
 ---
 
@@ -288,7 +288,7 @@ A：大致相当。港大/科大的研究型项目和美国顶校合作更多，
 
 ## 📩 需要 1-on-1 升学咨询？
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 
 - **香港八大 / 澳洲 Go8 申请策略**：根据高考分段 + 英语水平给出 3 校方案
 - **个人陈述（PS）修改**：针对港大/科大/UNSW/Melbourne 的不同风格定制
@@ -299,4 +299,4 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*Last updated: 2026-04-17 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-17 · Maintained by the editorial team AI editorial team*

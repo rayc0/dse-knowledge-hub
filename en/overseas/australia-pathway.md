@@ -4,7 +4,7 @@ description: "How to apply to Australian universities using HKDSE results — en
 lang: en
 category: overseas
 date: 2026-04-17
-author: DSE Knowledge Hub
+author: Thomas Ho
 tags: [Australia, DSE, overseas, university, Go8, ATAR, study-abroad]
 ---
 

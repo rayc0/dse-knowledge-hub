@@ -1,7 +1,7 @@
 ---
 title: "DSE試験戦略完全ガイド：日本人受験生のための科目選択・時間管理・Level 5★攻略"
 description: "日本語によるDSE試験戦略完全ガイド — 最適な選択科目の組み合わせ（理系/文系/混合）、DSE試験6週前から当日までのタイムライン、各科目に共通する解答テクニック（データ解析/論述/MCQ）、SBA早期着手の戦略、JUPAS出願との連動、日本人受験生に多い失点パターンと対策"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

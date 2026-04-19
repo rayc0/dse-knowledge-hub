@@ -1,7 +1,7 @@
 ---
 title: "홍콩 대학 생활 가이드: 기숙사·식사·교통·동아리와 한국인 학생 커뮤니티"
 description: "한국어 홍콩 대학 생활 완전 가이드 — 홍콩 대학 기숙사(신청 방법/비용/경쟁률), 외식 비용(학생식당/茶餐廳/편의점), MTR 학생 할인과 교통비 절약법, 대학 공식 동아리와 한국인 학생회, 홍콩 기후와 한국과의 차이(여름 더위/태풍 시즌), 광동어 학습의 장점, 홍콩에서 중국 본토·대만·동남아 여행 접근성"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "living"
 last_updated: "2026-04-18"

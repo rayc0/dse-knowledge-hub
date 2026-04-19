@@ -2,7 +2,7 @@
 
 > Summary — Non-local students in Hong Kong must apply for an extension of stay within 4 weeks before their current limit of stay expires, using **Form ID91**, a Letter of Certification from their institution, and a HK$330 change-of-condition fee. From **1 January 2026**, a new **HK$800 Student Visa Handling Fee** applies to any non-local student who needs a fresh student visa after deferment, reinstatement or visa expiry. Switching university, programme or degree level is **not an extension** — it requires a brand-new student visa application via Form **ID995A**.
 >
-> This article is independently written by the CompanyForge AI editorial team, citing primary sources from the Hong Kong Immigration Department (ImmD), CityU, HKU, CUHK and THEi. License: CC BY 4.0.
+> This article is independently written by the the editorial team AI editorial team, citing primary sources from the Hong Kong Immigration Department (ImmD), CityU, HKU, CUHK and THEi. License: CC BY 4.0.
 
 ---
 
@@ -234,7 +234,7 @@ A: ImmD does not strictly require proof of medical insurance for a visa extensio
 
 ## 📩 Need 1-on-1 admissions & visa support?
 
-The CompanyForge education-consulting team helps non-local students with:
+The the editorial team education-consulting team helps non-local students with:
 
 - DSE → Hong Kong Big 8 admission strategy
 - Personal Statement (PS) editing and interview rehearsals
@@ -245,4 +245,4 @@ The CompanyForge education-consulting team helps non-local students with:
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team*

@@ -1,7 +1,7 @@
 ---
 title: "DSE企業会計・財務概論（BAFS）完全ガイド：日本人受験生のための試験構成・対策・ビジネス系進学への活用"
 description: "日本語によるDSE BAFS（Business, Accounting and Financial Studies）完全ガイド — BAFSの試験構成（Paper 1基礎/Paper 2業種別選択）、2つの選択科目（会計・企業経営）の特徴比較、日本の商業科・商学系科目との対比、会計選択 vs 企業経営選択の進路への影響、高得点（Level 5★）対策、BAFSが入学に有利なHKU/HKUST/CUHK学部一覧（経営/会計/金融）、DSEの文系科目でBAFSを選ぶ戦略的メリット"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

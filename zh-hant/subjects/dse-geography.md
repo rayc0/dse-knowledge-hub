@@ -1,7 +1,7 @@
 ---
 title: "DSE地理科攻略：課程結構、高頻考點與個案研究答題策略"
 description: "DSE地理科完整應試指南 — 必考自然及人文地理概念、Paper 1數據回應技巧、Paper 2個案研究答題框架、SBA要求，以及時事地理如何應用於考試"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 tags: ["DSE", "地理", "Geography", "SBA", "個案研究"]
 language: "zh-hant"
 last_updated: "2026-04-18"

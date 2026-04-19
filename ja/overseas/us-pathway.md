@@ -1,7 +1,7 @@
 ---
 title: "DSEからアメリカ大学進学ガイド：Common App・SAT/ACT免除・奨学金と香港DSE保有者の入学実績"
 description: "日本語によるDSE→米国大学進学完全ガイド — DSE保有者が米国大学へ出願する際のCommon App活用法、SAT/ACTが免除・任意になる大学のリスト（MIT/Columbia/Penn等）、DSEのBest 5スコアのGPA換算目安、アイビーリーグへのDSE出願実績、米国学生ビザ（F-1）の申請タイムライン、年間費用（学費+生活費：USD 60,000〜90,000/年）、奨学金と財政支援、日本人学生がDSE経由で米国大学を狙う戦略"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "overseas"
 last_updated: "2026-04-18"

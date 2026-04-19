@@ -1,7 +1,7 @@
 ---
 title: "DSE 영어 과목 완전 가이드: 한국 학생을 위한 득점 전략과 합격 기준"
 description: "한국어 DSE 영어 과목(English Language) 완전 가이드 — DSE 영어 4개 페이퍼 구성(리딩/라이팅/리스닝/스피킹), 한국 학생의 일반적인 강점과 약점(문법○/스피킹×/독해 속도 문제), Level 3/4/5 평가 기준, 영어 라이팅 빈출 주제와 작성 패턴, 스피킹 시험(그룹 토론) 준비법, IELTS/TOEFL과 DSE 영어의 차이"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

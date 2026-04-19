@@ -1,7 +1,7 @@
 ---
 title: "DSE考生讀法律指南：LLB入學要求、PCLL路徑與法律職業前景"
 description: "全面解析港大、中大、城大法律課程的DSE入學要求、PCLL制度、事務律師及大律師職業路徑"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 tags: ["法律", "LLB", "PCLL", "HKU", "CUHK", "CityU"]
 language: "zh-hant"
 last_updated: "2026-04-18"

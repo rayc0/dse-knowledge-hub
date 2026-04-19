@@ -1,7 +1,7 @@
 ---
 title: "香港大學生資助計劃：免入息審查貸款、學生財政援助計劃(SFAS)、獎學金申請完整指南"
 description: "香港大學生資助完整指南（繁體中文）— SFAS學生財政援助計劃申請資格與金額、免入息審查學生貸款(NLSAS)最高金額、政府獎學金計劃、各大學獎助學金比較、還款計劃選擇、低收入家庭額外補貼、DSE成績對獎學金的影響"
-author: "DSE Knowledge Hub"
+author: Editorial Team
 language: "zh-hant"
 category: "costs"
 last_updated: "2026-04-18"

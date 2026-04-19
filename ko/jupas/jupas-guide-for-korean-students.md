@@ -1,7 +1,7 @@
 ---
 title: "한국인 학생을 위한 JUPAS 입학 가이드: 홍콩 대학 지원 시스템 사용법과 전략"
 description: "JUPAS 완전 가이드(한국어) — JUPAS(홍콩 대학·전문학원 입학 신청 통합 시스템) 사용법, 지망 대학 최대 25개 선택의 전략적 조합, A 리스트/B 리스트/C 리스트 구분의 의미, 홍콩 재홍 한국인 국제학교 졸업생을 위한 지원 포인트, 면접과 입학 시험 대비, Band A/B/C 성적과 JUPAS 지원 관계, DSE 합격 후 JUPAS 조정 단계"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "jupas"
 last_updated: "2026-04-18"

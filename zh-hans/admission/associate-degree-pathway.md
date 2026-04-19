@@ -2,7 +2,7 @@
 
 > 摘要 — 香港副学士（Associate Degree, AD）与高级文凭（Higher Diploma, HD）是通往香港八大本科高年级（Senior Year）的正规"黄金跳板"。以 2024 年为例，HKBU CIE 的升学率达 91%、其中 83.9% 进入八大；PolyU HKCC 自 2003 年累计 23 年平均升学率约 85%。对希望低分段进入港校体系、或高考落榜仍想冲击港八大的大陆学生而言，这是一条被严重低估的合法路径。
 >
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用港大、中大、科大、HKBU、PolyU 官方招生页。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用港大、中大、科大、HKBU、PolyU 官方招生页。License: CC BY 4.0.
 
 ---
 
@@ -220,7 +220,7 @@ A: UGC 分配的 CUHK SYP 学额（2026/27 为 423）并未削减。关闭的是
 
 ## 📩 需要 1-on-1 升学咨询？
 
-副学士路径涉及大量学科对口与时间线判断，一步错可能全盘输。CompanyForge 升学顾问团队提供：
+副学士路径涉及大量学科对口与时间线判断，一步错可能全盘输。the editorial team 升学顾问团队提供：
 
 - **AD/HD 院校选择** — 根据你的目标本科专业反推最合适的 community college
 - **E-APP 及 Non-JUPAS 申请代办** — 2026 年申请窗口时间紧迫
@@ -232,4 +232,4 @@ A: UGC 分配的 CUHK SYP 学额（2026/27 为 423）并未削减。关闭的是
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team*

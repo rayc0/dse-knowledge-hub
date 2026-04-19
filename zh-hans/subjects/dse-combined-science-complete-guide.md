@@ -1,7 +1,7 @@
 ---
 title: "DSE综合科学完全攻略：内地学生备考指南"
 description: "全面解析DSE综合科学（Combined Science）的三个模块组合（生物+化学、生物+物理、化学+物理）、试卷结构、与单科理科的比较，以及内地学生在选科时的策略考量。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

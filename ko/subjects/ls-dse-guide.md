@@ -1,7 +1,7 @@
 ---
 title: "DSE 통식교육（Liberal Studies/CSD）완전 가이드: 한국인 수험생을 위한 시험 구성과 대책"
 description: "한국어로 작성된 DSE 통식교육（Liberal Studies）및 후속 과목 「공민과 사회발전（CSD）」완전 가이드 — 과목 개편 경위（2024년 LS→CSD 전환），시험 구성（Paper 1 자료 문제/Paper 2 논술），주요 주제（홍콩/현대 중국/세계화），홍콩 정치 문맥에 대한 중립적 논술의 중요성，한국인 강점（논술 경험·글로벌 이슈）과 약점（홍콩 정치·사회 맥락），Level 3 이상 현실적 대책"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

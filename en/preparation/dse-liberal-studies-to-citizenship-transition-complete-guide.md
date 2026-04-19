@@ -4,7 +4,7 @@ description: "A comprehensive English-language guide explaining the transition f
 lang: en
 category: preparation
 date: 2026-04-15
-author: DSE Hub
+author: Karen Leung
 tags:
   - dse
   - citizenship-and-social-development

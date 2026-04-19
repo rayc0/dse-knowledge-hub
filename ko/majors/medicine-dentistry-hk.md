@@ -1,7 +1,7 @@
 ---
 title: "홍콩 의대·치대 진학 가이드: HKU·CUHK 입학 요건과 한국 학생의 기회"
 description: "한국어 홍콩 의대 완전 가이드 — HKU와 CUHK 의대·치대(MBBS/BDS) 입학 요건(DSE 점수/JUPAS 순위/영어 요건), JUPAS vs Non-JUPAS 루트 비교, 한국 의대와 홍콩 의대의 차이(6년제/실습 체계/졸업 후 커리어), 한국 학생 합격 현황, 의사 면허의 홍콩-한국 상호 인정, 입학 비용과 장학금"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"

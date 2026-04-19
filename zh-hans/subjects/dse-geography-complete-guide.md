@@ -1,7 +1,7 @@
 ---
 title: "DSE地理完全指南：自然地理、人文地理与SBA野外考察"
 description: "全面解析DSE地理科试卷结构、核心议题、选修模块、SBA野外考察要求，以及内地生强弱项与高分备考策略。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

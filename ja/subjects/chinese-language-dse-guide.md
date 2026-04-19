@@ -1,7 +1,7 @@
 ---
 title: "DSE中国語（Chinese Language）完全ガイド：日本人受験生のための試験構成・対策・現実的な目標設定"
 description: "日本語によるDSE中国語完全ガイド — DSE中国語の試験構成（Paper 1読解/Paper 2作文/Paper 3聴解/Paper 4口述/Paper 5選択）、日本人受験生にとっての現実的な目標（Level 2〜3が現実的；Level 5★は漢字圏でも困難）、中国語を免除できるケース（JUPAS特別措置）、中国語の代替科目の検討、準母語話者向けの漢字の強みの活用、漢字変換による対策の限界と記憶量の現実、DSE中国語は理工系でも必須かどうかの整理"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

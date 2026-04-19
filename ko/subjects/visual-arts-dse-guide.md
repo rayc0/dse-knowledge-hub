@@ -1,7 +1,7 @@
 ---
 title: "DSE 시각예술（Visual Arts）완전 가이드: 한국인 수험생을 위한 시험 구성·포트폴리오 대책"
 description: "한국어로 제공하는 DSE 시각예술 완전 가이드 — 시험 구성（SBA 포트폴리오 60%/Paper 1 감상 필기 40%）, 제작 테마 선택법, 한국 미대입시（수능+실기）와 DSE 포트폴리오 비교, 포트폴리오 심사 포인트, 시각예술 선택이 유리한 대학 학부（건축/디자인/파인아트）, Level 5 대책"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

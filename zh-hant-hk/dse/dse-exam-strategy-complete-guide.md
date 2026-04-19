@@ -1,7 +1,7 @@
 ---
 title: "DSE 全科備考策略完全指南：選科、時間管理、Level 5** 戰術"
 description: "全面介紹 HKDSE 考試日曆、選科策略（3 vs 4 科）、時間管理、Mock 備考、HKEAA 評卷準則應用、SBA 時間線、最後一個月衝刺，以及精神健康建議，專為香港本地考生而設。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "香港電腦科學及工程學科指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學CS及工程課程，包括HKUST、HKU、CityU、PolyU的排名、課程特色、AI/數據科學路線、實習機遇及香港科技業起薪，幫助DSE學生作出明智選擇。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"

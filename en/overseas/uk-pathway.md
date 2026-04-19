@@ -1,7 +1,7 @@
 ---
 title: "UK University Pathway for DSE Students: UCAS, Entry Requirements, and Living in Britain"
 description: "Complete guide for Hong Kong DSE students applying to UK universities — UCAS process, Russell Group entry requirements, DSE grade recognition, visa, costs, and student life"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 tags: ["UK", "UCAS", "Russell Group", "overseas", "study-abroad", "visa"]
 last_updated: "2026-04-18"
 canonical: "https://dsedaquan.cn/en/overseas/uk-pathway"

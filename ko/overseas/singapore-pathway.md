@@ -1,7 +1,7 @@
 ---
 title: "DSE에서 싱가포르 대학 진학 가이드: NUS·NTU·SMU 지원 요건·비용·취직 환경"
 description: "한국어 DSE→싱가포르 대학 진학 완전 가이드 — NUS/NTU/SMU의 DSE 수용 상황과 필요 스코어(일반적으로 Best 5 Level 3〜5 이상), 홍콩 DSE와 싱가포르 A-Levels 위상, 학비(SGD 8,000〜30,000/년)와 장학금(ASEAN 장학금), 싱가포르와 홍콩의 지리적 근접성에 의한 편의성, 취직 후 익스팻 취급과 CPF(연금) 구조, 한국인 학생에게 싱가포르 대학의 장점(영어+중국어 환경)"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "overseas"
 last_updated: "2026-04-18"

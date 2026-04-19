@@ -1,7 +1,7 @@
 ---
 title: "DSE应用学习（ApL）完全攻略：内地学生备考指南"
 description: "全面解析DSE应用学习（Applied Learning）的课程结构、学分认可机制、热门科目选择及JUPAS收生要求，帮助内地学生了解这一独特的职业导向评估路径。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

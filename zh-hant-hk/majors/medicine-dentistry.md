@@ -1,7 +1,7 @@
 ---
 title: "香港醫科及牙科指南：DSE學生報考全攻略"
 description: "全面介紹香港HKU及CUHK醫科（MBBS）及牙科（BDS）課程，包括6年課程結構、香港醫務委員會考試、DSE收生要求（頂1%）、面試準備及醫生起薪，幫助DSE學生作出明智選擇。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "DSE中國語文科攻略：閱讀、寫作、聆聽、說話四卷全解"
 description: "DSE中文科完整應試指南 — Paper 1閱讀理解答題技巧、Paper 2寫作審題構思、Paper 3聆聽綜合、Paper 4說話評核準備策略，以及各等級分布"
-author: "DSE Knowledge Hub"
+author: Thomas Ho
 tags: ["DSE", "中文", "Chinese Language", "應試技巧"]
 language: "zh-hant"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "DSE備考及大學費用全面拆解：補習、考試、學費與資助"
 description: "全面拆解DSE備考費用（補習、教材、模擬試）及大學學費（資助學位、自資課程）、住宿費、生活費及各類資助計劃"
-author: "DSE Knowledge Hub"
+author: Editorial Team
 tags: ["費用", "學費", "補習", "資助", "獎學金"]
 language: "zh-hant"
 last_updated: "2026-04-18"

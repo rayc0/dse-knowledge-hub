@@ -4,7 +4,7 @@ description: "香港法律本科（LLB）和 Juris Doctor（JD）申请完整指
 lang: zh-hans
 category: majors
 date: 2026-04-14
-author: "DSE Knowledge Hub"
+author: Thomas Ho
 ---
 
 # 香港法律本科 LLB 与 JD 完整申请指南 2026 — 港大、中大、城大三大法学院深度对比

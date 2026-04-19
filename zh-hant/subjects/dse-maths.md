@@ -1,7 +1,7 @@
 ---
 title: "DSE數學科完全攻略：必修與延伸單元、高分策略"
 description: "全面解析DSE數學科（必修部分）及延伸單元M1/M2的課程架構、重點題型、常見失分原因與高分答題策略"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 tags: ["DSE", "數學", "Mathematics", "M1", "M2"]
 language: "zh-hant"
 last_updated: "2026-04-18"

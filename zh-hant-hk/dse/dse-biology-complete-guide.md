@@ -4,7 +4,7 @@ description: "HKDSE 生物科全面指南，適合本地中學生同國際學生
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Michael Chan
 tags:
   - DSE 生物
   - HKDSE

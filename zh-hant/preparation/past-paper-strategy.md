@@ -1,7 +1,7 @@
 ---
 title: "DSE歷屆試卷（Past Paper）備考攻略：從獲取到分析的完整高分策略"
 description: "DSE Past Paper備考完整指南 — 最佳開始時間、計時練習方法、評卷參考自我改卷、考題規律分析，以及各科Past Paper的高分策略差異"
-author: "DSE Knowledge Hub"
+author: Michael Chan
 tags: ["DSE", "Past Paper", "備考", "歷屆試卷", "應試技巧"]
 language: "zh-hant"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "DSE學生申請韓國大學：SKY大學入學要求、語言準備與留學費用"
 description: "DSE學生申請韓國大學完整指南 — SKY大學（首爾大、延世大、高麗大）的外國學生申請要求、TOPIK韓語資格準備、英語授課學程選擇，以及韓國留學費用與獎學金機會"
-author: "DSE Knowledge Hub"
+author: Thomas Ho
 tags: ["DSE", "韓國留學", "SKY大學", "TOPIK", "獎學金"]
 language: "zh-hant"
 last_updated: "2026-04-18"

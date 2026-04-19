@@ -1,7 +1,7 @@
 ---
 title: "홍콩 사회과학·인문학부 가이드: HKU/CUHK/HKUST 사회과학계 입학 요건과 취직 환경"
 description: "한국어 홍콩 사회과학계 학부 완전 가이드 — HKU/CUHK/HKUST/HKBU의 사회과학(사회학/심리학/정치학/국제관계)과 인문학(역사/철학/영문학) 학부 개요와 입학 스코어, 문과 DSE 과목(영어/중국어/통식/경제/역사)과의 대응, 심리학 학사에서 대학원·임상심리사로의 길, 사회과학계 취직처(NGO/정부/금융 컴플라이언스/컨설팅), 한국인 학생에게 인기 있는 학부·전공"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"

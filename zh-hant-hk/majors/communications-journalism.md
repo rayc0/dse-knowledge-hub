@@ -1,7 +1,7 @@
 ---
 title: "香港傳播及新聞學科指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學傳播及新聞課程，包括HKBU、CUHK、HKU的課程特色、收生要求、媒體行業現況及職業出路，幫助DSE學生作出明智選擇。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"

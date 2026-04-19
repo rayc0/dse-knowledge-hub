@@ -1,7 +1,7 @@
 ---
 title: "香港大学理学科完全指南——内地生视角"
 description: "全面介绍香港各大学理学课程：HKU、HKUST、CUHK的生物、化学、物理、生物化学、地球科学、环境科学等BSc课程；科研产出与诺贝尔联系（HKUST物理）；博士与研究生路径；DSE理科选科组合建议；内地学生奖学金；以及与清华、中科大理科的比较。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-04-19"

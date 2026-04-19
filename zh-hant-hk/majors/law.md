@@ -1,7 +1,7 @@
 ---
 title: "香港法律學科指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學法律課程，包括HKU、CUHK、CityU的LLB+PCLL路線、英國法律體系、律師vs大律師分別、DSE收生要求及典型Band A cutoff，幫助DSE學生作出明智選擇。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"

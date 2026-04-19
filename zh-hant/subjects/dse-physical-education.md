@@ -1,7 +1,7 @@
 ---
 title: "DSE體育科完全攻略：科目結構、體能評估與升學出路"
 description: "DSE體育科備考完整指南 — 體育科評核架構（學科學習成就評估SBA + 公開考試），體能測試標準，運動技能評估，理論考試的人體生理與運動科學，體育科與體院、大學運動科學課程的銜接"
-author: "DSE Knowledge Hub"
+author: Vivian Lam
 tags: ["DSE", "體育", "Physical Education", "選修科"]
 language: "zh-hant"
 last_updated: "2026-04-18"

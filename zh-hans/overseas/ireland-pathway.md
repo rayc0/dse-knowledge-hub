@@ -1,7 +1,7 @@
 ---
 title: "爱尔兰升学指南 2026：低成本英语系国家的升学选择"
 description: "2026年爱尔兰留学完整攻略 — 圣三一、UCD等名校申请、学费、毕业工签、欧洲科技中心就业。DSE与高考考生参考。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"

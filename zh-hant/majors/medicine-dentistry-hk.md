@@ -1,7 +1,7 @@
 ---
 title: "DSE考生讀醫指南：醫科及牙科入學要求、面試準備與職業前景"
 description: "全面解析香港醫科及牙科課程的DSE入學要求、JUPAS收生分數、MMI面試準備、課程結構及醫生/牙醫職業發展路徑"
-author: "DSE Knowledge Hub"
+author: Thomas Ho
 tags: ["醫科", "牙科", "Medicine", "Dentistry", "JUPAS", "MMI"]
 language: "zh-hant"
 last_updated: "2026-04-18"

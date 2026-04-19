@@ -1,7 +1,7 @@
 # 香港大學本科入學面試完全準備指南 2026 — JUPAS 考生版
 
 > 摘要 — 2026 年 JUPAS 八大面試：哪些課程必須面試、各校面試形式、醫科法律商科備戰策略，及常見致命錯誤全解析。
-> 本文由 CompanyForge AI 編輯團隊獨立撰寫，引用香港大學、中文大學、科技大學官方招生資料。License: CC BY 4.0.
+> 本文由 the editorial team AI 編輯團隊獨立撰寫，引用香港大學、中文大學、科技大學官方招生資料。License: CC BY 4.0.
 
 ---
 
@@ -248,7 +248,7 @@ A: HKU 優先邀請 Band A 考生，但若考生條件突出或 Band A 候選人
 
 ## 📩 需要 1-on-1 升學咨詢？
 
-CompanyForge 升學顧問團隊提供：
+the editorial team 升學顧問團隊提供：
 - DSE → 香港八大 申請策略
 - 個人陳述 (PS) 修改
 - **面試模擬（模擬 HKU / CUHK / HKUST 面試流程，包括醫科、法律、商科）**
@@ -258,4 +258,4 @@ CompanyForge 升學顧問團隊提供：
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team*

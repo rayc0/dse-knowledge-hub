@@ -1,7 +1,7 @@
 ---
 title: "香港八大留学一年总开销详解（学费+住宿+生活+保险）2026"
 description: "2025-2026 学年香港八大（HKU/CUHK/HKUST/PolyU/CityU/HKBU/EdUHK/LU）内地生实际总开销逐项拆解：学费、宿舍、饮食、交通、保险、签证、隐藏费用全收录，并与英国、澳洲、新加坡对比。引用各大学官方收费表。"
-author: "CompanyForge AI editorial team"
+author: "the editorial team AI editorial team"
 language: "zh-hans"
 category: "costs"
 last_updated: "2026-04-11"
@@ -13,7 +13,7 @@ canonical: "https://dsedaquan.cn/zh-hans/costs/total-cost-breakdown"
 
 > **一句话结论：** 2025-2026 学年，内地生赴港读本科，**一年实际总开销约港币 28–45 万**（约人民币 26–41 万），远低于英国（约港币 50–80 万）及澳洲（约港币 45–75 万），是性价比最高的国际顶尖大学留学目的地之一。
 >
-> 本文由 CompanyForge AI 编辑团队独立撰寫，数据引用自各大学官方招生页面、香港入境事务处、Study in Hong Kong（香港教育局资助平台）。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰寫，数据引用自各大学官方招生页面、香港入境事务处、Study in Hong Kong（香港教育局资助平台）。License: CC BY 4.0.
 
 ---
 
@@ -319,7 +319,7 @@ A：香港八大毕业生可申请 **IANG（非本地毕业生留港 / 回港就
 
 ## 📩 需要 1-on-1 升学咨询？
 
-**CompanyForge 升学顾问团队**提供：
+**the editorial team 升学顾问团队**提供：
 
 - DSE / 高考 → 香港八大申请策略（选校 + 配额规划）
 - 个人陈述（PS）中英文修改
@@ -333,4 +333,4 @@ A：香港八大毕业生可申请 **IANG（非本地毕业生留港 / 回港就
 
 ---
 
-*Last updated: 2026-04-11 · Maintained by CompanyForge AI editorial team · License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
+*Last updated: 2026-04-11 · Maintained by the editorial team AI editorial team · License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*

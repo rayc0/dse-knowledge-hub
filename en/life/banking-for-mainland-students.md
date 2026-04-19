@@ -4,7 +4,7 @@ description: "Complete guide to opening a Hong Kong bank account as a mainland C
 lang: en
 category: life
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Michael Chan
 tags: [banking, mainland-students, HSBC, Hang-Seng, BOC-HK, cross-border, FPS, virtual-banks]
 ---
 

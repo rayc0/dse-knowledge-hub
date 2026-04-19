@@ -1,7 +1,7 @@
 ---
 title: "香港の教育・教職学部完全ガイド：日本人受験生のための入学要件・教員免許・就職"
 description: "日本語による香港教育・教職学部完全ガイド — HKU教育学部・CUHK教育学院・EdUHK（香港教育大）のBEd/PGDE比較、入学に必要なDSE科目、香港教員免許（QTS）取得ルート、国際学校・日本人学校・補習校での就職、日本の教員免許との互換性、教育系学部の就職先と年収"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"

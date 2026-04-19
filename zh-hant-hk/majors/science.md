@@ -1,7 +1,7 @@
 ---
 title: "香港理學院課程指南：DSE學生報考全攻略"
 description: "全面介紹香港HKU、HKUST、CUHK的理學院BSc課程，包括生物、化學、物理、數學各方向，研究vs應用路線，香港PhD Fellowship Scheme（HKPFS），科學教師職業，及STEM政策資助資訊。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"

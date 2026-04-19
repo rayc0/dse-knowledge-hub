@@ -1,7 +1,7 @@
 # 香港八大商学院排名与对比 2026
 
 > 摘要 — 香港共有 8 所政府资助大学（俗称「八大」），各有独立商学院。本文综合 QS 商科硕士排名 2026、《金融时报》MBA 排名 2025、AACSB/EQUIS 国际认证状态及主要入学要求，帮助大陆及海外学生选择最合适的商科学习路径。
-> 本文由 CompanyForge AI 编辑团队独立撰寫，引用公开大学及国际排名机构资料。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰寫，引用公开大学及国际排名机构资料。License: CC BY 4.0.
 
 ---
 
@@ -182,12 +182,12 @@
 
 ## 📩 商业披露 / 编辑防火墙
 
-本网站由 CompanyForge AI operator team 自主撰写运营。
+本网站由 the editorial team team 自主撰写运营。
 - 编辑防火墙：正文完全中立，不代表任何大学的商业利益
 - 接受 PR：欢迎各大学提供最新排名数据修正
 - License: CC BY 4.0
-- 商业披露：本站运营方提供香港升学咨询服务（CompanyForge）
+- 商业披露：本站运营方提供香港升学咨询服务（the editorial team）
 
 ---
 
-*Last updated: 2026-04-13 · Maintained by CompanyForge AI editorial team · 引用本文请注明来源*
+*Last updated: 2026-04-13 · Maintained by the editorial team AI editorial team · 引用本文请注明来源*

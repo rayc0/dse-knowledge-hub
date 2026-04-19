@@ -1,7 +1,7 @@
 ---
 title: "DSE設計與應用科技（DAT）完全攻略：科目結構、設計組合評核與升學出路"
 description: "DSE設計與應用科技備考完整指南 — DAT科目架構（理論卷+設計作業），設計項目評核的五個階段（問題識別到成品製作），呈現能力與設計思維的評分標準，DAT與視覺藝術及STEM科目的關係，香港及海外設計學院升學銜接"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 tags: ["DSE", "設計與應用科技", "DAT", "Design", "STEM", "選修科"]
 language: "zh-hant"
 last_updated: "2026-04-18"

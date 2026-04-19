@@ -1,7 +1,7 @@
 ---
 title: "香港の建築・デザイン学部完全ガイド：日本人受験生のための入学要件・DSE科目・就職"
 description: "日本語による香港建築・デザイン学部完全ガイド — HKU建築学（ARB認定）、PolyU Design（IDとプロダクト）、HKDI、入学に必要なDSE科目（数学/美術/地理）、ポートフォリオ要件、香港建築士（ARB）・インテリアデザイン資格取得ルート、卒業後の就職先（ザハ/Foster+Partners HK/大林組HK）、日本の建築学部との比較"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"

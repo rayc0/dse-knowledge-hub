@@ -1,7 +1,7 @@
 ---
 title: "DSE 視覺藝術完全攻略：作品集、考試創作、藝術評賞全面解析"
 description: "全面介紹 DSE 視覺藝術的考試結構（藝術創作 SBA 50%、考試文憑 50%），涵蓋三年作品集建立、3小時考試創作策略、藝評寫作技巧、媒介選擇及 Level 5** 備考指南，專為香港本地考生而設。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"

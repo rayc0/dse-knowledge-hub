@@ -1,7 +1,7 @@
 ---
 title: "DSE重考完全攻略：自修生報名、備考策略與成績合併規則"
 description: "全面解析DSE重考的報名流程、自修生資格、成績合併機制、科目選擇策略及備考時間規劃，助你作出最明智的重考決定"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 tags: ["DSE", "重考", "自修生", "成績合併", "備考"]
 language: "zh-hant"
 last_updated: "2026-04-18"

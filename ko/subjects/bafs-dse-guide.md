@@ -1,7 +1,7 @@
 ---
 title: "DSE 기업회계·재무개론（BAFS）완전 가이드: 한국인 수험생을 위한 시험 구성·대책·비즈니스계 진학 활용"
 description: "한국어 DSE BAFS(Business, Accounting and Financial Studies) 완전 가이드 — BAFS 시험 구성(Paper 1 기초/Paper 2 업종별 선택), 2가지 선택 과목(회계·기업경영) 특징 비교, 한국의 상업계 과목·경영학계 과목과의 비교, 회계 선택 vs 기업경영 선택의 진로 영향, 고득점(Level 5★) 대책, BAFS가 입학에 유리한 HKU/HKUST/CUHK 학부 일람(경영/회계/금융), DSE 문과 과목에서 BAFS를 선택하는 전략적 메리트"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

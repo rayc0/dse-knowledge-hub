@@ -1,7 +1,7 @@
 ---
 title: "DSE英語科目完全ガイド：日本人学生のための得点戦略と合格ライン"
 description: "日本語によるDSE英語科目（English Language）完全ガイド — DSE英語の4つのペーパー構成（リーディング/ライティング/リスニング/スピーキング）、日本人学生の典型的な強みと弱点（文法○/スピーキング×/読解スピード課題）、Level 3/4/5の評価基準、英語ライティングの頻出テーマと書き方パターン、スピーキング試験（グループディスカッション）の準備法、IELTS/TOEFLとDSE英語の違い"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

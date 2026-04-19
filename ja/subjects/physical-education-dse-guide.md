@@ -1,7 +1,7 @@
 ---
 title: "DSE体育（Physical Education）完全ガイド：日本人受験生のための試験構成・実技対策・進学への活用"
 description: "日本語によるDSE体育完全ガイド — 試験構成（筆記Paper 1+SBA実技パフォーマンス）、選択スポーツ種目（バドミントン/バスケ/水泳/陸上他）、Sports Science理論範囲、日本の保健体育との比較、体育選択が有利な大学学部（スポーツ科学/理学療法）、Level 5対策"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

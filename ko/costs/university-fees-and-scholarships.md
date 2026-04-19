@@ -1,7 +1,7 @@
 ---
 title: "홍콩 대학 학비와 장학금 가이드 (한국 학생용): 2025-2026년판"
 description: "한국어 홍콩 대학 비용 완전 가이드 — 홍콩 8개 대학 연간 학비(HKU/CUHK/HKUST/PolyU/CityU/BU/HKBU/EdUHK), 생활비 월별 내역(기숙사비/식비/교통비), 한국인 대상 장학금(홍콩 정부/각 대학/민간 재단), DSE 점수별 장학금 기준, 홍콩과 한국 대학 비용 비교, 송금·아르바이트 현실"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "costs"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "香港の工学系学部ガイド：HKUST・HKU・PolyUへのDSE入学要件・専攻選択と就職環境"
 description: "日本語による香港工学系学部完全ガイド — HKUST/HKU/PolyU/CityU工学部のDSE入学スコア比較（Level 5〜5★）、工学系でのDSE必須科目（数学+物理/化学）、専攻選択ガイド（CS/電気/機械/化学工学/土木）、インターンシップと業界採用の実態（ゴールドマン・サックス・JPMorganの工学採用）、卒業後の就職先（香港/シンガポール/GBA）、M1/M2延伸単元の有利性"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "DSE에서 유럽 대학 진학 가이드: 네덜란드·독일·스웨덴의 영어 프로그램과 비용"
 description: "한국어 DSE→유럽 대학 진학 완전 가이드 — DSE를 인정하는 유럽 영어 프로그램 대학(네덜란드: Leiden/Delft/Rotterdam, 독일: Munich LMU/TU Munich, 스웨덴: KTH/Stockholm), 비EU 학생 학비 수준(EUR 0〜20,000/년), 영어 학위 프로그램 폭(네덜란드가 특히 충실), 신청 타임라인(Studielink 등), EU권 취업 기회, 한국인에게 유럽 대학의 장점(독일 무상 교육/네덜란드 영어환경)"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "overseas"
 last_updated: "2026-04-18"

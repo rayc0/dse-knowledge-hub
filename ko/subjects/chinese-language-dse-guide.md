@@ -1,7 +1,7 @@
 ---
 title: "DSE 중국어（Chinese Language）완전 가이드: 한국인 수험생을 위한 시험 구성·대책·현실적 목표 설정"
 description: "한국어 DSE 중국어 완전 가이드 — DSE 중국어 시험 구성(Paper 1 독해/Paper 2 작문/Paper 3 청해/Paper 4 구술/Paper 5 선택), 한국인 수험생에게 현실적인 목표(Level 2〜3이 현실적; Level 5★은 한자권도 어려움), 중국어를 면제받을 수 있는 경우(JUPAS 특별 조치), 중국어 대체 과목 검토, 한자 강점 활용과 한계, DSE 중국어는 이공계에서도 필수인지 정리"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

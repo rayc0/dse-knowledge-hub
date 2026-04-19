@@ -1,7 +1,7 @@
 ---
 title: "DSE 組合科學完全攻略 2026｜三種組合、計一科影響、JUPAS認可詳解"
 description: "全面講解DSE組合科學（Combined Science）三種組合（生物+化學、生物+物理、化學+物理）的考試結構、只計一個選修科位的大學影響、與獨立科學科比較及Level 5備考策略，適合香港本地中學生。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"

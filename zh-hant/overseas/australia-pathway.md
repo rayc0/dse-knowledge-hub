@@ -1,7 +1,7 @@
 ---
 title: "DSE生升讀澳洲大學：入學要求、城市選擇與畢業移民路徑"
 description: "持DSE成績申請澳洲大學的完整指南 — 主要大學DSE認可政策、八大院校比較、學費生活費、畢業生簽證（485）及永久居留路徑"
-author: "DSE Knowledge Hub"
+author: Michael Chan
 tags: ["DSE", "澳洲", "Australia", "升學", "移民"]
 language: "zh-hant"
 last_updated: "2026-04-18"

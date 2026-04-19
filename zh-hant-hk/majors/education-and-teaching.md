@@ -1,7 +1,7 @@
 ---
 title: "香港教育及師範課程指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學教育課程，包括EdUHK、HKU、CUHK的課程特色、QTE注冊要求、教師薪酬及EDB師訓津貼，幫助有志投身教育的DSE學生作出明智選擇。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"

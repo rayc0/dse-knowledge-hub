@@ -1,7 +1,7 @@
 # 香港 vs 韩国：大陆学生本科留学全面对比 2026
 
 > 摘要 — 2026 年 QS 排名 HKU #11 / 延世 #50 / 首尔大 #50+；四年总成本香港八大 Top Tier 约 140-150 万 RMB vs 韩国 SKY 私立约 40-65 万 RMB（差距约 2-3 倍）；毕业后留当地：香港 IANG 24 个月无条件 vs 韩国 D-10 求职签证 2025-10-30 新规从 2 年延长至 3 年；长期身份香港 7 年连续居住 → PR vs 韩国 F-2-7 积分制 → 5 年后 F-5 PR。
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用香港入境处、韩国法务部、QS、首尔大/延世/高丽官方招生页。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用香港入境处、韩国法务部、QS、首尔大/延世/高丽官方招生页。License: CC BY 4.0.
 
 ---
 
@@ -375,7 +375,7 @@ A:
 
 ## 📩 需要 1-on-1 升学咨询？
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 
 - **香港八大 vs 韩国 SKY 双城定位评估**：基于高考分数 / 英语水平 / 预算 / 职业目标生成个性化推荐。
 - **DSE / 高考 / 国际课程三线申请策略**：同一年申请多个目的地的时间线协调（避免冲突、双保险）。
@@ -387,4 +387,4 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*Last updated: 2026-04-17 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-17 · Maintained by the editorial team AI editorial team*

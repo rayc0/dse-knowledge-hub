@@ -4,7 +4,7 @@ description: "A complete guide for DSE candidates considering retaking the exam 
 lang: en
 category: exam
 date: 2026-04-17
-author: DSE Knowledge Hub
+author: Michael Chan
 tags: [DSE, retake, exam-strategy, HKEAA, JUPAS, 2026]
 ---
 

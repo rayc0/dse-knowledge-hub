@@ -1,7 +1,7 @@
 ---
 title: "DSE理科及工程學系選擇指南：港、英、澳大學比較與就業前景"
 description: "持DSE成績升讀理科及工程學系的完整指南 — 本地JUPAS要求、海外理工院校選擇、各工程專科比較（電腦、機械、土木、電子）、就業前景與薪酬"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 tags: ["DSE", "理科", "工程", "Engineering", "JUPAS", "Science"]
 language: "zh-hant"
 last_updated: "2026-04-18"

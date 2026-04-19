@@ -1,7 +1,7 @@
 ---
 title: "DSE中国语文完全攻略：内地学生备考指南 2026"
 description: "全面解析DSE中国语文四份试卷结构（阅读30%、写作30%、聆听综合20%、SBA 20%），分析内地普通话母语学生的备考挑战，提供2025历届成绩数据与冲刺Level 5**策略。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -13,7 +13,7 @@ canonical: "https://dsedaquan.cn/zh-hans/subjects/dse-chinese-language-complete-
 
 > **核心事实**：DSE中国语文是全港考生最难拿5**的核心科目之一，2021年仅约1.1%考生获5**，5+以上总计约15.5%。内地普通话母语学生面临繁体字书写、香港文化语境与实用文格式三大专项挑战，需系统备考方可突破Level 4门槛。
 >
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用香港考试及评核局（HKEAA）官方评核框架及历届试卷统计数据。License: CC BY 4.0。
+> 本文由 the editorial team AI 编辑团队独立撰写，引用香港考试及评核局（HKEAA）官方评核框架及历届试卷统计数据。License: CC BY 4.0。
 
 ---
 
@@ -286,7 +286,7 @@ A：Level 3是进入香港大学的基本门槛（大多数课程）。但若申
 
 ## 📩 需要 1-on-1 升学咨询？
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 - DSE → 香港八大 申请策略
 - 个人陈述（PS）修改
 - 面试模拟
@@ -296,4 +296,4 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by CompanyForge AI editorial team · License: CC BY 4.0*
+*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · License: CC BY 4.0*

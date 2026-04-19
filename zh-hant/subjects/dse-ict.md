@@ -1,7 +1,7 @@
 ---
 title: "DSE資訊及通訊科技（ICT）攻略：課程結構、程式設計考題與升學出路"
 description: "DSE ICT科完整應試指南 — 課程六大範疇、Paper 1選擇題技巧、Paper 2個案研究答題、程式設計題必備知識，以及ICT科與資訊科技相關大學課程的銜接"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 tags: ["DSE", "ICT", "資訊科技", "程式設計", "JUPAS"]
 language: "zh-hant"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "Canada University Pathway for DSE Students: Application, Entry Requirements, and Immigration"
 description: "Complete guide for Hong Kong DSE students applying to Canadian universities — application process, DSE grade recognition, popular programmes, costs, PGWP, and immigration pathways"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 tags: ["Canada", "overseas", "study-abroad", "immigration", "PGWP", "visa"]
 last_updated: "2026-04-18"
 canonical: "https://dsedaquan.cn/en/overseas/canada-pathway"

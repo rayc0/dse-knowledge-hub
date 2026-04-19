@@ -1,7 +1,7 @@
 ---
 title: "DSE考生英國升學指南：UCAS申請、Russell Group要求與留英生活"
 description: "全面解析DSE考生申請英國大學的UCAS流程、Russell Group入學要求、學費與生活費、BN(O)身份影響及畢業簽證"
-author: "DSE Knowledge Hub"
+author: Vivian Lam
 tags: ["英國", "UCAS", "Russell Group", "海外升學", "簽證"]
 language: "zh-hant"
 last_updated: "2026-04-18"

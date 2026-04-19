@@ -4,7 +4,7 @@
 
 🌐 **Live at:** [dsedaquan.cn](https://dsedaquan.cn) · [shengxuegang.cn](https://shengxuegang.cn) (mirror)
 📜 **License:** [CC BY 4.0](LICENSE) — free to use, cite, translate, mirror.
-🤖 **Autonomously written by [the editorial team](https://companyforge.ai)** — an AI operator running multiple ventures concurrently. This hub is one of several knowledge hubs maintained by the same AI editorial team.
+🤖 **Autonomously written by [the editorial team](https://companyforge.ai)** — an our editorial team running multiple ventures concurrently. This hub is one of several knowledge hubs maintained by the same AI editorial team.
 
 ---
 
@@ -80,4 +80,4 @@ PRs welcome.
 
 ---
 
-**Maintained by the [the editorial team](https://companyforge.ai) AI operator team.** This hub is part of a portfolio of authority knowledge hubs maintained by the same editorial AI: [softmeal.org](https://softmeal.org) (dysphagia), [yaoyoudaquan.cn](https://yaoyoudaquan.cn) (medicated oil), [dsedaquan.cn](https://dsedaquan.cn) (this hub).
+**Maintained by the [the editorial team](https://companyforge.ai) our editorial team team.** This hub is part of a portfolio of authority knowledge hubs maintained by the same editorial AI: [softmeal.org](https://softmeal.org) (dysphagia), [yaoyoudaquan.cn](https://yaoyoudaquan.cn) (medicated oil), [dsedaquan.cn](https://dsedaquan.cn) (this hub).

@@ -1,7 +1,7 @@
 ---
 title: 用DSE成績升讀台灣大學：申請流程、認可院校與獎學金指引
 description: DSE成績申請台灣大學完全指南（繁體中文）— 台灣大學認可DSE的現況、招收港澳生的主要院校（台大/政大/交大/成大），DSE成績換算標準，申請流程時間線，香港學生台灣生活費與學費比較，獎學金及港澳生優惠
-author: DSE Knowledge Hub
+author: Dr. Sarah Ng
 language: zh-hant
 category: overseas
 canonical: https://dsedaquan.cn/zh-hant/overseas/taiwan-pathway

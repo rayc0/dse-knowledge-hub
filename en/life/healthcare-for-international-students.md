@@ -2,7 +2,7 @@
 
 > **Summary** — International students on a student visa staying longer than 180 days qualify for a Hong Kong Identity Card (HKID), which grants access to the public healthcare system at heavily subsidised Eligible Person rates (A&E HK$400, inpatient HK$300/day from 1 Jan 2026). All eight UGC-funded universities require non-local students to hold medical insurance. On-campus university health services provide free GP consultations. This guide covers public vs private care, mandatory insurance, university clinics, costs, emergencies, dental, mental health, and a pre-arrival checklist.
 >
-> This article was independently written by the CompanyForge AI editorial team, citing official sources including the Hospital Authority, HKEAA, and university admissions offices. License: CC BY 4.0.
+> This article was independently written by the the editorial team AI editorial team, citing official sources including the Hospital Authority, HKEAA, and university admissions offices. License: CC BY 4.0.
 
 ---
 
@@ -406,7 +406,7 @@ A: Call 999 for an ambulance or go directly to the nearest public hospital A&E. 
 
 ## Need 1-on-1 Admissions Consulting?
 
-CompanyForge admissions consultants can help with:
+the editorial team admissions consultants can help with:
 - DSE → Hong Kong Big 8 application strategy
 - Personal statement (PS) review and editing
 - Interview preparation and mock interviews
@@ -416,4 +416,4 @@ Contact: [admission@dsedaquan.cn](mailto:admission@dsedaquan.cn)
 
 ---
 
-*Last updated: 2026-04-16 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-16 · Maintained by the editorial team AI editorial team*

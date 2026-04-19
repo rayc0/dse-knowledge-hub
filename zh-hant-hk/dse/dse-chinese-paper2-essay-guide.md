@@ -4,7 +4,7 @@ description: "HKDSE 中文科 Paper 2 寫作卷是全科中最具變化、最難
 lang: zh-hant
 category: dse
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Editorial Team
 tags: [DSE, 中文, Paper-2, 寫作, 作文, 5星星, 評分標準]
 ---
 

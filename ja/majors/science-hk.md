@@ -1,7 +1,7 @@
 ---
 title: "香港の理学部（Science）完全ガイド：日本人受験生のための入学要件・専攻・就職"
 description: "日本語による香港理学部完全ガイド — HKU理学部・CUHK理学部・HKUST理学部の比較（物理/化学/生物/数学/統計/地球科学）、入学に必要なDSE科目（理科L5★推奨）、卒業後の進路（製薬/金融工学/データサイエンス/大学院進学）、純粋理学 vs 工学・理工学部との選択比較、日本の理学部との比較"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"

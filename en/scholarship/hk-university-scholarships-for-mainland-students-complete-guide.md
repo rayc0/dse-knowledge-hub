@@ -4,7 +4,7 @@ description: "Comprehensive guide to scholarships available to mainland Chinese 
 lang: en
 category: scholarship
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Michael Chan
 tags:
   - scholarships
   - mainland students

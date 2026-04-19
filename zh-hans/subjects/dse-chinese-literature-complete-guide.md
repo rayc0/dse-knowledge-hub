@@ -1,7 +1,7 @@
 ---
 title: "DSE中国文学完全攻略：内地学生备考指南"
 description: "全面解析DSE中国文学的试卷结构、诗歌散文小说鉴赏方法、与内地文学课程的差异，以及文理科学生如何借助中国文学冲击Level 5+并对接大学人文学科。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

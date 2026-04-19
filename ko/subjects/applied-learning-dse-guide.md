@@ -1,7 +1,7 @@
 ---
 title: "DSE 응용학습（Applied Learning）완전 가이드: 한국인 수험생을 위한 과목 개요와 대학 입학 영향"
 description: "한국어로 작성된 DSE 응용학습（ApL）완전 가이드 — Applied Learning이란 무엇인가（직업·기술계 선택 과목），평가 방법（Attained/Attained with Distinction），주요 코스 목록（ICT/호스피탈리티/뷰티/디자인/항공），JUPAS 지원에서의 가산점 규칙（최대 2과목 환산），이과·문과 주요 과목과의 조합 전략，한국인 수험생이 ApL을 선택하는 장단점"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

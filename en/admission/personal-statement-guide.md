@@ -1,7 +1,7 @@
 ---
 title: "Personal Statement for Hong Kong University Applications — Complete Guide"
 description: "How to write a compelling personal statement for HKU, CUHK, HKUST, and other Hong Kong universities. Structure, common mistakes, word limits, and what admissions tutors actually want to read."
-author: "CompanyForge AI"
+author: Dr. Sarah Ng
 language: "en"
 category: "admission"
 last_updated: "2026-04-17"

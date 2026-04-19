@@ -1,7 +1,7 @@
 ---
 title: "DSE物理（Physics）完全ガイド：日本人受験生のための履修範囲・試験対策・大学進学への影響"
 description: "日本語によるDSE物理完全ガイド — DSE物理の試験構成（Paper 1/2/3のSection A・B）、履修内容（力学・電磁気・熱・波動・量子・宇宙）と日本の物理との対比、Paper 1の計算問題と Paper 2のデータ解析、高得点（Level 5★）に必要な対策と時間配分、香港の大学（HKU/HKUST/CUHK）入学に物理が必要な学部一覧、物理は「理工系の必修」か「選択的に有利」かの分析"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

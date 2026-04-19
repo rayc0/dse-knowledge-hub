@@ -1,7 +1,7 @@
 ---
 title: "DSE歷史科完全攻略：選修單元選擇、試卷結構與高分答題策略"
 description: "DSE歷史科備考完整指南 — 必修與選修單元結構、Paper 1和Paper 2試卷分析、歷史論文答題框架、史料分析題技巧，以及常見失分原因和備試資源推薦"
-author: "DSE Knowledge Hub"
+author: Vivian Lam
 tags: ["DSE", "歷史", "History", "選修科", "考試策略"]
 language: "zh-hant"
 last_updated: "2026-04-18"

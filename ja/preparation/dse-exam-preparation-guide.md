@@ -1,7 +1,7 @@
 ---
 title: "DSE試験の合格戦略：スケジュール管理、科目別勉強法と日本人学生向けアドバイス"
 description: "日本語でのDSE試験準備完全ガイド — 6ヶ月・12ヶ月勉強スケジュールのサンプル、科目別重点ポイント（英語/中国語/数学/必修科目）、日本の大学入試との比較と転換ポイント、模擬試験の活用法、DSEストレス管理、予備校選び（香港の補習社vs個人家庭教師）、合格基準（Level 3+の意味）"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "preparation"
 last_updated: "2026-04-18"

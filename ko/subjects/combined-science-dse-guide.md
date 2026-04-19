@@ -1,7 +1,7 @@
 ---
 title: "DSE 복합이과（Combined Science）완전 가이드: 단과 이과와의 비교·시험 구성·전략적 선택"
 description: "한국어 DSE 복합이과 완전 가이드 — 시험 구성과 선택 모듈（물리+화학/화학+생물/물리+생물）, 단과 이과（물리/화학/생물）와의 배점·난이도 비교, Combined Science가 유리한 대학 학부, 이과 선택이 적은 문과 수험생이나 시간 제약이 있는 수험생의 전략적 선택 이유, Level 5 대책"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

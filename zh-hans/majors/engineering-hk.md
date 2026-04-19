@@ -1,7 +1,7 @@
 ---
 title: "香港大学工程学科完全指南——内地生视角"
 description: "全面介绍香港各大学工程课程：HKUST、HKU、PolyU、CityU的机械、土木、电气、化学、计算机工程等方向；全球工程排名；大湾区（华为/比亚迪）实习机会；DSE选科要求（数学+物理+化学组合）；历年收分及4年vs5年课程对比。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-04-19"

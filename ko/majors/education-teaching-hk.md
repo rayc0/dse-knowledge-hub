@@ -1,7 +1,7 @@
 ---
 title: "홍콩 교육·교직 학부 완전 가이드: 한국인 수험생을 위한 입학 요건·교원 자격·취업"
 description: "한국어 홍콩 교육·교직 학부 완전 가이드 — EdUHK(홍콩교육대)·HKU 교육학부·CUHK 교육학원의 BEd/PGDE 비교, 입학에 필요한 DSE 과목, 홍콩 교원 자격(합격교사·QTS) 취득 루트, 국제학교·한국국제학교·보습학원 취업, 한국 정교사 2급 자격증과의 차이, 교육학부 취업처·연봉"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"

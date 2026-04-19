@@ -1,7 +1,7 @@
 ---
 title: "香港教育學科升學指引：幼師、小學教師、中學教師培訓課程與入職要求"
 description: "香港教育學科完全指南（繁體中文）— 幼兒教育/小學教育/中學學科教育比較、EdUHK vs 其他大學教育課程、教育文憑（PGDE）路線、師訓要求（QTS）、入職薪酬、教師短缺及招募情況"
-author: "DSE Knowledge Hub"
+author: Thomas Ho
 language: "zh-hant"
 category: "majors"
 canonical: "https://dsedaquan.cn/zh-hant/majors/education-and-teaching"

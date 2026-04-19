@@ -1,7 +1,7 @@
 ---
 title: "DSE英語科口試完全攻略：Group Interaction與Individual Response高分策略"
 description: "DSE英語科口試備考完整指南 — Group Interaction（小組討論）的角色分配策略、Individual Response（個人回應）的答題框架、常見評分陷阱、如何在討論中表現Leadership，以及模擬練習的有效方法"
-author: "DSE Knowledge Hub"
+author: Thomas Ho
 tags: ["DSE", "英文", "English", "口試", "Oral", "Group Interaction"]
 language: "zh-hant"
 last_updated: "2026-04-18"

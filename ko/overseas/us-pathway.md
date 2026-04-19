@@ -1,7 +1,7 @@
 ---
 title: "DSE에서 미국 대학 진학 가이드: Common App·SAT/ACT 면제·장학금과 DSE 보유자의 입학 실적"
 description: "한국어 DSE→미국 대학 진학 완전 가이드 — DSE 보유자가 미국 대학에 지원할 때의 Common App 활용법, SAT/ACT가 면제·임의가 되는 대학 목록(MIT/Columbia/Penn 등), DSE Best 5 스코어의 GPA 환산 기준, 아이비리그 DSE 지원 실적, 미국 학생 비자(F-1) 신청 타임라인, 연간 비용(학비+생활비: USD 60,000〜90,000/년), 장학금과 재정 지원, 한국인 학생이 DSE 경유로 미국 대학을 노리는 전략"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "overseas"
 last_updated: "2026-04-18"

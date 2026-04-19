@@ -1,7 +1,7 @@
 ---
 title: "DSE考生升讀新加坡大學：NUS、NTU、SMU入學要求與申請途徑"
 description: "DSE考生申請新加坡大學完整指南（繁體中文）— NUS/NTU/SMU對DSE成績的承認制度、最低入學要求（3科5**+英文）、最受歡迎科系DSE最低分對照、DSE vs A-Level vs IB換算、獎學金、生活費用估算、學生簽證、畢業後就業機會"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 language: "zh-hant"
 category: "overseas"
 last_updated: "2026-04-18"

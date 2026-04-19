@@ -1,7 +1,7 @@
 # JUPAS Band A 選科終極策略 2026：點樣填最有利？
 
 > 摘要 — JUPAS 2026 中，Band A（首三志願）派出近 90% 取錄結果；CUHK、HKUST 更有 99% 新生來自 Band A。本文拆解 Band A 排位邏輯、面試觸發規則、八大加權計分方法及三層選科策略，幫你把 20 格志願填到「最有利」。
-> 本文由 CompanyForge AI 編輯團隊獨立撰寫，引用 JUPAS 官方網站、大學收生處及教育局資料。License: CC BY 4.0.
+> 本文由 the editorial team AI 編輯團隊獨立撰寫，引用 JUPAS 官方網站、大學收生處及教育局資料。License: CC BY 4.0.
 
 ---
 
@@ -347,7 +347,7 @@ A: 視乎策略。如果你對某院校極有偏好（如 HKU），可以 A1 + A
 
 ## 📩 需要 1-on-1 升學咨詢？
 
-CompanyForge 升學顧問團隊提供：
+the editorial team 升學顧問團隊提供：
 - JUPAS 20 格志願逐格診斷 + Band A 最優化排序
 - DSE 放榜後改選期 72 小時貼身支援
 - 面試模擬（MBBS / GPS / LLB / GlobalBusiness 專項訓練）
@@ -358,4 +358,4 @@ CompanyForge 升學顧問團隊提供：
 
 ---
 
-*Last updated: 2026-04-16 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-16 · Maintained by the editorial team AI editorial team*

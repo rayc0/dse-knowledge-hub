@@ -1,7 +1,7 @@
 ---
 title: "DSE vs 高考：兩大考試制度全面比較"
 description: "深入比較香港DSE與內地高考的考試結構、評分制度、科目設置、升學路徑及國際認受性，幫助學生和家長理解兩制差異"
-author: "DSE Knowledge Hub"
+author: Michael Chan
 tags: ["DSE", "高考", "比較", "升學", "內地"]
 language: "zh-hant"
 last_updated: "2026-04-18"

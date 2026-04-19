@@ -1,7 +1,7 @@
 ---
 title: "DSE 體育科完全攻略：筆試、SBA 實踐評核全面解析"
 description: "全面介紹 DSE 體育科的考試結構（筆試 40%、SBA 實踐 60%），涵蓋運動科學理論、四大實踐項目評分準則、選科建議及 Level 5 備考策略，專為香港本地考生而設。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"

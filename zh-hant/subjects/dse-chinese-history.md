@@ -1,7 +1,7 @@
 ---
 title: "DSE中國歷史科完全攻略：卷一卷二結構、時代分析與高分答題策略"
 description: "DSE中國歷史科備考完整指南 — 必修與選修時代的考試結構、甲乙部試題分析、史料題與論述題答題框架、中史科選題策略（三時代選擇）、常見失分原因及備試資源"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 tags: ["DSE", "中國歷史", "Chinese History", "中史", "選修科"]
 language: "zh-hant"
 last_updated: "2026-04-18"

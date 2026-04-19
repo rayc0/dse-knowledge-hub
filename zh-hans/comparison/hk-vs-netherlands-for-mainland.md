@@ -2,7 +2,7 @@
 
 > 摘要 — 荷兰 13 所研究型大学（U-NL）2026 QS 排名由 TU Delft #47、UvA #53 领衔，欧洲前 100 共占 10 席；非欧学费 €9,000–€24,000/年，含毕业后 12 个月 Zoekjaar（搜索年）自由留荷工签；但 2025/26 起 Internationalisation in Balance Act 要求本科学分 2/3 用荷兰语授课，英文本科名额在 2026/27 入学年被大幅压缩。对大陆学生而言，荷兰以"高性价比 + 毕业后灵活找工作"见长，香港则以"英语 100% 授课 + IANG 24 个月无条件 + 7 年 PR 身份路径"见长。本文对比两地本科申请门槛、4 年总成本、就业签证、PR 路径、专业竞争力，并给出 5 类家庭的决策建议。
 >
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用 IND（荷兰移民局）、Nuffic、Studielink、香港入境处、各校官方录取页等一手来源。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用 IND（荷兰移民局）、Nuffic、Studielink、香港入境处、各校官方录取页等一手来源。License: CC BY 4.0.
 
 ---
 
@@ -311,7 +311,7 @@ A：住宿层面——阿姆斯特丹/乌特勒支合租 €700–€900/月 ≈
 
 ## 📩 需要 1-on-1 升学咨询？
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 - HK 八大 vs 荷兰 U-NL 的家庭决策模型（预算 + 专业 + 身份目标三维建模）
 - Studielink 申请 + 学校 motivation letter 深度编辑（非代写）
 - 荷兰 MVV + VVR 签证时间线协调
@@ -322,4 +322,4 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*Last updated: 2026-04-17 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-17 · Maintained by the editorial team AI editorial team*

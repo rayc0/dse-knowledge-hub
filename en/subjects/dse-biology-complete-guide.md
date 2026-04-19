@@ -4,7 +4,7 @@ description: "HKDSE Biology is one of the most popular science electives in Hong
 lang: en
 category: subjects
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Editorial Team
 tags: [DSE, biology, science, JUPAS, medicine, study-guide, HKEAA]
 ---
 

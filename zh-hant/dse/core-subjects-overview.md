@@ -1,7 +1,7 @@
 ---
 title: "DSE核心科目全覽：中文、英文、數學、通識/公民科的重要性與備考重點"
 description: "DSE四個核心科目完整概覽（繁體中文）— 中文、英文、數學、公民與社會發展科（取代通識）的評核結構、各科分數比重、不同升學路徑對核心科成績要求（香港八大/英美/新加坡）、核心科低分的補救選項（重考/AS-level/IGCSE補考）、四科並重vs重點突破的策略分析"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 language: "zh-hant"
 category: "dse"
 last_updated: "2026-04-18"

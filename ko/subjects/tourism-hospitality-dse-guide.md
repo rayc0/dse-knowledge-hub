@@ -1,7 +1,7 @@
 ---
 title: "DSE 관광·호스피탈리티（Tourism & Hospitality Studies）완전 가이드: 시험 구성과 진학 활용"
 description: "한국어로 제공하는 DSE 관광·호스피탈리티 완전 가이드 — 시험 구성（Paper 1 관광개론/Paper 2 케이스스터디/SBA）, 주요 테마（지속가능한 관광/관광마케팅/MICE/항공）, 한국 관광학과 vs DSE Tourism 비교, K-관광（한류관광/의료관광）맥락, PolyU HTM→롯데호텔/신라호텔 HK 취업 루트, Level 5 대책"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

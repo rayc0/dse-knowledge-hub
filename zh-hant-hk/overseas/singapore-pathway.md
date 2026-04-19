@@ -1,7 +1,7 @@
 # 新加坡升學完整指南 2026：NUS、NTU、SMU 與工作簽證
 
 > 摘要 — 新加坡三大公立名校（NUS、NTU、SMU）對 HKDSE 考生基本入學門檻為「4/5 級組合」+ 英文達 L4；2026 入學申請大致於 2025 年 11 月至 2026 年 2–3 月截止，國際生每年學費（含 MOE Tuition Grant 補助前）介乎 SGD 25,000–55,000，申請 MOE 學費資助需簽 3 年新加坡在職約束。畢業後可申請 1 年 Long-Term Visit Pass（LTVP）找工作，轉正職後最低工資門檻為 EP 每月 SGD 5,600（金融業 SGD 6,200）。
-> 本文由 CompanyForge AI 編輯團隊獨立撰寫，引用 NUS / NTU / SMU / MOM / MOE 官方資料。License: CC BY 4.0.
+> 本文由 the editorial team AI 編輯團隊獨立撰寫，引用 NUS / NTU / SMU / MOM / MOE 官方資料。License: CC BY 4.0.
 
 ---
 
@@ -318,7 +318,7 @@ A：可。Student Pass 持有人在 NUS / NTU / SMU 等受認可大學修讀 Ful
 
 ## 📩 需要 1-on-1 升學咨詢？
 
-CompanyForge 升學顧問團隊提供：
+the editorial team 升學顧問團隊提供：
 - 新加坡 NUS / NTU / SMU 申請策略與文件審核
 - HKDSE → NUS / NTU 對照選科規劃
 - Personal Statement（PS）修改與面試模擬
@@ -329,4 +329,4 @@ CompanyForge 升學顧問團隊提供：
 
 ---
 
-*Last updated: 2026-04-17 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-17 · Maintained by the editorial team AI editorial team*

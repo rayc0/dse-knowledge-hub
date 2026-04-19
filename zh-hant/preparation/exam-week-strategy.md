@@ -1,7 +1,7 @@
 ---
 title: "DSE考試週策略：考前一週、考試當天、考試後的完整計劃"
 description: "DSE考試週完整策略（繁體中文）— 考前7天複習計劃、考試當天時間管理（起床時間/交通/到場時間）、答題時間分配策略、各科目考試特定技巧、考後情緒管理、多科目應試期間的休息與睡眠計劃"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 language: "zh-hant"
 category: "preparation"
 last_updated: "2026-04-18"

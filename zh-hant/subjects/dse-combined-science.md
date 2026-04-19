@@ -1,7 +1,7 @@
 ---
 title: "DSE組合科學完全攻略：科目結構、分拆選擇（生物/化學/物理）與升學出路"
 description: "DSE組合科學備考完整指南 — 組合科學與獨立理科的分別、生物+化學/化學+物理/生物+物理三種組合的選擇策略、評核結構（試卷一甲乙部）、科學實驗SBA要求、組合科學的本地及海外升學銜接，以及是否值得選讀的分析"
-author: "DSE Knowledge Hub"
+author: Thomas Ho
 tags: ["DSE", "組合科學", "Combined Science", "理科", "選修科"]
 language: "zh-hant"
 last_updated: "2026-04-18"

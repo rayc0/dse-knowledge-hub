@@ -1,7 +1,7 @@
 ---
 title: "DSE英国语文完全攻略：内地学生备考指南"
 description: "全面解析DSE英文（English Language）的四份试卷结构（阅读、写作、聆听/综合、口语SBA），深入分析内地非英语母语学生的常见弱项，提供从Band 3冲击Level 5的系统策略。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

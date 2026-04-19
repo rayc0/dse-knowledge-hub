@@ -1,7 +1,7 @@
 ---
 title: "DSE 中國語文完全攻略 2026｜四張試卷＋SBA全面解析、Level 5**策略"
 description: "全面講解DSE中國語文考試結構（閱讀、寫作、聆聽及綜合能力、說話能力、校本評核），常見文類、高分策略及備考建議，適合香港本地中學生。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"

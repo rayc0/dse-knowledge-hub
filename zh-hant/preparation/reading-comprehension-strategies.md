@@ -1,7 +1,7 @@
 ---
 title: "DSE中英文閱讀理解答題策略：閱讀技巧、題型分析與高分答法"
 description: "DSE中英文閱讀理解完整答題策略（繁體中文）— 略讀(skimming)與精讀(scanning)技巧、題型分類（字義題/推論題/主旨題/態度語氣題）、中文語文答題格式要求、英文Language and Usage題型、常見失分原因分析、練習時間分配"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 language: "zh-hant"
 category: "preparation"
 last_updated: "2026-04-18"

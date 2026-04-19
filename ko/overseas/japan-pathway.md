@@ -1,7 +1,7 @@
 ---
 title: "DSE에서 일본 대학 진학 가이드: 재외국민 특별전형·영어 입시·학비와 일본 생활 환경"
 description: "한국어 DSE→일본 대학 진학 완전 가이드 — DSE 보유자가 일본 대학에 지원하는 재외국민 특별전형 활용법, 문부과학성의 홍콩 DSE 공식 인정 상황, 도쿄대학·와세다대학·게이오대학의 DSE/재외국민 요건과 시험 방법, DSE 스코어와 AO 입시·영어 입시의 조합, JASSO 장학금 적용, 한국인 가족이 귀국이 아닌 일본 유학을 선택하는 이유"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "overseas"
 last_updated: "2026-04-18"

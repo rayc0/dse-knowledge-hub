@@ -1,7 +1,7 @@
 ---
 title: "DSE设计与应用科技（DAT）完全攻略：内地学生备考指南"
 description: "全面解析DSE设计与应用科技（DAT）的试卷结构、设计组合、实践项目与书面评核，分析对接建筑、工业设计、产品设计等大学课程的路径，以及有设计背景内地学生的备考策略。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

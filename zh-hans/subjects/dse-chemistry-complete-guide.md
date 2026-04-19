@@ -4,7 +4,7 @@ description: "DSE化学科（Chemistry）完整指南：必修与选修内容、
 lang: zh-hans
 category: subjects
 date: 2026-04-17
-author: DSE Knowledge Hub
+author: Dr. Sarah Ng
 tags: [DSE, 化学, 理科, JUPAS, 医学, 备考指南]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "DSE歴史（History）完全ガイド：日本人受験生のための試験構成・論述対策・進学への活用"
 description: "日本語によるDSE歴史完全ガイド — 試験構成（Paper 1資料問題/Paper 2論述）、主要テーマ（中国近現代史：清末/民国/冷戦/改革開放と世界史：帝国主義/二次大戦/冷戦）、日本の近現代史との比較、DSE歴史の論述テンプレート（PEEL/SOCT）、歴史選択が有利な大学学部（法/政治/外交/ジャーナリズム）、Level 5★対策"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "DSE 設計與應用科技（DAT）完全攻略 2026｜四大選修範疇、Portfolio要求、Level 5**策略"
 description: "全面講解DSE設計與應用科技（DAT）考試結構（設計理論卷35%、設計作品集SBA 30%、實作項目SBA 35%）、四大選修範疇、Portfolio要求、銜接大學課程及Level 5**備考策略，並比較DAT與視覺藝術科的分別。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"

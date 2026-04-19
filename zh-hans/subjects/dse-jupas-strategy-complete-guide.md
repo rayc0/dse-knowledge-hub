@@ -1,7 +1,7 @@
 ---
 title: "JUPAS申请策略完全指南——内地生视角"
 description: "专为内地DSE考生解析JUPAS联招系统：波段制度、DSE成绩换算、志愿填报顺序、SEAS早期录取、非本地生名额分配、热门学科（医学/法律/商科）历年最低分及面试准备全攻略。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

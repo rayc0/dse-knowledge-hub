@@ -4,7 +4,7 @@ description: "A complete guide to all changes in the 2026 HKDSE examination — 
 lang: en
 category: exam
 date: 2026-04-17
-author: DSE Knowledge Hub
+author: Vivian Lam
 tags: [DSE, 2026, exam-changes, HKEAA, syllabus, citizenship]
 ---
 

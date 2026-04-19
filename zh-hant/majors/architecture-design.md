@@ -1,7 +1,7 @@
 ---
 title: "DSE考生選讀建築與設計：港大建築、理大設計、PolyU工業設計入學要求與出路"
 description: "香港建築與設計學科完整指南（繁體中文）— 港大建築學院(HKU FAADUP)、理大設計學院(SD)、城大創意媒體(SCM)、嶺大視覺研究入學要求、作品集(Portfolio)準備要點、DSE最低收生分、建築師註冊要求、創意產業就業前景"
-author: "DSE Knowledge Hub"
+author: Thomas Ho
 language: "zh-hant"
 category: "majors"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "香港の人文・芸術学部完全ガイド：日本人受験生のための入学要件・専攻・就職"
 description: "日本語による香港人文・芸術学部完全ガイド — HKU文学部（英語/比較文学/哲学/歴史）・CUHK人文学部・香港浸会大学（HKBU）創作文芸、入学に有利なDSE科目、卒業後の進路（法科大学院/教員免許/ジャーナリズム/NGO）、香港の多言語環境を活かした文系学位の価値、大学院進学（英国/米国）への接続"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"

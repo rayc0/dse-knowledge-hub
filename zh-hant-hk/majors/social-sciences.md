@@ -1,7 +1,7 @@
 ---
 title: "香港社會科學學科指南：DSE學生報考全攻略"
 description: "全面介紹香港HKU、CUHK、CityU社會科學課程，包括社會學、心理學、政治學、社會工作各方向，政府及NGO職業路線，HKBU社工課程，臨床心理學執照要求，及DSE科目建議。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"

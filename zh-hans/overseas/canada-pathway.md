@@ -1,7 +1,7 @@
 ---
 title: "加拿大升学完整指南 2026：大学排名、学费、移民衔接"
 description: "2026年加拿大留学完整攻略 — 多伦多大学、UBC、麦吉尔申请要求、学费、PGWP工签、移民路径。DSE与高考考生必读。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"
@@ -13,7 +13,7 @@ canonical: "https://dsedaquan.cn/zh-hans/overseas/canada-pathway.html"
 
 > 摘要 — 加拿大 2026 年国际生本科平均学费约 CA$41,746/年（折合人民币约 21.7 万元），多伦多大学、UBC、McGill 等 U15 研究型大学接受 HKDSE 及中国大陆高中成绩直接申请；PGWP 毕业工签最长 3 年，为有意向移民加拿大的学生提供"读书 → 工作 → 移民"的清晰路径。
 >
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用 Statistics Canada、IRCC、Canada.ca、U15 成员大学官方招生页、HKEAA 等一手资料。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用 Statistics Canada、IRCC、Canada.ca、U15 成员大学官方招生页、HKEAA 等一手资料。License: CC BY 4.0.
 
 ---
 
@@ -274,7 +274,7 @@ A：加拿大大学均接受学生自行申请，无需中介。安大略省有 
 
 ## 需要 1 对 1 升学咨询？
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 - 加拿大 U15 / Waterloo Co-op / McGill 等院校申请策略
 - 个人陈述（PS）、Waterloo AIF、UBC Personal Profile 修改
 - 面试模拟（主要针对 McMaster Health Sci、Queen's Commerce 等）
@@ -285,4 +285,4 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*最后更新：2026-04-17 · 由 CompanyForge AI 编辑团队维护*
+*最后更新：2026-04-17 · 由 the editorial team AI 编辑团队维护*

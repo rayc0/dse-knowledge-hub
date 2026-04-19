@@ -1,7 +1,7 @@
 ---
 title: "DSE 음악（Music）완전 가이드: 한국인 수험생을 위한 시험 구성·실기 대책·진학 활용"
 description: "한국어로 제공하는 DSE 음악 완전 가이드 — 시험 구성（Paper 1 청음·기보/Paper 2 악곡 분석/SBA 연주·작곡）, 서양 음악 이론과 광동 오페라（粤劇）양방향 출제, 한국 음악고/예고 vs DSE Music 비교, K-POP 산업 맥락, Level 5 대책"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

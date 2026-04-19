@@ -1,7 +1,7 @@
 ---
 title: "日本人学生向けJUPAS入学ガイド：香港大学出願システムの使い方と戦略"
 description: "JUPAS完全ガイド（日本語）— JUPAS（香港大学・専門学院入学申込統一系統）の使い方、志望校最大25選択の戦略的な組み合わせ方、Aリスト/Bリスト/Cリスト区分の意味、在香港日本人国際学校卒業生向けの出願ポイント、面接と入学試験対策、Band A/B/C成績とJUPAS出願の関係、DSE合格後のJUPAS調整フェーズ"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "jupas"
 last_updated: "2026-04-18"

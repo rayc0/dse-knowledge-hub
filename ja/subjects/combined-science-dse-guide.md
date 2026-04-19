@@ -1,7 +1,7 @@
 ---
 title: "DSE複合理科（Combined Science）完全ガイド：日本人受験生のための試験構成・科目選択との比較"
 description: "日本語によるDSE複合理科完全ガイド — 試験構成と選択モジュール（物理+化学/化学+生物/物理+生物）、単科理科（物理/化学/生物）との配点・難易度比較、Combined Scienceが有利な大学学部、理系選択が少ない文系受験生や時間制約のある受験生への戦略的選択理由、Level 5対策"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

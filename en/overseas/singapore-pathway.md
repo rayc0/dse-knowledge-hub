@@ -4,7 +4,7 @@ description: "How to apply to NUS, NTU, and SMU using HKDSE results — entry re
 lang: en
 category: overseas
 date: 2026-04-17
-author: DSE Knowledge Hub
+author: Dr. Sarah Ng
 tags: [Singapore, DSE, overseas, university, NUS, NTU, SMU, study-abroad]
 ---
 

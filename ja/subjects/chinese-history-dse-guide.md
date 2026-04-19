@@ -1,7 +1,7 @@
 ---
 title: "DSE中国史（Chinese History）完全ガイド：日本人受験生のための試験構成・学習対策・進学への活用"
 description: "日本語によるDSE中国史完全ガイド — 試験構成（Paper 1中国史通史/Paper 2テーマ選択）、学習範囲（古代〜清末から中国近現代史まで）、日本人が得意な時代（隋唐/宋/元明清/日中戦争）と苦手な時代（文化大革命/改革開放の中国視点）、繁体字漢文読解のハードル、中国史選択が有利な大学学部（歴史/中文/区域研究）、Level 4対策"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "DSE 정보통신기술（ICT）완전 가이드: 한국인 수험생을 위한 시험 범위·프로그래밍·진학 활용"
 description: "한국어 DSE ICT 완전 가이드 — DSE ICT 시험 구성(Paper 1 이론/Paper 2 실기), 주요 토픽(네트워크·데이터 관리·프로그래밍·보안·AI/빅데이터)과 한국 정보의 비교, Paper 2 실제 문제 형식(Python 또는 의사코드), 고득점(Level 5★) 대책, ICT가 유리한 홍콩 대학 학부(HKUST/PolyU 공학계), 수능 정보와 DSE ICT 비교"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "DSE（香港中学文凭試験）とは：国際学校生徒向けの完全ガイド"
 description: "香港DSE試験完全ガイド（日本語）— DSEとは何か（香港の大学入学統一試験）、コア科目4科目（中国語/英語/数学/市民生活と社会）と選択科目の構成、IB・A-Levelsとの違い、JUPAS香港大学入学制度への使用方法、DSE成績の海外大学認定状況（英国/豪州/カナダ）、日本人学生がDSEを受験するケース（ESF・インターナショナルスクール卒業生）"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "intro"
 last_updated: "2026-04-18"

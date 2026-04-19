@@ -4,7 +4,7 @@ description: "面向内地学生的香港饮食生活完整指南：八大院校
 lang: zh-hans
 category: life
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Editorial Team
 tags:
   - 内地生
   - 香港饮食

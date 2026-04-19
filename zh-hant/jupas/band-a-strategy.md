@@ -1,7 +1,7 @@
 ---
 title: "JUPAS Band A選校策略：最大化入讀心儀大學的機會"
 description: "深入解析JUPAS Band A的運作機制、選校排序策略、往年收生數據分析及常見錯誤，助你制定最佳的大學志願組合"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 tags: ["JUPAS", "Band A", "選校", "策略", "大學", "收生"]
 language: "zh-hant"
 last_updated: "2026-04-18"

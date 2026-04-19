@@ -4,7 +4,7 @@ description: "全面解析香港三大顶级商学院面试流程、常见问题
 lang: zh-hans
 category: interview
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Karen Leung
 tags:
   - 香港商学院
   - HKUST Business

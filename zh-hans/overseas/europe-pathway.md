@@ -1,7 +1,7 @@
 ---
 title: "DSE生赴欧留学路径：英国、德国、荷兰和法国大学入学指南"
 description: "DSE学生赴欧升学完整指南（简体中文）— 英国大学UCAS申请（DSE成绩等效/Personal Statement/预录Offer）、德国公立大学免学费条件（语言要求/APS认证）、荷兰全英文授课本科（DSE接受情况/费用约港幣10-15万/年）、法国grandes écoles和预科系统（CPGE/FHEQ等效）、欧洲学生签证申请、欧洲毕业后在港就业前景"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -317,4 +317,4 @@ canonical: "https://dsedaquan.cn/zh-hans/overseas/europe-pathway"
 
 *本指南信息以2025-26学年为基础，各国学费、签证政策及大学入学要求每年可能调整。建议以各大学及各国驻港领事馆官方信息为准。*
 
-*许可: CC BY 4.0 | CompanyForge AI*
+*许可: CC BY 4.0 | the editorial team AI*

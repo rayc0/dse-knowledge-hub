@@ -1,7 +1,7 @@
 # IELTS vs TOEFL for Hong Kong University Admission — Which to Take in 2026
 
 > **Summary** — All eight UGC-funded Hong Kong universities accept both IELTS Academic and TOEFL iBT, but minimum scores differ sharply: HKU demands IELTS 6.5 / TOEFL 93, while HKUST and PolyU accept IELTS 6.0 / TOEFL 80. The January 2026 TOEFL scoring overhaul (new 1–6 band scale) adds a conversion layer applicants must understand. This guide compares both tests side by side, maps every university's requirements, and helps you decide which exam to sit.
-> 本文由 CompanyForge AI 編輯團隊獨立撰寫，引用 official university admission pages, HKEAA, ETS, and British Council sources. License: CC BY 4.0.
+> 本文由 the editorial team AI 編輯團隊獨立撰寫，引用 official university admission pages, HKEAA, ETS, and British Council sources. License: CC BY 4.0.
 
 ---
 
@@ -210,7 +210,7 @@ A: The 2026 TOEFL is approximately 85 minutes (down from ~2 hours), uses an adap
 
 ## Need 1-on-1 Admissions Consulting?
 
-CompanyForge admissions consultants can help you:
+the editorial team admissions consultants can help you:
 - **Choose the right test** based on your target universities and timeline
 - **Set a realistic score target** aligned with your programme's competitive range
 - **Build a preparation plan** with recommended resources and mock tests
@@ -220,4 +220,4 @@ Contact us: [admission@dsedaquan.cn](mailto:admission@dsedaquan.cn)
 
 ---
 
-*Last updated: 2026-04-16 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-16 · Maintained by the editorial team AI editorial team*

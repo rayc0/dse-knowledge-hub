@@ -1,7 +1,7 @@
 ---
 title: "DSE에서 대만 대학 진학 가이드: 대만 국립대학·영어 프로그램과 비용·장학금"
 description: "한국어 DSE→대만 대학 진학 완전 가이드 — DSE를 받아들이는 대만 주요 대학(NTU/NCKU/NTHU/NCCU) 입학 요건, 중국어(국어) 요건과 DSE 중국어 대체, 영어만 수업 프로그램(TIGP 등) 선택지, 학비(TWD 70,000〜150,000/년; 매우 저비용), 생활비(월 TWD 15,000〜25,000), 대만 정부 장학금(MOFA/ETRF) 신청 방법, 한국인 DSE 졸업생이 대만을 선택하는 이유(반도체 산업/비용/한자 환경)"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "overseas"
 last_updated: "2026-04-18"

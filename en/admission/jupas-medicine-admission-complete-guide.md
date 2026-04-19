@@ -4,7 +4,7 @@ description: "Medicine remains the most competitive JUPAS programme in Hong Kong
 lang: en
 category: admission
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Editorial Team
 tags: [DSE, JUPAS, medicine, MBBS, HKU, CUHK, admission, interview]
 ---
 

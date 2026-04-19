@@ -1,7 +1,7 @@
 ---
 title: "DSE生升讀日本大學：EJU考試、頂尖院校要求與留日生活指南"
 description: "持DSE成績申請日本大學的完整指南 — EJU日本留學試、主要大學（東大、早稻田、慶應）DSE/EJU要求、學費生活費、日語要求、香港學生的留日升學路徑"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 tags: ["DSE", "日本", "Japan", "升學", "EJU", "留學"]
 language: "zh-hant"
 last_updated: "2026-04-18"

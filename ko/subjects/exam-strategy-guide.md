@@ -1,7 +1,7 @@
 ---
 title: "DSE 시험 전략 완전 가이드: 한국인 수험생을 위한 과목 선택·시간 관리·Level 5★ 공략"
 description: "한국어 DSE 시험 전략 완전 가이드 — 최적 선택과목 조합（이과/문과/혼합）, DSE 시험 6주 전부터 당일까지의 타임라인, 공통 답안 작성 기술（데이터 분석/논술/MCQ）, SBA 조기 착수 전략, JUPAS 지원과의 연동, 한국인 수험생에게 자주 나타나는 실점 패턴과 대책"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

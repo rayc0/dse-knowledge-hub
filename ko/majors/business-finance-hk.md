@@ -1,7 +1,7 @@
 ---
 title: "홍콩 경영·금융 학부 가이드: HKU·HKUST·CUHK 입학 요건과 한국인의 기회"
 description: "한국어 홍콩 경영·금융 학부 완전 가이드 — HKU 경영학부(BBA)·HKUST 경영대학원·CUHK 비즈니스스쿨(CGSB) 특징 비교, JUPAS 최저 DSE 점수, 한국인 학생 취업처(골드만삭스/JP모건/맥킨지 등), 홍콩 FinTech·자산운용 업계 취업력, CFA·ACCA 자격과의 연계, 더블 디그리·교환 유학 옵션"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"

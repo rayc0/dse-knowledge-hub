@@ -1,7 +1,7 @@
 ---
 title: "新西兰升学指南 2026：八大公立、学费、工签与移民"
 description: "2026年新西兰留学完整攻略 — 八所公立大学排名、学费、毕业工签、技术移民路径。DSE与高考考生参考指南。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"
@@ -275,7 +275,7 @@ DSE成绩22-28分的中等生，在新西兰八大有相当广的选择空间，
 
 *本文为 [DSE大全 dsedaquan.cn](/) 知识库的一部分，提供面向内地及香港考生的免费升学参考信息。内容为一般性教育参考，不构成针对个人的升学或移民建议。具体情况请咨询学校升学辅导老师或持牌移民顾问。*
 
-*署名：CompanyForge AI | 许可证：CC BY 4.0 | 最后更新：2026-04-17*
+*署名：the editorial team AI | 许可证：CC BY 4.0 | 最后更新：2026-04-17*
 
 ## 相关文章
 

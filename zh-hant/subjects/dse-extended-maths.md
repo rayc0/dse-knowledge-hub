@@ -1,7 +1,7 @@
 ---
 title: "DSE延伸數學單元（M1/M2）：選科指引、核心考題與高分策略"
 description: "DSE延伸數學單元完整指南 — M1（微積分與統計）vs M2（代數與微積分）的課程差異與選科建議，評分結構（Paper 1 MC + LQ），M1重點（概率分布·t檢定·迴歸分析）vs M2重點（矩陣·向量·微積分），大學收分要求，數理科學生的高分策略"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 language: "zh-hant"
 category: "subjects"
 tags: ["DSE", "延伸數學", "M1", "M2", "HKDSE"]

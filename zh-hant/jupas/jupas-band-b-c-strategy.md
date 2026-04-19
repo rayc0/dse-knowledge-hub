@@ -1,7 +1,7 @@
 ---
 title: "DSE JUPAS Band B/C 課程選擇攻略：中等成績如何最大化入學機會"
 description: "JUPAS Band B/C 課程選擇完全指南（繁體中文）— Band B/C 定義與分數範圍、中等成績的選科策略、冷門但值錢課程發掘方法、聯招中後期調整技巧、不同大學Band B/C課程特點比較"
-author: "DSE Knowledge Hub"
+author: Michael Chan
 tags: ["JUPAS", "Band B", "Band C", "選校", "策略", "中等成績", "大學"]
 language: "zh-hant"
 category: "jupas"

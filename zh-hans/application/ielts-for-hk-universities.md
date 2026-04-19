@@ -4,7 +4,7 @@ description: "内地学生申请香港大学、中文大学、科大、城大、
 lang: zh-hans
 category: application
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Thomas Ho
 tags: [IELTS, 雅思, 香港大学, CUHK, 科大, 城大, 理大, 浸大, 英语要求]
 ---
 

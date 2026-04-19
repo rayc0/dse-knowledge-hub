@@ -4,7 +4,7 @@ description: "A detailed 2026 cost-of-living guide for international students at
 lang: en
 category: living
 date: 2026-04-14
-author: "DSE Knowledge Hub"
+author: Editorial Team
 ---
 
 # Cost of Living for International Students in Hong Kong 2026 — Complete Budget Breakdown

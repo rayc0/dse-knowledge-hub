@@ -1,7 +1,7 @@
 ---
 title: "DSE 경제（Economics）완전 가이드: 한국인 수험생을 위한 이수 범위·시험 구성·경상계 진학 활용"
 description: "한국어 DSE 경제 완전 가이드 — DSE 경제 시험 구성(Paper 1 MCQ/Paper 2 데이터 분석/Paper 3 서술형), 미시경제와 거시경제 이수 내용과 한국 경제의 비교, Paper 3 논술 문제 작성 템플릿, 고득점(Level 5★) 전략, 경제가 필요한 홍콩 대학 학부(경제학/상학/회계/법률), 홍콩과 세계경제 실례를 활용한 문제 경향"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "DSE에서 캐나다 대학 진학 가이드: UBC·토론토대·맥길대 DSE 지원 요건과 영주권 경로"
 description: "한국어 DSE→캐나다 대학 진학 완전 가이드 — DSE를 받아들이는 주요 캐나다 대학(UBC/U of Toronto/McGill/McMaster/UAlberta) 입학 요건, DSE Best 5 스코어와 캐나다 입학 기준 환산, 학부별 필요 과목(이과/문과/의계), 연간 비용(학비: CAD 20,000〜40,000+생활비), 졸업 후 취업 허가(PGWP)와 영주권(CEC/EEAP) 경로, 한국인 학생이 캐나다를 DSE 후 선택하는 이유(안전·다문화·영주권)"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "overseas"
 last_updated: "2026-04-18"

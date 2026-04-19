@@ -1,7 +1,7 @@
 ---
 title: "DSE醫科、護理及醫療相關學系選擇指南：入讀要求、課程比較與職業前景"
 description: "持DSE成績升讀醫療相關學系的完整指南 — 香港醫科、護理、藥學、物理治療、職業治療、放射治療各學系入讀要求、課程年期、執業資格與薪酬前景"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 tags: ["DSE", "醫科", "護理", "醫療", "JUPAS", "Medicine"]
 language: "zh-hant"
 last_updated: "2026-04-18"

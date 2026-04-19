@@ -1,7 +1,7 @@
 ---
 title: "DSE企業、會計與財務概論（BAFS）攻略：核心概念與應試策略"
 description: "DSE BAFS科完整應試指南 — 必考核心概念（企管、會計、財務管理）、Paper 1選擇題技巧、Paper 2個案研究答題格式、各等級分布與JUPAS商科升學"
-author: "DSE Knowledge Hub"
+author: Vivian Lam
 tags: ["DSE", "BAFS", "會計", "商業", "JUPAS"]
 language: "zh-hant"
 last_updated: "2026-04-18"

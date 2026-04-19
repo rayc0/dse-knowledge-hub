@@ -1,7 +1,7 @@
 ---
 title: "DSE 高效筆記策略：康乃爾筆記法、思維導圖與溫習筆記的製作技巧"
 description: "DSE 備考筆記策略完全指南（繁體中文）— 三種主要筆記法（康乃爾筆記/思維導圖/線性筆記）的比較與適用科目、如何製作高效溫習筆記、各科目最佳筆記格式、數碼筆記 vs 手寫筆記的取捨、考前整理重點筆記的策略"
-author: "DSE Knowledge Hub"
+author: Vivian Lam
 language: "zh-hant"
 category: "preparation"
 last_updated: "2026-04-18"

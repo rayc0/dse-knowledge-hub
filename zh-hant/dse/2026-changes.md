@@ -1,7 +1,7 @@
 ---
 title: "2026年DSE改革全面解析：核心科目變革、公民科取代通識、評分調整"
 description: "深入剖析2026年香港中學文憑試（DSE）的重大改革——公民與社會發展科取代通識教育科、核心科目優化方案、評分制度變化及對考生的影響"
-author: "DSE Knowledge Hub"
+author: Vivian Lam
 tags: ["DSE", "2026改革", "公民科", "通識", "核心科目", "JUPAS"]
 language: "zh-hant"
 last_updated: "2026-04-18"

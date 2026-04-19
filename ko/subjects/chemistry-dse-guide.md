@@ -1,7 +1,7 @@
 ---
 title: "DSE 화학（Chemistry）완전 가이드: 한국인 수험생을 위한 이수 범위·시험 대책·이과 진학 활용"
 description: "한국어 DSE 화학 완전 가이드 — DSE 화학 시험 구성(Paper 1/2/3), 이수 내용(원자 구조·화학 결합·유기화학·전기화학·물질량)과 한국 화학의 비교, Paper 1 MCQ와 Paper 2 서술형, SBA 실험 보고서 평가, 고득점(Level 5★) 대책, 화학이 필요한 홍콩 대학 학부 일람(의치약/화학공학/식품과학)"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

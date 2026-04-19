@@ -1,7 +1,7 @@
 ---
 title: "香港のコミュニケーション・ジャーナリズム学部完全ガイド：日本人受験生のための入学要件・メディアキャリア"
 description: "日本語による香港コミュニケーション・ジャーナリズム学部完全ガイド — HKBU新聞・コミュニケーション学院（QS世界ランク上位）、CityU メディア・コミュニケーション、PolyU Human Communication、入学に有利なDSE科目、香港メディア業界の現状、卒業後のキャリア（PR/広告/デジタルメディア/国際放送）、日本メディアとの比較"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"

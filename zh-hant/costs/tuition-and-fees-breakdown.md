@@ -1,7 +1,7 @@
 ---
 title: "DSE 備考及升學費用全面分析：補習費、考試費、大學學費一覽"
 description: "DSE 備考及香港大學升學費用完全指南（繁體中文）— DSE 報考費用、各科補習費市場行情、海外升學備考費用（IELTS/SAT/A-Level），香港八大學費及資助計劃比較、學生資助辦事處申請資格，奬學金及助學金資源"
-author: "DSE Knowledge Hub"
+author: Thomas Ho
 language: "zh-hant"
 category: "costs"
 last_updated: "2026-04-18"

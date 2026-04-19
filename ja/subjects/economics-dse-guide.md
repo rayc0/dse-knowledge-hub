@@ -1,7 +1,7 @@
 ---
 title: "DSE経済（Economics）完全ガイド：日本人受験生のための履修範囲・試験構成・ビジネス系進学への活用"
 description: "日本語によるDSE経済完全ガイド — DSE経済の試験構成（Paper 1のMCQ/Paper 2のデータ解析/Paper 3の自由記述）、ミクロ経済とマクロ経済の履修内容と日本の政治経済との対比、Paper 3の論述問題の書き方テンプレート、高得点（Level 5★）戦略、経済が必要な香港大学学部（経済学/商学/会計/法律）、香港と世界経済の実例を使った問題傾向"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
