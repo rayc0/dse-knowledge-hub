@@ -1,7 +1,7 @@
 ---
 title: "홍콩 공학계 학부 가이드: HKUST·HKU·PolyU DSE 입학 요건·전공 선택과 취직 환경"
 description: "한국어 홍콩 공학계 학부 완전 가이드 — HKUST/HKU/PolyU/CityU 공학부 DSE 입학 스코어 비교(Level 5〜5★), 공학계 DSE 필수 과목(수학+물리/화학), 전공 선택 가이드(CS/전기/기계/화학공학/토목), 인턴십과 업계 채용 실태, 졸업 후 취직처(홍콩/싱가포르/GBA), M1/M2 연신 단원의 유리성"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"

@@ -4,7 +4,7 @@ description: "DSE物理科（Physics）完整指南：必修与选修内容、Pa
 lang: zh-hans
 category: subjects
 date: 2026-04-17
-author: DSE Knowledge Hub
+author: Karen Leung
 tags: [DSE, 物理, 理科, JUPAS, 工程, 备考指南]
 ---
 

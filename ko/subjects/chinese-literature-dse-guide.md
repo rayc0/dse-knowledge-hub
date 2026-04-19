@@ -1,7 +1,7 @@
 ---
 title: "DSE 중국문학（Chinese Literature）완전 가이드: 한국인 수험생을 위한 시험 구성과 학습 대책"
 description: "한국어로 작성된 DSE 중국문학 완전 가이드 — 시험 구성（Paper 1 고전문학 독해/Paper 2 논술）, 학습 범위（선진~청대 고전과 현대 백화문학）, 한국인 수험생의 번체자 고전 독해 유불리, 수능 한문 과목 경험 활용, 魯迅·張愛玲 친숙도, 소규모 코호트 상대평가 특성, Level 3 이상 현실적 전략"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -148,7 +148,7 @@ A: 魯迅·張愛玲 작품을 반복 읽으면서 '테마→작가의 의도→
 
 ## DSE·홍콩 대학 진학 1:1 상담 안내
 
-CompanyForge 升學顧問 팀은 다음과 같은 지원을 제공합니다：
+the editorial team 升學顧問 팀은 다음과 같은 지원을 제공합니다：
 
 - DSE 선택 과목 전략（중국문학 포함 선택 과목 조합 최적화）
 - 홍콩 8대 대학（HKU / CUHK / HKUST / PolyU / CityU / HKBU / LingU / EdUHK）진학 전략
@@ -159,4 +159,4 @@ CompanyForge 升學顧問 팀은 다음과 같은 지원을 제공합니다：
 
 ---
 
-*최종 업데이트: 2026-04-19 · CompanyForge AI 편집팀 관리 · License: CC BY 4.0*
+*최종 업데이트: 2026-04-19 · the editorial team AI 편집팀 관리 · License: CC BY 4.0*

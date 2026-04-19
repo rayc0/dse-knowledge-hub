@@ -1,7 +1,7 @@
 ---
 title: "DSE公民與社會發展科（CS）攻略：三大主題、SBA實地考察與考試策略"
 description: "DSE公民與社會發展科（前通識教育科）完整應試指南 — 香港、國家、當代世界三大主題範疇、試卷結構分析、SBA實地考察要求，以及如何準備開放式大題"
-author: "DSE Knowledge Hub"
+author: Editorial Team
 tags: ["DSE", "公民與社會發展", "CS", "通識", "SBA"]
 language: "zh-hant"
 last_updated: "2026-04-18"

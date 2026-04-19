@@ -1,7 +1,7 @@
 ---
 title: "香港理工大學 vs 香港城市大學：課程、就業、校園文化全面比較"
 description: "PolyU vs CityU 完全比較指南（繁體中文）— 兩校定位差異、熱門課程比較（工程/設計/傳理/護理/商科），入學成績要求，就業排名與行業聯繫，校園設施與生活，宿舍情況，哪種學生更適合哪所大學"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 language: "zh-hant"
 category: "comparison"
 canonical: "https://dsedaquan.cn/zh-hant/comparison/polyu-vs-cityu"
@@ -13,7 +13,7 @@ tags: ["PolyU", "CityU", "大學比較", "理工", "城大"]
 # 香港理工大學 vs 香港城市大學：課程、就業、校園文化全面比較
 
 > **摘要**：PolyU（QS 2026 #54）與 CityU（QS 2026 #63）均以應用導向見稱，但定位明顯分工——PolyU 稱霸護理、物理治療、設計與酒店管理；CityU 在傳媒、法律、金融科技與獸醫等新興領域持續崛起。DSE 考生應以職業目標而非分數差距作決策依據。
-> 本文由 CompanyForge AI 編輯團隊獨立撰寫，引用 JUPAS 官方數據、兩校官網及 QS World University Rankings 2026。License: CC BY 4.0.
+> 本文由 the editorial team AI 編輯團隊獨立撰寫，引用 JUPAS 官方數據、兩校官網及 QS World University Rankings 2026。License: CC BY 4.0.
 
 香港理工大學（PolyU）與香港城市大學（CityU）同屬香港八大院校，兩校均以應用導向見稱，排名相近，常令DSE考生難以抉擇。本文從定位、課程、入學要求、就業出路到校園生活，逐一深入比較，助你找到最適合自己的選擇。
 
@@ -168,7 +168,7 @@ A：CityU 獸醫學士（Bachelor of Veterinary Medicine，BVM）於 2024 年正
 
 ## 📩 需要 1-on-1 升學咨詢？
 
-CompanyForge 升學顧問團隊提供：
+the editorial team 升學顧問團隊提供：
 - DSE → 香港八大 申請策略
 - 個人陳述 (PS) 修改
 - 面試模擬
@@ -178,4 +178,4 @@ CompanyForge 升學顧問團隊提供：
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team*

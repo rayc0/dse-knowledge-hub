@@ -1,7 +1,7 @@
 # 香港 vs 美国：大陆学生本科留学全面对比 2026
 
 > 摘要 — 2026 年是赴美留学"拐点年"：F-1 签证学习期压缩至 4 年、H-1B 抽签改为"工资权重制"（2026 年 2 月 27 日生效）、中国领区面签拒签率升至 28%、赴美学生签证一年内被撤销超 8,000 份。同期，香港八大本科 IANG 24 个月工签维持不变、7 年 PR 路径稳定、学费涨幅可控。本文从录取门槛、4 年总成本、签证与留用、PR 路径、大学品牌、专业优势六个维度对比，为大陆家庭提供 30 秒决策表与 5 类家庭场景建议。
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用来源包括 USCIS、QS World University Rankings、Penn Wharton Budget Model、HKU/CUHK/HKUST/PolyU/CityU 官方招生页、香港入境处。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用来源包括 USCIS、QS World University Rankings、Penn Wharton Budget Model、HKU/CUHK/HKUST/PolyU/CityU 官方招生页、香港入境处。License: CC BY 4.0.
 
 ---
 
@@ -371,7 +371,7 @@ A：有，但优势正在收窄。2010-2018 年美国本科回国在外资投行
 
 ## 📩 需要 1-on-1 升学咨询？
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 - 香港八大 vs 美国 Top 30 **财务 ROI 量化分析报告**
 - 高考 + SAT 双轨备考规划（9 月 - 次年 6 月）
 - 香港独立招生面试模拟（英语 / 普通话双语）
@@ -383,4 +383,4 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*Last updated: 2026-04-17 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-17 · Maintained by the editorial team AI editorial team*

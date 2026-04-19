@@ -2,7 +2,7 @@
 
 > 摘要 — 2026 年港八大本科面试按"学校制度 × 专业题库"两条轴心整理：HKU 用 4-站 MMI + 批判分析 + 小组讨论；CUHK 医学用 10-15 分钟双考官 Panel；HKUST 用 30-45 分钟 English Group Discussion + 跟进问答；PolyU/CityU 多为 15-20 分钟 program-specific Panel。本文收录 2023-2025 年真题 + 答题框架 + 2026 时间表 + 大陆学生常见失分点。
 >
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用 HKU / CUHK / HKUST / PolyU / CityU 官方招生页、Faculty of Medicine 官方面试说明、2025 届考生面试报告。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用 HKU / CUHK / HKUST / PolyU / CityU 官方招生页、Faculty of Medicine 官方面试说明、2025 届考生面试报告。License: CC BY 4.0.
 
 ---
 
@@ -242,7 +242,7 @@ A: HKU MBBS / CUHK MBChB 通常面试后 4-8 周发 conditional offer；HKUST GB
 
 ## 📩 需要 1-on-1 面试辅导？
 
-CompanyForge 升学顾问团队 2026 申请季面试服务：
+the editorial team 升学顾问团队 2026 申请季面试服务：
 
 - **HKU MMI / CUHK Panel / HKUST Group Discussion 三轨模拟** — 使用 2023-2025 年真题库 + 逐字 feedback
 - **Critical Analysis + Group Discussion** 英文文本分析批改 + 小组模拟带队
@@ -264,4 +264,4 @@ CompanyForge 升学顾问团队 2026 申请季面试服务：
 
 ---
 
-*Last updated: 2026-04-17 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-17 · Maintained by the editorial team AI editorial team*

@@ -1,7 +1,7 @@
 ---
 title: "DSE生物（Biology）完全ガイド：日本人受験生のための履修範囲・試験対策・医療系進学への道"
 description: "日本語によるDSE生物完全ガイド — DSE生物の試験構成（Paper 1/2/3のSBA）、主要トピック（細胞・遺伝・進化・生態系・体の機能）と日本の生物との対比、MCQ形式と長問形式の違い、高得点（Level 5★）のための暗記・図解・論述対策、生物が必要な香港大学学部（医学/歯学/看護/薬学/生命科学）、DSE生物はHKU医学部入学で必須かどうかの解説"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

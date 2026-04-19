@@ -1,7 +1,7 @@
 ---
 title: "DSE數學科（必修）應試策略：M1/M2選擇、答題格式、常見失分原因"
 description: "DSE數學必修科完整應試指南（繁體中文）— 卷一(Compulsory)與卷二(Multiple Choice)應試策略、M1(微積分與統計)vs M2(代數與微積分)選擇指引、答題格式要求（show all working）、常見錯誤（負號錯誤/單位忘記/二次方漏解）、數學5**/5*考生答題節奏管理、計算機使用技巧"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 language: "zh-hant"
 category: "preparation"
 last_updated: "2026-04-18"

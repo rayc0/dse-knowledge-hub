@@ -1,7 +1,7 @@
 ---
 title: "DSE 延伸數學單元完全攻略：M1 與 M2 全面解析"
 description: "全面介紹 DSE 數學延伸部分 M1（微積分與統計）及 M2（代數與微積分），涵蓋選科建議、考試結構、內容大綱、大學收生要求及 5** 備考策略，專為香港本地考生而設。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"

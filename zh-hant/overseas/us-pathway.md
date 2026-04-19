@@ -1,7 +1,7 @@
 ---
 title: "DSE學生申請美國大學：Test-Optional政策、Common App攻略與獎學金機會"
 description: "DSE成績申請美國大學完整指南 — Test-Optional院校列表、Common App時間線、文書技巧、財務助學金策略，以及與英澳留學路徑的比較"
-author: "DSE Knowledge Hub"
+author: Michael Chan
 tags: ["DSE", "美國留學", "Common App", "SAT", "獎學金"]
 language: "zh-hant"
 last_updated: "2026-04-18"

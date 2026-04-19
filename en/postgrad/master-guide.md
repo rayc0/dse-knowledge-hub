@@ -4,7 +4,7 @@ description: "A comprehensive guide to taught and research Master's programmes a
 lang: en
 category: postgrad
 date: 2026-04-17
-author: DSE Knowledge Hub
+author: Vivian Lam
 tags: [postgraduate, masters, Hong-Kong, universities, MBA, MPhil, career]
 ---
 

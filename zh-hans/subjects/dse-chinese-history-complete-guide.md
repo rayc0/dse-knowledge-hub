@@ -1,7 +1,7 @@
 ---
 title: "DSE中国历史完全攻略：内地学生备考指南"
 description: "全面解析DSE中国历史（中史）的试卷结构、古代史与近现代史重点、与内地历史课程的差异对比，以及内地学生冲击Level 5+的核心策略。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

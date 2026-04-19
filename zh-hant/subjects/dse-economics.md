@@ -1,7 +1,7 @@
 ---
 title: "DSE經濟科完全攻略：微觀宏觀經濟、圖表分析與論述題技巧"
 description: "全面解析DSE經濟科的課程架構、微觀與宏觀經濟學重點、圖表繪製技巧、論述題答題框架及溫習策略"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 tags: ["DSE", "經濟", "Economics", "商科", "溫習"]
 language: "zh-hant"
 last_updated: "2026-04-18"

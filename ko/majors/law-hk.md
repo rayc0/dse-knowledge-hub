@@ -1,7 +1,7 @@
 ---
 title: "홍콩 법학부 가이드: HKU·CUHK 법학부 입학 요건과 한국인 변호사에의 기회"
 description: "한국어 홍콩 법학부 완전 가이드 — HKU 법학부와 CUHK 법학부(LLB) 비교, JUPAS 최저 DSE 점수(2025년 실적), 홍콩 변호사(Solicitor)·대율사(Barrister)의 차이, 한국인 학생의 법학부 진학 의의(영미법/국제 중재/아시아 법무), PCLL(普通法研究生課程) 진학 요건, 졸업 후 로펌 취업(홍콩+글로벌 Law Firm), 한국 사법고시·로스쿨과의 비교"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"

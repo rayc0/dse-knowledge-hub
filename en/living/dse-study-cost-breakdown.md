@@ -1,7 +1,7 @@
 ---
 title: "The True Cost of DSE Preparation and University in Hong Kong: A Complete Breakdown"
 description: "Comprehensive cost analysis covering DSE exam fees, tutoring, textbooks, university tuition across UGC-funded and self-financed programmes, living expenses, and financial aid options"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 tags: ["costs", "tuition", "financial-aid", "DSE", "university", "scholarships"]
 last_updated: "2026-04-18"
 canonical: "https://dsedaquan.cn/en/living/dse-study-cost-breakdown"

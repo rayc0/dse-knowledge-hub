@@ -1,7 +1,7 @@
 ---
 title: "DSE考生選讀傳播與新聞：港大、中大、城大、浸大入學要求與就業出路"
 description: "香港傳播新聞學科完整指南（繁體中文）— 港大新聞學院、中大新聞傳播、城大媒體傳播、浸大傳播(BBus Communication)入學要求及JUPAS代號、英文要求（5**幾乎必需）、主要方向（新聞/公關/廣告/廣播/數位媒體）、香港傳媒業就業前景坦誠分析、新媒體與科技傳播出路"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 language: "zh-hant"
 category: "majors"
 last_updated: "2026-04-18"

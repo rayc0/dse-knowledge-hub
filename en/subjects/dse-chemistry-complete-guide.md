@@ -4,7 +4,7 @@ description: "Everything you need to know about HKDSE Chemistry: full syllabus b
 lang: en
 category: subjects
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Michael Chan
 tags:
   - DSE Chemistry
   - HKDSE

@@ -1,7 +1,7 @@
 # 香港 vs 加拿大：大陆学生本科留学全面对比 2026
 
 > 摘要 — 香港八大 4 年本科全包约 118–135 万人民币，加拿大 U15 顶校约 145–185 万人民币（+25–40% 溢价）；香港凭 IANG 24 个月无条件 + 7 年居留满即可拿 PR，结构清晰；加拿大本科生 PGWP 3 年 + Express Entry CEC 路径，2026 年新增 "高级管理/研究人员/外籍医生" 类别，但受 2026 学签总配额压缩 16%（新发 15.5 万份）和省级 PAL 限制影响，入口竞争加剧。
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用 IRCC（加拿大移民部）、Canada.ca、香港入境处、QS 2026 及各校官方数据。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用 IRCC（加拿大移民部）、Canada.ca、香港入境处、QS 2026 及各校官方数据。License: CC BY 4.0.
 
 ---
 
@@ -391,7 +391,7 @@ A：**多大工程胜出场景**：立志北美就业 / 想进 Google/Amazon/Met
 
 ## 📩 需要 1-on-1 升学咨询？
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 
 - **香港 vs 加拿大 双线申请策略** — 同时保持两地 offer，最后再决定
 - **高考分 → 加拿大 U15 路径规划**（高考/A-Level/IB 三轨方案）
@@ -404,4 +404,4 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*Last updated: 2026-04-17 · Maintained by CompanyForge AI editorial team · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
+*Last updated: 2026-04-17 · Maintained by the editorial team AI editorial team · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*

@@ -1,7 +1,7 @@
 ---
 title: "DSEと日本の大学入試の比較：共通テスト・一般入試との違いと香港の機会"
 description: "日本語によるDSEと日本大学入試の詳細比較 — DSE（香港文憑試験）vs共通テスト vs 一般入試の構造比較、DSEで応募できる香港大学 vs 日本の大学の入学難易度比較、DSE英語の評価基準と日本人の強み・弱点、香港の大学に進学するメリット（学費/英語環境/アジアでのキャリア）、在香港日本人学校学生のDSE受験の可能性"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "comparison"
 last_updated: "2026-04-18"

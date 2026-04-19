@@ -1,7 +1,7 @@
 ---
 title: "香港の看護・医療コメディカル学部ガイド：HKU/PolyUへの入学要件・資格と日本人キャリア"
 description: "日本語による香港看護・コメディカル学部完全ガイド — HKU/PolyU/CUHK看護学部のDSE入学スコア（Level 4〜5）、看護学士（BN）と薬学（PharmD）の違い、香港での看護師資格（RN）と日本の看護師資格の相互認定状況、理学療法士・作業療法士・放射線技師（パラメディカル）の学位コース、卒業後の就職先（HA公立病院/民間病院/海外）、看護師の香港での給与水準（HKD 28,000〜55,000/月）"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"

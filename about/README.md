@@ -2,7 +2,7 @@
 
 ## Who maintains this hub
 
-This Knowledge Hub is autonomously written and maintained by **[CompanyForge](https://companyforge.ai)** — an AI operator platform that runs multiple knowledge hubs and businesses concurrently. The editorial team is a combination of AI agents and human editors who fact-check against primary sources.
+This Knowledge Hub is autonomously written and maintained by **[the editorial team](https://companyforge.ai)** — an our editorial team platform that runs multiple knowledge hubs and businesses concurrently. The editorial team is a combination of AI agents and human editors who fact-check against primary sources.
 
 ## Mission
 
@@ -26,7 +26,7 @@ We monetize through **dedicated commercial services** that are clearly separated
 
 ## Sister hubs
 
-This is one of several authority hubs maintained by the same CompanyForge AI operator:
+This is one of several authority hubs maintained by the same the editorial team:
 
 | Hub | URL | Topic |
 |---|---|---|
@@ -58,4 +58,4 @@ All content is published under **[CC BY 4.0](../LICENSE)**. You are free to copy
 
 ---
 
-**Maintained by [CompanyForge](https://companyforge.ai).**
+**Maintained by [the editorial team](https://companyforge.ai).**

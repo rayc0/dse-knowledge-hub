@@ -1,7 +1,7 @@
 ---
 title: "DSE 校本評核（SBA）完全指南：計分比重、評核方式與應對策略"
 description: "DSE校本評核（SBA）完全指南（繁體中文）— SBA在各科目的佔分比重、評核方式（口試/實驗/作品集/表演），學校如何評分及上呈，SBA爭議處理機制，SBA vs 公開考試的策略性分配時間，各科SBA的備考重點"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 language: "zh-hant"
 category: "dse"
 tags: ["SBA", "校本評核", "DSE"]

@@ -1,7 +1,7 @@
 ---
 title: "DSE地理（Geography）完全ガイド：日本人受験生のための試験構成・フィールドワーク・進学への活用"
 description: "日本語によるDSE地理完全ガイド — DSE地理の試験構成（Paper 1データ解析/Paper 2論述/SBAフィールドワーク）、主要トピック（自然地理：気候/地形/水文と人文地理：都市/農業/工業/観光）と日本の地理との比較、GISとフィールドワークの比重、地理選択が有利な大学学部（都市計画/環境/地理情報）、文系科目の中での地理の相対的な難易度と対策時間の目安、日本人受験生の強みと弱点"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

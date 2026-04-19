@@ -1,7 +1,7 @@
 ---
 title: "홍콩 간호·의료 코메디컬 학부 가이드: HKU/PolyU 입학 요건·자격과 한국인 커리어"
 description: "한국어 홍콩 간호·코메디컬 학부 완전 가이드 — HKU/PolyU/CUHK 간호학부 DSE 입학 스코어(Level 4〜5), 간호학사(BN)와 약학(PharmD) 차이, 홍콩 간호사 자격(RN)과 한국 간호사 자격의 상호 인정 상황, 물리치료사·작업치료사·방사선사 학위 코스, 졸업 후 취직처(HA 공립병원/민간 병원/해외), 간호사의 홍콩 급여 수준(HKD 28,000〜55,000/월)"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"

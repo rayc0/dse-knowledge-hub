@@ -1,7 +1,7 @@
 ---
 title: "DSE 물리（Physics）완전 가이드: 한국인 수험생을 위한 이수 범위·시험 대책·대학 진학 영향"
 description: "한국어 DSE 물리 완전 가이드 — DSE 물리 시험 구성(Paper 1/2/3의 Section A·B), 이수 내용(역학·전자기·열·파동·양자·우주)과 한국 물리의 비교, Paper 1 계산 문제와 Paper 2 데이터 분석, 고득점(Level 5★)에 필요한 대책과 시간 배분, 홍콩 대학(HKU/HKUST/CUHK) 입학에 물리가 필요한 학부 일람, 한국 수능 물리Ⅰ·Ⅱ와 DSE 물리의 범위 비교"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

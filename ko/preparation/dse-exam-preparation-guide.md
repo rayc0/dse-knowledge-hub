@@ -1,7 +1,7 @@
 ---
 title: "DSE 시험 합격 전략: 스케줄 관리, 과목별 공부법과 한국 학생을 위한 가이드"
 description: "한국어 DSE 시험 준비 완전 가이드 — 6개월·12개월 공부 스케줄 샘플, 과목별 핵심 포인트(영어/중국어/수학/필수과목), 수능과 DSE의 차이점 및 전환 포인트, 모의고사 활용법, DSE 스트레스 관리, 홍콩 보습학원 vs 개인 과외 비교, 합격 기준(Level 3+의 의미)"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "preparation"
 last_updated: "2026-04-18"

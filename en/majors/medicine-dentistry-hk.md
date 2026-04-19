@@ -4,7 +4,7 @@ description: "Complete guide to MBBS and BDS programmes at HKU and CUHK — DSE 
 lang: en
 category: majors
 date: 2026-04-17
-author: DSE Knowledge Hub
+author: Thomas Ho
 tags: [medicine, dentistry, JUPAS, HKU, CUHK, DSE, MMI, healthcare]
 ---
 

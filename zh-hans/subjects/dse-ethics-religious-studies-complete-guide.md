@@ -1,7 +1,7 @@
 ---
 title: "DSE伦理与宗教完全攻略：内地学生备考指南"
 description: "全面解析DSE伦理与宗教（Ethics and Religious Studies）的试卷结构、伦理与宗教两大选修方向、核心伦理框架，以及内地学生如何利用这一相对轻松的科目优化DSE选科组合。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

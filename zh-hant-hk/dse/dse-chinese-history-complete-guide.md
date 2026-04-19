@@ -1,7 +1,7 @@
 ---
 title: "DSE 中國歷史完全攻略 2026｜古代史＋近代史、論述題技巧、Level 5**策略"
 description: "全面講解DSE中國歷史考試結構（卷一古代史、卷二近代史）、重要朝代、近代中國大事、論述答題技巧、與世界歷史科比較及Level 5**備考策略，適合香港本地中學生。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"

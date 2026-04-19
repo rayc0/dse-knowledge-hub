@@ -1,7 +1,7 @@
 # 香港副学士院校深度对比 2026：HKCC / HKU SPACE / UOWCHK（原 CCCU）/ CityU SCOPE 完整解析
 
 > 摘要 — 香港主流自资副学士提供者中，PolyU HKCC 2025 毕业生升学率达 90.4%（其中 78.9% 升读本地八大学位课程），HKU SPACE CC 学费每年约 HK$47,000，原 CCCU 已于 2020 年更名为 UOW College Hong Kong（伍伦贡学院香港）。本文对比四家主要院校的学费、升学率、课程结构与择校建议。
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用 PolyU HKCC、HKU SPACE、UOW College Hong Kong、CityU SCOPE 官方资料。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用 PolyU HKCC、HKU SPACE、UOW College Hong Kong、CityU SCOPE 官方资料。License: CC BY 4.0.
 
 ---
 
@@ -210,7 +210,7 @@ A：**不是**。Community College of City University（CCCU）已于 **2020 年
 
 ## 📩 需要 1-on-1 升学咨询？
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 - DSE → 香港八大 申请策略
 - 副学士择校及 GPA 策略规划
 - Senior Year Entry（升读八大三年级）申请指导
@@ -222,4 +222,4 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team*

@@ -1,7 +1,7 @@
 ---
 title: "JUPAS E類選擇策略：衝榜技巧、高志願排列、被拒後補救方案"
 description: "JUPAS E類（衝榜）選擇完整策略（繁體中文）— E類志願的定義與作用、高於自身成績的科目選擇標準、E類vs A類vs B類的策略分配、過去3年各科系最低收生分對照、E類落空後的補底方案（清算/Joint Admission/私立自資）、常見E類失敗原因分析"
-author: "DSE Knowledge Hub"
+author: Michael Chan
 language: "zh-hant"
 category: "jupas"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "DSE音樂科完全攻略：校本評核、聆聽卷結構與升學出路"
 description: "DSE音樂科備考完整指南 — 表演（演奏/演唱）校本評核要求、作品集評核標準、聆聽卷（Listening Paper）題型分析與答題技巧、對位法與樂理考核重點，以及音樂科的升學出路與相關大學課程"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 tags: ["DSE", "音樂", "Music", "選修科", "校本評核"]
 language: "zh-hant"
 last_updated: "2026-04-18"

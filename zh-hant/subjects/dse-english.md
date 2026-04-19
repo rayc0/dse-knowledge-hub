@@ -1,7 +1,7 @@
 ---
 title: "DSE英語科完全攻略：四卷結構、評核重點與高分策略"
 description: "全面解析DSE英語文憑（English Language）四份試卷的考核內容、評分準則、常見失分原因，以及非英語家庭考生的實用備考策略"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 tags: ["DSE", "英語", "English", "Language", "寫作"]
 language: "zh-hant"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "DSE観光・ホスピタリティ（Tourism & Hospitality Studies）完全ガイド：日本人受験生のための試験構成と進学活用"
 description: "日本語によるDSE観光・ホスピタリティ完全ガイド — 試験構成（Paper 1観光概論/Paper 2ケーススタディ/SBA）、主要テーマ（持続可能な観光/観光マーケティング/MICE/航空）、日本のホスピタリティ産業との比較、PolyU HTM・VTC Hotel SchoolへのJUPAS活用、Level 5対策"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

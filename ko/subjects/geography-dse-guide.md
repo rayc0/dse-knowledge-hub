@@ -1,7 +1,7 @@
 ---
 title: "DSE 지리（Geography）완전 가이드: 한국인 수험생을 위한 시험 구성·필드워크·진학 활용"
 description: "한국어 DSE 지리 완전 가이드 — DSE 지리 시험 구성(Paper 1 데이터 분석/Paper 2 논술/SBA 필드워크), 주요 토픽(자연지리: 기후/지형/수문과 인문지리: 도시/농업/공업/관광)과 한국 지리와의 비교, GIS와 필드워크 비중, 지리 선택이 유리한 대학 학부(도시계획/환경/지리정보), 문과 과목 중에서의 지리 상대적 난이도, 한국인 수험생 강점과 약점"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

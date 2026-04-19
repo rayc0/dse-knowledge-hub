@@ -1,7 +1,7 @@
 ---
 title: "DSE中文科備考攻略：閱讀理解、寫作技巧與文言文溫習策略"
 description: "全面解析DSE中國語文科的卷一閱讀理解、卷二寫作、卷三聆聽綜合及文言文範文的備考方法與高分技巧"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 tags: ["DSE", "中文", "Chinese", "閱讀", "寫作", "文言文"]
 language: "zh-hant"
 last_updated: "2026-04-18"

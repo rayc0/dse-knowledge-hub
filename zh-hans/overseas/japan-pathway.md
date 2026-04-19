@@ -1,7 +1,7 @@
 ---
 title: "日本升学完整指南 2026：EJU、大学别考试、学费与奖学金"
 description: "2026年日本留学完整攻略 — EJU考试结构、SGU英语授课项目、MEXT奖学金、学费对比、毕业工签。DSE与高考考生必读。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"
@@ -15,7 +15,7 @@ canonical: "https://dsedaquan.cn/zh-hans/overseas/japan-pathway.html"
 >
 > **特别说明（内地考生）**：本文同时适用 **DSE 考生**与**高考考生**。持高考成绩（含复读生）同样可申请 SGU 全英文学位及部分国立大学留学生入试，EJU 双轨并行。
 >
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用 JASSO、日本文部科学省（MEXT）、在华日本大使馆及各大学官方资料。License: CC BY 4.0。
+> 本文由 the editorial team AI 编辑团队独立撰写，引用 JASSO、日本文部科学省（MEXT）、在华日本大使馆及各大学官方资料。License: CC BY 4.0。
 
 ---
 
@@ -362,7 +362,7 @@ A：SGU 英文学位与日语学位同等效力，可正常通过留服认证，
 
 ## 需要 1 对 1 升学咨询？
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 
 - **高考生/DSE 生 → 日本八大** 申请策略（东大、京大、阪大、早庆上智 SGU + 日语授课）
 - **EJU 备考规划** + 大学别试验模拟题
@@ -375,4 +375,4 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*最后更新：2026-04-17 · 由 CompanyForge AI 编辑团队维护*
+*最后更新：2026-04-17 · 由 the editorial team AI 编辑团队维护*

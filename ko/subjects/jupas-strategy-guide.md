@@ -1,7 +1,7 @@
 ---
 title: "JUPAS 지원 전략 완전 가이드: 한국인 수험생을 위한 DSE 점수 최대 활용법"
 description: "한국어 JUPAS 지원 전략 완전 가이드 — JUPAS 구조와 DSE 점수 환산(Best 5), Early Round(11월)와 Main Round(2월) 전략적 활용법, 밴드 계산(5★=7점/5=5점), UGC 8개 대학 지원 우선순위 설정, 재외국민 특별전형 vs JUPAS 이원 지원 전략, 7월 DSE 결과 발표부터 입학 확인까지의 타임라인"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-19"

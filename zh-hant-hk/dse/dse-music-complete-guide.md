@@ -1,7 +1,7 @@
 ---
 title: "DSE 音樂科完全攻略：聆聽、演奏 SBA、創作 SBA 全面解析"
 description: "全面介紹 DSE 音樂科的考試結構（聆聽 30%、演奏 SBA 35%、創作 SBA 35%），涵蓋樂理考核、演奏評分準則、作曲要求、選科建議及 Level 5 備考策略，專為香港本地考生而設。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"

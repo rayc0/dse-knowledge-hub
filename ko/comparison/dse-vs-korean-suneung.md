@@ -1,7 +1,7 @@
 ---
 title: "DSE vs 수능 비교: 홍콩 대학 진학 vs 한국 명문대의 차이와 기회"
 description: "한국어 DSE와 수능 상세 비교 — DSE(홍콩 문빙시) vs 수능 vs 논술의 구조 비교, DSE로 지원 가능한 홍콩 대학 vs 한국 대학의 입학 난이도 비교, DSE 영어 평가 기준과 한국인의 강점·약점, 홍콩 대학 진학의 장점(학비/영어 환경/아시아 커리어), 재홍콩 한국인 학교 학생의 DSE 응시 가능성"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "comparison"
 last_updated: "2026-04-18"

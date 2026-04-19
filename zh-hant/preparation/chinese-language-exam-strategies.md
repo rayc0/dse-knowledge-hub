@@ -1,7 +1,7 @@
 ---
 title: "DSE中文科應試策略：閱讀、寫作、聆聽說話完整備考指南"
 description: "DSE中文科完整應試指南（繁體中文）— 中文卷一閱讀理解答題格式（引用/分析/評論三層次）、卷二寫作選題策略（記敘/說明/議論文類型要求）、卷三聆聽及說話評估準備、常見失分原因分析、DSE中文5**考生的備考習慣、中文補底與提升工具書推薦"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 language: "zh-hant"
 category: "preparation"
 last_updated: "2026-04-18"

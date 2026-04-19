@@ -1,7 +1,7 @@
 ---
 title: "DSE 체육（Physical Education）완전 가이드: 한국인 수험생을 위한 시험 구성·실기 대책"
 description: "한국어로 제공하는 DSE 체육 완전 가이드 — 시험 구성（필기 Paper 1+SBA 실기 퍼포먼스）, 선택 스포츠 종목（배드민턴/농구/수영/육상 등）, Sports Science 이론 범위, 한국 수능 체육교육과 vs DSE PE 비교, 배드민턴/수영/육상 한국인 강세 종목 전략, PolyU 스포츠과학→물리치료 진학 루트, Level 5 대책"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

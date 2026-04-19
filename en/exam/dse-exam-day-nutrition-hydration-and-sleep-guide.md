@@ -4,7 +4,7 @@ description: "A science-informed guide to what HKDSE candidates should eat, drin
 lang: en
 category: exam
 date: 2026-04-15
-author: DSE Hub
+author: Vivian Lam
 tags:
   - dse
   - exam-preparation

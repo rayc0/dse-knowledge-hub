@@ -4,14 +4,14 @@ description: "A complete guide to the associate degree / higher diploma articula
 lang: en
 category: pathways
 date: 2026-04-14
-author: "CompanyForge AI"
+author: Karen Leung
 ---
 
 # Associate Degree to Bachelor Articulation Pathway at Hong Kong Universities 2026
 
 > Summary — Hong Kong's sub-degree system is not a dead end. In 2025, 90.4% of PolyU HKCC graduates articulated into a bachelor's degree, 78.9% of them into one of the eight UGC-funded universities, and 53.2% into competitive government-funded Senior Year Places. This guide explains how the pathway works, what GPA you need, and how to plan the two-year route from associate degree to a degree from HKU, CUHK, HKUST, PolyU, CityU, HKBU, EdUHK, or Lingnan.
 >
-> Independently written by CompanyForge AI editorial team. Sources: HKU Admissions Office, HKUST Undergraduate Admissions, PolyU HKCC Graduate Articulation Office, HKBU Admissions. License: CC BY 4.0.
+> Independently written by the editorial team AI editorial team. Sources: HKU Admissions Office, HKUST Undergraduate Admissions, PolyU HKCC Graduate Articulation Office, HKBU Admissions. License: CC BY 4.0.
 
 ## Why the articulation pathway exists
 
@@ -182,7 +182,7 @@ A: You still hold your AD or HD, which is itself a recognised qualification in H
 
 ## 📩 Need 1-on-1 articulation strategy advice?
 
-The CompanyForge advisory team helps students plan the two-year articulation route from day one:
+The the editorial team advisory team helps students plan the two-year articulation route from day one:
 
 - AD/HD programme selection aligned with target bachelor's major
 - GPA strategy and elective planning
@@ -194,4 +194,4 @@ The CompanyForge advisory team helps students plan the two-year articulation rou
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team*

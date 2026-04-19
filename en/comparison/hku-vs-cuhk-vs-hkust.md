@@ -1,7 +1,7 @@
 ---
 title: "HKU vs CUHK vs HKUST: A Comprehensive Comparison for DSE Students"
 description: "In-depth comparison of Hong Kong's top three universities — admission scores, programme strengths, campus culture, career outcomes, and strategic JUPAS choices for DSE candidates"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 tags: ["comparison", "HKU", "CUHK", "HKUST", "JUPAS", "university"]
 last_updated: "2026-04-18"
 canonical: "https://dsedaquan.cn/en/comparison/hku-vs-cuhk-vs-hkust"

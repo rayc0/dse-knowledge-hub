@@ -1,7 +1,7 @@
 ---
 title: "DSE BAFS 企業、會計與財務概論完全攻略 2026｜Accounting vs Business Management、Level 5**策略"
 description: "全面講解DSE BAFS（企業、會計與財務概論）考試結構、Accounting strand與Business Management strand比較、重點考核範疇、Level 5**備考策略及銜接大學課程，適合香港本地中學生。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"

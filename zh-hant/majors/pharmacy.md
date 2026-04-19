@@ -1,7 +1,7 @@
 ---
 title: "香港藥劑學位：HKU、CUHK、PolyU藥劑課程入學要求、學費與職業出路"
 description: "香港藥劑學位完整指南（繁體中文）— 港大/中大/理大藥劑課程比較、DSE入學要求（化學必修+生物加分）、學費結構、藥劑師執業資格（HKPC考試）、公立vs私立醫院藥劑師薪酬對比、研究院及製藥業出路"
-author: "DSE Knowledge Hub"
+author: Editorial Team
 language: "zh-hant"
 category: "majors"
 last_updated: "2026-04-18"

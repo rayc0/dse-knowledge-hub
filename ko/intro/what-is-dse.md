@@ -1,7 +1,7 @@
 ---
 title: "DSE(홍콩 중학교 졸업시험)란 무엇인가: 국제학교 학생을 위한 완전 가이드"
 description: "홍콩 DSE 시험 완전 가이드(한국어) — DSE란 무엇인가(홍콩 대학 입학 통합 시험), 핵심 4과목(중국어/영어/수학/시민 생활과 사회)과 선택 과목 구성, IB·A-Levels와의 차이점, JUPAS 홍콩 대학 입학 제도 활용 방법, DSE 성적의 해외 대학 인정 현황(영국/호주/캐나다), 한국인 학생이 DSE를 응시하는 경우(ESF·국제학교 졸업생)"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "intro"
 last_updated: "2026-04-18"

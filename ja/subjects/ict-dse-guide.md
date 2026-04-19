@@ -1,7 +1,7 @@
 ---
 title: "DSE情報通信技術（ICT）完全ガイド：日本人受験生のための試験範囲・プログラミング・進学活用"
 description: "日本語によるDSE ICT完全ガイド — DSE ICTの試験構成（Paper 1理論/Paper 2実践）、主要トピック（ネットワーク・データ管理・プログラミング・セキュリティ・AI/ビッグデータ）と日本の情報科との比較、Paper 2の実際の問題形式（Pythonまたは疑似コード）、高得点（Level 5★）対策、ICTが有利な香港大学の学部（HKUST/PolyU工学系）、CS/情報系への進学でのICTの評価"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

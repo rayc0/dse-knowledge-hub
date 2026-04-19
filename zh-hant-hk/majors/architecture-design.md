@@ -1,7 +1,7 @@
 ---
 title: "香港大學建築及設計學科指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學建築及設計課程，包括HKU、PolyU、CUHK的課程特色、收生要求、組合建議及職業出路，幫助DSE學生作出明智選擇。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"

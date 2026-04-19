@@ -1,7 +1,7 @@
 ---
 title: "DSEからカナダ大学進学ガイド：UBC・トロント大・マギル大へのDSE出願要件と永住権への道"
 description: "日本語によるDSE→カナダ大学進学完全ガイド — DSEを受け入れる主要カナダ大学（UBC/U of Toronto/McGill/McMaster/UAlberta）の入学要件、DSE Best 5スコアとカナダ入学基準の換算、学部別必要科目（理系/文系/医系）、年間費用（学費：CAD 20,000〜40,000+生活費）、卒業後労働許可（PGWP）と永住権（CEC/EEAP）への道、日本人学生がカナダをDSE後に選ぶ理由（安全・多文化・永住権）"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "overseas"
 last_updated: "2026-04-18"

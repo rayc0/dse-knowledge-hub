@@ -1,7 +1,7 @@
 ---
 title: "DSE vs IB vs A-Level：香港三大高中課程比較與升學出路分析"
 description: "DSE、IB文憑（IBDP）和英國A-Level三大高中課程全面比較 — 課程結構、評核方式、香港大學認受性、JUPAS申請及國際升學出路，以及轉換課程的實際考慮"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 tags: ["DSE", "IB", "A-Level", "高中課程", "升學"]
 language: "zh-hant"
 last_updated: "2026-04-18"

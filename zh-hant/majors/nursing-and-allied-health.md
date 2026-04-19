@@ -1,7 +1,7 @@
 ---
 title: "香港護理及醫療相關學科升學指引：護理、物理治療、職業治療成績要求與出路"
 description: "香港護理及醫療相關學科完全指南（繁體中文）— 各院校護理學位DSE要求、物理治療 vs 職業治療比較、放射治療/診斷放射學、言語治療學，畢業後薪酬與職業前景，政府醫院統一培訓與私人市場"
-author: "DSE Knowledge Hub"
+author: Vivian Lam
 language: "zh-hant"
 category: "majors"
 canonical: "https://dsedaquan.cn/zh-hant/majors/nursing-and-allied-health"

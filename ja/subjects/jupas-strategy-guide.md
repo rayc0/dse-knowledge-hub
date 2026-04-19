@@ -1,7 +1,7 @@
 ---
 title: "JUPAS出願戦略完全ガイド：日本人受験生のためのDSEスコア最大活用法"
 description: "日本語によるJUPAS出願戦略完全ガイド — JUPASの仕組みとDSEスコア換算（Best 5）、Early Round（11月）とMain Round（2月）の戦略的使い分け、バンド計算（5★=7点/5=5点）、UGC大学8校の出願優先順位設定、日本人受験生の失敗パターン回避策、7月DSE結果公開から入学確認までのタイムライン"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-19"

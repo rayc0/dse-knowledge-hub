@@ -1,7 +1,7 @@
 ---
 title: "香港大学文学与人文学科完全指南——内地生视角"
 description: "全面介绍香港各大学文学与人文学科课程：HKU文学院、CUHK文学院、HKBU人文学系等；涵盖文学、哲学、历史、语言学、文化研究等方向；职业发展路径、DSE选科建议、内地生与本地生比例、奖学金，以及与北大/复旦中文系的对比。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-04-19"

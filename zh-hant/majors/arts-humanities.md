@@ -1,7 +1,7 @@
 ---
 title: "DSE文科生出路全攻略：人文學科、藝術設計、傳播媒體的升學與就業分析"
 description: "香港DSE文科生升學指南 — 人文學科、藝術設計及傳播媒體專業的大學課程比較、JUPAS選科要求、海外升學機會，以及文科出路的現實分析"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 tags: ["DSE", "文科", "藝術設計", "傳播媒體", "JUPAS"]
 language: "zh-hant"
 last_updated: "2026-04-18"

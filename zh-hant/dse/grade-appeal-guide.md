@@ -1,7 +1,7 @@
 ---
 title: DSE 申請複閱成績指引：哪種情況值得複閱及申請程序
 description: DSE複閱成績（Re-mark/Re-check）完全指引（繁體中文）— 複閱 vs 覆核的分別、申請費用和時間、複閱後成績改變的實際比率、哪些科目複閱成功率較高、複閱期間JUPAS安排
-author: DSE Knowledge Hub
+author: Karen Leung
 language: zh-hant
 category: dse
 canonical: https://dsedaquan.cn/zh-hant/dse/grade-appeal-guide

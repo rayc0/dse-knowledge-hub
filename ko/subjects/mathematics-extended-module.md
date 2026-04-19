@@ -1,7 +1,7 @@
 ---
 title: "DSE 수학 확장 모듈(M1/M2) 완전 가이드: 한국 학생을 위한 선택 전략과 득점 최대화"
 description: "한국어 DSE 수학 확장 모듈 완전 가이드 — M1(미적분·통계) vs M2(대수·미적분) 내용 비교와 선택 기준, 한국 수학Ⅱ·확률과 통계·기하와 비교(공통점과 차이점), 학과별 권장(이공계는 M2/경제·사회과학은 M1), M1/M2 Level 5★ 달성 전략, 확장 모듈 없음 vs 있음의 입학 경쟁력 차이, 이계 학과(CS/공학/의학)에서의 중요성, DSE 수학B와의 조합"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

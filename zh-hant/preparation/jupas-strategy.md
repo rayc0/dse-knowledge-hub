@@ -1,7 +1,7 @@
 ---
 title: "JUPAS申請策略全攻略：選科序、Band界定、改選時機與放榜部署"
 description: "DSE生JUPAS申請完整策略指南 — 如何排列最佳選科序（Band A/B/C）、改選截止日期、攻讀心儀學系的實戰建議、放榜後Clearing Round應對"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 tags: ["DSE", "JUPAS", "大學申請", "Band A", "選科"]
 language: "zh-hant"
 last_updated: "2026-04-18"

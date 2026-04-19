@@ -1,7 +1,7 @@
 ---
 title: "DSE化学（Chemistry）完全ガイド：日本人受験生のための履修範囲・試験対策・理系進学への活用"
 description: "日本語によるDSE化学完全ガイド — DSE化学の試験構成（Paper 1/2/3）、履修内容（原子構造・化学結合・有機化学・電気化学・物質量）と日本の化学との対比、Paper 1のMCQとPaper 2の自由記述、SBAの実験レポート評価、高得点（Level 5★）対策、化学が必要な香港大学学部一覧（医歯薬/化学工学/食品科学）"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

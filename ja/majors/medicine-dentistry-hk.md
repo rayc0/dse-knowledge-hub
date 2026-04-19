@@ -1,7 +1,7 @@
 ---
 title: "香港の医学部・歯学部進学ガイド：HKU・CUHKの入学要件と日本人への機会"
 description: "日本語による香港医学部完全ガイド — HKUとCUHKの医学部・歯学部（MBBS/BDS）入学要件（DSEスコア/JUPAS順位/英語要件）、JUPAS vs Non-JUPASルートの比較、日本の医学部と香港の医学部の違い（6年制/実習体制/卒業後のキャリア）、日本人学生の合格実績、医師免許の香港と日本の相互認定状況、入学費用と奨学金"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"

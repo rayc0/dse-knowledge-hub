@@ -1,7 +1,7 @@
 ---
 title: "DSE化學科完全攻略：課程大綱、計算題技巧與實驗要點"
 description: "全面解析DSE化學科的課程架構、必修與選修單元、計算題方法、實驗技巧及高分溫習策略"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 tags: ["DSE", "化學", "Chemistry", "理科", "溫習"]
 language: "zh-hant"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "DSE商科及經濟學系選擇指南：港、英、加、澳大學比較"
 description: "持DSE成績升讀商科及經濟學系的完整指南 — 香港各大學商學院比較、海外選項、學科差異、就業前景與入學成績要求"
-author: "DSE Knowledge Hub"
+author: Editorial Team
 tags: ["DSE", "商科", "Business", "Economics", "JUPAS"]
 language: "zh-hant"
 last_updated: "2026-04-18"

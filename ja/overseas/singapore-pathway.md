@@ -1,7 +1,7 @@
 ---
 title: "DSEからシンガポール大学進学ガイド：NUS・NTU・SMUへの出願要件・費用・就職環境"
 description: "日本語によるDSE→シンガポール大学進学完全ガイド — NUS/NTU/SMUのDSE受入れ状況と必要スコア（一般的にBest 5 Level 3〜5以上）、香港DSEとシンガポールのA-Levelsの位置付け、学費（SGD 8,000〜30,000/年）と奨学金（ASEAN奨学金）、シンガポールと香港の地理的近さによる利便性、就職後のエキスパット扱いとCPF（年金）の仕組み、日本人学生にとってのシンガポール大学のメリット（英語+中国語環境）"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "overseas"
 last_updated: "2026-04-18"

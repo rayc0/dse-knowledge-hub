@@ -1,7 +1,7 @@
 ---
 title: "DSE数学（Mathematics Compulsory Part）完全ガイド：日本人受験生のための試験構造・対策・進学への影響"
 description: "日本語によるDSE数学（必修）完全ガイド — DSE数学（Compulsory Part）の試験構成（Paper 1長問/Paper 2 MCQ）、主要トピック（代数/幾何/三角関数/統計/確率）と日本の数学Ⅰ・A・Ⅱ・Bとの対比、Paper 1の問題解答テクニックと部分点の取り方、高得点（Level 5★）のための対策スケジュール、延伸単元（M1/M2）との組み合わせ戦略、全大学全学部で必要な必須科目としての重要性、日本人受験生の強みと弱点（英語数学のアドバンテージ）"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

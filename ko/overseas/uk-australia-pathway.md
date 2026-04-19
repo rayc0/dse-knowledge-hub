@@ -1,7 +1,7 @@
 ---
 title: "DSE로 영국·호주 대학에 진학: 지원 방법, 점수 환산과 한국인의 기회"
 description: "한국어 DSE를 이용한 영국·호주 대학 진학 완전 가이드 — DSE 점수를 이용한 UCAS(영국) 지원, 영국 러셀그룹 대학(임페리얼/UCL/에든버러)의 DSE 요건, 호주 대학(멜버른/시드니/ANU)의 DSE 인정 현황, UCAS Tariff와 입학 조건 환산, 영국·호주 학생 비자 요건, 한국 학생에게 있어 DSE 영국 진학 vs 한국 국내 진학 비교"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "overseas"
 last_updated: "2026-04-18"

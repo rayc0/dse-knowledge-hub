@@ -1,7 +1,7 @@
 # 港校学生打工完整规则 2026：NOL 新政、实习、暑假工、违规后果详解
 
 > 摘要 — 2024 年 11 月起，香港全面放宽非本地本科生及研究生兼职限制：凭自动签发的"不反对通知书"（NOL）即可在学期内外从事任何合法有薪工作，无工时上限、无地点限制。本文详解新旧政策对比、NOL 运作机制、仍然禁止的工作类型、税务与强积金义务、违规后果及常见误区。
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用香港入境事务处、香港特区政府新闻公报、《入境条例》（第 115 章）等官方来源。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用香港入境事务处、香港特区政府新闻公报、《入境条例》（第 115 章）等官方来源。License: CC BY 4.0.
 
 ---
 
@@ -317,7 +317,7 @@ A: 在临时豁免下，暑假和学期内的规则相同 — 合法雇佣关系
 
 ## 📩 需要 1-on-1 升学咨询？
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 - DSE → 香港八大 申请策略
 - 个人陈述 (PS) 修改
 - 面试模拟
@@ -327,4 +327,4 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*Last updated: 2026-04-16 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-16 · Maintained by the editorial team AI editorial team*

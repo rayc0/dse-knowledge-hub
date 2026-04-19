@@ -1,7 +1,7 @@
 ---
 title: "DSE応用学習（Applied Learning）完全ガイド：日本人受験生のための科目概要と大学入学への影響"
 description: "日本語によるDSE応用学習（ApL）完全ガイド — Applied Learningとは何か（職業・技術系の選択科目）、評価方法（Attained/Attained with Distinction）、提供コース一覧（ICT/ホスピタリティ/美容/デザイン/航空）、JUPAS出願での加点評価ルール（最大2科目換算）、理系・文系本科目との組み合わせ戦略、日本人受験生がApLを選択するメリット・デメリット"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

@@ -4,7 +4,7 @@ description: "Complete English-language guide to the Hong Kong Associate Degree 
 lang: en
 category: admission
 date: 2026-04-14
-author: "DSE Knowledge Hub"
+author: Michael Chan
 ---
 
 # Associate Degree to Bachelor — The Hong Kong Articulation Pathway Complete Guide 2026

@@ -2,7 +2,7 @@
 
 > **摘要**：IANG（Immigration Arrangements for Non-local Graduates）是香港入境处专为港校非本地毕业生设计的留港工作签注，2022 年政策放宽后初始有效期延长至 **24 个月**，无需事先取得工作邀请即可留港。2024 年全年共批出 25,475 份 IANG 签证，批准率超过 94%。
 >
-> 本文由 CompanyForge AI 编辑团队独立撰寫，引用香港入境处官网 immd.gov.hk 及各大学就业报告。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰寫，引用香港入境处官网 immd.gov.hk 及各大学就业报告。License: CC BY 4.0.
 
 ---
 
@@ -385,7 +385,7 @@ IANG 每次续签均须重新审核，若届满时无就业记录（失业、无
 
 ## 📩 需要 1-on-1 升学及留港咨询？
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 
 - DSE / 大陆高考 → 香港八大 申请策略
 - IANG 签证申请全流程协助（材料准备 + 时间规划）
@@ -398,4 +398,4 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*Last updated: 2026-04-11 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-11 · Maintained by the editorial team AI editorial team*

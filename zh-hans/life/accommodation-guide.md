@@ -4,7 +4,7 @@ description: "港大、中大、科大八大宿舍制度完整解析：申请条
 lang: zh-hans
 category: life
 date: 2026-04-14
-author: "DSE Knowledge Hub"
+author: Vivian Lam
 ---
 
 # 香港留学住宿全攻略：宿舍 vs 校外租房完整对比 2026

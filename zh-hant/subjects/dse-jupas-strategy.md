@@ -1,7 +1,7 @@
 ---
 title: "DSE JUPAS大學申請策略：選科、分數換算與競爭力分析"
 description: "DSE JUPAS（大學聯合招生辦法）完整策略指南 — JUPAS最低/平均分數的解讀，選科優先次序策略（Band A首選·Band B保底），加分科目（延伸數學·其他語言），應用學習ApL的JUPAS積分，各大學收生取向差異（HKU vs CUHK vs PolyU vs CityU），Band Shifting風險評估，國際課程（IB/BTEC）競爭影響"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 language: "zh-hant"
 category: "subjects"
 tags: ["DSE", "JUPAS", "大學申請", "HKDSE"]

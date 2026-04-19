@@ -1,7 +1,7 @@
 ---
 title: "DSE中國文學完全攻略：科目架構、詩詞鑑賞答題框架與升學出路"
 description: "DSE中國文學備考完整指南 — 中文文學科與中國語文科的核心分別、試卷架構（指定文學作品精讀+文學鑑賞+創意回應），詩詞分析的意象·意境·主旨框架，散文答題的結構化方法，歷年高分答題技巧，以及中文文學科的香港及海外升學出路（中大中文系·嶺大文學院）"
-author: "DSE Knowledge Hub"
+author: Vivian Lam
 tags: ["DSE", "中國文學", "Chinese Literature", "選修科", "文學"]
 language: "zh-hant"
 last_updated: "2026-04-18"

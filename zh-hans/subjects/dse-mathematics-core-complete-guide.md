@@ -1,7 +1,7 @@
 ---
 title: "DSE数学必修部分完全指南——内地生视角"
 description: "全面解析DSE数学必修部分（Math Core）考试结构、Paper 1长答与Paper 2选择题要点、核心考点、与高考数学的异同对比、内地生常见失误，以及冲刺Level 5**策略。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

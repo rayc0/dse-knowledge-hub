@@ -1,7 +1,7 @@
 ---
 title: "DSE 중국사（Chinese History）완전 가이드: 한국인 수험생을 위한 시험 구성·학습 대책"
 description: "한국어로 작성된 DSE 중국사 완전 가이드 — 시험 구성（Paper 1 통사/Paper 2 주제 선택），학습 범위（고대~청말에서 중국 근현대사까지），한국인의 강점（수나라/당나라/한중관계/명청）과 약점（번체자/문화대혁명의 중국 시각），번체자 한문 독해 대책，중국사 선택이 유리한 대학 학과（역사/중어중문/지역학），Level 4 대책"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

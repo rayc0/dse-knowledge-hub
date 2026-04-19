@@ -1,7 +1,7 @@
 ---
 title: "DSE音楽（Music）完全ガイド：日本人受験生のための試験構成・実技対策・進学への活用"
 description: "日本語によるDSE音楽完全ガイド — 試験構成（Paper 1聴音・記譜/Paper 2楽曲分析/SBA演奏・作曲）、西洋音楽理論と広東オペラ（粤劇）両方の出題、日本の音楽科との比較、音楽選択が有利な大学学部（HKAPA/CUHK音楽）、Level 5対策"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

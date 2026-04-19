@@ -1,7 +1,7 @@
 ---
 title: "DSEで英国・オーストラリアの大学へ進学：出願方法、スコア換算と日本人の機会"
 description: "日本語によるDSEを使った英国・豪州大学進学完全ガイド — DSEスコアを使ったUCAS（英国）出願、英国ラッセルグループ大学（インペリアル/UCL/エジンバラ）のDSE要件、オーストラリア大学（メルボルン/シドニー/ANU）のDSE認定状況、UCAS Tariffと入学条件の換算、英国・豪州の学生ビザ要件、日本人学生にとってのDSE英国進学 vs 日本国内進学の比較"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "overseas"
 last_updated: "2026-04-18"

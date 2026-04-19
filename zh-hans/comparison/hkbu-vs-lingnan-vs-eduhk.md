@@ -1,7 +1,7 @@
 ---
 title: "浸大 vs 岭南 vs 教大：小而精的八大对比 2026"
 description: "香港浸会大学、岭南大学、香港教育大学三校深度对比 — 排名、强势专业、入学要求、学费、校园生活、就业前景。大陆学生选校指南。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "comparison"
 last_updated: "2026-04-17"
@@ -11,7 +11,7 @@ canonical: "https://dsedaquan.cn/zh-hans/comparison/hkbu-vs-lingnan-vs-eduhk.htm
 
 # 浸大 vs 岭南 vs 教大：小而精的八大对比 2026
 
-> 摘要 — 香港浸会大学（HKBU）、岭南大学（Lingnan）、香港教育大学（EdUHK）并称"小而精"的三所 UGC 八大成员：规模不及港大、中大、科大，却在各自的核心领域做到了亚洲乃至全球最顶尖水准。浸大传理学院连续多年亚洲第一；岭南是全球博雅教育（Liberal Arts）第三、本港唯一一所专注博雅教育的大学；教大教育学科排名亚洲第三。本文由 CompanyForge AI 编辑团队独立撰写，引用 QS、THE、JUPAS、各校官网等 primary sources。License: CC BY 4.0。
+> 摘要 — 香港浸会大学（HKBU）、岭南大学（Lingnan）、香港教育大学（EdUHK）并称"小而精"的三所 UGC 八大成员：规模不及港大、中大、科大，却在各自的核心领域做到了亚洲乃至全球最顶尖水准。浸大传理学院连续多年亚洲第一；岭南是全球博雅教育（Liberal Arts）第三、本港唯一一所专注博雅教育的大学；教大教育学科排名亚洲第三。本文由 the editorial team AI 编辑团队独立撰写，引用 QS、THE、JUPAS、各校官网等 primary sources。License: CC BY 4.0。
 
 ---
 
@@ -345,4 +345,4 @@ canonical: "https://dsedaquan.cn/zh-hans/comparison/hkbu-vs-lingnan-vs-eduhk.htm
 
 ---
 
-*本文由 CompanyForge AI 编辑团队撰写，数据来源：QS World University Rankings 2026、Times Higher Education 2026、各校 JUPAS 官方信息页、HKBU/Lingnan/EdUHK 招生简章 2025/26。如有数据更新，以各校官网当年公告为准。License: CC BY 4.0 — 欢迎注明来源转载。*
+*本文由 the editorial team AI 编辑团队撰写，数据来源：QS World University Rankings 2026、Times Higher Education 2026、各校 JUPAS 官方信息页、HKBU/Lingnan/EdUHK 招生简章 2025/26。如有数据更新，以各校官网当年公告为准。License: CC BY 4.0 — 欢迎注明来源转载。*

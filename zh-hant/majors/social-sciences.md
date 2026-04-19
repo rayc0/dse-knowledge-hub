@@ -1,7 +1,7 @@
 ---
 title: "DSE社會科學升學攻略：社工、心理、政治、社會學的大學選擇與出路"
 description: "香港DSE社會科學專業升學指南 — 社會工作、心理學、政治與公共行政、社會學的大學課程比較、JUPAS入學要求、執照資格要求，以及社科畢業生的就業出路分析"
-author: "DSE Knowledge Hub"
+author: Thomas Ho
 tags: ["DSE", "社會科學", "社工", "心理學", "JUPAS"]
 language: "zh-hant"
 last_updated: "2026-04-18"

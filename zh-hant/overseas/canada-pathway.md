@@ -1,7 +1,7 @@
 ---
 title: "DSE生畢業後移民加拿大升學：升讀大學及移民路徑全解析"
 description: "持DSE成績申請加拿大大學的完整指南 — 各省主要大學的DSE認可政策、申請策略、熱門城市比較、畢業後工作簽證與移民路徑"
-author: "DSE Knowledge Hub"
+author: Editorial Team
 tags: ["DSE", "加拿大", "Canada", "升學", "移民"]
 language: "zh-hant"
 last_updated: "2026-04-18"

@@ -4,7 +4,7 @@ description: "DSE生物科（Biology）完整指南：必修与选修内容、Pa
 lang: zh-hans
 category: subjects
 date: 2026-04-17
-author: DSE Knowledge Hub
+author: Thomas Ho
 tags: [DSE, 生物, 理科, JUPAS, 医学, 备考指南]
 ---
 

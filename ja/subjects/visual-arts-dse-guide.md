@@ -1,7 +1,7 @@
 ---
 title: "DSE視覚芸術（Visual Arts）完全ガイド：日本人受験生のための試験構成・ポートフォリオ対策・進学への活用"
 description: "日本語によるDSE視覚芸術完全ガイド — 試験構成（SBA制作Portfolio 60%/Paper 1鑑賞筆記40%）、制作テーマの選び方、日本の美術教育との比較、ポートフォリオ審査のポイント、視覚芸術選択が有利な大学学部（建築/デザイン/ファインアート）、Level 5対策"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

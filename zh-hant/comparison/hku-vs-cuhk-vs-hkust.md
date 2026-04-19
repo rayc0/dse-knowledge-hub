@@ -1,7 +1,7 @@
 ---
 title: "港大 vs 中大 vs 科大：三大比較全面分析"
 description: "深入比較香港大學、中文大學與科技大學的入學分數、學科優勢、校園文化、就業前景及JUPAS選校策略"
-author: "DSE Knowledge Hub"
+author: Editorial Team
 tags: ["HKU", "CUHK", "HKUST", "比較", "JUPAS", "大學"]
 language: "zh-hant"
 last_updated: "2026-04-18"

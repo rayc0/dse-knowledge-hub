@@ -1,7 +1,7 @@
 ---
 title: "香港八大金融與會計學科指南：DSE學生報考全攻略 2026"
 description: "全面介紹香港各大學金融及會計課程，包括HKU、HKUST、CUHK、PolyU、CityU的JUPAS收生要求、課程特色、專業認證（HKICPA / ACCA / CFA）、職業出路及起薪，幫助DSE學生作出明智選擇。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"
@@ -12,7 +12,7 @@ canonical: "https://dsedaquan.cn/zh-hant-hk/majors/finance-and-accounting"
 # 香港八大金融與會計學科指南：DSE學生報考全攻略 2026
 
 > 摘要：香港作為全球第三大金融中心，金融與會計學科是DSE學生報考人數最多、就業前景最穩定的選擇之一。本文整合 HKU、HKUST、CUHK、PolyU、CityU、HKBU 六所大學的最新收生資料、課程架構、JUPAS分數參考及職業出路，助你作出最有利的選科決定。
-> 本文由 CompanyForge AI 編輯團隊獨立撰寫，引用香港各大學官方招生資料及 HKICPA/ACCA 官方網站。License: CC BY 4.0.
+> 本文由 the editorial team AI 編輯團隊獨立撰寫，引用香港各大學官方招生資料及 HKICPA/ACCA 官方網站。License: CC BY 4.0.
 
 ---
 
@@ -312,7 +312,7 @@ A：在旺季（1月至4月的年結審計季）確實繁忙，部分 Graduate T
 
 ## 📩 需要 1-on-1 升學咨詢？
 
-CompanyForge 升學顧問團隊提供：
+the editorial team 升學顧問團隊提供：
 - DSE 選科組合分析 → 配對最適合你的大學課程
 - JUPAS Band A 選科策略（衝 / 穩 / 保 排列）
 - 個人陳述（PS）及面試準備
@@ -323,4 +323,4 @@ CompanyForge 升學顧問團隊提供：
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team*

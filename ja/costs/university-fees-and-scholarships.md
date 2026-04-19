@@ -1,7 +1,7 @@
 ---
 title: "香港の大学学費と奨学金ガイド（日本人学生向け）：2025-2026年版"
 description: "日本語による香港大学費用完全ガイド — 香港8大学の年間学費（HKU/CUHK/HKUST/PolyU/CityU/BU/HKBU/EdUHK）、生活費の月額内訳（寮費/食費/交通費）、日本人向け奨学金（香港政府/各大学/民間財団）、DSEスコアによる奨学金基準、香港と日本の大学費用比較、仕送り・アルバイトの実情"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "costs"
 last_updated: "2026-04-18"

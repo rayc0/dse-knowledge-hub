@@ -1,7 +1,7 @@
 ---
 title: "DSE 수학（Mathematics Compulsory Part）완전 가이드: 한국인 수험생을 위한 시험 구조·대책·진학 영향"
 description: "한국어 DSE 수학（필수）완전 가이드 — DSE 수학（Compulsory Part）시험 구성(Paper 1 서술형/Paper 2 MCQ), 주요 토픽(대수/기하/삼각함수/통계/확률)과 한국 수능 수학과의 비교, Paper 1 문제 풀이 테크닉과 부분점 획득법, 고득점(Level 5★) 대책 스케줄, 연신 단원(M1/M2)과의 조합 전략, 모든 대학 모든 학부에서 필요한 필수과목으로서의 중요성, 한국인 수험생의 강점과 약점(수능 수학 활용)"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

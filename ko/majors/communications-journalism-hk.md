@@ -1,7 +1,7 @@
 ---
 title: "홍콩 커뮤니케이션·저널리즘 학부 완전 가이드: 한국인 수험생을 위한 입학 요건·미디어 커리어"
 description: "한국어로 작성된 홍콩 커뮤니케이션·저널리즘 학부 완전 가이드 — HKBU 신문·커뮤니케이션 학원(QS 아시아 3~5위), CityU 미디어·커뮤니케이션, PolyU Human Communication, 입학에 유리한 DSE 과목, 홍콩 미디어 업계 현황, 졸업 후 커리어(PR/광고/디지털 미디어/국제 방송), 한국 신문방송학과와의 비교"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"

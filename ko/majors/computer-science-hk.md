@@ -1,7 +1,7 @@
 ---
 title: "홍콩 컴퓨터 사이언스 학부 가이드: HKU·HKUST·CUHK·CityU CS/IT 입학 요건"
 description: "한국어 홍콩 CS/IT 학부 완전 가이드 — HKU CS·HKUST CSE·CUHK CS·CityU CS의 입학 요건과 특색 비교, DSE 수학(확장 모듈 M1/M2)의 중요성, 홍콩 IT 산업 취업(스타트업/테크 대기업/금융 테크), 중국 본토 테크 기업(ByteDance/알리바바 HK) 취업, 프로그래밍 배경이 있는 한국인 학생의 우위, 글로벌 IT 기업 홍콩 오피스 채용 동향"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"

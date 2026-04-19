@@ -1,7 +1,7 @@
 ---
 title: "DSE数学延伸单元M1/M2完全指南：微积分·统计·线性代数的备考策略"
 description: "全面比较DSE数学延伸单元M1与M2的内容差异、JUPAS加分机制、核心知识点详解，以及内地生选科建议与高分备考策略。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

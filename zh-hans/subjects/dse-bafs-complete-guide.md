@@ -1,7 +1,7 @@
 ---
 title: "DSE企业、会计与财务概论（BAFS）完全指南：内地生备考策略"
 description: "全面解析DSE BAFS科目的试卷结构、会计与企管两大选修模块、内地生强弱项分析及高分备考策略，助力内地生冲击香港顶尖商学院。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "DSE 資訊及通訊科技（ICT）完全攻略：考試結構、SBA、程式設計全解析"
 description: "全面介紹 DSE ICT 科的考試結構（MC 25%、結構題 40%、SBA 35%）、核心考試範疇、SBA 項目要求、程式語言應用，以及如何奪取 Level 5 的備考策略，專為香港本地考生而設。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"

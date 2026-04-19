@@ -1,7 +1,7 @@
 ---
 title: "Law School in Hong Kong: A Complete Guide for DSE Students"
 description: "Comprehensive guide to pursuing law in Hong Kong — LLB programmes at HKU/CUHK/CityU, PCLL, admission scores, career paths, and alternative routes into the legal profession"
-author: "DSE Knowledge Hub"
+author: Editorial Team
 tags: ["law", "LLB", "PCLL", "HKU", "CUHK", "CityU", "JUPAS", "career"]
 last_updated: "2026-04-18"
 canonical: "https://dsedaquan.cn/en/majors/law-school-hk"

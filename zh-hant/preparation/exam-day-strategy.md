@@ -1,7 +1,7 @@
 ---
 title: "DSE考試日策略：考前一週到放榜的完整心理及實戰指南"
 description: "DSE考試日的實用策略 — 考前一週準備、當日時間管理、各科答題技巧、應試心理調適，以及等待放榜期間的情緒管理"
-author: "DSE Knowledge Hub"
+author: Editorial Team
 tags: ["DSE", "應試", "考試策略", "時間管理", "心理準備"]
 language: "zh-hant"
 last_updated: "2026-04-18"

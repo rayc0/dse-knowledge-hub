@@ -1,7 +1,7 @@
 ---
 title: "Business and Economics at Hong Kong Universities: A Complete Guide for DSE Students"
 description: "Comprehensive guide to BBA, economics, finance, and accounting programmes at HKU/CUHK/HKUST/PolyU/CityU — admission scores, programme structures, career outcomes, and JUPAS strategy"
-author: "DSE Knowledge Hub"
+author: Editorial Team
 tags: ["business", "economics", "BBA", "finance", "accounting", "JUPAS", "career"]
 last_updated: "2026-04-18"
 canonical: "https://dsedaquan.cn/en/majors/business-and-economics-hk"

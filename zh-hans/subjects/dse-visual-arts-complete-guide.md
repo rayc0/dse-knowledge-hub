@@ -1,7 +1,7 @@
 ---
 title: "DSE视觉艺术科完全指南——内地生视角"
 description: "全面解析DSE视觉艺术科（Visual Arts）考试结构：艺术创作档案SBA（50%）与艺术考核笔试（50%）、媒体选项（绘画/混合媒体/数码艺术）、理论知识（艺术史与艺术批评）、相关香港艺术课程，以及内地美术联考背景与DSE要求的比较。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

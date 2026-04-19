@@ -1,7 +1,7 @@
 ---
 title: "香港の薬学部ガイド：HKUとCUHKへのDSE入学要件・PharmD・薬剤師免許と日本との比較"
 description: "日本語による香港薬学部完全ガイド — HKU/CUHK薬学部（PharmD）のDSE入学要件（Best 5 Level 5以上）、4年制Bachelor of Pharmacy vs 6年制Doctor of Pharmacy（PharmD）の違い、香港薬剤師登録（RP）の取得プロセスと日本の薬剤師免許との相互認定状況、香港の薬剤師の就職先（病院/クリニック/製薬会社/CRO）、薬剤師の香港での給与水準（HKD 30,000〜70,000/月）、日本人薬剤師が香港で働く際の免許取得ルート"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"

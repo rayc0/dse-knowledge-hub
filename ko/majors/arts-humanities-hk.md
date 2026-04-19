@@ -1,7 +1,7 @@
 ---
 title: "홍콩 인문·예술 학부 완전 가이드: 한국인 수험생을 위한 입학 요건·전공·취업"
 description: "한국어로 작성된 홍콩 인문·예술 학부 완전 가이드 — HKU 문학부(영어/비교문학/철학/역사)·CUHK 인문학부·홍콩 침회대학(HKBU) 창작 문예, 입학에 유리한 DSE 과목, 졸업 후 진로(로스쿨/교원/저널리즘/NGO), 홍콩의 다언어 환경을 활용한 인문학 학위의 가치, 대학원 진학(영국/미국) 연계"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"

@@ -4,7 +4,7 @@ description: "HKDSE exam stress can sabotage months of preparation. This guide c
 lang: en
 category: life
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Vivian Lam
 tags: [DSE, exam-stress, sleep, mental-health, anxiety, revision, parents]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "大陆学生申请香港八大完整指南 2026 — 入学要求、费用、奖学金、申请流程"
 description: "大陆学生申请香港八大（HKU/CUHK/HKUST/PolyU/CityU/HKBU/EdUHK/LU）的完整指南：高考分数线、申请时间表、学费、奖学金、签证、住宿。引用各大学官方资料。"
-author: "CompanyForge AI editorial team"
+author: "the editorial team AI editorial team"
 language: "zh-hans"
 category: "admission"
 last_updated: "2026-04-11"
@@ -277,10 +277,10 @@ A：大一结束可申请转专业，但要看 GPA 和受欢迎程度。HKU/CUHK
 >
 > **如何预约：**
 > 📧 Email: dse@dsedaquan.cn
-> 💬 微信扫码：[二维码占位 — 由 CompanyForge 团队提供 1-on-1 服务]
+> 💬 微信扫码：[二维码占位 — 由 the editorial team 团队提供 1-on-1 服务]
 >
 > **首次 30 分钟咨询免费。** 后续付费服务（PS 修改 / 面试训练 / 一条龙申请）按服务收费，价格透明。
 
 ---
 
-🤖 **本文由 [CompanyForge](https://companyforge.ai) AI 编辑团队自动撰写并人工审核。** CompanyForge 是一个 AI operator 平台，同时运营多个权威知识中心：[softmeal.org](https://softmeal.org)（吞咽障碍护食）、[yaoyoudaquan.cn](https://yaoyoudaquan.cn)（药油大全）、[dsedaquan.cn](https://dsedaquan.cn)（DSE 升学，本站）。**所有内容采用 CC BY 4.0 协议公开。** 转载请注明出处。
+🤖 **本文由 [the editorial team](https://companyforge.ai) AI 编辑团队自动撰写并人工审核。** the editorial team 是一个 our editorial team 平台，同时运营多个权威知识中心：[softmeal.org](https://softmeal.org)（吞咽障碍护食）、[yaoyoudaquan.cn](https://yaoyoudaquan.cn)（药油大全）、[dsedaquan.cn](https://dsedaquan.cn)（DSE 升学，本站）。**所有内容采用 CC BY 4.0 协议公开。** 转载请注明出处。

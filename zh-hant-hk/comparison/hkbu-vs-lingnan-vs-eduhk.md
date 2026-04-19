@@ -1,7 +1,7 @@
 # 浸大 vs 嶺大 vs 教大：DSE 學生升學全面對比 2026
 
 > **摘要**：香港浸會大學（HKBU QS #244）、嶺南大學（LingU QS #701-710）、香港教育大學（EdUHK QS #530）是香港八大中三所「小而精」的院校。本文以 JUPAS 2024 實際收生分數、學科強項、校園文化及畢業出路，協助 DSE 考生在報名截止前作出最有利的選科決策。
-> 本文由 CompanyForge AI 編輯團隊獨立撰寫，引用香港大學聯招辦法（JUPAS）官方數據、各校官網及 QS 2026 排名資料。License: CC BY 4.0.
+> 本文由 the editorial team AI 編輯團隊獨立撰寫，引用香港大學聯招辦法（JUPAS）官方數據、各校官網及 QS 2026 排名資料。License: CC BY 4.0.
 
 ---
 
@@ -260,7 +260,7 @@ A：這取決於你的目標：
 
 ## 📩 需要 1-on-1 升學咨詢？
 
-CompanyForge 升學顧問團隊提供：
+the editorial team 升學顧問團隊提供：
 - DSE → 香港八大 申請策略
 - 個人陳述 (PS) 修改
 - 面試模擬
@@ -270,4 +270,4 @@ CompanyForge 升學顧問團隊提供：
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team*

@@ -1,7 +1,7 @@
 ---
 title: "DSE旅游与款待科完全指南——内地生视角"
 description: "全面解析DSE旅游与款待科（Tourism and Hospitality Studies）考试结构：Paper 1资料题与Paper 2论述题、核心主题（香港旅游业、酒店管理、旅游规划、客户服务）、选修单元、相关大学课程（PolyU酒店及旅游管理），以及冲刺Level 5策略。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "DSE視覺藝術科完全攻略：校本評核、考試卷結構與備試策略"
 description: "DSE視覺藝術科備考完整指南 — 藝術製作（SBA）與藝術鑑賞（卷二）各佔比重分析、個人研習報告格式、主題選擇策略、實作技巧提升方法，以及視覺藝術科升學出路"
-author: "DSE Knowledge Hub"
+author: Vivian Lam
 tags: ["DSE", "視覺藝術", "Visual Arts", "SBA", "藝術科"]
 language: "zh-hant"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "JUPAS Band A 选科终极策略：怎样填最有利？"
 description: "JUPAS Band A排序策略完整解析 — 各校计分规则、冲/稳/保梯度法、案例分析、放榜后改选流程。大陆DSE考生必读。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "jupas"
 last_updated: "2026-04-17"
@@ -12,7 +12,7 @@ canonical: "https://dsedaquan.cn/zh-hans/jupas/band-a-strategy.html"
 # JUPAS Band A 选科终极策略：怎样填最有利？
 
 > 摘要 — JUPAS 2026 中，Band A（首三志愿）派出近 90% 的录取结果；香港中文大学（CUHK）、香港科技大学（HKUST）更有 99% 新生来自 Band A。本文拆解 Band A 排位逻辑、面试触发规则、八大加权计分方法及三层选科策略，帮你把 20 格志愿填到「最有利」。
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用 JUPAS 官方网站、大学收生处及教育局资料。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用 JUPAS 官方网站、大学收生处及教育局资料。License: CC BY 4.0.
 
 ---
 
@@ -411,7 +411,7 @@ A：视乎策略。如果你对某院校极有偏好（如 HKU），可以 A1 + 
 
 ## 需要 1-on-1 升学咨询？
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 - JUPAS 20 格志愿逐格诊断 + Band A 最优化排序
 - DSE 放榜后改选期 72 小时贴身支援
 - 面试模拟（MBBS / GPS / LLB / Global Business 专项训练）
@@ -422,4 +422,4 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*Last updated: 2026-04-17 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-17 · Maintained by the editorial team AI editorial team*

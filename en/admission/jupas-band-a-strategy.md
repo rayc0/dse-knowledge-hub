@@ -4,7 +4,7 @@ description: "A strategic guide to JUPAS Band A programme choices — how the ba
 lang: en
 category: admission
 date: 2026-04-17
-author: DSE Knowledge Hub
+author: Thomas Ho
 tags: [JUPAS, Band-A, university-admission, Hong-Kong, strategy, DSE]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "DSEからヨーロッパ大学進学ガイド：オランダ・ドイツ・スウェーデンの英語プログラムと費用"
 description: "日本語によるDSE→ヨーロッパ大学進学完全ガイド — DSEを認定するヨーロッパの英語プログラム大学（オランダ：Leiden/Delft/Rotterdam、ドイツ：Munich LMU/Heidelberg/TU Munich、スウェーデン：KTH/Stockholm University）、非EU学生の学費水準（EUR 0〜20,000/年）、英語学位プログラムの広さ（オランダが特に充実）、申請タイムライン（Studielink等）、EU圏での就労機会と将来性、日本人学生のためのシェンゲン協定圏での生活"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "overseas"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "DSE物理科完全攻略：課程大綱、公式應用與實驗技巧"
 description: "全面解析DSE物理科的課程架構、必修與選修單元、公式記憶法、實驗技巧及高分答題策略"
-author: "DSE Knowledge Hub"
+author: Karen Leung
 tags: ["DSE", "物理", "Physics", "理科", "溫習"]
 language: "zh-hant"
 last_updated: "2026-04-18"

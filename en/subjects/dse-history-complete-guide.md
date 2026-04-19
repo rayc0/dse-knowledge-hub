@@ -4,7 +4,7 @@ description: "Comprehensive guide to DSE History — the 20th-century syllabus, 
 lang: en
 category: subjects
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Karen Leung
 tags:
   - DSE History
   - Paper 1

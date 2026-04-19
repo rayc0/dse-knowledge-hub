@@ -1,7 +1,7 @@
 ---
 title: "香港师范与教育课程完全指南——内地生视角"
 description: "全面介绍香港各大学教育与师范课程：HKU教育学院、CUHK教育学院、EdUHK香港教育大学BEd课程；小学与中学师资培训方向、QEF注册资格、在港执教与内地执教对比、普通话教学机会，以及内地生在香港学校的执教路径。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-04-19"

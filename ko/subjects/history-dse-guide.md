@@ -1,7 +1,7 @@
 ---
 title: "DSE 역사（History）완전 가이드: 한국인 수험생을 위한 시험 구성·논술 대책·진학 활용"
 description: "한국어 DSE 역사 완전 가이드 — 시험 구성（Paper 1 자료 분석/Paper 2 논술）, 주요 테마（중국 근현대사: 청말/민국/냉전/개혁개방과 세계사: 제국주의/2차 대전/냉전）, 한국 수능 역사와의 비교, DSE 역사 논술 템플릿（PEEL/SOCT）, 역사 선택이 유리한 대학 학부（법/정치/외교/언론）, Level 5★ 대책"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

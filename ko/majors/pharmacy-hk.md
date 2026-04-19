@@ -1,7 +1,7 @@
 ---
 title: "홍콩 약학부 가이드: HKU·CUHK DSE 입학 요건·PharmD·약사 면허와 한국과의 비교"
 description: "한국어 홍콩 약학부 완전 가이드 — HKU/CUHK 약학부(PharmD) DSE 입학 요건(Best 5 Level 5 이상), 4년제 Bachelor of Pharmacy vs 6년제 Doctor of Pharmacy(PharmD) 차이, 홍콩 약사 등록(RP) 취득 프로세스와 한국 약사 면허와의 상호 인정 상황, 홍콩 약사 취직처(병원/클리닉/제약회사/CRO), 약사의 홍콩 급여 수준(HKD 30,000〜70,000/월), 한국인 약사가 홍콩에서 일하는 경우 면허 취득 루트"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"

@@ -4,7 +4,7 @@ description: "香港中學文憑試數學必修部分 Paper 1 長題目、Paper 
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Karen Leung
 tags:
   - DSE數學
   - 數學攻略

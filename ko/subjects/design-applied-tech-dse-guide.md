@@ -1,7 +1,7 @@
 ---
 title: "DSE 디자인과 응용기술（D&AT）완전 가이드: 시험 구성과 대책"
 description: "한국어로 작성된 DSE 디자인과 응용기술（D&AT）완전 가이드 — 시험 구성（Paper 1 이론/Paper 2 설계 프로세스/SBA 설계 프로젝트）, 디자인 씽킹/소재과학/전자회로/지속가능한 디자인, 한국 기술·가정 vs DSE D&AT 비교, 한국 산업디자인 강국 이미지, 삼성 산업디자인 vs PolyU 디자인, 홍익대 비교, SBA 포트폴리오 평가"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -141,7 +141,7 @@ A: 도면·스케치를 포함하는 문제가 출제되는 경우가 있지만 
 
 ## DSE·홍콩 대학 진학 1:1 상담 안내
 
-CompanyForge 升學顧問 팀은 다음과 같은 지원을 제공합니다：
+the editorial team 升學顧問 팀은 다음과 같은 지원을 제공합니다：
 
 - DSE 선택 과목 전략（D&AT 포함 선택 과목 조합 최적화）
 - 홍콩 8대 대학（HKU / CUHK / HKUST / PolyU / CityU / HKBU / LingU / EdUHK）진학 전략
@@ -152,4 +152,4 @@ CompanyForge 升學顧問 팀은 다음과 같은 지원을 제공합니다：
 
 ---
 
-*최종 업데이트: 2026-04-19 · CompanyForge AI 편집팀 관리 · License: CC BY 4.0*
+*최종 업데이트: 2026-04-19 · the editorial team AI 편집팀 관리 · License: CC BY 4.0*

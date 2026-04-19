@@ -1,7 +1,7 @@
 ---
 title: "DSE体育科完全指南——内地生视角"
 description: "全面解析DSE体育科（Physical Education）考试结构：笔试理论（运动科学、生理学、教练原则）与SBA实践表现评核、选修运动项目、适合考生类型、香港运动科学课程，以及与内地体育课的比较。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

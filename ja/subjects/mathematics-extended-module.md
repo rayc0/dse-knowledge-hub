@@ -1,7 +1,7 @@
 ---
 title: "DSE数学延伸単元（M1/M2）完全ガイド：日本人学生向け選択戦略と得点最大化"
 description: "日本語によるDSE数学延伸単元完全ガイド — M1（微積分・統計）vs M2（代数・微積分）の内容比較と選択基準、日本の数学Ⅲとの比較（共通点と相違点）、大学学部別の推奨（理工系はM2/経済・社会科学はM1）、M1/M2のLevel 5★達成戦略、延伸単元なし vs ありの入学競争力の差、理系学部（CS/工学/医学）での重要性、DSE数学Bとの組み合わせ"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

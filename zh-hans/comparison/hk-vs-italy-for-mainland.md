@@ -2,7 +2,7 @@
 
 > 摘要 — 2026 年香港八大本科 4 年总开销约 RMB 115-140 万，意大利公立大学（Sapienza/Bologna/Padova/Politecnico di Milano）3 年本科总开销约 RMB 20-45 万（含马可波罗语言预科年），约为香港的 1/3-1/4；但意大利毕业后工作签证仅 12 个月、永居需 5 年、意大利语仍为就业刚需，与香港 IANG 24 个月 + 7 年 PR 的线性路径有本质差别。
 >
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用意大利大学官方招生页、Universitaly 门户、欧盟移民门户、QS 世界大学排名 2026、意大利驻华使馆签证指引等一手资料。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用意大利大学官方招生页、Universitaly 门户、欧盟移民门户、QS 世界大学排名 2026、意大利驻华使馆签证指引等一手资料。License: CC BY 4.0.
 
 ---
 
@@ -302,7 +302,7 @@ A：不受。意大利大学主要审核高考分数总分（400/750 线）+ DOV
 
 ## 📩 需要 1-on-1 升学咨询？
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 - DSE / 高考 → 香港八大 + 意大利申请策略比较
 - 个人陈述 (PS) + 意大利 Motivation Letter 修改
 - 香港 Non-JUPAS 面试模拟 + 意大利 IMAT/TOL/专业入学考试备考建议
@@ -316,5 +316,5 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team*
 *相关阅读：[香港 vs 法国](/zh-hans/comparison/hk-vs-france-for-mainland/) · [香港 vs 德国](/zh-hans/comparison/hk-vs-germany-for-mainland/) · [香港 vs 荷兰](/zh-hans/comparison/hk-vs-netherlands-for-mainland/) · [香港 vs 英国](/zh-hans/comparison/hk-vs-uk-for-mainland/) · [2026 申请时间规划表](/zh-hans/admission/application-timeline-2026/)*

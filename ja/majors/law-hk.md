@@ -1,7 +1,7 @@
 ---
 title: "香港の法学部ガイド：HKU・CUHKの法学部入学要件と日本人弁護士への機会"
 description: "日本語による香港法学部完全ガイド — HKU法学部とCUHK法学部（LLB）の比較、JUPAS最低DSEスコア（2025年実績）、香港弁護士（Solicitor）・大律師（Barrister）の違い、日本人学生の法学部進学の意義（英米法/国際仲裁/アジア法務）、PCLL（普通法研究生課程）進学要件、卒業後の法律事務所就職（香港+グローバルLaw Firm）、日本の司法試験との比較"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"

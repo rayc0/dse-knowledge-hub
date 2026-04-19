@@ -1,7 +1,7 @@
 ---
 title: "DSEから台湾大学進学ガイド：台湾大学・成功大学・英語プログラムと中国語要件"
 description: "日本語によるDSE→台湾大学進学完全ガイド — DSEを受け入れる台湾の主要大学（NTU/NCKU/NTHU/NCCU）の入学要件、中国語（国語）の要件とDSE中国語の代替、英語授業のみのプログラム（TIGP等）の選択肢、学費（TWD 70,000〜150,000/年；非常に低コスト）、生活費（月TWD 15,000〜25,000）、台湾政府奨学金（MOFA/ETRF）の申請方法、日本人DSE卒業生が台湾を選ぶ理由（漢字環境・安全・親日）"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "overseas"
 last_updated: "2026-04-18"

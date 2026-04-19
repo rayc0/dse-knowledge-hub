@@ -1,7 +1,7 @@
 ---
 title: "DSE 中國文學完全攻略 2026｜文類分析、SBA朗誦、Level 5策略"
 description: "全面講解DSE中國文學考試結構（卷一指定篇章、卷二文學賞析與論述）、詩歌散文小說劇本分析框架、校本評核朗誦要求及Level 5備考策略，適合香港本地中學生。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"

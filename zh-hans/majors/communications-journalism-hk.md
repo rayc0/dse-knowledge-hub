@@ -1,7 +1,7 @@
 ---
 title: "香港大学传播与新闻学科完全指南——内地生视角"
 description: "全面介绍香港各大学传播与新闻学课程：HKBU新闻系、传理学院（电影/广播）、CUHK新闻与传播学院、HKU新闻系；课程内容（新闻写作/媒体法/数字新闻/公关）、双语训练、大湾区媒体就业前景、DSE选科建议及入学要求。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-04-19"

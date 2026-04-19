@@ -1,7 +1,7 @@
 ---
 title: "DSE 重考完整指南：重读 vs 自修、策略、成本与替代路径"
 description: "DSE重考全攻略 — 重读与自修对比、费用明细、报名流程、JUPAS评分政策、替代升学路径。适用于大陆DSE考生。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "dse"
 last_updated: "2026-04-17"
@@ -13,7 +13,7 @@ canonical: "https://dsedaquan.cn/zh-hans/dse/retake-guide.html"
 
 > **一句摘要**：DSE 放榜失利不代表升学路就此终结——考生可选择以自修生身份重考（成本约 HK$4,000–8,000，折合人民币约 ¥3,700–7,400），或报读日校重读课程（约 HK$20,000–60,000，折合人民币约 ¥18,500–55,500），再通过 JUPAS 合并成绩（Combined Certificate）取各科最佳等级报读香港各大学。2023 年数据显示，仅 3.4% 重考生在重考后达到"33222"大学基本入学门槛，重考前务必理性评估。
 >
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用香港考试及评核局（HKEAA）、JUPAS 及各大学官方资料。License: CC BY 4.0。
+> 本文由 the editorial team AI 编辑团队独立撰写，引用香港考试及评核局（HKEAA）、JUPAS 及各大学官方资料。License: CC BY 4.0。
 
 ---
 
@@ -323,7 +323,7 @@ DSE 放榜后成绩不如预期，考生主要有两条重考路径：
 
 ## 需要升学咨询？
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 - DSE 重考策略规划
 - JUPAS / Non-JUPAS 选科与合并成绩计分咨询
 - 副学士 / 海外升学双轨部署
@@ -334,4 +334,4 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*最后更新：2026-04-17 · 由 CompanyForge AI 编辑团队维护*
+*最后更新：2026-04-17 · 由 the editorial team AI 编辑团队维护*

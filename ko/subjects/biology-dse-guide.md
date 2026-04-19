@@ -1,7 +1,7 @@
 ---
 title: "DSE 생물（Biology）완전 가이드: 한국인 수험생을 위한 이수 범위·시험 대책·의료계 진학 경로"
 description: "한국어 DSE 생물 완전 가이드 — DSE 생물 시험 구성(Paper 1/2/3의 SBA), 주요 토픽(세포·유전·진화·생태계·신체 기능)과 한국 생명과학의 비교, MCQ 형식과 서술형의 차이, 고득점(Level 5★)을 위한 암기·도해·논술 대책, 생물이 필요한 홍콩 대학 학부(의학/치학/간호/약학/생명과학), DSE 생물은 HKU 의대 입학에 필수인지 해설"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"

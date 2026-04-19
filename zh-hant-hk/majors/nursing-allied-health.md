@@ -1,7 +1,7 @@
 ---
 title: "香港護理及醫療輔助學科指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學護理及醫療輔助課程，包括HKU、PolyU、CityU、HKBU的護理學士、物理治療、職業治療、言語治療，以及香港護士管理局注冊、醫管局就業及起薪資訊。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"

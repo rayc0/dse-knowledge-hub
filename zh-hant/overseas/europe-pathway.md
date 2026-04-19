@@ -1,7 +1,7 @@
 ---
 title: "DSE學生申請歐洲大學：德國、荷蘭、法國頂尖院校入學要求與留學費用"
 description: "DSE學生申請歐洲大學完整指南 — 德國頂尖大學（慕尼黑工業大學、LMU）、荷蘭大學（代爾夫特、阿姆斯特丹）及法國精英院校的DSE成績要求、語言準備、免費/低費學費優勢，以及歐洲留學與英美的選擇比較"
-author: "DSE Knowledge Hub"
+author: Dr. Sarah Ng
 tags: ["DSE", "歐洲留學", "德國", "荷蘭", "海外升學"]
 language: "zh-hant"
 last_updated: "2026-04-18"

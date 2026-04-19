@@ -1,7 +1,7 @@
 ---
 title: "DSE通識教育（Liberal Studies / CSD）完全ガイド：日本人受験生のための試験構成と対策"
 description: "日本語によるDSE通識教育（Liberal Studies）および後継科目「公民与社会発展（CSD）」完全ガイド — 科目改革の経緯（2024年からLS→CSD移行）、試験構成（Paper 1データ問題/Paper 2論述/SBA）、主要テーマ（香港/現代中国/グローバル化/エネルギー）、香港社会問題への中立的論述の重要性、日本人受験生の強み（国際視点）と弱み（香港政治文脈）、Level 3以上の現実的対策"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"

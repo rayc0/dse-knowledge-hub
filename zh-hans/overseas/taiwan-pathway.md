@@ -1,7 +1,7 @@
 ---
 title: "台湾升学完整指南 2026：海外联招、评点制与留台出路"
 description: "2026年台湾大学申请完整攻略 — 海外联招制度、学费、奖学金、毕业留台就业路径。DSE考生与海外华人学生参考指南。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"
@@ -12,7 +12,7 @@ canonical: "https://dsedaquan.cn/zh-hans/overseas/taiwan-pathway.html"
 # 台湾升学完整指南 2026：海外联招、评点制与留台出路
 
 > 摘要 — 台湾对港澳生及部分海外华人学生采用"海外联合招生"制度，2026秋季入学报名期为2025年11月1日至12月15日。公立大学学费与台湾本地生相同（每学期约NT$20,000–28,000，折合人民币约4,200–5,900元），生活成本远低于香港，毕业后可通过"侨外生留台工作评点制"满70分留台就业，连续合法居留5年可申请定居。本文整理海外联招流程、2026 QS顶尖大学排名、真实学费生活费与费用人民币对照、留台出路，并特别说明大陆学生赴台的政策限制与现况，供DSE考生、海外华人学生及家长参考。
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用海外联合招生委员会、陆委会、劳动部劳动力发展署、台北经济文化办事处（香港）及各大学官方资料。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用海外联合招生委员会、陆委会、劳动部劳动力发展署、台北经济文化办事处（香港）及各大学官方资料。License: CC BY 4.0.
 
 ---
 
@@ -323,7 +323,7 @@ canonical: "https://dsedaquan.cn/zh-hans/overseas/taiwan-pathway.html"
 
 ## 咨询与帮助
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 - 台湾海外联招 填报 & 专业选择策略
 - DSE成绩 → 台大/清大/阳明交大 对照分析
 - 审查资料/读书计划 修改
@@ -334,4 +334,4 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*Last updated: 2026-04-17 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-17 · Maintained by the editorial team AI editorial team*

@@ -1,7 +1,7 @@
 ---
 title: "DSE整体应考策略完全指南——内地生视角"
 description: "专为内地赴港考生打造的HKDSE备考全攻略：考试日历、报考途径、5**冲刺策略、六科时间管理、必修四科与选修科平衡，以及内地生常见失误与模拟考攻略。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

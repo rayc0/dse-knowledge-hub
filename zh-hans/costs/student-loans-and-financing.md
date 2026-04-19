@@ -4,7 +4,7 @@ description: "内地家庭送子女赴港读大学的贷款融资全指南。对
 lang: zh-hans
 category: costs
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Editorial Team
 tags: [留学贷款, 学费分期, 工银亚洲, 东亚银行, 渣打, 国家开发银行, 助学金]
 ---
 

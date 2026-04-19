@@ -1,7 +1,7 @@
 ---
 title: "홍콩 이학부（Science）완전 가이드: 한국인 수험생을 위한 입학 요건·전공·취업"
 description: "한국어 홍콩 이학부 완전 가이드 — HKU·CUHK·HKUST 이학부 비교(물리/화학/생명과학/수학/통계/지구과학), 입학에 필요한 DSE 과목(이과 L5★ 권장), 졸업 후 진로(제약/금융공학/데이터사이언스/대학원 진학), 순수 이학 vs 공학·이공학부 선택 비교, 한국 자연과학대학과의 비교, 퀀트·골드만삭스 HK 취업 루트"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"

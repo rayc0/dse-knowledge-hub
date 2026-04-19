@@ -1,7 +1,7 @@
 ---
 title: "DSE應用學習（ApL）：課程種類、認可等級與升學銜接"
 description: "DSE應用學習（Applied Learning）完整指南 — ApL課程種類（科技·創意媒體·商業·健康·社會），認可等級（達標/達標+）的大學收分積分，JUPAS積分計算，ApL與其他選修科目的策略組合，如何選擇適合的ApL科目"
-author: "DSE Knowledge Hub"
+author: Michael Chan
 language: "zh-hant"
 category: "subjects"
 tags: ["DSE", "應用學習", "ApL", "HKDSE"]

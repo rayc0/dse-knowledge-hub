@@ -1,7 +1,7 @@
 ---
 title: "홍콩 건축·디자인 학부 완전 가이드: 한국인 수험생을 위한 입학 요건·DSE 과목·취업"
 description: "한국어로 작성된 홍콩 건축·디자인 학부 완전 가이드 — HKU 건축학(ARB 인증), PolyU Design(인테리어·제품), HKDI, 입학에 필요한 DSE 과목(수학/미술/지리), 포트폴리오 요건, 홍콩 건축사(ARB)·인테리어 디자인 자격 취득 루트, 졸업 후 취업처(자하 하디드/Foster+Partners HK/삼성물산 HK), 한국 건축학과와의 비교"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"

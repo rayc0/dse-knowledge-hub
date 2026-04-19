@@ -1,7 +1,7 @@
 ---
 title: "香港のコンピューターサイエンス学部ガイド：HKU・HKUST・CUHKのCS/IT入学要件"
 description: "日本語による香港CS/IT学部完全ガイド — HKU CS・HKUST CSE・CUHK CS・CityU CSの入学要件と特色比較、DSE数学（延伸单元M1/M2）の重要性、香港のIT産業就職（スタートアップ/テック大手/金融テック）、中国本土テック企業（ByteDance/Alibaba HK）への就職、プログラミングバックグラウンドのある日本人学生の優位性、グローバルIT企業香港オフィスの採用動向"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"

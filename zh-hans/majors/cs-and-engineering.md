@@ -4,7 +4,7 @@ description: "港大、中大、科大、城大、理大、浸大、岭大、教
 lang: zh-hans
 category: majors
 date: 2026-04-14
-author: "DSE Knowledge Hub"
+author: Editorial Team
 ---
 
 # 香港八大计算机与工程专业深度解析（2026）

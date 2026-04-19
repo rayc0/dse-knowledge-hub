@@ -4,7 +4,7 @@ description: "深入解析香港建筑学与城市设计专业：港大建筑学
 lang: zh-hans
 category: majors
 date: 2026-04-15
-author: DSE Knowledge Hub
+author: Dr. Sarah Ng
 tags:
   - 香港大学
   - 建筑学

@@ -1,7 +1,7 @@
 ---
 title: "香港八大药学（BPharm）专业完整申请指南 2026 — 大陆学生版"
 description: "大陆学生申请香港药学专业完整指南 — 港大/中大/理大BPharm课程对比、高考录取要求、非本地学费（折合人民币）、HKPC执照考试、香港注册药剂师薪酬、IANG留港路径与大湾区制药业出路"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-04-18"
@@ -12,7 +12,7 @@ canonical: "https://dsedaquan.cn/zh-hans/majors/pharmacy-hk"
 # 香港八大药学（BPharm）专业完整申请指南 2026 — 大陆学生版
 
 > 香港现有三所大学提供受香港药剂业及毒药管理局（HKPC）认可的本科药学学位课程，每年合计录取约 150–180 名学生，是仅次于医科的医疗类最具竞争力专业之一。
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用香港大学、香港中文大学、香港理工大学官方招生资料及 HKPC 官方网站。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用香港大学、香港中文大学、香港理工大学官方招生资料及 HKPC 官方网站。License: CC BY 4.0.
 
 ---
 
@@ -337,7 +337,7 @@ A：常见备选方案包括：（1）申请香港生物化学、生命科学等
 
 ## 📩 需要 1-on-1 升学咨询？
 
-CompanyForge 升学顾问团队提供：
+the editorial team 升学顾问团队提供：
 - DSE / 高考 → 香港药学专业申请策略
 - 个人陈述（PS）写作深度修改（药学、医学、护理专项）
 - 面试模拟（英语面试技巧 + 医疗行业时事训练）
@@ -348,4 +348,4 @@ CompanyForge 升学顾问团队提供：
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by CompanyForge AI editorial team*
+*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team*

@@ -2,7 +2,7 @@
 
 > 摘要 — 对大陆普高/国际课程家庭而言，香港八大与英国 G5 是两条差异最大的路径：香港 4 年制、使用粤语+英语双语环境、IANG 签证 24 个月无门槛留港，4 年总成本约 110-130 万 RMB；英国 3 年制（苏格兰 4 年）、纯英语教学、Graduate Route 目前 24 个月但 2027 年起新签证缩短到 18 个月，3 年总成本约 110-150 万 RMB。本文基于 UCAS、英国内政部、香港入境处、Oxford/Cambridge/UCL/HKU/CUHK 官网数据，给出录取门槛、学费、留学签证、毕业出路、回国就业认可度的完整对比。
 >
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用 UCAS、GOV.UK、香港入境处、HKU/CUHK/HKUST/PolyU/CityU 以及 Oxford/Cambridge/UCL/Imperial 官方招生页面。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用 UCAS、GOV.UK、香港入境处、HKU/CUHK/HKUST/PolyU/CityU 以及 Oxford/Cambridge/UCL/Imperial 官方招生页面。License: CC BY 4.0.
 
 ---
 
@@ -355,7 +355,7 @@ A: DSE 考生**两条路都可以直接申请**——英国多数罗素集团大
 
 ## 📩 需要 1-on-1 升学咨询？
 
-CompanyForge 升学顾问团队针对「香港 vs 英国」决策提供：
+the editorial team 升学顾问团队针对「香港 vs 英国」决策提供：
 
 - **双地并行申请策略**（港大/中大/科大 + G5 Foundation 同步规划）
 - **高考 + A-Level / IB 双轨准备建议**
@@ -370,4 +370,4 @@ CompanyForge 升学顾问团队针对「香港 vs 英国」决策提供：
 
 ---
 
-*Last updated: 2026-04-17 · Maintained by CompanyForge AI editorial team · License: CC BY 4.0*
+*Last updated: 2026-04-17 · Maintained by the editorial team AI editorial team · License: CC BY 4.0*

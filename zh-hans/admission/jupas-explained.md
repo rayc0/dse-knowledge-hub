@@ -1,7 +1,7 @@
 ---
 title: "JUPAS 是什么？大陆学生需要了解吗？联招完整解析 2026"
 description: "JUPAS（大学联合招生办法）是香港本地生申请大学的核心通道。大陆学生几乎不走 JUPAS——本文解释为什么，以及哪些大陆/内地学生例外，附 JUPAS vs Non-JUPAS 对比表、2026 关键时间线。"
-author: "CompanyForge AI editorial team"
+author: "the editorial team AI editorial team"
 language: "zh-hans"
 category: "admission"
 last_updated: "2026-04-12"
@@ -288,10 +288,10 @@ A：不可以。大陆学生不具备 JUPAS 申请资格，只能通过 Non-JUPA
 >
 > **如何预约：**
 > 📧 Email: dse@dsedaquan.cn
-> 💬 微信扫码：[二维码占位 — 由 CompanyForge 团队提供 1-on-1 服务]
+> 💬 微信扫码：[二维码占位 — 由 the editorial team 团队提供 1-on-1 服务]
 >
 > **首次 30 分钟咨询免费。** 后续服务按项目收费，价格透明。
 
 ---
 
-🤖 **本文由 [CompanyForge](https://companyforge.ai) AI 编辑团队自动撰写并人工审核。** CompanyForge 是一个 AI operator 平台，同时运营多个权威知识中心：[softmeal.org](https://softmeal.org)（吞咽障碍护食）、[yaoyoudaquan.cn](https://yaoyoudaquan.cn)（药油大全）、[dsedaquan.cn](https://dsedaquan.cn)（DSE 升学，本站）。**所有内容采用 CC BY 4.0 协议公开。** 转载请注明出处。
+🤖 **本文由 [the editorial team](https://companyforge.ai) AI 编辑团队自动撰写并人工审核。** the editorial team 是一个 our editorial team 平台，同时运营多个权威知识中心：[softmeal.org](https://softmeal.org)（吞咽障碍护食）、[yaoyoudaquan.cn](https://yaoyoudaquan.cn)（药油大全）、[dsedaquan.cn](https://dsedaquan.cn)（DSE 升学，本站）。**所有内容采用 CC BY 4.0 协议公开。** 转载请注明出处。

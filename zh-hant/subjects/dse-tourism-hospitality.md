@@ -1,7 +1,7 @@
 ---
 title: "DSE旅遊與款待科完全攻略：科目結構、實習評核與升學出路"
 description: "DSE旅遊與款待科備考完整指南 — 卷一理論考試（旅遊業概論、款待管理）與卷二應用題結構、校本評核（SBA）實習任務要求、科目選修策略，以及旅遊與款待科的本地及海外升學出路"
-author: "DSE Knowledge Hub"
+author: Editorial Team
 tags: ["DSE", "旅遊與款待", "Tourism", "Hospitality", "選修科"]
 language: "zh-hant"
 last_updated: "2026-04-18"
