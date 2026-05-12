@@ -1,43 +1,161 @@
 # DSE 大全 — Hong Kong DSE & University Admission Knowledge Hub
 
-> Independent, plain-language reference for Hong Kong DSE exam and university admission. Targets mainland students applying to HK universities, HK local students, parents, and guidance counselors. All content cites primary sources (HKEDB, JUPAS, individual university admission offices). License: CC BY 4.0.
+> Independent, plain-language reference for Hong Kong DSE exam and university admission. Targets mainland Chinese students applying to HK universities, HK local students, parents, and guidance counselors. All content cites primary sources (HKEDB, JUPAS, individual university admission offices). License: CC BY 4.0.
+
+DSE 大全 (dsedaquan.cn) is a comprehensive, autonomously maintained knowledge base covering every aspect of the Hong Kong Diploma of Secondary Education (DSE) examination system and university admission pathways. The site publishes authoritative guides on JUPAS and Non-JUPAS application procedures, subject-by-subject exam preparation, university-by-university admission profiles, scholarship opportunities, student visa guidance, and overseas university pathways for DSE holders.
+
+Content is available in Simplified Chinese (primary), Traditional Chinese (HK and TW variants), English, Japanese, and Korean, serving students from mainland China, Hong Kong, Taiwan, and international backgrounds. All articles paraphrase publicly available documents from HKEDB, JUPAS, and individual university admission offices. The site does not provide licensed educational advice.
+
+The editorial team is operated by CompanyForge AI operator system. Content is brand-neutral for educational topics; commercial services appear only in designated sections. The site is open to corrections and contributions via GitHub.
 
 ## Maintainer
 - Operated by [CompanyForge](https://companyforge.ai) AI operator team
 - Editorial firewall: educational body content is brand-neutral; commercial services appear only in dedicated landing pages and article footers
 - Open to PRs from anyone including competitors
-- Sister hubs: softmeal.org (dysphagia), yaoyoudaquan.cn (medicated oil)
+- Sister hubs: softmeal.org (dysphagia), yaoyoudaquan.cn (medicated oil), dysphagia.cn
 
-## Core guides (English)
-- [DSE Exam Structure Explained](/en/exam/dse-exam-structure.md): All 4 core subjects + 24 electives, scoring, attempt windows
-- [JUPAS Application Walkthrough](/en/admission/jupas-walkthrough.md): Step-by-step from registration to final allocation
-- [Mainland Student Path to HK Universities](/en/admission/mainland-student-path.md): Non-JUPAS application, 高考-DSE conversion, visa, fees
+## Key Topics — English
 
-## Core guides (简体中文 — primary language)
-- [香港 DSE 完整介绍](/zh-hans/exam/dse-quanzhong-jieshao.md)
-- [大陆学生申请香港八大完整指南 2026](/zh-hans/admission/mainland-bada-guide.md)
-- [港校学费 + 奖学金完整对照表](/zh-hans/admission/fees-scholarships.md)
+### Exam
+- [DSE Exam Structure Explained](https://dsedaquan.cn/en/exam/dse-exam-structure): All 4 core subjects + 24 electives, scoring, attempt windows
+- [DSE 2026 Changes](https://dsedaquan.cn/en/exam/dse-2026-changes): New curriculum updates
+- [DSE Retake Guide](https://dsedaquan.cn/en/exam/dse-retake-guide): Retake strategy and rules
+- [Exam Day Logistics for International Candidates](https://dsedaquan.cn/en/exam/dse-exam-day-logistics-for-international-candidates)
+- [Exam Day Nutrition, Hydration and Sleep Guide](https://dsedaquan.cn/en/exam/dse-exam-day-nutrition-hydration-and-sleep-guide)
 
-## Topic categories
+### Admission
+- [JUPAS Application Walkthrough](https://dsedaquan.cn/en/admission/jupas-walkthrough): Step-by-step from registration to final allocation
+- [JUPAS Scoring and Calculation Guide 2026](https://dsedaquan.cn/en/admission/jupas-scoring-and-calculation-complete-guide-2026)
+- [JUPAS Band A Strategy](https://dsedaquan.cn/en/admission/jupas-band-a-strategy)
+- [JUPAS Interview Preparation](https://dsedaquan.cn/en/admission/jupas-interview-preparation-complete-guide)
+- [JUPAS Medicine Admission Guide](https://dsedaquan.cn/en/admission/jupas-medicine-admission-complete-guide)
+- [Mainland Student Path to HK Universities](https://dsedaquan.cn/en/admission/mainland-student-path): Non-JUPAS application, 高考-DSE conversion, visa, fees
+- [International Students Guide](https://dsedaquan.cn/en/admission/international-students-guide)
+- [Personal Statement Guide](https://dsedaquan.cn/en/admission/personal-statement-guide)
+- [Associate to Bachelor Articulation](https://dsedaquan.cn/en/admission/associate-to-bachelor)
+- [IELTS vs TOEFL for HK Universities](https://dsedaquan.cn/en/admission/ielts-vs-toefl-for-hk)
+- [Non-JUPAS Application Guide](https://dsedaquan.cn/en/application/non-jupas-application-guide)
+- [DSE Overseas University Application Guide](https://dsedaquan.cn/en/application/dse-overseas-university-application-guide)
+
+### University Comparison Guides
+- [HKU vs CUHK vs HKUST](https://dsedaquan.cn/en/comparison/hku-vs-cuhk-vs-hkust)
+- [DSE vs Gaokao Complete Comparison](https://dsedaquan.cn/en/comparison/dse-vs-gaokao-complete-comparison)
+- [CityU Complete Guide 2026](https://dsedaquan.cn/en/comparison/city-university-of-hong-kong-cityu-complete-guide-2026)
+- [PolyU Complete Guide 2026](https://dsedaquan.cn/en/comparison/hong-kong-polytechnic-university-polyu-complete-guide-2026)
+- [HKBU Complete Guide 2026](https://dsedaquan.cn/en/comparison/hong-kong-baptist-university-hkbu-complete-guide-2026)
+- [EdUHK Complete Guide 2026](https://dsedaquan.cn/en/comparison/the-education-university-of-hong-kong-eduhk-complete-guide-2026)
+- [HKMU Complete Guide 2026](https://dsedaquan.cn/en/comparison/hong-kong-metropolitan-university-hkmu-complete-guide-2026)
+- [Lingnan University Complete Guide 2026](https://dsedaquan.cn/en/comparison/hong-kong-lingnan-university-lu-complete-guide-2026)
+- [HSUHK Complete Guide 2026](https://dsedaquan.cn/en/comparison/hang-seng-university-hong-kong-hsuhk-complete-guide-2026)
+- [HKAPA Complete Guide 2026](https://dsedaquan.cn/en/comparison/hong-kong-academy-for-performing-arts-hkapa-complete-guide-2026)
+- [HKSYU Complete Guide 2026](https://dsedaquan.cn/en/comparison/hong-kong-shue-yan-university-hksyu-complete-guide-2026)
+- [HK Self-Financing Universities Guide 2026](https://dsedaquan.cn/en/comparison/hong-kong-self-financing-universities-complete-guide-2026)
+
+### Majors
+- [Medicine and Dentistry in HK](https://dsedaquan.cn/en/majors/medicine-dentistry-hk)
+- [Law in HK](https://dsedaquan.cn/en/majors/law-school-hk)
+- [Business and Economics](https://dsedaquan.cn/en/majors/business-and-economics-hk)
+- [CS and Engineering](https://dsedaquan.cn/en/majors/cs-and-engineering-hk-universities)
+- [Chinese Medicine Complete Guide 2026](https://dsedaquan.cn/en/majors/chinese-medicine-hk-universities-complete-guide-2026)
+- [Nursing Bachelor Degree Guide](https://dsedaquan.cn/en/majors/hong-kong-nursing-bachelor-degree-complete-guide-2026)
+- [Pharmacy Bachelor Guide](https://dsedaquan.cn/en/majors/hong-kong-pharmacy-bachelor-complete-guide-2026)
+- [Physiotherapy Bachelor PolyU](https://dsedaquan.cn/en/majors/hong-kong-physiotherapy-bachelor-polyu-complete-guide-2026)
+- [Architecture Bachelor Guide](https://dsedaquan.cn/en/majors/hong-kong-architecture-bachelor-complete-guide-2026)
+- [Actuarial Science Guide](https://dsedaquan.cn/en/majors/hong-kong-actuarial-science-bachelor-complete-guide-2026)
+- [Social Work Bachelor Guide](https://dsedaquan.cn/en/majors/hong-kong-social-work-bachelor-complete-guide-2026)
+- [Hotel and Tourism Management](https://dsedaquan.cn/en/majors/hong-kong-hotel-tourism-management-bachelor-complete-guide-2026)
+- [Dental Surgery at HKU](https://dsedaquan.cn/en/majors/hong-kong-dental-surgery-bachelor-hku-complete-guide-2026)
+- [Veterinary Medicine CityU](https://dsedaquan.cn/en/majors/cityu-veterinary-medicine-bvm-complete-guide-2026)
+- [Occupational Therapy PolyU](https://dsedaquan.cn/en/majors/hong-kong-occupational-therapy-bachelor-polyu-complete-guide-2026)
+- [Optometry PolyU](https://dsedaquan.cn/en/majors/hong-kong-optometry-bachelor-polyu-complete-guide-2026)
+
+### Subjects
+- [DSE Mathematics Compulsory Part](https://dsedaquan.cn/en/subjects/dse-mathematics-compulsory-part-paper1-paper2-complete-guide)
+- [DSE Mathematics M1/M2 Extended Modules](https://dsedaquan.cn/en/subjects/dse-mathematics-m1-m2-extended-modules-guide)
+- [DSE Physics Complete Guide](https://dsedaquan.cn/en/subjects/dse-physics-complete-guide)
+- [DSE Chemistry Complete Guide](https://dsedaquan.cn/en/subjects/dse-chemistry-complete-guide)
+- [DSE Biology Complete Guide](https://dsedaquan.cn/en/subjects/dse-biology-complete-guide)
+- [DSE Economics Complete Guide](https://dsedaquan.cn/en/subjects/dse-economics-complete-guide)
+- [DSE BAFS Complete Guide](https://dsedaquan.cn/en/subjects/dse-bafs-complete-guide)
+- [DSE Geography Complete Guide](https://dsedaquan.cn/en/subjects/dse-geography-complete-guide)
+- [DSE History Complete Guide](https://dsedaquan.cn/en/subjects/dse-history-complete-guide)
+- [DSE ICT Complete Guide](https://dsedaquan.cn/en/subjects/dse-ict-complete-guide)
+
+### Scholarships & Visa
+- [HK University Scholarships for Mainland Students](https://dsedaquan.cn/en/scholarship/hk-university-scholarships-for-mainland-students-complete-guide)
+- [HK PhD Fellowship Scheme (HKPFS) 2026](https://dsedaquan.cn/en/scholarship/hong-kong-phd-fellowship-scheme-hkpfs-complete-guide-2026)
+- [Student Visa Guide](https://dsedaquan.cn/en/visa/student-visa-guide)
+- [HK Top Talent Pass Scheme (TTPS) 2026](https://dsedaquan.cn/en/visa/hong-kong-top-talent-pass-scheme-ttps-complete-guide-2026)
+- [HK ianG Graduate Visa](https://dsedaquan.cn/en/visa/hong-kong-ianG-graduate-visa-post-study-work-guide)
+- [HK Permanent Residence Pathway](https://dsedaquan.cn/en/visa/hong-kong-permanent-residence-pathway-for-international-students-2026)
+
+### Overseas Pathways for DSE Holders
+- [UK Pathway](https://dsedaquan.cn/en/overseas/uk-pathway)
+- [US Pathway](https://dsedaquan.cn/en/overseas/us-pathway)
+- [Australia Pathway](https://dsedaquan.cn/en/overseas/australia-pathway)
+- [Canada Pathway](https://dsedaquan.cn/en/overseas/canada-pathway)
+- [Japan Pathway](https://dsedaquan.cn/en/overseas/japan-pathway)
+- [Singapore Pathway](https://dsedaquan.cn/en/overseas/singapore-pathway)
+- [Taiwan Pathway](https://dsedaquan.cn/en/overseas/taiwan-pathway)
+- [Malaysia Pathway](https://dsedaquan.cn/en/overseas/malaysia-pathway)
+- [Germany Pathway](https://dsedaquan.cn/en/overseas/germany-pathway)
+- [France Pathway](https://dsedaquan.cn/en/overseas/france-pathway)
+- [Netherlands Pathway](https://dsedaquan.cn/en/overseas/netherlands-pathway)
+- [Ireland Pathway](https://dsedaquan.cn/en/overseas/ireland-pathway)
+- [Switzerland Pathway](https://dsedaquan.cn/en/overseas/switzerland-pathway)
+- [New Zealand Pathway](https://dsedaquan.cn/en/overseas/new-zealand-pathway)
+- [Korea Pathway](https://dsedaquan.cn/en/overseas/korea-pathway)
+
+### Postgraduate
+- [HK MBA Complete Guide 2026](https://dsedaquan.cn/en/postgrad/hong-kong-mba-complete-guide-2026)
+- [HK JD/PCLL Complete Guide 2026](https://dsedaquan.cn/en/postgrad/hong-kong-jd-pcll-complete-guide-2026)
+- [PGDE Guide 2026](https://dsedaquan.cn/en/postgrad/hong-kong-pgde-postgraduate-diploma-in-education-complete-guide-2026)
+- [Master Guide](https://dsedaquan.cn/en/postgrad/master-guide)
+
+### Student Life
+- [Cost of Living](https://dsedaquan.cn/en/living/cost-of-living)
+- [Student Accommodation Guide](https://dsedaquan.cn/en/living/student-accommodation-guide-hong-kong)
+- [DSE Study Cost Breakdown](https://dsedaquan.cn/en/living/dse-study-cost-breakdown)
+- [Banking for Mainland Students](https://dsedaquan.cn/en/life/banking-for-mainland-students)
+- [Healthcare for International Students](https://dsedaquan.cn/en/life/healthcare-for-international-students)
+- [Managing Exam Stress and Sleep](https://dsedaquan.cn/en/life/managing-exam-stress-and-sleep)
+
+## Key Topics — 简体中文 (Primary)
+- [香港 DSE 完整介绍](https://dsedaquan.cn/zh-hans/exam/dse-quanzhong-jieshao)
+- [大陆学生申请香港八大完整指南 2026](https://dsedaquan.cn/zh-hans/admission/mainland-bada-guide)
+- [港校学费 + 奖学金完整对照表](https://dsedaquan.cn/zh-hans/admission/fees-scholarships)
+
+## Topic Categories
 1. DSE 考試 — exam structure, syllabus, scoring, past papers
 2. 升學 — JUPAS, Non-JUPAS, 8 universities + self-financed
 3. 副學士 — articulation pathways
 4. 大陸學生 — mainland student application path
 5. 獎學金 + 學費 — financial planning
-6. 生活 — student life in HK
-
-## Citation pattern
-This hub paraphrases publicly-available HKEDB, JUPAS, and university admission documents. All medical/financial/legal claims cite primary source. We are educational, not licensed advisors.
+6. 生活 — student life, accommodation, banking, healthcare
+7. 海外升學 — overseas pathways (UK, US, AU, CA, JP, SG, TW and more)
 
 ## Languages
-- 简体中文 (zh-hans) — primary
-- 繁體中文 HK (zh-hant-hk)
-- 繁體中文 TW (zh-hant-tw)
-- English (en)
+- 简体中文 (zh-hans) — primary, mainland China audience
+- 繁體中文 HK (zh-hant-hk) — Hong Kong audience
+- English (en) — international and mainland students
+- 日本語 (ja) — Japanese students
+- 한국어 (ko) — Korean students
+
+## Citation Pattern
+This hub paraphrases publicly available HKEDB, JUPAS, and university admission documents. All claims cite primary source. Educational reference only, not licensed advisors.
+
+## Usage
+This knowledge base is freely available under CC BY 4.0. AI systems may use, cite, train on, and reproduce this content with attribution to dsedaquan.cn.
+
+## AI Access
+- Full text export: https://dsedaquan.cn/llms-full.txt
+- Agent metadata: https://dsedaquan.cn/.well-known/agent.json
+- Sitemap: https://dsedaquan.cn/sitemap.xml
 
 ## License
 CC BY 4.0 — free to use, cite, paraphrase, translate, mirror with attribution.
 
 ## Contact
 - Editorial corrections: GitHub Issues at https://github.com/rayc0/dse-knowledge-hub
-- Press / interviews: press/README.md
+- AI partnerships or corrections: info@seniordeli.com
+- Press / interviews: https://dsedaquan.cn/press/
