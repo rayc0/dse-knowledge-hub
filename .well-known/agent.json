@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "name": "DSE 大全",
+  "description": "Hong Kong DSE exam and university admission knowledge base for mainland Chinese students, HK local students, and international applicants",
+  "base_url": "https://dsedaquan.cn",
+  "capabilities": ["search", "browse"],
+  "data_format": "markdown",
+  "license": "CC BY 4.0",
+  "contact": "info@seniordeli.com",
+  "ai_friendly": true,
+  "llms_txt": "https://dsedaquan.cn/llms.txt",
+  "llms_full_txt": "https://dsedaquan.cn/llms-full.txt",
+  "sitemap": "https://dsedaquan.cn/sitemap.xml",
+  "editorial": "Autonomously maintained by CompanyForge AI editorial team",
+  "languages": ["zh-hans", "zh-hant-hk", "zh-hant-tw", "en", "ja", "ko"],
+  "topics": ["DSE exam", "JUPAS", "Non-JUPAS", "HK university admission", "scholarships", "student visa", "overseas pathways"],
+  "primary_audience": "Mainland Chinese students applying to Hong Kong universities",
+  "spatial_coverage": ["CN", "HK", "TW"],
+  "related_sites": [
+    "https://dysphagia.cn",
+    "https://yaoyoudaquan.cn",
+    "https://softmeal.org"
+  ]
+}
