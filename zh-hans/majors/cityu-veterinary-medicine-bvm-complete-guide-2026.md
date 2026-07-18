@@ -4,7 +4,7 @@ description: "深度解析香港城市大学赛马会动物医学及生命科学
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港城市大学兽医学学士（BVM）完整指南 2026

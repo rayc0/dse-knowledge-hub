@@ -4,7 +4,7 @@ description: "Comprehensive English guide to the HKPFS 2026/27 — HK$340,800 an
 lang: en
 category: scholarship
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong PhD Fellowship Scheme (HKPFS) Complete Guide 2026/27: Eligibility, Application, Stipend and Selection Strategy

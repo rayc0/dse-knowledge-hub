@@ -4,7 +4,7 @@ description: 详解香港都会大学 2026/27 本科入学，包括五大学院 
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港都会大学（HKMU）本科完整指南 2026

@@ -4,7 +4,7 @@ description: "DSE 學生入讀日本大學的完整指南 — 從日本大學入
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-15
-author: Thomas Ho
+author: DSE知識庫編輯部
 tags:
   - 日本升學
   - 日本大學

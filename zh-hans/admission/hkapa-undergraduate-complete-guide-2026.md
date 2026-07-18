@@ -4,7 +4,7 @@ description: "全面解析香港演艺学院（HKAPA）2026本科申请：六大
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港演艺学院（HKAPA）本科完整指南 2026

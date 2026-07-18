@@ -4,7 +4,7 @@ description: "How non-academic achievements count in JUPAS: a full guide to OEA,
 lang: en
 category: admission
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # JUPAS OEA, SPN & Special Admission Schemes Complete Guide 2026

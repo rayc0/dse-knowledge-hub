@@ -4,7 +4,7 @@ description: "Complete guide to Hong Kong's only direct-registration radiography
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Radiography Bachelor (PolyU JS3612) Complete Guide 2026

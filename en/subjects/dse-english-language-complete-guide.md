@@ -4,7 +4,7 @@ description: "Everything HKDSE candidates need to know about English Language in
 lang: en
 category: subjects
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # DSE English Language Complete Guide 2026

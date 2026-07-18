@@ -4,7 +4,7 @@ description: 一文讲透香港八大数学与统计学本科：HKUST JS5102、C
 lang: zh-hans
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港数学与统计学本科完整指南 2026

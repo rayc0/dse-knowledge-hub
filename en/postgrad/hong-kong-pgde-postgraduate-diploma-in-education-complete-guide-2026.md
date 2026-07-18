@@ -4,7 +4,7 @@ description: "Complete 2026 guide to the Hong Kong Postgraduate Diploma in Educa
 lang: en
 category: postgrad
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong PGDE Complete Guide 2026

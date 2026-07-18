@@ -1,7 +1,7 @@
 ---
 title: "大陆学生申请香港八大完整指南 2026 — 入学要求、费用、奖学金、申请流程"
 description: "大陆学生申请香港八大（HKU/CUHK/HKUST/PolyU/CityU/HKBU/EdUHK/LU）的完整指南：高考分数线、申请时间表、学费、奖学金、签证、住宿。引用各大学官方资料。"
-author: "the editorial team AI editorial team"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "admission"
 last_updated: "2026-04-11"

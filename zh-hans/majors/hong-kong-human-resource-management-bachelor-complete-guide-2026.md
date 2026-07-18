@@ -4,7 +4,7 @@ description: "全面拆解香港五大院校 BBA 人力资源管理（HRM）课�
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港人力资源管理本科完整指南 2026

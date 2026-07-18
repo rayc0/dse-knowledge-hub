@@ -4,7 +4,7 @@ description: "Comprehensive 2026 guide to Cybersecurity and Information Security
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Cybersecurity & Information Security Bachelor Complete Guide 2026

@@ -4,7 +4,7 @@ description: "内地学生初到香港的季节适应与生活装备完整指南
 lang: zh-hans
 category: life
 date: 2026-04-15
-author: DSE 知识库
+author: DSE知识库编辑部
 tags:
   - 香港生活
   - 内地学生

@@ -4,7 +4,7 @@ description: 全面解读 HKUST 商学院 JS5300 BBA IBM 国际商业管理、HK
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港国际商业本科完整指南 2026

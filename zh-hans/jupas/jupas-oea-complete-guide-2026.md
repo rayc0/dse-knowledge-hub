@@ -4,7 +4,7 @@ description: "JUPAS OEA（Other Experiences and Achievements）2026 完整申报
 lang: zh-hans
 category: jupas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # JUPAS OEA 比赛与活动经验完整指南：申报技巧、加分院校与撰写策略 2026

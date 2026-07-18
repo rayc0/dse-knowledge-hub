@@ -4,7 +4,7 @@ description: "2026 年香港哲学本科一站式指南：港大 BA Philosophy�
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港哲学学士完整指南 2026：港大、中大、浸大、岭大哲学系全方位拆解

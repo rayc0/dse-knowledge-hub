@@ -4,7 +4,7 @@ description: "HKUST Energy & Environmental Engineering, CUHK JS4462 EEEN, PolyU 
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Energy and Environmental Engineering Bachelor Complete Guide 2026

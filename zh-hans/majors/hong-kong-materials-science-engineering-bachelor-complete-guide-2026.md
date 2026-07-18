@@ -4,7 +4,7 @@ description: "2026 JUPAS 材料科学与工程本科攻略：CityU JS1210 BEng M
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港材料科学与工程本科完整指南 2026

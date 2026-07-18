@@ -4,7 +4,7 @@ description: 香港岭南大学 2026 年本科申请完整指南：亚洲十大�
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港岭南大学（LU）本科完整指南 2026：亚洲十大博雅大学、AACSB 认证商学院、内地高考与非联招申请、学费、王牌专业与就业前景

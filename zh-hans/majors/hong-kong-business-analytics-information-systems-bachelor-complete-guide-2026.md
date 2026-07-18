@@ -4,7 +4,7 @@ description: HKUST 商学院 BBA in Information Systems (JS5314)、HKBU JS2520 I
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港商业分析与信息系统本科完整指南 2026

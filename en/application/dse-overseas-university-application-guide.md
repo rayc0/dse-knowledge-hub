@@ -4,7 +4,7 @@ description: "How HKDSE graduates apply to top universities overseas. Country-by
 lang: en
 category: application
 date: 2026-04-15
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE
   - overseas university

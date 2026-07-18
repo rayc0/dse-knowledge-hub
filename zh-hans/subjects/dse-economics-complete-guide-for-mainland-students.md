@@ -4,7 +4,7 @@ description: "写给内地学生的 HKDSE 经济科（Economics）完整备考�
 lang: zh-hans
 category: subjects
 date: 2026-04-15
-author: DSE 知识中心
+author: DSE知识库编辑部
 tags:
   - HKDSE
   - 经济

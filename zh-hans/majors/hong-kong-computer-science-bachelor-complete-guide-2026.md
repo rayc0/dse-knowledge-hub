@@ -4,7 +4,7 @@ description: "深入解析香港五大计算机科学（Computer Science）本�
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港计算机科学学士完整指南 2026：港大、中大、科大、理大、城大五大旗舰课程深度解析

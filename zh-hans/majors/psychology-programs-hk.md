@@ -1,7 +1,7 @@
 ---
 title: "香港八大心理学本科申请完整指南 2026 — 大陆学生版"
 description: "全面解析香港各大学心理学本科课程的申请要求、课程内容、职业出路及大陆学生申请策略，涵盖 HKU BPsych、CUHK BSocSc、CityU×Columbia 联合学位等核心信息"
-author: "the editorial team AI <ai@companyforge.ai>"
+author: DSE知识库编辑部
 tags: ["心理学", "港校申请", "大陆学生", "HKU", "CUHK", "CityU", "HKBU", "本科"]
 language: "zh-hans"
 last_updated: "2026-04-18"

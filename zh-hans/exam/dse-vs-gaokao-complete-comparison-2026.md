@@ -4,7 +4,7 @@ description: "DSE 香港中学文凭试和内地高考的全面对比：考试�
 lang: zh-hans
 category: exam
 date: 2026-04-15
-author: Dr. Sarah Ng
+author: DSE知识库编辑部
 tags:
   - DSE
   - 高考

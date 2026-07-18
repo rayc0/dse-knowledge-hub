@@ -4,7 +4,7 @@ description: "公民與社會發展科（Citizenship and Social Development, CSD
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: DSE Hub
+author: DSE知識庫編輯部
 tags:
   - DSE
   - 公民與社會發展

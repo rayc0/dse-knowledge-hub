@@ -4,7 +4,7 @@ description: 2026 JUPAS 申请人完整解析香港机械人 / 自动化工程�
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE 知识中心
+author: DSE知识库编辑部
 ---
 
 # 香港机械人工程本科完整指南 2026

@@ -4,7 +4,7 @@ description: 香港金融科技本科怎么选？本文系统梳理港大、城�
 lang: zh-hans
 category: majors
 date: 2026-05-18
-author: DSE Knowledge Hub 编辑团队
+author: DSE知识库编辑部
 ---
 
 # 香港八大金融科技（FinTech）本科专业完整申请指南 2026 — 大陆学生版

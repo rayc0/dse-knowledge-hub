@@ -4,7 +4,7 @@ description: "A comprehensive guide to CS and engineering programmes at HKU, CUH
 lang: en
 category: majors
 date: 2026-04-17
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 tags: [computer-science, engineering, JUPAS, Hong-Kong, universities, career, tech]
 ---
 

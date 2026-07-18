@@ -4,7 +4,7 @@ description: "A full 2026 guide to studying Journalism, Communication and Media 
 lang: en
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Journalism, Communication & Media Bachelor Complete Guide 2026

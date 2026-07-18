@@ -4,7 +4,7 @@ description: "A complete 2026 guide to the University of Hong Kong for internati
 lang: en
 category: comparison
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # The University of Hong Kong (HKU) Complete Guide 2026

@@ -4,7 +4,7 @@ description: 2026 年度香港心理学本科申请全攻略 —— 港大心理
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港心理学本科完整指南 2026：港大 BPsych、中大 JS4862、HKPS 认证与专业心理学家全路径

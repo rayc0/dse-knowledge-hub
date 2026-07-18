@@ -4,7 +4,7 @@ description: "Definitive 2026 guide to City University of Hong Kong's Bachelor o
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # CityU Bachelor of Veterinary Medicine (BVM) Complete Guide 2026

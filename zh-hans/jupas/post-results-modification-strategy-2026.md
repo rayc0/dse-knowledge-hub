@@ -4,7 +4,7 @@ description: 2026 年 JUPAS 放榜后改选窗口（7 月 16-18 日）操作流�
 lang: zh-hans
 category: jupas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # JUPAS 放榜后改选策略完整指南：DSE 成绩公布后最后调整机会与录取流程 2026

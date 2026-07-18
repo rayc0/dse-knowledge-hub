@@ -4,7 +4,7 @@ description: "2026 最新 QS、泰晤士高等教育（THE）、软科 ARWU 三�
 lang: zh-hans
 category: comparison
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港八大世界排名深度解读 2026：QS、THE、ARWU 三大榜单对比与选校建议

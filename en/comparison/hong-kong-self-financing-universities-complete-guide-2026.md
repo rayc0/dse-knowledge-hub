@@ -4,7 +4,7 @@ description: "Comprehensive 2026 guide to Hong Kong's self-financing degree-awar
 lang: en
 category: comparison
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Self-Financing Universities Complete Guide 2026

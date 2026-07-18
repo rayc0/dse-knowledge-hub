@@ -4,7 +4,7 @@ description: "香港 DSE 考生報讀紐西蘭大學的完整指南：紐西蘭�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-14
-author: "DSE 升學知識庫"
+author: DSE知識庫編輯部
 ---
 
 # 紐西蘭升學指南 2026：八大、學費、工簽與移民銜接

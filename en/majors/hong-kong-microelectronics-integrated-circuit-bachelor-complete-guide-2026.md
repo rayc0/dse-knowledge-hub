@@ -4,7 +4,7 @@ description: Hong Kong Microelectronics and Integrated Circuits (MEIC) bachelor 
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Microelectronics and Integrated Circuit Bachelor Complete Guide 2026

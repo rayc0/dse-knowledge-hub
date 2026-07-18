@@ -4,7 +4,7 @@ description: "Full breakdown of CUHK JS4006 BSSc Anthropology 2026: JUPAS admiss
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Anthropology Bachelor Complete Guide 2026

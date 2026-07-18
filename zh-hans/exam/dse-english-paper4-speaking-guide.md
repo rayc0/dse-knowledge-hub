@@ -4,7 +4,7 @@ description: "面向内地考生的 HKDSE 英文 Paper 4 口语考试完整攻�
 lang: zh-hans
 category: exam
 date: 2026-05-02
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # DSE 英文卷四 Speaking 口语考试完整指南：题型、评分、SBA 与实战技巧 2026

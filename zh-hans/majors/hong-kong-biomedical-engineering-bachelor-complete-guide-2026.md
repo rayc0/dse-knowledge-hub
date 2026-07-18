@@ -4,7 +4,7 @@ description: 香港五所大学生物医学工程（Biomedical Engineering）本
 lang: zh-hans
 category: majors
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港生物医学工程本科完整指南 2026

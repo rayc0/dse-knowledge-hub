@@ -4,7 +4,7 @@ description: "A comprehensive guide to student accommodation in Hong Kong for in
 lang: en
 category: living
 date: 2026-04-15
-author: Raymond
+author: DSE Knowledge Hub Editorial Team
 tags:
   - Hong Kong
   - student housing

@@ -4,7 +4,7 @@ description: "香港公共卫生本科是 COVID 后增长最快的医疗相关�
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港公共卫生学士完整指南 2026

@@ -4,7 +4,7 @@ description: "A complete 2026 guide to DSE Applied Learning (ApL): the six areas
 lang: en
 category: subjects
 date: 2026-05-19
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # DSE Applied Learning (ApL) Complete Guide 2026

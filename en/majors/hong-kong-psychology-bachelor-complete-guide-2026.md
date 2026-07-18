@@ -4,7 +4,7 @@ description: Full 2026 admission guide to Hong Kong's Bachelor of Psychology and
 lang: en
 category: majors
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Psychology Bachelor Complete Guide 2026: HKU BPsych JS6705, CUHK JS4862, HKPS Accreditation and the Professional Psychologist Pathway

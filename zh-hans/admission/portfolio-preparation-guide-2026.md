@@ -4,7 +4,7 @@ description: 港大建筑、中大建筑、理大设计、城大创意媒体、�
 lang: zh-hans
 category: admission
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港八大艺术、设计、建筑与创意媒体专业作品集（Portfolio）完整准备指南 2026

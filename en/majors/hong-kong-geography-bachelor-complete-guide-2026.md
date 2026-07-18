@@ -4,7 +4,7 @@ description: "Comprehensive 2026 guide to Geography bachelor programmes in Hong 
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Geography Bachelor Complete Guide 2026: HKU JS6713, CUHK JS4836, HKBU JS2030

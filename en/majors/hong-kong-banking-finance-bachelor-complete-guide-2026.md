@@ -4,7 +4,7 @@ description: A complete guide to Hong Kong's banking and finance bachelor degree
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Banking and Finance Bachelor Complete Guide 2026 - HKU BBA(Fin), HKUST JS5312, CUHK IBBA JS4202, CityU JS1014, PolyU JS3060 — JUPAS Scores, Curriculum, i-Banking and HKMA Careers

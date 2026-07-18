@@ -4,7 +4,7 @@ description: 一文看清香港中文大学政治与行政学、港大政治与�
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港政治学、公共行政与国际关系本科完整指南 2026

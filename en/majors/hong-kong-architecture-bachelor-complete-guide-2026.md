@@ -4,7 +4,7 @@ description: "Complete 2026 guide to Hong Kong architecture undergraduate progra
 lang: en
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Architecture Bachelor Complete Guide 2026

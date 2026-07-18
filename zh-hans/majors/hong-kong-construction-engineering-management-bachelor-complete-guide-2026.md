@@ -4,7 +4,7 @@ description: 详细拆解香港建造工程及管理（Building Engineering and 
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港建造工程及管理本科完整指南 2026

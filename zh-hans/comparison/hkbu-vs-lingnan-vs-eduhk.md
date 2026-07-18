@@ -1,7 +1,7 @@
 ---
 title: "浸大 vs 岭南 vs 教大：小而精的八大对比 2026"
 description: "香港浸会大学、岭南大学、香港教育大学三校深度对比 — 排名、强势专业、入学要求、学费、校园生活、就业前景。大陆学生选校指南。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "comparison"
 last_updated: "2026-04-17"

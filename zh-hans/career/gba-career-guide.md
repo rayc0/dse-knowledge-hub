@@ -1,7 +1,7 @@
 ---
 title: "港校毕业生大湾区就业全指南 2026：深圳、广州、澳门求职路径与政策红利"
 description: "香港八大毕业后回大湾区就业完整攻略——工作许可豁免、GBA青年就业计划补贴、15%个税优惠、城市薪资对比、行业选择与留港 vs 回湾区决策框架"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 tags: ["大湾区就业", "港校毕业生", "深圳求职", "GBA青年就业计划", "香港毕业回流"]
 language: "zh-hans"
 last_updated: "2026-04-18"

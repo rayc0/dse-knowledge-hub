@@ -4,7 +4,7 @@ description: "2026 年报考香港航空航天工程（Aerospace Engineering）�
 lang: zh-hans
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港航空航天与航空工程本科完整指南 2026

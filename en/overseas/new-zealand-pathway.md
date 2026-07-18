@@ -4,7 +4,7 @@ description: "Complete guide for HKDSE students applying to New Zealand universi
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # New Zealand Pathway for DSE Students: Auckland, Otago, English-Taught Bachelor's Degrees, Tuition and Post-Study Work Visa Guide 2026

@@ -4,7 +4,7 @@ description: "香港物业管理（Property Management）与房地产（Real Est
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: Thomas Ho
+author: DSE知识库编辑部
 ---
 
 # 香港物业管理与房地产本科完整指南 2026 — PolyU JS3004 房地产建设系、HKU 房地产学、HKMU 物业管理 — JUPAS 收生分数、课程结构与 HKIH/HKIS 注册路径

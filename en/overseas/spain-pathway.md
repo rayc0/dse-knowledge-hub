@@ -4,7 +4,7 @@ description: "Complete 2026 guide for Hong Kong DSE students applying to Spanish
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Spain Pathway for DSE Students 2026

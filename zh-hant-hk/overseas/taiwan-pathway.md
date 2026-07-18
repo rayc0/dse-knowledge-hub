@@ -4,7 +4,7 @@ description: "香港 DSE 考生報讀台灣大學嘅完整指南：海外聯招�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-14
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 ---
 
 # 台灣升學完整指南 2026：海外聯招、學費、評點制與留台出路

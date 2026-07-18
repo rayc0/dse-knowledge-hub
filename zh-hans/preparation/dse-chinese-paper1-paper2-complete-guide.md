@@ -4,7 +4,7 @@ description: "针对内地学生的 DSE 中文科 Paper 1（阅读）和 Paper 2
 lang: zh-hans
 category: preparation
 date: 2026-04-15
-author: Michael Chan
+author: DSE知识库编辑部
 tags:
   - DSE中文
   - Paper1

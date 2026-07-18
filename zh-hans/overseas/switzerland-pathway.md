@@ -4,7 +4,7 @@ description: "面向香港DSE考生的瑞士升学路径全攻略，涵盖ETH Zu
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生瑞士留学申请指南：ETH苏黎世、EPFL洛桑联邦理工、英文授课硕士与D类签证完整解读 2026

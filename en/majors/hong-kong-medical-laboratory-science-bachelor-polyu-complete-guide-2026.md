@@ -4,7 +4,7 @@ description: "Complete guide to Hong Kong's only government-funded medical labor
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Medical Laboratory Science Bachelor (PolyU JS3478) Complete Guide 2026

@@ -4,7 +4,7 @@ description: "A complete 2026 guide to Hong Kong's Top Talent Pass Scheme (TTPS)
 lang: en
 category: visa
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Top Talent Pass Scheme (TTPS) Complete Guide 2026

@@ -5,7 +5,7 @@ permalink: /zh-hans/dse/review-of-results-rechecking-guide-2026/
 lang: zh-hans
 categories: [dse]
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 description: "香港 DSE 2026 成绩复核（Review of Results）完整指南：积分覆核 vs 重阅答卷的区别、申请期限（放榜后 5 历日）、收费表、退费政策、成功率、对 JUPAS 改选的影响，以及内地自修生的申请方式。"
 ---
 

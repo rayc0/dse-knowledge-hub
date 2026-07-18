@@ -4,7 +4,7 @@ description: 香港三大欧洲语言与区域研究本科全解析：HKU School
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港欧洲研究 / 法语 / 德语本科完整指南 2026

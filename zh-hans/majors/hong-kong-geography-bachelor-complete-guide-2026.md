@@ -4,7 +4,7 @@ description: "2026 年香港地理学学士全方位攻略：覆盖港大 BSocSc
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港地理学学士完整指南 2026：港大 JS6713、中大 JS4836、浸大 JS2030

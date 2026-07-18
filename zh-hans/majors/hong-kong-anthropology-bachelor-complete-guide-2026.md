@@ -4,7 +4,7 @@ description: 中文大学 JS4006 人类学（BSSc Anthropology）2026 JUPAS 收�
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港人类学本科完整指南 2026

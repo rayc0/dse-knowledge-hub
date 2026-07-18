@@ -4,7 +4,7 @@ description: "大陆学生申请香港八大授课型硕士（MSc/MA/MBA）的�
 lang: zh-hans
 category: postgrad
 date: 2026-04-14
-author: "DSE 升学知识库"
+author: DSE知识库编辑部
 ---
 
 # 香港八大授课型硕士申请完整攻略 2026

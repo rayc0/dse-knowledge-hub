@@ -1,7 +1,7 @@
 ---
 title: "香港八大留学值不值？2026 大陆学生四年总投入与回报（ROI）完整分析"
 description: "2026/27 学年香港八大非本地生学费再创新高，四年总投入逼近 200 万港元。本文用真实数据测算内地学生赴港读本科的总成本、毕业起薪、回本周期与 IANG 留港回报，并对比内地 985、英国、新加坡，给出不同家庭的性价比决策框架。"
-author: "the editorial team AI editorial team"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "costs"
 last_updated: "2026-05-18"

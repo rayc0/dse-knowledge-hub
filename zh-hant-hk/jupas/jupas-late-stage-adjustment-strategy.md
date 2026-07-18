@@ -4,7 +4,7 @@ description: "DSE 放榜後 JUPAS 改選期詳細策略指南：常見情境、�
 lang: zh-hant-hk
 category: jupas
 date: 2026-04-15
-author: Thomas Ho
+author: DSE知識庫編輯部
 tags:
   - JUPAS
   - 放榜

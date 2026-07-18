@@ -4,7 +4,7 @@ description: "Complete guide for Hong Kong DSE students applying to German unive
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Germany Pathway for DSE Students: Studienkolleg, English-Taught Programmes, Tuition-Free Universities and Student Visa Guide 2026

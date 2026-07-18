@@ -1,7 +1,7 @@
 ---
 title: "香港八大药学（BPharm）专业完整申请指南 2026 — 大陆学生版"
 description: "大陆学生申请香港药学专业完整指南 — 港大/中大/理大BPharm课程对比、高考录取要求、非本地学费（折合人民币）、HKPC执照考试、香港注册药剂师薪酬、IANG留港路径与大湾区制药业出路"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-04-18"

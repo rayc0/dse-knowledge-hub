@@ -1,7 +1,7 @@
 ---
 title: "香港八大数据科学与人工智能专业完整申请指南 2026"
 description: "香港DSE升读数据科学/人工智能专业完整指南（简体中文）— 香港八大开设DS/AI相关本科课程比较（HKU/CUHK/HKUST/PolyU/CityU）、DSE最低入学要求、毕业生薪资水平（初级数据分析师HK$2.2-3.5万）、AI研究vs应用方向区别、与计算机科学的差异、大湾区AI就业机会、奖学金与进阶课程"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-04-18"

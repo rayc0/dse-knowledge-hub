@@ -4,7 +4,7 @@ description: "Comprehensive guide to the Immigration Arrangements for Non-local 
 lang: en
 category: visa
 date: 2026-04-15
-author: Dr. Sarah Ng
+author: DSE Knowledge Hub Editorial Team
 tags:
   - IANG
   - Hong Kong visa

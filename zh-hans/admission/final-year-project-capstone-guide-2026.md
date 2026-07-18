@@ -4,7 +4,7 @@ description: 港八大本科 FYP / Capstone 完整指南：学分构成、时间
 lang: zh-hans
 category: admission
 date: 2026-05-02
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港八大本科毕业论文（Final Year Project / Capstone）完整指南 2026

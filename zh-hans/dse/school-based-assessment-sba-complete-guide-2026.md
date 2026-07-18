@@ -1,7 +1,7 @@
 ---
 title: "DSE 校本评核（SBA）完整指南 2026 — 评核科目、占分比例、自修生豁免与提分策略"
 description: "一文看懂香港DSE校本评核SBA：覆盖哪些科目、各科占分比例、与公开试的关系、大陆自修生是否需要做SBA、豁免规则及高分准备策略。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "dse"
 last_updated: "2026-05-18"

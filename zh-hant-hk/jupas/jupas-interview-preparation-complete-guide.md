@@ -4,7 +4,7 @@ description: "為香港 DSE 考生提供一份全面的 JUPAS 面試準備指南
 lang: zh-hant-hk
 category: jupas
 date: 2026-04-15
-author: DSE Hub
+author: DSE知識庫編輯部
 tags:
   - jupas
   - 面試

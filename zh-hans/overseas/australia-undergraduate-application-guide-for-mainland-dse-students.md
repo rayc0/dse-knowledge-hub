@@ -4,7 +4,7 @@ description: "为选择在港读 DSE 的内地考生提供一份申请澳洲本�
 lang: zh-hans
 category: overseas
 date: 2026-04-15
-author: DSE Hub
+author: DSE知识库编辑部
 tags:
   - dse
   - 澳洲

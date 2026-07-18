@@ -4,7 +4,7 @@ description: "Complete 2026 guide to Business Analytics and Information Systems 
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Business Analytics and Information Systems Bachelor Complete Guide 2026

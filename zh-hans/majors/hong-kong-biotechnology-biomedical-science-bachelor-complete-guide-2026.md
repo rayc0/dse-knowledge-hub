@@ -4,7 +4,7 @@ description: "一文看懂香港八大生物医学科学（Biomedical Sciences�
 lang: zh-hans
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub 编辑团队
+author: DSE知识库编辑部
 ---
 
 # 香港生物科技与生物医学科学本科完整指南 2026

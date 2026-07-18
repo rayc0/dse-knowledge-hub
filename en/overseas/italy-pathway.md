@@ -4,7 +4,7 @@ description: "Complete 2026 guide for Hong Kong DSE students applying to Italian
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 Italy is one of Europe's most underrated study destinations for Hong Kong DSE students. The country hosts some of the oldest universities in the world (Bologna was founded in 1088), public tuition is dramatically lower than in the UK or US, and a growing share of bachelor's programmes are now delivered entirely in English. For DSE students who want a continental European experience without the German numerus clausus or the French dossier marathon, Italy offers a comparatively flexible path — provided you understand the difference between the Marco Polo channel, the regular international track, and the Universitaly pre-enrolment system.

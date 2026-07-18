@@ -4,7 +4,7 @@ description: "Full HKDSE ICT syllabus breakdown: core modules, elective database
 lang: en
 category: subjects
 date: 2026-04-15
-author: Vivian Lam
+author: DSE Knowledge Hub Editorial Team
 tags:
   - HKDSE
   - ICT

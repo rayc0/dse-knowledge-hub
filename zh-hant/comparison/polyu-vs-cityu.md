@@ -1,7 +1,7 @@
 ---
 title: "香港理工大學 vs 香港城市大學：課程、就業、校園文化全面比較"
 description: "PolyU vs CityU 完全比較指南（繁體中文）— 兩校定位差異、熱門課程比較（工程/設計/傳理/護理/商科），入學成績要求，就業排名與行業聯繫，校園設施與生活，宿舍情況，哪種學生更適合哪所大學"
-author: Karen Leung
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "comparison"
 canonical: "https://dsedaquan.cn/zh-hant/comparison/polyu-vs-cityu"

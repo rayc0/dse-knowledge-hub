@@ -4,7 +4,7 @@ description: "A comprehensive guide to HKDSE Geography covering the full compuls
 lang: en
 category: subjects
 date: 2026-04-15
-author: Dr. Sarah Ng
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE Geography
   - HKDSE

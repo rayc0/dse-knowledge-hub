@@ -4,7 +4,7 @@ description: "Complete 2026 guide to studying Creative Media in Hong Kong at the
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Creative Media Bachelor Complete Guide 2026: CityU School of Creative Media — JS1041, JS1042 & JS1043

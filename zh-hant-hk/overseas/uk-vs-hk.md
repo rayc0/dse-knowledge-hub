@@ -4,7 +4,7 @@ description: "香港 DSE 考生最大決定——去英國還是留香港？四�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-14
-author: Michael Chan
+author: DSE知識庫編輯部
 ---
 
 # 英國升學 vs 留港升學：成本與職業前景完整對比（2026）

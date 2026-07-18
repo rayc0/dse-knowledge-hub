@@ -4,7 +4,7 @@ description: "面向香港DSE考生的瑞典本科留学完整路径：Lund、KT
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 瑞典凭借免试统一的申请系统、超过 1,000 个英文授课学位、以及世界领先的工程与生命科学研究水平，正在成为香港DSE考生跳出英美主流之外的高性价比选项。与英国UCAS或荷兰Studielink不同，瑞典所有公立大学都通过单一国家入口 universityadmissions.se 处理本科申请；HKDSE被官方认可为可直接进入瑞典本科的合格学历，无需预科。本文从院校选择、申请系统、HKDSE对接、学费与奖学金、签证到毕业后留瑞工作，逐项拆解DSE考生在2026/27学年申请瑞典的完整流程。

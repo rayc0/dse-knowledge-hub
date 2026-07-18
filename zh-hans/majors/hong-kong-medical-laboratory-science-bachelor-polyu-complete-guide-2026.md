@@ -4,7 +4,7 @@ description: 全面解析香港理工大学 JS3478 医疗化验科学（荣誉�
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港医疗化验科学（荣誉）理学士完整指南 2026：理大 JS3478、医务化验师管理委员会 Part II 注册、四年课程结构、JUPAS 计分与就业前景

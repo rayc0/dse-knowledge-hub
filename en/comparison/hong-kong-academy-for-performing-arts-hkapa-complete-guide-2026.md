@@ -4,7 +4,7 @@ description: Comprehensive guide to The Hong Kong Academy for Performing Arts (H
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # The Hong Kong Academy for Performing Arts (HKAPA) Complete Guide 2026

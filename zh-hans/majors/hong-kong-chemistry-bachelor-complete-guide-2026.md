@@ -4,7 +4,7 @@ description: "化学学士在香港五所大学的完整对比：港大 BSc Chem
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港化学学士完整指南 2026

@@ -4,7 +4,7 @@ description: "Complete 2026 guide to English Studies and English Language degree
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 For DSE candidates who love close reading, language change, or want a credential that opens both corporate and classroom doors, Hong Kong offers some of the strongest English Studies degrees in Asia. The discipline here is intentionally broader than "English Literature" — it spans Anglophone literatures, applied linguistics, sociolinguistics, translation, creative writing and English Language Teaching (ELT). Several universities also run a 5-year concurrent BA + BEd that produces a fully qualified secondary English teacher on graduation, which is unique in the region.

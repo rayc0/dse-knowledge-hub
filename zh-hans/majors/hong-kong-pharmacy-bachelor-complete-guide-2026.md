@@ -4,7 +4,7 @@ description: 2026 入学最完整香港药剂学士（BPharm）攻略——港�
 lang: zh-hans
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港药剂学荣誉学士完整指南 2026：港大 JS6494、中大 JS4525、四年课程、药剂业及毒药管理局注册、医管局药剂师起薪表

@@ -4,7 +4,7 @@ description: "A complete 2026 guide to studying Sports Science, Exercise Science
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Sports & Exercise Science Bachelor Complete Guide 2026

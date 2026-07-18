@@ -4,7 +4,7 @@ description: "深入解析香港 6 所大学的社会学（Sociology）本科课
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港社会学学士完整指南 2026：JUPAS 收生、课程结构、就业出路

@@ -4,7 +4,7 @@ description: "A 2026 deep-dive into Hong Kong's politics, public administration 
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Politics, Public Administration & International Relations Bachelor Complete Guide 2026

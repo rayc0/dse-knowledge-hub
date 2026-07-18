@@ -4,7 +4,7 @@ description: "A complete 2026 guide to studying Quantitative Finance in Hong Kon
 lang: en
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Quantitative Finance Bachelor Complete Guide 2026

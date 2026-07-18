@@ -4,7 +4,7 @@ description: 全面解析香港理工大学放射学（荣誉）理学士课程�
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港放射学（荣誉）理学士完整指南 2026：理大 JS3612 PolyU 三宝、四年课程、放射技师管理委员会注册、JUPAS 计分与就业前景

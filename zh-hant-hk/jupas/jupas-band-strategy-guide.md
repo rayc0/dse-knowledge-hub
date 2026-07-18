@@ -4,7 +4,7 @@ description: "JUPAS 選科最關鍵的戰略 — Band A/B/C 應該怎樣排?中�
 lang: zh-hant
 category: jupas
 date: 2026-04-15
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags: [JUPAS, Band-A, banding, 選科, DSE, 大學聯招, 志願]
 ---
 

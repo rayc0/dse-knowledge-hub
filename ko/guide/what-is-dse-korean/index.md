@@ -1,7 +1,7 @@
 ---
 title: "DSE란 무엇인가? 한국 학생을 위한 완벽 가이드: 수능과의 비교·등급 환산·대학 인정"
 description: "DSE（홍콩 중학 졸업 시험）완벽 가이드（한국어）— DSE 역사와 배경（HKCEE·HKAL 폐지）, 채점 시스템 상세 해설, 한국 수능과의 비교, 국제생 DSE 인정 대학 목록, 한국 학생이 DSE 응시하는 방법"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "guide"
 last_updated: "2026-05-13"

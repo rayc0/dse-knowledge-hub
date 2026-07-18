@@ -1,7 +1,7 @@
 ---
 title: "DSE生赴美升学路径：美国大学申请、SAT/ACT豁免与香港学生录取实况"
 description: "DSE学生赴美升学完整指南（简体中文）— 美国大学对DSE成绩的认可情况（各校政策差异）、SAT/ACT豁免条件（Test Optional政策）、文书写作对香港学生的重要性（占比远超DSE）、申请时间线（Common App/11月提前申请/1月正式申请）、费用估算（学费+生活费年均港幣60-90万）、奖学金选项（Merit Aid/Need-Based Aid/香港留美学生协会资源）"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-18"

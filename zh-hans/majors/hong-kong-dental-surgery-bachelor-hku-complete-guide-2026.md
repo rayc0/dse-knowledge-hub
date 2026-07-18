@@ -4,7 +4,7 @@ description: 全港唯一直接注册牙医学士学位课程：香港大学牙�
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港牙医学士（港大 JS6107）完整指南 2026：六年制 BDS、香港牙医管理委员会注册、一年实习、卫生署起薪表

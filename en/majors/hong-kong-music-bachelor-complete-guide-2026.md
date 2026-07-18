@@ -4,7 +4,7 @@ description: "Complete 2026 guide to studying music as a Hong Kong undergraduate
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Music Bachelor Complete Guide 2026: HKU JS6054, CUHK JS4082, HKBU JS2060, HKAPA, EdUHK JS8801 — JUPAS Codes, Auditions, and Music Careers

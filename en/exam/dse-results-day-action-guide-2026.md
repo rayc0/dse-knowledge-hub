@@ -4,7 +4,7 @@ description: "Hour-by-hour action plan for HKDSE results day on 15 July 2026 —
 lang: en
 category: exam
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # DSE Results Day 2026: Complete Action Guide for Students and Parents

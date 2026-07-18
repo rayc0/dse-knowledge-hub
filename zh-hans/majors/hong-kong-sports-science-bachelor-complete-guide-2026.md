@@ -1,7 +1,7 @@
 ---
 title: "香港运动科学与体育学士完整指南 2026：教大 JS8010 与 JS8726、中大 JS4329、浸大 JS2620、理大 JS3160，体适能测试、HKCC 教练注册与精英运动员入学路径"
 description: "全面解析香港五所大学的运动科学与体育教育学士课程：EdUHK JS8010 双学位与 JS8726 单学位、CUHK JS4329 五年制 BEd、HKBU JS2620 体育及康乐管理、PolyU JS3160 运动科技；详述 DSE 选科组合、体适能与术科测试、面试模式、HKCC 教练注册、精英运动员直接录取（JSEAA/TADAS）、毕业出路（中学体育教师、运动表现分析师、康体署职位）与起薪。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-05-05"

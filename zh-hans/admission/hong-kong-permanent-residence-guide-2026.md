@@ -4,7 +4,7 @@ description: 大陆学生从香港八大本科毕业后，如何通过 IANG → 
 lang: zh-hans
 category: admission
 slug: hong-kong-permanent-residence-guide-2026
-author: CompanyForge AI
+author: DSE知识库编辑部
 date: 2026-04-20
 license: CC BY 4.0
 ---

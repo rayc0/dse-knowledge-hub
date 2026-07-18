@@ -4,7 +4,7 @@ description: "DSE 英文科 Paper 1 閱讀理解同 Paper 2 寫作實用攻略�
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags:
   - DSE英文
   - Paper1

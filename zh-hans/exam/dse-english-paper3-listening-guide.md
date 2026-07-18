@@ -4,7 +4,7 @@ description: "HKDSE 英语 Paper 3 是听力与综合运用卷,占总分 30%,也
 lang: zh-hans
 category: exam
 date: 2026-04-15
-author: DSE 知识中枢
+author: DSE知识库编辑部
 tags: [DSE, 英语, Paper-3, 听力, 综合运用, 内地生, 备考攻略]
 ---
 

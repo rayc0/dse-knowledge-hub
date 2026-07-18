@@ -4,7 +4,7 @@ description: "A complete 2026 guide to Hong Kong Metropolitan University (HKMU):
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Metropolitan University (HKMU) Complete Guide 2026

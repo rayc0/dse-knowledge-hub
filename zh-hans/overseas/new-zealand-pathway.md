@@ -1,7 +1,7 @@
 ---
 title: "新西兰升学指南 2026：八大公立、学费、工签与移民"
 description: "2026年新西兰留学完整攻略 — 八所公立大学排名、学费、毕业工签、技术移民路径。DSE与高考考生参考指南。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"

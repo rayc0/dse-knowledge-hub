@@ -4,7 +4,7 @@ description: 一篇讲透香港量化金融（Quantitative Finance）本科—�
 lang: zh-hans
 category: majors
 date: 2026-05-18
-author: DSE Knowledge Hub 编辑部
+author: DSE知识库编辑部
 ---
 
 # 香港量化金融本科完整指南 2026

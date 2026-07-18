@@ -4,7 +4,7 @@ description: A complete 2026 guide for Hong Kong DSE candidates considering Mala
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Malaysia Pathway for DSE Students: Twinning Programmes, UK/Australia Branch Campuses and Student Pass Guide 2026

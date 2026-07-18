@@ -4,7 +4,7 @@ description: "A comprehensive guide to HKDSE Chinese Language for 2026 candidate
 lang: en
 category: subjects
 date: 2026-05-18
-author: Thomas Ho
+author: DSE Knowledge Hub Editorial Team
 tags: [DSE, Chinese-Language, core-subject, HKDSE, study-guide, set-texts, Paper-1, Paper-2]
 ---
 

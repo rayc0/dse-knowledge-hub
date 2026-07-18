@@ -4,7 +4,7 @@ description: 全面解析香港大学言语治疗学士（JS6157）课程结构�
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港言语治疗（言语及听觉科学）荣誉理学士完整指南 2026：港大 JS6157、五年课程、临床实习与言语治疗师注册全攻略

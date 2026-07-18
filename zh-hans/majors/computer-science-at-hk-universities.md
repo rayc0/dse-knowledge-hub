@@ -4,7 +4,7 @@ description: "香港八大公立大学的计算机科学 (Computer Science) 专�
 lang: zh-hans
 category: majors
 date: 2026-04-15
-author: DSE 知识中枢
+author: DSE知识库编辑部
 tags: [DSE, 计算机科学, 港大, 中大, 科大, 城大, JUPAS, 内地生, 就业]
 ---
 

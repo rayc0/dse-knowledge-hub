@@ -4,7 +4,7 @@ description: A detailed breakdown of Hong Kong's Building Engineering and Manage
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Construction Engineering and Management Bachelor Complete Guide 2026

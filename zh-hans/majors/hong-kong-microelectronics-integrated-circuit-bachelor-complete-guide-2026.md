@@ -4,7 +4,7 @@ description: 香港微电子与集成电路 (Microelectronics and Integrated Cir
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港微电子与集成电路本科完整指南 2026

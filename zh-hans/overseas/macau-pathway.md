@@ -4,7 +4,7 @@ description: 面向2026年香港DSE考生的澳门升学完整指南，涵盖澳
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生澳门留学申请指南：澳门大学、澳科大、澳门理工大学英文授课与逗留许可完整解读 2026

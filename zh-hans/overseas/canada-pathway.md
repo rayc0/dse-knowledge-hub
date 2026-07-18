@@ -1,7 +1,7 @@
 ---
 title: "加拿大升学完整指南 2026：大学排名、学费、移民衔接"
 description: "2026年加拿大留学完整攻略 — 多伦多大学、UBC、麦吉尔申请要求、学费、PGWP工签、移民路径。DSE与高考考生必读。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"

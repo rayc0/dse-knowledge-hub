@@ -1,7 +1,7 @@
 ---
 title: "香港八大本科申请文书（Personal Statement）完整写作指南 2026 — 大陆学生版"
 description: "大陆学生申请香港八大本科的 Personal Statement 怎么写？本文拆解 HKU / CUHK / HKUST / PolyU / CityU / HKBU / LU / EdUHK 的字数要求、评审逻辑、五段式黄金结构，以及大陆高中生最常踩的七个致命错误。附医学 / 法律 / 商科 / 工程 / 社科不同专业的写法要点。"
-author: "the editorial team AI editorial team"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "admission"
 last_updated: "2026-04-17"

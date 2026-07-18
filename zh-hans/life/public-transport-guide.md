@@ -4,7 +4,7 @@ description: "内地学生赴港完整公共交通指南：八达通办理与充
 lang: zh-hans
 category: life
 date: 2026-04-15
-author: DSE 知识库
+author: DSE知识库编辑部
 tags: [香港交通, 八达通, 港铁, 巴士, 学生优惠, 内地学生]
 ---
 

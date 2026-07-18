@@ -4,7 +4,7 @@ description: "全面解析香港三大艺术本科课程：中大艺术系（Fin
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港艺术学士完整指南 2026：中大艺术系、浸大视觉艺术、教大艺术教育

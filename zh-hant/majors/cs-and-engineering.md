@@ -1,7 +1,7 @@
 ---
 title: "DSE考生讀電腦科學及工程學指南：入學要求、課程比較與就業前景"
 description: "全面解析香港各大學電腦科學、資訊工程及工程學課程的DSE入學要求、課程結構、就業薪酬及JUPAS選科策略"
-author: Vivian Lam
+author: DSE知識庫編輯部
 tags: ["CS", "工程", "Computer Science", "Engineering", "JUPAS"]
 language: "zh-hant"
 last_updated: "2026-04-18"

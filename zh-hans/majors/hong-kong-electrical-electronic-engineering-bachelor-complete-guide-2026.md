@@ -4,7 +4,7 @@ description: "2026 年报考香港电子电机工程（Electrical & Electronic E
 lang: zh-hans
 category: majors
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港电子电机工程本科完整指南 2026

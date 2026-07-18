@@ -4,7 +4,7 @@ description: "Should you apply to recheck or remark your HKDSE grades in 2026? F
 lang: en
 category: exam
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # HKDSE Review of Results 2026: Rechecking, Remarking & Appeal Complete Guide

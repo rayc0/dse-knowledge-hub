@@ -4,7 +4,7 @@ description: "Complete 2026 guide to PolyU's BSc (Hons) in Optometry (JS3290): t
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Optometry Bachelor (PolyU JS3290) Complete Guide 2026

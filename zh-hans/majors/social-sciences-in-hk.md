@@ -4,7 +4,7 @@ description: "香港八大社会科学本科专业完整对比：心理学、社
 lang: zh-hans
 category: majors
 date: 2026-04-15
-author: DSE 知识库
+author: DSE知识库编辑部
 tags: [社会科学, 心理学, 社会工作, 传媒, 政治学, 国际关系, 社会学, 香港八大]
 ---
 

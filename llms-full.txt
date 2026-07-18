@@ -13,7 +13,7 @@ description: "Complete English-language guide to the Hong Kong Associate Degree 
 lang: en
 category: admission
 date: 2026-04-14
-author: Michael Chan
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Associate Degree to Bachelor — The Hong Kong Articulation Pathway Complete Guide 2026
@@ -1215,7 +1215,7 @@ description: "A strategic guide to JUPAS Band A programme choices — how the ba
 lang: en
 category: admission
 date: 2026-04-17
-author: Thomas Ho
+author: DSE Knowledge Hub Editorial Team
 tags: [JUPAS, Band-A, university-admission, Hong-Kong, strategy, DSE]
 ---
 
@@ -1444,7 +1444,7 @@ description: "Master the JUPAS interview process for HKU, CUHK, HKUST, PolyU, Ci
 lang: en
 category: admission
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # JUPAS Interview Preparation Complete Guide for Hong Kong University Admissions 2026
@@ -1621,7 +1621,7 @@ description: "Medicine remains the most competitive JUPAS programme in Hong Kong
 lang: en
 category: admission
 date: 2026-04-15
-author: Editorial Team
+author: DSE Knowledge Hub Editorial Team
 tags: [DSE, JUPAS, medicine, MBBS, HKU, CUHK, admission, interview]
 ---
 
@@ -1956,7 +1956,7 @@ description: "Comprehensive 2026 guide to how JUPAS scores are calculated — 4C
 lang: en
 category: admission
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # JUPAS Scoring and Calculation Complete Guide 2026
@@ -2165,7 +2165,7 @@ URL: https://dsedaquan.cn//en/admission/personal-statement-guide
 ---
 title: "Personal Statement for Hong Kong University Applications — Complete Guide"
 description: "How to write a compelling personal statement for HKU, CUHK, HKUST, and other Hong Kong universities. Structure, common mistakes, word limits, and what admissions tutors actually want to read."
-author: Dr. Sarah Ng
+author: DSE Knowledge Hub Editorial Team
 language: "en"
 category: "admission"
 last_updated: "2026-04-17"
@@ -2373,7 +2373,7 @@ description: "How HKDSE graduates apply to top universities overseas. Country-by
 lang: en
 category: application
 date: 2026-04-15
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE
   - overseas university
@@ -2873,7 +2873,7 @@ description: "Complete guide to Non-JUPAS applications at Hong Kong's eight UGC-
 lang: en
 category: application
 date: 2026-04-15
-author: Michael Chan
+author: DSE Knowledge Hub Editorial Team
 tags: [non-JUPAS, international-students, mainland-students, HKU, CUHK, HKUST, admission]
 ---
 
@@ -3161,7 +3161,7 @@ description: "A complete 2026 guide to City University of Hong Kong (CityUHK): Q
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # City University of Hong Kong (CityU) Complete Guide 2026
@@ -3391,7 +3391,7 @@ description: "A comprehensive guide comparing Hong Kong's DSE and China's Gaokao
 lang: en
 category: comparison
 date: 2026-04-17
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 tags: [DSE, gaokao, mainland-students, Hong-Kong, university-admission, comparison]
 ---
 
@@ -3618,7 +3618,7 @@ description: Comprehensive guide to The Hang Seng University of Hong Kong (HSUHK
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # The Hang Seng University of Hong Kong (HSUHK) Complete Guide 2026
@@ -3865,7 +3865,7 @@ URL: https://dsedaquan.cn//en/comparison/hku-vs-cuhk-vs-hkust
 ---
 title: "HKU vs CUHK vs HKUST: A Comprehensive Comparison for DSE Students"
 description: "In-depth comparison of Hong Kong's top three universities — admission scores, programme strengths, campus culture, career outcomes, and strategic JUPAS choices for DSE candidates"
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 tags: ["comparison", "HKU", "CUHK", "HKUST", "JUPAS", "university"]
 last_updated: "2026-04-18"
 canonical: "https://dsedaquan.cn/en/comparison/hku-vs-cuhk-vs-hkust"
@@ -4195,7 +4195,7 @@ description: Comprehensive guide to The Hong Kong Academy for Performing Arts (H
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # The Hong Kong Academy for Performing Arts (HKAPA) Complete Guide 2026
@@ -4398,7 +4398,7 @@ description: "A complete 2026 guide to Hong Kong Baptist University (HKBU) for H
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Baptist University (HKBU) Complete Guide 2026
@@ -4636,7 +4636,7 @@ description: "A complete 2026 guide to Hong Kong's Lingnan University (LU) for H
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Lingnan University (LU) Complete Guide 2026
@@ -4860,7 +4860,7 @@ description: "A complete 2026 guide to Hong Kong Metropolitan University (HKMU):
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Metropolitan University (HKMU) Complete Guide 2026
@@ -5036,7 +5036,7 @@ description: "A complete 2026 guide to The Hong Kong Polytechnic University (Pol
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # The Hong Kong Polytechnic University (PolyU) Complete Guide 2026
@@ -5242,7 +5242,7 @@ description: "Comprehensive 2026 guide to Hong Kong's self-financing degree-awar
 lang: en
 category: comparison
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Self-Financing Universities Complete Guide 2026
@@ -5392,7 +5392,7 @@ description: "A complete 2026 guide to Hong Kong Shue Yan University (HKSYU): th
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Shue Yan University (HKSYU) Complete Guide 2026
@@ -5586,7 +5586,7 @@ description: "Comprehensive 2026 guide to The Education University of Hong Kong 
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # The Education University of Hong Kong (EdUHK) Complete Guide 2026
@@ -5830,7 +5830,7 @@ description: "A complete guide to all changes in the 2026 HKDSE examination — 
 lang: en
 category: exam
 date: 2026-04-17
-author: Vivian Lam
+author: DSE Knowledge Hub Editorial Team
 tags: [DSE, 2026, exam-changes, HKEAA, syllabus, citizenship]
 ---
 
@@ -6069,7 +6069,7 @@ description: "A practical day-by-day, subject-by-subject logistics guide to the 
 lang: en
 category: exam
 date: 2026-04-15
-author: Raymond
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE
   - exam logistics
@@ -6425,7 +6425,7 @@ description: "A science-informed guide to what HKDSE candidates should eat, drin
 lang: en
 category: exam
 date: 2026-04-15
-author: Vivian Lam
+author: DSE Knowledge Hub Editorial Team
 tags:
   - dse
   - exam-preparation
@@ -6810,7 +6810,7 @@ description: "A complete guide for DSE candidates considering retaking the exam 
 lang: en
 category: exam
 date: 2026-04-17
-author: Michael Chan
+author: DSE Knowledge Hub Editorial Team
 tags: [DSE, retake, exam-strategy, HKEAA, JUPAS, 2026]
 ---
 
@@ -7129,7 +7129,7 @@ description: "Complete guide to opening a Hong Kong bank account as a mainland C
 lang: en
 category: life
 date: 2026-04-15
-author: Michael Chan
+author: DSE Knowledge Hub Editorial Team
 tags: [banking, mainland-students, HSBC, Hang-Seng, BOC-HK, cross-border, FPS, virtual-banks]
 ---
 
@@ -7718,7 +7718,7 @@ description: "HKDSE exam stress can sabotage months of preparation. This guide c
 lang: en
 category: life
 date: 2026-04-15
-author: Vivian Lam
+author: DSE Knowledge Hub Editorial Team
 tags: [DSE, exam-stress, sleep, mental-health, anxiety, revision, parents]
 ---
 
@@ -8025,7 +8025,7 @@ description: "A detailed 2026 cost-of-living guide for international students at
 lang: en
 category: living
 date: 2026-04-14
-author: Editorial Team
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Cost of Living for International Students in Hong Kong 2026 — Complete Budget Breakdown
@@ -8341,7 +8341,7 @@ URL: https://dsedaquan.cn//en/living/dse-study-cost-breakdown
 ---
 title: "The True Cost of DSE Preparation and University in Hong Kong: A Complete Breakdown"
 description: "Comprehensive cost analysis covering DSE exam fees, tutoring, textbooks, university tuition across UGC-funded and self-financed programmes, living expenses, and financial aid options"
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 tags: ["costs", "tuition", "financial-aid", "DSE", "university", "scholarships"]
 last_updated: "2026-04-18"
 canonical: "https://dsedaquan.cn/en/living/dse-study-cost-breakdown"
@@ -8699,7 +8699,7 @@ description: "A comprehensive guide to student accommodation in Hong Kong for in
 lang: en
 category: living
 date: 2026-04-15
-author: Raymond
+author: DSE Knowledge Hub Editorial Team
 tags:
   - Hong Kong
   - student housing
@@ -9115,7 +9115,7 @@ URL: https://dsedaquan.cn//en/majors/business-and-economics-hk
 ---
 title: "Business and Economics at Hong Kong Universities: A Complete Guide for DSE Students"
 description: "Comprehensive guide to BBA, economics, finance, and accounting programmes at HKU/CUHK/HKUST/PolyU/CityU — admission scores, programme structures, career outcomes, and JUPAS strategy"
-author: Editorial Team
+author: DSE Knowledge Hub Editorial Team
 tags: ["business", "economics", "BBA", "finance", "accounting", "JUPAS", "career"]
 last_updated: "2026-04-18"
 canonical: "https://dsedaquan.cn/en/majors/business-and-economics-hk"
@@ -9412,7 +9412,7 @@ description: Thinking of studying Chinese Medicine in Hong Kong? This in-depth g
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 Hong Kong is one of the very few cities in the world that integrates traditional Chinese Medicine (CM) into both formal university education and the public healthcare system. Following the enactment of the Chinese Medicine Ordinance in 1999 and the establishment of the Chinese Medicine Council of Hong Kong, the city has built a rigorous undergraduate, master's and doctoral pipeline for CM, anchored by three publicly funded universities - Hong Kong Baptist University (HKBU), The Chinese University of Hong Kong (CUHK) and The University of Hong Kong (HKU) - each offering a six-year, full-time Bachelor of Chinese Medicine double-degree programme. For DSE students, mainland Gaokao candidates and international applicants who want a profession that fuses classical CM theory with modern biomedical science, Hong Kong's CM bachelor's pathway is genuinely distinctive: bilingual, internationally portable, and tied to a regulated, government-recognised practice in a global city. This guide breaks down programme structures, entrance requirements, tuition, internship arrangements and post-graduation licensing for the 2026 intake.
@@ -9520,7 +9520,7 @@ description: "Definitive 2026 guide to City University of Hong Kong's Bachelor o
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # CityU Bachelor of Veterinary Medicine (BVM) Complete Guide 2026
@@ -9820,7 +9820,7 @@ description: "A comprehensive guide to CS and engineering programmes at HKU, CUH
 lang: en
 category: majors
 date: 2026-04-17
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 tags: [computer-science, engineering, JUPAS, Hong-Kong, universities, career, tech]
 ---
 
@@ -10158,7 +10158,7 @@ description: "Complete 2026 roadmap for DSE and Mainland applicants to Hong Kong
 lang: en
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Actuarial Science Bachelor Complete Guide 2026
@@ -10265,7 +10265,7 @@ description: "Complete 2026 guide to Hong Kong architecture undergraduate progra
 lang: en
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Architecture Bachelor Complete Guide 2026
@@ -10380,7 +10380,7 @@ description: Hong Kong's only direct-registration dental degree - HKU Faculty of
 lang: en
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Dental Surgery Bachelor (HKU JS6107) Complete Guide 2026: Six-Year BDS, Dental Council Registration, One-Year Internship, Department of Health Salary Scales
@@ -10624,7 +10624,7 @@ description: "A complete 2026 guide to Hong Kong's hotel, tourism and hospitalit
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Hotel and Tourism Management Bachelor's Programmes Complete Guide 2026
@@ -10822,7 +10822,7 @@ description: "Complete guide to Hong Kong's only government-funded medical labor
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Medical Laboratory Science Bachelor (PolyU JS3478) Complete Guide 2026
@@ -10973,7 +10973,7 @@ description: "Comprehensive 2026 guide to nursing bachelor's degrees in Hong Kon
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Nursing Bachelor's Programmes Complete Guide 2026
@@ -11124,7 +11124,7 @@ description: "A comprehensive 2026 guide to PolyU's BSc (Hons) in Occupational T
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Occupational Therapy Bachelor (PolyU JS3624) Complete Guide 2026
@@ -11337,7 +11337,7 @@ description: "Complete 2026 guide to PolyU's BSc (Hons) in Optometry (JS3290): t
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Optometry Bachelor (PolyU JS3290) Complete Guide 2026
@@ -11585,7 +11585,7 @@ description: The complete 2026 admission guide to Hong Kong's two UGC-funded Bac
 lang: en
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Pharmacy Bachelor Complete Guide 2026: HKU JS6494, CUHK JS4525, Four-Year BPharm, Pharmacy and Poisons Board Registration, Hospital Authority Pharmacist Salary Scales
@@ -11805,7 +11805,7 @@ description: "Comprehensive guide to PolyU's Bachelor of Science (Honours) in Ph
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Physiotherapy Bachelor (PolyU JS3636) Complete Guide 2026
@@ -11988,7 +11988,7 @@ description: "Complete guide to Hong Kong's only direct-registration radiography
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Radiography Bachelor (PolyU JS3612) Complete Guide 2026
@@ -12215,7 +12215,7 @@ description: Full 2026 admission guide to Hong Kong's five UGC-funded Bachelor o
 lang: en
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Social Work Bachelor Complete Guide 2026: HKU JS6731, CUHK JS4874, PolyU JS3250, HKBU JS2660, CityU JS1113, SWRB Registration, ASWO Starting Salary HKD 36,850
@@ -12402,7 +12402,7 @@ description: Comprehensive guide to HKU's Bachelor of Science in Speech-Language
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Speech-Language Pathology Bachelor (HKU JS6157) Complete Guide 2026 - The Only Local Direct-Registration Pathway, Five-Year Curriculum, 300+ Clinical Hours, HKIST Registration, Hospital Authority Salary Scales and Career Prospects
@@ -12632,7 +12632,7 @@ description: A complete guide to Hong Kong's two JUPAS surveying bachelor progra
 lang: en
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Surveying Bachelor Complete Guide 2026 - HKU JS6016, PolyU JS3789, HKIS Six Divisions, RICS Dual Membership, APC Assessment of Professional Competence and Government Quantity Surveyor Starting Salary
@@ -12836,7 +12836,7 @@ URL: https://dsedaquan.cn//en/majors/law-school-hk
 ---
 title: "Law School in Hong Kong: A Complete Guide for DSE Students"
 description: "Comprehensive guide to pursuing law in Hong Kong — LLB programmes at HKU/CUHK/CityU, PCLL, admission scores, career paths, and alternative routes into the legal profession"
-author: Editorial Team
+author: DSE Knowledge Hub Editorial Team
 tags: ["law", "LLB", "PCLL", "HKU", "CUHK", "CityU", "JUPAS", "career"]
 last_updated: "2026-04-18"
 canonical: "https://dsedaquan.cn/en/majors/law-school-hk"
@@ -13089,7 +13089,7 @@ description: "Complete guide to MBBS and BDS programmes at HKU and CUHK — DSE 
 lang: en
 category: majors
 date: 2026-04-17
-author: Thomas Ho
+author: DSE Knowledge Hub Editorial Team
 tags: [medicine, dentistry, JUPAS, HKU, CUHK, DSE, MMI, healthcare]
 ---
 
@@ -13398,7 +13398,7 @@ description: "How to apply to Australian universities using HKDSE results — en
 lang: en
 category: overseas
 date: 2026-04-17
-author: Thomas Ho
+author: DSE Knowledge Hub Editorial Team
 tags: [Australia, DSE, overseas, university, Go8, ATAR, study-abroad]
 ---
 
@@ -13663,7 +13663,7 @@ URL: https://dsedaquan.cn//en/overseas/canada-pathway
 ---
 title: "Canada University Pathway for DSE Students: Application, Entry Requirements, and Immigration"
 description: "Complete guide for Hong Kong DSE students applying to Canadian universities — application process, DSE grade recognition, popular programmes, costs, PGWP, and immigration pathways"
-author: Dr. Sarah Ng
+author: DSE Knowledge Hub Editorial Team
 tags: ["Canada", "overseas", "study-abroad", "immigration", "PGWP", "visa"]
 last_updated: "2026-04-18"
 canonical: "https://dsedaquan.cn/en/overseas/canada-pathway"
@@ -14030,7 +14030,7 @@ description: "Complete guide for Hong Kong DSE students applying to French unive
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # France Pathway for DSE Students: Études en France, English-Taught Programmes, Tuition and VLS-TS Visa Guide 2026
@@ -14228,7 +14228,7 @@ description: "Complete guide for Hong Kong DSE students applying to German unive
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Germany Pathway for DSE Students: Studienkolleg, English-Taught Programmes, Tuition-Free Universities and Student Visa Guide 2026
@@ -14385,7 +14385,7 @@ description: "Complete guide for HKDSE students applying to Irish universities i
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Ireland Pathway for DSE Students: Trinity College Dublin, UCD, English-Taught Programmes and Stamp 1G Graduate Visa Guide 2026
@@ -14575,7 +14575,7 @@ description: "Complete 2026 guide for Hong Kong DSE students applying to Italian
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 Italy is one of Europe's most underrated study destinations for Hong Kong DSE students. The country hosts some of the oldest universities in the world (Bologna was founded in 1088), public tuition is dramatically lower than in the UK or US, and a growing share of bachelor's programmes are now delivered entirely in English. For DSE students who want a continental European experience without the German numerus clausus or the French dossier marathon, Italy offers a comparatively flexible path — provided you understand the difference between the Marco Polo channel, the regular international track, and the Universitaly pre-enrolment system.
@@ -14729,7 +14729,7 @@ description: "Complete guide for Hong Kong DSE students applying to Japanese uni
 lang: en
 category: overseas
 date: 2026-05-02
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Japan University Pathway for DSE Students: EJU, English-Taught Programmes, MEXT Scholarship and Visa Guide 2026
@@ -14853,7 +14853,7 @@ description: "Complete guide for Hong Kong DSE students applying to Korean unive
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Korea University Pathway for DSE Students: TOPIK, English-Taught Programmes, GKS Scholarship and D-2 Visa Guide 2026
@@ -15078,7 +15078,7 @@ description: A complete 2026 guide for Hong Kong DSE candidates considering Maca
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Macau Pathway for DSE Students: University of Macau, MUST, Macao Polytechnic English-Taught Programmes and Stay Permit Guide 2026
@@ -15241,7 +15241,7 @@ description: A complete 2026 guide for Hong Kong DSE candidates considering Mala
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Malaysia Pathway for DSE Students: Twinning Programmes, UK/Australia Branch Campuses and Student Pass Guide 2026
@@ -15389,7 +15389,7 @@ description: "Complete guide for Hong Kong DSE students applying to Dutch univer
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Netherlands Pathway for DSE Students: Research Universities, Universities of Applied Sciences, English-Taught Programmes and Studielink Application Guide 2026
@@ -15523,7 +15523,7 @@ description: "Complete guide for HKDSE students applying to New Zealand universi
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # New Zealand Pathway for DSE Students: Auckland, Otago, English-Taught Bachelor's Degrees, Tuition and Post-Study Work Visa Guide 2026
@@ -15633,7 +15633,7 @@ description: "How to apply to NUS, NTU, and SMU using HKDSE results — entry re
 lang: en
 category: overseas
 date: 2026-04-17
-author: Dr. Sarah Ng
+author: DSE Knowledge Hub Editorial Team
 tags: [Singapore, DSE, overseas, university, NUS, NTU, SMU, study-abroad]
 ---
 
@@ -15943,7 +15943,7 @@ description: "Complete 2026 guide for Hong Kong DSE students applying to Spanish
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Spain Pathway for DSE Students 2026
@@ -16130,7 +16130,7 @@ description: "Complete guide for Hong Kong DSE students applying to Swedish univ
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Sweden Pathway for DSE Students: universityadmissions.se Single Application, English-Taught Bachelor Programmes and Residence Permit Guide 2026
@@ -16287,7 +16287,7 @@ description: "Complete 2026 guide for Hong Kong DSE students applying to Swiss p
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 Switzerland is one of the most academically prestigious — and most misunderstood — destinations for Hong Kong DSE students. The country hosts two universities consistently ranked inside the world's top 30 (ETH Zurich and EPFL), public tuition is a small fraction of UK or US fees, and English-taught master's degrees are the norm at the federal institutes of technology. At the same time, Swiss bachelor's admission for HKDSE holders is genuinely tight, the cost of living is among the highest in the world, and the national D visa for Hong Kong passport holders is a slow process that needs to be started months in advance.
@@ -16431,7 +16431,7 @@ description: "Complete guide for HKDSE students applying to Taiwan universities 
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Taiwan University Pathway for DSE Students: Joint Distribution, Individual Application, Costs and Scholarships 2026
@@ -16661,7 +16661,7 @@ URL: https://dsedaquan.cn//en/overseas/uk-pathway
 ---
 title: "UK University Pathway for DSE Students: UCAS, Entry Requirements, and Living in Britain"
 description: "Complete guide for Hong Kong DSE students applying to UK universities — UCAS process, Russell Group entry requirements, DSE grade recognition, visa, costs, and student life"
-author: Dr. Sarah Ng
+author: DSE Knowledge Hub Editorial Team
 tags: ["UK", "UCAS", "Russell Group", "overseas", "study-abroad", "visa"]
 last_updated: "2026-04-18"
 canonical: "https://dsedaquan.cn/en/overseas/uk-pathway"
@@ -17372,7 +17372,7 @@ description: "A complete guide to the associate degree / higher diploma articula
 lang: en
 category: pathways
 date: 2026-04-14
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Associate Degree to Bachelor Articulation Pathway at Hong Kong Universities 2026
@@ -17575,7 +17575,7 @@ description: "Complete guide to top-up degree pathways in Hong Kong — articula
 lang: en
 category: pathways
 date: 2026-04-15
-author: Vivian Lam
+author: DSE Knowledge Hub Editorial Team
 tags:
   - top-up degree
   - higher diploma
@@ -17807,7 +17807,7 @@ description: "Comprehensive 2026 guide to Hong Kong's three Juris Doctor (JD) pr
 lang: en
 category: postgrad
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong JD and PCLL Complete Guide 2026: HKU, CUHK, CityU Law Schools — Admission, Tuition, PCLL Conversion and the Path to Practise in Hong Kong
@@ -17970,7 +17970,7 @@ description: "A 2026 comparison of Hong Kong's three flagship MBA programmes (HK
 lang: en
 category: postgrad
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong MBA Complete Guide 2026: HKUST, CUHK and HKU Business Schools
@@ -18124,7 +18124,7 @@ description: "Complete 2026 guide to the Hong Kong Postgraduate Diploma in Educa
 lang: en
 category: postgrad
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong PGDE Complete Guide 2026
@@ -18347,7 +18347,7 @@ description: "A comprehensive guide to taught and research Master's programmes a
 lang: en
 category: postgrad
 date: 2026-04-17
-author: Vivian Lam
+author: DSE Knowledge Hub Editorial Team
 tags: [postgraduate, masters, Hong-Kong, universities, MBA, MPhil, career]
 ---
 
@@ -18611,7 +18611,7 @@ description: "Thorough guide to HKDSE Chinese Language Paper 1 (Reading Comprehe
 lang: en
 category: preparation
 date: 2026-04-15
-author: Vivian Lam
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE Chinese
   - Paper 1
@@ -19173,7 +19173,7 @@ description: "Comprehensive guide to HKDSE English Language Paper 1 (Reading) an
 lang: en
 category: preparation
 date: 2026-04-15
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 tags:
   - HKDSE
   - English
@@ -19580,7 +19580,7 @@ description: "A comprehensive English-language guide explaining the transition f
 lang: en
 category: preparation
 date: 2026-04-15
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 tags:
   - dse
   - citizenship-and-social-development
@@ -19892,7 +19892,7 @@ description: "Comprehensive guide to scholarships available to mainland Chinese 
 lang: en
 category: scholarship
 date: 2026-04-15
-author: Michael Chan
+author: DSE Knowledge Hub Editorial Team
 tags:
   - scholarships
   - mainland students
@@ -20235,7 +20235,7 @@ description: "Comprehensive English guide to the HKPFS 2026/27 — HK$340,800 an
 lang: en
 category: scholarship
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong PhD Fellowship Scheme (HKPFS) Complete Guide 2026/27: Eligibility, Application, Stipend and Selection Strategy
@@ -20402,7 +20402,7 @@ description: "Complete 2026 guide to scholarships for mainland Chinese students 
 lang: en
 category: scholarship
 date: 2026-04-15
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 tags: [scholarships, mainland-students, HKU, CUHK, HKUST, PolyU, belt-and-road, financial-aid]
 ---
 
@@ -20633,7 +20633,7 @@ description: "DSE BAFS (Business, Accounting and Financial Studies) is a popular
 lang: en
 category: subjects
 date: 2026-04-15
-author: Vivian Lam
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE
   - BAFS
@@ -21063,7 +21063,7 @@ description: "HKDSE Biology is one of the most popular science electives in Hong
 lang: en
 category: subjects
 date: 2026-04-15
-author: Editorial Team
+author: DSE Knowledge Hub Editorial Team
 tags: [DSE, biology, science, JUPAS, medicine, study-guide, HKEAA]
 ---
 
@@ -21444,7 +21444,7 @@ description: "Everything you need to know about HKDSE Chemistry: full syllabus b
 lang: en
 category: subjects
 date: 2026-04-15
-author: Michael Chan
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE Chemistry
   - HKDSE
@@ -21795,7 +21795,7 @@ description: "A comprehensive guide to HKDSE Economics (Elective) for 2026 candi
 lang: en
 category: subjects
 date: 2026-04-15
-author: Thomas Ho
+author: DSE Knowledge Hub Editorial Team
 tags: [DSE, Economics, elective, HKDSE, study-guide, Paper-1, Paper-2]
 ---
 
@@ -22022,7 +22022,7 @@ description: "A comprehensive guide to HKDSE Geography covering the full compuls
 lang: en
 category: subjects
 date: 2026-04-15
-author: Dr. Sarah Ng
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE Geography
   - HKDSE
@@ -22611,7 +22611,7 @@ description: "Comprehensive guide to DSE History — the 20th-century syllabus, 
 lang: en
 category: subjects
 date: 2026-04-15
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE History
   - Paper 1
@@ -23014,7 +23014,7 @@ description: "Full HKDSE ICT syllabus breakdown: core modules, elective database
 lang: en
 category: subjects
 date: 2026-04-15
-author: Vivian Lam
+author: DSE Knowledge Hub Editorial Team
 tags:
   - HKDSE
   - ICT
@@ -23264,7 +23264,7 @@ description: "A full breakdown of the HKDSE Mathematics Compulsory Part for 2026
 lang: en
 category: subjects
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 Mathematics Compulsory Part is one of the four HKDSE core subjects every Hong Kong secondary school student must sit, alongside Chinese Language, English Language and Citizenship & Social Development. For most JUPAS programmes, the Mathematics grade is just as load-bearing as English: a Level 2 is the bare minimum to keep your "3322" alive, and competitive degrees in business, engineering, science and medicine routinely demand Level 4 or Level 5. This guide walks 2026 candidates through what Paper 1 and Paper 2 actually look like, how marks are distributed, which topics carry the most weight, and how to plan a focused revision cycle without wasting time on low-yield drills.
@@ -23422,7 +23422,7 @@ description: "Complete guide to HKDSE Mathematics Extended Modules M1 (Calculus 
 lang: en
 category: subjects
 date: 2026-04-15
-author: Michael Chan
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE Mathematics
   - M1
@@ -23859,7 +23859,7 @@ description: "Comprehensive guide to HKDSE Physics for local and international s
 lang: en
 category: subjects
 date: 2026-04-15
-author: Thomas Ho
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE Physics
   - HKDSE
@@ -24326,7 +24326,7 @@ description: "Comprehensive guide to the Immigration Arrangements for Non-local 
 lang: en
 category: visa
 date: 2026-04-15
-author: Dr. Sarah Ng
+author: DSE Knowledge Hub Editorial Team
 tags:
   - IANG
   - Hong Kong visa
@@ -24771,7 +24771,7 @@ description: "Complete 2026 guide to Hong Kong permanent residence (right of abo
 lang: en
 category: visa
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Permanent Residence Pathway for International Students: 7-Year Rule, ROP145 Application and Common Pitfalls 2026
@@ -24937,7 +24937,7 @@ description: "A complete 2026 guide to Hong Kong's Top Talent Pass Scheme (TTPS)
 lang: en
 category: visa
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Top Talent Pass Scheme (TTPS) Complete Guide 2026
@@ -25104,7 +25104,7 @@ description: "Complete guide to the Hong Kong Student Visa for international stu
 lang: en
 category: visa
 date: 2026-04-14
-author: Editorial Team
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Student Visa Complete Guide 2026 — Application, Requirements, Processing Times
@@ -25645,7 +25645,7 @@ URL: https://dsedaquan.cn//ja/comparison/dse-vs-japanese-high-school-system
 ---
 title: "DSEと日本の大学入試の比較：共通テスト・一般入試との違いと香港の機会"
 description: "日本語によるDSEと日本大学入試の詳細比較 — DSE（香港文憑試験）vs共通テスト vs 一般入試の構造比較、DSEで応募できる香港大学 vs 日本の大学の入学難易度比較、DSE英語の評価基準と日本人の強み・弱点、香港の大学に進学するメリット（学費/英語環境/アジアでのキャリア）、在香港日本人学校学生のDSE受験の可能性"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "comparison"
 last_updated: "2026-04-18"
@@ -25788,7 +25788,7 @@ URL: https://dsedaquan.cn//ja/costs/university-fees-and-scholarships
 ---
 title: "香港の大学学費と奨学金ガイド（日本人学生向け）：2025-2026年版"
 description: "日本語による香港大学費用完全ガイド — 香港8大学の年間学費（HKU/CUHK/HKUST/PolyU/CityU/BU/HKBU/EdUHK）、生活費の月額内訳（寮費/食費/交通費）、日本人向け奨学金（香港政府/各大学/民間財団）、DSEスコアによる奨学金基準、香港と日本の大学費用比較、仕送り・アルバイトの実情"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "costs"
 last_updated: "2026-04-18"
@@ -25952,7 +25952,7 @@ URL: https://dsedaquan.cn//ja/intro/what-is-dse
 ---
 title: "DSE（香港中学文凭試験）とは：国際学校生徒向けの完全ガイド"
 description: "香港DSE試験完全ガイド（日本語）— DSEとは何か（香港の大学入学統一試験）、コア科目4科目（中国語/英語/数学/市民生活と社会）と選択科目の構成、IB・A-Levelsとの違い、JUPAS香港大学入学制度への使用方法、DSE成績の海外大学認定状況（英国/豪州/カナダ）、日本人学生がDSEを受験するケース（ESF・インターナショナルスクール卒業生）"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "intro"
 last_updated: "2026-04-18"
@@ -26236,7 +26236,7 @@ URL: https://dsedaquan.cn//ja/jupas/jupas-guide-for-japanese-students
 ---
 title: "日本人学生向けJUPAS入学ガイド：香港大学出願システムの使い方と戦略"
 description: "JUPAS完全ガイド（日本語）— JUPAS（香港大学・専門学院入学申込統一系統）の使い方、志望校最大25選択の戦略的な組み合わせ方、Aリスト/Bリスト/Cリスト区分の意味、在香港日本人国際学校卒業生向けの出願ポイント、面接と入学試験対策、Band A/B/C成績とJUPAS出願の関係、DSE合格後のJUPAS調整フェーズ"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "jupas"
 last_updated: "2026-04-18"
@@ -26566,7 +26566,7 @@ URL: https://dsedaquan.cn//ja/living/student-life-hong-kong
 ---
 title: "香港での学生生活：寮・食事・交通・サークルと日本人学生コミュニティ"
 description: "日本語による香港大学生生活完全ガイド — 香港大学の学生寮（申請方法/費用/競争率）、外食の費用（食堂/茶餐廳/コンビニ）、MTR学生割引と交通費節約術、大学公認サークルと日本人学生会、香港の気候と日本との違い（夏の暑さ/台風シーズン）、広東語を学ぶメリット、香港から本土・台湾・東南アジアへの旅行アクセス"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "living"
 last_updated: "2026-04-18"
@@ -26750,7 +26750,7 @@ URL: https://dsedaquan.cn//ja/majors/architecture-design-hk
 ---
 title: "香港の建築・デザイン学部完全ガイド：日本人受験生のための入学要件・DSE科目・就職"
 description: "日本語による香港建築・デザイン学部完全ガイド — HKU建築学（ARB認定）、PolyU Design（IDとプロダクト）、HKDI、入学に必要なDSE科目（数学/美術/地理）、ポートフォリオ要件、香港建築士（ARB）・インテリアデザイン資格取得ルート、卒業後の就職先（ザハ/Foster+Partners HK/大林組HK）、日本の建築学部との比較"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"
@@ -26896,7 +26896,7 @@ URL: https://dsedaquan.cn//ja/majors/arts-humanities-hk
 ---
 title: "香港の人文・芸術学部完全ガイド：日本人受験生のための入学要件・専攻・就職"
 description: "日本語による香港人文・芸術学部完全ガイド — HKU文学部（英語/比較文学/哲学/歴史）・CUHK人文学部・香港浸会大学（HKBU）創作文芸、入学に有利なDSE科目、卒業後の進路（法科大学院/教員免許/ジャーナリズム/NGO）、香港の多言語環境を活かした文系学位の価値、大学院進学（英国/米国）への接続"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"
@@ -27038,7 +27038,7 @@ URL: https://dsedaquan.cn//ja/majors/business-finance-hk
 ---
 title: "香港のビジネス・ファイナンス学部ガイド：HKU・HKUST・CUHKの入学要件と日本人の機会"
 description: "日本語による香港ビジネス・ファイナンス学部完全ガイド — HKU経営学部(BBA)・HKUST経営大学院・CUHKビジネススクール（CGSB）の特徴比較、JUPAS最低DSEスコア、日本人学生の就職先（ゴールドマン/JPモルガン/マッキンゼー等）、香港FinTech・資産運用業界への就職力、CFA・ACCA資格との連携、ダブルディグリー・交換留学オプション"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"
@@ -27132,7 +27132,7 @@ URL: https://dsedaquan.cn//ja/majors/communications-journalism-hk
 ---
 title: "香港のコミュニケーション・ジャーナリズム学部完全ガイド：日本人受験生のための入学要件・メディアキャリア"
 description: "日本語による香港コミュニケーション・ジャーナリズム学部完全ガイド — HKBU新聞・コミュニケーション学院（QS世界ランク上位）、CityU メディア・コミュニケーション、PolyU Human Communication、入学に有利なDSE科目、香港メディア業界の現状、卒業後のキャリア（PR/広告/デジタルメディア/国際放送）、日本メディアとの比較"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"
@@ -27261,7 +27261,7 @@ URL: https://dsedaquan.cn//ja/majors/computer-science-hk
 ---
 title: "香港のコンピューターサイエンス学部ガイド：HKU・HKUST・CUHKのCS/IT入学要件"
 description: "日本語による香港CS/IT学部完全ガイド — HKU CS・HKUST CSE・CUHK CS・CityU CSの入学要件と特色比較、DSE数学（延伸单元M1/M2）の重要性、香港のIT産業就職（スタートアップ/テック大手/金融テック）、中国本土テック企業（ByteDance/Alibaba HK）への就職、プログラミングバックグラウンドのある日本人学生の優位性、グローバルIT企業香港オフィスの採用動向"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"
@@ -27356,7 +27356,7 @@ URL: https://dsedaquan.cn//ja/majors/education-teaching-hk
 ---
 title: "香港の教育・教職学部完全ガイド：日本人受験生のための入学要件・教員免許・就職"
 description: "日本語による香港教育・教職学部完全ガイド — HKU教育学部・CUHK教育学院・EdUHK（香港教育大）のBEd/PGDE比較、入学に必要なDSE科目、香港教員免許（QTS）取得ルート、国際学校・日本人学校・補習校での就職、日本の教員免許との互換性、教育系学部の就職先と年収"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"
@@ -27464,7 +27464,7 @@ URL: https://dsedaquan.cn//ja/majors/engineering-hk
 ---
 title: "香港の工学系学部ガイド：HKUST・HKU・PolyUへのDSE入学要件・専攻選択と就職環境"
 description: "日本語による香港工学系学部完全ガイド — HKUST/HKU/PolyU/CityU工学部のDSE入学スコア比較（Level 5〜5★）、工学系でのDSE必須科目（数学+物理/化学）、専攻選択ガイド（CS/電気/機械/化学工学/土木）、インターンシップと業界採用の実態（ゴールドマン・サックス・JPMorganの工学採用）、卒業後の就職先（香港/シンガポール/GBA）、M1/M2延伸単元の有利性"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"
@@ -27553,7 +27553,7 @@ URL: https://dsedaquan.cn//ja/majors/law-hk
 ---
 title: "香港の法学部ガイド：HKU・CUHKの法学部入学要件と日本人弁護士への機会"
 description: "日本語による香港法学部完全ガイド — HKU法学部とCUHK法学部（LLB）の比較、JUPAS最低DSEスコア（2025年実績）、香港弁護士（Solicitor）・大律師（Barrister）の違い、日本人学生の法学部進学の意義（英米法/国際仲裁/アジア法務）、PCLL（普通法研究生課程）進学要件、卒業後の法律事務所就職（香港+グローバルLaw Firm）、日本の司法試験との比較"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"
@@ -27677,7 +27677,7 @@ URL: https://dsedaquan.cn//ja/majors/medicine-dentistry-hk
 ---
 title: "香港の医学部・歯学部進学ガイド：HKU・CUHKの入学要件と日本人への機会"
 description: "日本語による香港医学部完全ガイド — HKUとCUHKの医学部・歯学部（MBBS/BDS）入学要件（DSEスコア/JUPAS順位/英語要件）、JUPAS vs Non-JUPASルートの比較、日本の医学部と香港の医学部の違い（6年制/実習体制/卒業後のキャリア）、日本人学生の合格実績、医師免許の香港と日本の相互認定状況、入学費用と奨学金"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"
@@ -27814,7 +27814,7 @@ URL: https://dsedaquan.cn//ja/majors/nursing-allied-health-hk
 ---
 title: "香港の看護・医療コメディカル学部ガイド：HKU/PolyUへの入学要件・資格と日本人キャリア"
 description: "日本語による香港看護・コメディカル学部完全ガイド — HKU/PolyU/CUHK看護学部のDSE入学スコア（Level 4〜5）、看護学士（BN）と薬学（PharmD）の違い、香港での看護師資格（RN）と日本の看護師資格の相互認定状況、理学療法士・作業療法士・放射線技師（パラメディカル）の学位コース、卒業後の就職先（HA公立病院/民間病院/海外）、看護師の香港での給与水準（HKD 28,000〜55,000/月）"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"
@@ -27905,7 +27905,7 @@ URL: https://dsedaquan.cn//ja/majors/pharmacy-hk
 ---
 title: "香港の薬学部ガイド：HKUとCUHKへのDSE入学要件・PharmD・薬剤師免許と日本との比較"
 description: "日本語による香港薬学部完全ガイド — HKU/CUHK薬学部（PharmD）のDSE入学要件（Best 5 Level 5以上）、4年制Bachelor of Pharmacy vs 6年制Doctor of Pharmacy（PharmD）の違い、香港薬剤師登録（RP）の取得プロセスと日本の薬剤師免許との相互認定状況、香港の薬剤師の就職先（病院/クリニック/製薬会社/CRO）、薬剤師の香港での給与水準（HKD 30,000〜70,000/月）、日本人薬剤師が香港で働く際の免許取得ルート"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"
@@ -27983,7 +27983,7 @@ URL: https://dsedaquan.cn//ja/majors/science-hk
 ---
 title: "香港の理学部（Science）完全ガイド：日本人受験生のための入学要件・専攻・就職"
 description: "日本語による香港理学部完全ガイド — HKU理学部・CUHK理学部・HKUST理学部の比較（物理/化学/生物/数学/統計/地球科学）、入学に必要なDSE科目（理科L5★推奨）、卒業後の進路（製薬/金融工学/データサイエンス/大学院進学）、純粋理学 vs 工学・理工学部との選択比較、日本の理学部との比較"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"
@@ -28081,7 +28081,7 @@ URL: https://dsedaquan.cn//ja/majors/social-sciences-hk
 ---
 title: "香港の社会科学・人文学部ガイド：HKU/CUHK/HKUST社会科学系の入学要件と就職環境"
 description: "日本語による香港社会科学系学部完全ガイド — HKU/CUHK/HKUST/HKBUの社会科学（社会学/心理学/政治学/国際関係）と人文学（歴史/哲学/英文学）の学部概要と入学スコア、文系DSE科目（英語/中国語/通識/経済/歴史）との対応、心理学学士の資格から大学院・臨床心理士への道、社会科学系の就職先（NGO/政府/金融コンプライアンス/コンサルティング）、日本人学生に人気の学部・専攻"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "majors"
 last_updated: "2026-04-18"
@@ -28173,7 +28173,7 @@ URL: https://dsedaquan.cn//ja/overseas/canada-pathway
 ---
 title: "DSEからカナダ大学進学ガイド：UBC・トロント大・マギル大へのDSE出願要件と永住権への道"
 description: "日本語によるDSE→カナダ大学進学完全ガイド — DSEを受け入れる主要カナダ大学（UBC/U of Toronto/McGill/McMaster/UAlberta）の入学要件、DSE Best 5スコアとカナダ入学基準の換算、学部別必要科目（理系/文系/医系）、年間費用（学費：CAD 20,000〜40,000+生活費）、卒業後労働許可（PGWP）と永住権（CEC/EEAP）への道、日本人学生がカナダをDSE後に選ぶ理由（安全・多文化・永住権）"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -28283,7 +28283,7 @@ URL: https://dsedaquan.cn//ja/overseas/europe-pathway
 ---
 title: "DSEからヨーロッパ大学進学ガイド：オランダ・ドイツ・スウェーデンの英語プログラムと費用"
 description: "日本語によるDSE→ヨーロッパ大学進学完全ガイド — DSEを認定するヨーロッパの英語プログラム大学（オランダ：Leiden/Delft/Rotterdam、ドイツ：Munich LMU/Heidelberg/TU Munich、スウェーデン：KTH/Stockholm University）、非EU学生の学費水準（EUR 0〜20,000/年）、英語学位プログラムの広さ（オランダが特に充実）、申請タイムライン（Studielink等）、EU圏での就労機会と将来性、日本人学生のためのシェンゲン協定圏での生活"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -28442,7 +28442,7 @@ URL: https://dsedaquan.cn//ja/overseas/japan-pathway
 ---
 title: "DSEから日本の大学進学ガイド：帰国子女枠・IB準用・学費と文科省認定校への出願方法"
 description: "日本語によるDSE→日本大学進学完全ガイド — DSE保有者が日本の大学に出願する際の帰国子女選抜の活用法、文科省による香港DSEの正式認定状況、東京大学・早稲田大学・慶應義塾大学のDSE/帰国子女要件と受験方法、DSEスコアとAO入試・英語入試の組み合わせ、日本学生支援機構（JASSO）奨学金の適用、香港在住日本人の子弟が帰国する際の大学受験戦略"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -28581,7 +28581,7 @@ URL: https://dsedaquan.cn//ja/overseas/singapore-pathway
 ---
 title: "DSEからシンガポール大学進学ガイド：NUS・NTU・SMUへの出願要件・費用・就職環境"
 description: "日本語によるDSE→シンガポール大学進学完全ガイド — NUS/NTU/SMUのDSE受入れ状況と必要スコア（一般的にBest 5 Level 3〜5以上）、香港DSEとシンガポールのA-Levelsの位置付け、学費（SGD 8,000〜30,000/年）と奨学金（ASEAN奨学金）、シンガポールと香港の地理的近さによる利便性、就職後のエキスパット扱いとCPF（年金）の仕組み、日本人学生にとってのシンガポール大学のメリット（英語+中国語環境）"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -28690,7 +28690,7 @@ URL: https://dsedaquan.cn//ja/overseas/taiwan-pathway
 ---
 title: "DSEから台湾大学進学ガイド：台湾大学・成功大学・英語プログラムと中国語要件"
 description: "日本語によるDSE→台湾大学進学完全ガイド — DSEを受け入れる台湾の主要大学（NTU/NCKU/NTHU/NCCU）の入学要件、中国語（国語）の要件とDSE中国語の代替、英語授業のみのプログラム（TIGP等）の選択肢、学費（TWD 70,000〜150,000/年；非常に低コスト）、生活費（月TWD 15,000〜25,000）、台湾政府奨学金（MOFA/ETRF）の申請方法、日本人DSE卒業生が台湾を選ぶ理由（漢字環境・安全・親日）"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -28819,7 +28819,7 @@ URL: https://dsedaquan.cn//ja/overseas/uk-australia-pathway
 ---
 title: "DSEで英国・オーストラリアの大学へ進学：出願方法、スコア換算と日本人の機会"
 description: "日本語によるDSEを使った英国・豪州大学進学完全ガイド — DSEスコアを使ったUCAS（英国）出願、英国ラッセルグループ大学（インペリアル/UCL/エジンバラ）のDSE要件、オーストラリア大学（メルボルン/シドニー/ANU）のDSE認定状況、UCAS Tariffと入学条件の換算、英国・豪州の学生ビザ要件、日本人学生にとってのDSE英国進学 vs 日本国内進学の比較"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -28935,7 +28935,7 @@ URL: https://dsedaquan.cn//ja/overseas/us-pathway
 ---
 title: "DSEからアメリカ大学進学ガイド：Common App・SAT/ACT免除・奨学金と香港DSE保有者の入学実績"
 description: "日本語によるDSE→米国大学進学完全ガイド — DSE保有者が米国大学へ出願する際のCommon App活用法、SAT/ACTが免除・任意になる大学のリスト（MIT/Columbia/Penn等）、DSEのBest 5スコアのGPA換算目安、アイビーリーグへのDSE出願実績、米国学生ビザ（F-1）の申請タイムライン、年間費用（学費+生活費：USD 60,000〜90,000/年）、奨学金と財政支援、日本人学生がDSE経由で米国大学を狙う戦略"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -29069,7 +29069,7 @@ URL: https://dsedaquan.cn//ja/preparation/dse-exam-preparation-guide
 ---
 title: "DSE試験の合格戦略：スケジュール管理、科目別勉強法と日本人学生向けアドバイス"
 description: "日本語でのDSE試験準備完全ガイド — 6ヶ月・12ヶ月勉強スケジュールのサンプル、科目別重点ポイント（英語/中国語/数学/必修科目）、日本の大学入試との比較と転換ポイント、模擬試験の活用法、DSEストレス管理、予備校選び（香港の補習社vs個人家庭教師）、合格基準（Level 3+の意味）"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "preparation"
 last_updated: "2026-04-18"
@@ -29211,7 +29211,7 @@ URL: https://dsedaquan.cn//ja/subjects/applied-learning-dse-guide
 ---
 title: "DSE応用学習（Applied Learning）完全ガイド：日本人受験生のための科目概要と大学入学への影響"
 description: "日本語によるDSE応用学習（ApL）完全ガイド — Applied Learningとは何か（職業・技術系の選択科目）、評価方法（Attained/Attained with Distinction）、提供コース一覧（ICT/ホスピタリティ/美容/デザイン/航空）、JUPAS出願での加点評価ルール（最大2科目換算）、理系・文系本科目との組み合わせ戦略、日本人受験生がApLを選択するメリット・デメリット"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -29363,7 +29363,7 @@ URL: https://dsedaquan.cn//ja/subjects/bafs-dse-guide
 ---
 title: "DSE企業会計・財務概論（BAFS）完全ガイド：日本人受験生のための試験構成・対策・ビジネス系進学への活用"
 description: "日本語によるDSE BAFS（Business, Accounting and Financial Studies）完全ガイド — BAFSの試験構成（Paper 1基礎/Paper 2業種別選択）、2つの選択科目（会計・企業経営）の特徴比較、日本の商業科・商学系科目との対比、会計選択 vs 企業経営選択の進路への影響、高得点（Level 5★）対策、BAFSが入学に有利なHKU/HKUST/CUHK学部一覧（経営/会計/金融）、DSEの文系科目でBAFSを選ぶ戦略的メリット"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -29448,7 +29448,7 @@ URL: https://dsedaquan.cn//ja/subjects/biology-dse-guide
 ---
 title: "DSE生物（Biology）完全ガイド：日本人受験生のための履修範囲・試験対策・医療系進学への道"
 description: "日本語によるDSE生物完全ガイド — DSE生物の試験構成（Paper 1/2/3のSBA）、主要トピック（細胞・遺伝・進化・生態系・体の機能）と日本の生物との対比、MCQ形式と長問形式の違い、高得点（Level 5★）のための暗記・図解・論述対策、生物が必要な香港大学学部（医学/歯学/看護/薬学/生命科学）、DSE生物はHKU医学部入学で必須かどうかの解説"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -29551,7 +29551,7 @@ URL: https://dsedaquan.cn//ja/subjects/chemistry-dse-guide
 ---
 title: "DSE化学（Chemistry）完全ガイド：日本人受験生のための履修範囲・試験対策・理系進学への活用"
 description: "日本語によるDSE化学完全ガイド — DSE化学の試験構成（Paper 1/2/3）、履修内容（原子構造・化学結合・有機化学・電気化学・物質量）と日本の化学との対比、Paper 1のMCQとPaper 2の自由記述、SBAの実験レポート評価、高得点（Level 5★）対策、化学が必要な香港大学学部一覧（医歯薬/化学工学/食品科学）"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -29651,7 +29651,7 @@ URL: https://dsedaquan.cn//ja/subjects/chinese-history-dse-guide
 ---
 title: "DSE中国史（Chinese History）完全ガイド：日本人受験生のための試験構成・学習対策・進学への活用"
 description: "日本語によるDSE中国史完全ガイド — 試験構成（Paper 1中国史通史/Paper 2テーマ選択）、学習範囲（古代〜清末から中国近現代史まで）、日本人が得意な時代（隋唐/宋/元明清/日中戦争）と苦手な時代（文化大革命/改革開放の中国視点）、繁体字漢文読解のハードル、中国史選択が有利な大学学部（歴史/中文/区域研究）、Level 4対策"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -29809,7 +29809,7 @@ URL: https://dsedaquan.cn//ja/subjects/chinese-language-dse-guide
 ---
 title: "DSE中国語（Chinese Language）完全ガイド：日本人受験生のための試験構成・対策・現実的な目標設定"
 description: "日本語によるDSE中国語完全ガイド — DSE中国語の試験構成（Paper 1読解/Paper 2作文/Paper 3聴解/Paper 4口述/Paper 5選択）、日本人受験生にとっての現実的な目標（Level 2〜3が現実的；Level 5★は漢字圏でも困難）、中国語を免除できるケース（JUPAS特別措置）、中国語の代替科目の検討、準母語話者向けの漢字の強みの活用、漢字変換による対策の限界と記憶量の現実、DSE中国語は理工系でも必須かどうかの整理"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -29907,7 +29907,7 @@ URL: https://dsedaquan.cn//ja/subjects/chinese-literature-dse-guide
 ---
 title: "DSE中国文学（Chinese Literature）完全ガイド：日本人受験生のための試験構成と学習対策"
 description: "日本語によるDSE中国文学完全ガイド — 試験構成（Paper 1古典文学読解/Paper 2論述）、学習範囲（先秦〜清代の古典と現代白話文学）、日本人受験生における繁体字古典文の読解難易度、日本の古典漢文との共通点と相違点、Level 3以上を狙う現実的対策"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -30075,7 +30075,7 @@ URL: https://dsedaquan.cn//ja/subjects/combined-science-dse-guide
 ---
 title: "DSE複合理科（Combined Science）完全ガイド：日本人受験生のための試験構成・科目選択との比較"
 description: "日本語によるDSE複合理科完全ガイド — 試験構成と選択モジュール（物理+化学/化学+生物/物理+生物）、単科理科（物理/化学/生物）との配点・難易度比較、Combined Scienceが有利な大学学部、理系選択が少ない文系受験生や時間制約のある受験生への戦略的選択理由、Level 5対策"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -30247,7 +30247,7 @@ URL: https://dsedaquan.cn//ja/subjects/design-applied-tech-dse-guide
 ---
 title: "DSEデザインと応用技術（D&AT）完全ガイド：日本人受験生のための試験構成と対策"
 description: "日本語によるDSEデザインと応用技術（D&AT）完全ガイド — 試験構成（Paper 1理論/Paper 2設計プロセス/SBA設計プロジェクト）、設計思考/材料科学/電子回路/持続可能な設計、日本の技術科との比較、SBAポートフォリオ評価、PolyU工業デザインへの活用"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -30426,7 +30426,7 @@ URL: https://dsedaquan.cn//ja/subjects/economics-dse-guide
 ---
 title: "DSE経済（Economics）完全ガイド：日本人受験生のための履修範囲・試験構成・ビジネス系進学への活用"
 description: "日本語によるDSE経済完全ガイド — DSE経済の試験構成（Paper 1のMCQ/Paper 2のデータ解析/Paper 3の自由記述）、ミクロ経済とマクロ経済の履修内容と日本の政治経済との対比、Paper 3の論述問題の書き方テンプレート、高得点（Level 5★）戦略、経済が必要な香港大学学部（経済学/商学/会計/法律）、香港と世界経済の実例を使った問題傾向"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -30523,7 +30523,7 @@ URL: https://dsedaquan.cn//ja/subjects/english-language-dse-guide
 ---
 title: "DSE英語科目完全ガイド：日本人学生のための得点戦略と合格ライン"
 description: "日本語によるDSE英語科目（English Language）完全ガイド — DSE英語の4つのペーパー構成（リーディング/ライティング/リスニング/スピーキング）、日本人学生の典型的な強みと弱点（文法○/スピーキング×/読解スピード課題）、Level 3/4/5の評価基準、英語ライティングの頻出テーマと書き方パターン、スピーキング試験（グループディスカッション）の準備法、IELTS/TOEFLとDSE英語の違い"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -30658,7 +30658,7 @@ URL: https://dsedaquan.cn//ja/subjects/ethics-religious-studies-dse-guide
 ---
 title: "DSE倫理・宗教学（Ethics & Religious Studies）完全ガイド：日本人受験生のための試験構成と対策"
 description: "日本語によるDSE倫理・宗教学（ERS）完全ガイド — 試験構成（Paper 1倫理推論/Paper 2宗教・価値観論述）、功利主義/義務論/生命倫理/世界宗教比較、日本の倫理・現代社会との比較、香港キリスト教学校文化背景、Level 4以上対策"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -30823,7 +30823,7 @@ URL: https://dsedaquan.cn//ja/subjects/exam-strategy-guide
 ---
 title: "DSE試験戦略完全ガイド：日本人受験生のための科目選択・時間管理・Level 5★攻略"
 description: "日本語によるDSE試験戦略完全ガイド — 最適な選択科目の組み合わせ（理系/文系/混合）、DSE試験6週前から当日までのタイムライン、各科目に共通する解答テクニック（データ解析/論述/MCQ）、SBA早期着手の戦略、JUPAS出願との連動、日本人受験生に多い失点パターンと対策"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -31037,7 +31037,7 @@ URL: https://dsedaquan.cn//ja/subjects/geography-dse-guide
 ---
 title: "DSE地理（Geography）完全ガイド：日本人受験生のための試験構成・フィールドワーク・進学への活用"
 description: "日本語によるDSE地理完全ガイド — DSE地理の試験構成（Paper 1データ解析/Paper 2論述/SBAフィールドワーク）、主要トピック（自然地理：気候/地形/水文と人文地理：都市/農業/工業/観光）と日本の地理との比較、GISとフィールドワークの比重、地理選択が有利な大学学部（都市計画/環境/地理情報）、文系科目の中での地理の相対的な難易度と対策時間の目安、日本人受験生の強みと弱点"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -31118,7 +31118,7 @@ URL: https://dsedaquan.cn//ja/subjects/history-dse-guide
 ---
 title: "DSE歴史（History）完全ガイド：日本人受験生のための試験構成・論述対策・進学への活用"
 description: "日本語によるDSE歴史完全ガイド — 試験構成（Paper 1資料問題/Paper 2論述）、主要テーマ（中国近現代史：清末/民国/冷戦/改革開放と世界史：帝国主義/二次大戦/冷戦）、日本の近現代史との比較、DSE歴史の論述テンプレート（PEEL/SOCT）、歴史選択が有利な大学学部（法/政治/外交/ジャーナリズム）、Level 5★対策"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -31363,7 +31363,7 @@ URL: https://dsedaquan.cn//ja/subjects/ict-dse-guide
 ---
 title: "DSE情報通信技術（ICT）完全ガイド：日本人受験生のための試験範囲・プログラミング・進学活用"
 description: "日本語によるDSE ICT完全ガイド — DSE ICTの試験構成（Paper 1理論/Paper 2実践）、主要トピック（ネットワーク・データ管理・プログラミング・セキュリティ・AI/ビッグデータ）と日本の情報科との比較、Paper 2の実際の問題形式（Pythonまたは疑似コード）、高得点（Level 5★）対策、ICTが有利な香港大学の学部（HKUST/PolyU工学系）、CS/情報系への進学でのICTの評価"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -31471,7 +31471,7 @@ URL: https://dsedaquan.cn//ja/subjects/jupas-strategy-guide
 ---
 title: "JUPAS出願戦略完全ガイド：日本人受験生のためのDSEスコア最大活用法"
 description: "日本語によるJUPAS出願戦略完全ガイド — JUPASの仕組みとDSEスコア換算（Best 5）、Early Round（11月）とMain Round（2月）の戦略的使い分け、バンド計算（5★=7点/5=5点）、UGC大学8校の出願優先順位設定、日本人受験生の失敗パターン回避策、7月DSE結果公開から入学確認までのタイムライン"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -31594,7 +31594,7 @@ URL: https://dsedaquan.cn//ja/subjects/ls-dse-guide
 ---
 title: "DSE通識教育（Liberal Studies / CSD）完全ガイド：日本人受験生のための試験構成と対策"
 description: "日本語によるDSE通識教育（Liberal Studies）および後継科目「公民与社会発展（CSD）」完全ガイド — 科目改革の経緯（2024年からLS→CSD移行）、試験構成（Paper 1データ問題/Paper 2論述/SBA）、主要テーマ（香港/現代中国/グローバル化/エネルギー）、香港社会問題への中立的論述の重要性、日本人受験生の強み（国際視点）と弱み（香港政治文脈）、Level 3以上の現実的対策"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -31758,7 +31758,7 @@ URL: https://dsedaquan.cn//ja/subjects/mathematics-dse-guide
 ---
 title: "DSE数学（Mathematics Compulsory Part）完全ガイド：日本人受験生のための試験構造・対策・進学への影響"
 description: "日本語によるDSE数学（必修）完全ガイド — DSE数学（Compulsory Part）の試験構成（Paper 1長問/Paper 2 MCQ）、主要トピック（代数/幾何/三角関数/統計/確率）と日本の数学Ⅰ・A・Ⅱ・Bとの対比、Paper 1の問題解答テクニックと部分点の取り方、高得点（Level 5★）のための対策スケジュール、延伸単元（M1/M2）との組み合わせ戦略、全大学全学部で必要な必須科目としての重要性、日本人受験生の強みと弱点（英語数学のアドバンテージ）"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -31862,7 +31862,7 @@ URL: https://dsedaquan.cn//ja/subjects/mathematics-extended-module
 ---
 title: "DSE数学延伸単元（M1/M2）完全ガイド：日本人学生向け選択戦略と得点最大化"
 description: "日本語によるDSE数学延伸単元完全ガイド — M1（微積分・統計）vs M2（代数・微積分）の内容比較と選択基準、日本の数学Ⅲとの比較（共通点と相違点）、大学学部別の推奨（理工系はM2/経済・社会科学はM1）、M1/M2のLevel 5★達成戦略、延伸単元なし vs ありの入学競争力の差、理系学部（CS/工学/医学）での重要性、DSE数学Bとの組み合わせ"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -31987,7 +31987,7 @@ URL: https://dsedaquan.cn//ja/subjects/music-dse-guide
 ---
 title: "DSE音楽（Music）完全ガイド：日本人受験生のための試験構成・実技対策・進学への活用"
 description: "日本語によるDSE音楽完全ガイド — 試験構成（Paper 1聴音・記譜/Paper 2楽曲分析/SBA演奏・作曲）、西洋音楽理論と広東オペラ（粤劇）両方の出題、日本の音楽科との比較、音楽選択が有利な大学学部（HKAPA/CUHK音楽）、Level 5対策"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -32090,7 +32090,7 @@ URL: https://dsedaquan.cn//ja/subjects/physical-education-dse-guide
 ---
 title: "DSE体育（Physical Education）完全ガイド：日本人受験生のための試験構成・実技対策・進学への活用"
 description: "日本語によるDSE体育完全ガイド — 試験構成（筆記Paper 1+SBA実技パフォーマンス）、選択スポーツ種目（バドミントン/バスケ/水泳/陸上他）、Sports Science理論範囲、日本の保健体育との比較、体育選択が有利な大学学部（スポーツ科学/理学療法）、Level 5対策"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -32185,7 +32185,7 @@ URL: https://dsedaquan.cn//ja/subjects/physics-dse-guide
 ---
 title: "DSE物理（Physics）完全ガイド：日本人受験生のための履修範囲・試験対策・大学進学への影響"
 description: "日本語によるDSE物理完全ガイド — DSE物理の試験構成（Paper 1/2/3のSection A・B）、履修内容（力学・電磁気・熱・波動・量子・宇宙）と日本の物理との対比、Paper 1の計算問題と Paper 2のデータ解析、高得点（Level 5★）に必要な対策と時間配分、香港の大学（HKU/HKUST/CUHK）入学に物理が必要な学部一覧、物理は「理工系の必修」か「選択的に有利」かの分析"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -32289,7 +32289,7 @@ URL: https://dsedaquan.cn//ja/subjects/tourism-hospitality-dse-guide
 ---
 title: "DSE観光・ホスピタリティ（Tourism & Hospitality Studies）完全ガイド：日本人受験生のための試験構成と進学活用"
 description: "日本語によるDSE観光・ホスピタリティ完全ガイド — 試験構成（Paper 1観光概論/Paper 2ケーススタディ/SBA）、主要テーマ（持続可能な観光/観光マーケティング/MICE/航空）、日本のホスピタリティ産業との比較、PolyU HTM・VTC Hotel SchoolへのJUPAS活用、Level 5対策"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -32399,7 +32399,7 @@ URL: https://dsedaquan.cn//ja/subjects/visual-arts-dse-guide
 ---
 title: "DSE視覚芸術（Visual Arts）完全ガイド：日本人受験生のための試験構成・ポートフォリオ対策・進学への活用"
 description: "日本語によるDSE視覚芸術完全ガイド — 試験構成（SBA制作Portfolio 60%/Paper 1鑑賞筆記40%）、制作テーマの選び方、日本の美術教育との比較、ポートフォリオ審査のポイント、視覚芸術選択が有利な大学学部（建築/デザイン/ファインアート）、Level 5対策"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -32500,7 +32500,7 @@ URL: https://dsedaquan.cn//ko/comparison/dse-vs-korean-suneung
 ---
 title: "DSE vs 수능 비교: 홍콩 대학 진학 vs 한국 명문대의 차이와 기회"
 description: "한국어 DSE와 수능 상세 비교 — DSE(홍콩 문빙시) vs 수능 vs 논술의 구조 비교, DSE로 지원 가능한 홍콩 대학 vs 한국 대학의 입학 난이도 비교, DSE 영어 평가 기준과 한국인의 강점·약점, 홍콩 대학 진학의 장점(학비/영어 환경/아시아 커리어), 재홍콩 한국인 학교 학생의 DSE 응시 가능성"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "comparison"
 last_updated: "2026-04-18"
@@ -32633,7 +32633,7 @@ URL: https://dsedaquan.cn//ko/costs/university-fees-and-scholarships
 ---
 title: "홍콩 대학 학비와 장학금 가이드 (한국 학생용): 2025-2026년판"
 description: "한국어 홍콩 대학 비용 완전 가이드 — 홍콩 8개 대학 연간 학비(HKU/CUHK/HKUST/PolyU/CityU/BU/HKBU/EdUHK), 생활비 월별 내역(기숙사비/식비/교통비), 한국인 대상 장학금(홍콩 정부/각 대학/민간 재단), DSE 점수별 장학금 기준, 홍콩과 한국 대학 비용 비교, 송금·아르바이트 현실"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "costs"
 last_updated: "2026-04-18"
@@ -32799,7 +32799,7 @@ URL: https://dsedaquan.cn//ko/intro/what-is-dse
 ---
 title: "DSE(홍콩 중학교 졸업시험)란 무엇인가: 국제학교 학생을 위한 완전 가이드"
 description: "홍콩 DSE 시험 완전 가이드(한국어) — DSE란 무엇인가(홍콩 대학 입학 통합 시험), 핵심 4과목(중국어/영어/수학/시민 생활과 사회)과 선택 과목 구성, IB·A-Levels와의 차이점, JUPAS 홍콩 대학 입학 제도 활용 방법, DSE 성적의 해외 대학 인정 현황(영국/호주/캐나다), 한국인 학생이 DSE를 응시하는 경우(ESF·국제학교 졸업생)"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "intro"
 last_updated: "2026-04-18"
@@ -33091,7 +33091,7 @@ URL: https://dsedaquan.cn//ko/jupas/jupas-guide-for-korean-students
 ---
 title: "한국인 학생을 위한 JUPAS 입학 가이드: 홍콩 대학 지원 시스템 사용법과 전략"
 description: "JUPAS 완전 가이드(한국어) — JUPAS(홍콩 대학·전문학원 입학 신청 통합 시스템) 사용법, 지망 대학 최대 25개 선택의 전략적 조합, A 리스트/B 리스트/C 리스트 구분의 의미, 홍콩 재홍 한국인 국제학교 졸업생을 위한 지원 포인트, 면접과 입학 시험 대비, Band A/B/C 성적과 JUPAS 지원 관계, DSE 합격 후 JUPAS 조정 단계"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "jupas"
 last_updated: "2026-04-18"
@@ -33424,7 +33424,7 @@ URL: https://dsedaquan.cn//ko/living/student-life-hong-kong
 ---
 title: "홍콩 대학 생활 가이드: 기숙사·식사·교통·동아리와 한국인 학생 커뮤니티"
 description: "한국어 홍콩 대학 생활 완전 가이드 — 홍콩 대학 기숙사(신청 방법/비용/경쟁률), 외식 비용(학생식당/茶餐廳/편의점), MTR 학생 할인과 교통비 절약법, 대학 공식 동아리와 한국인 학생회, 홍콩 기후와 한국과의 차이(여름 더위/태풍 시즌), 광동어 학습의 장점, 홍콩에서 중국 본토·대만·동남아 여행 접근성"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "living"
 last_updated: "2026-04-18"
@@ -33590,7 +33590,7 @@ URL: https://dsedaquan.cn//ko/majors/architecture-design-hk
 ---
 title: "홍콩 건축·디자인 학부 완전 가이드: 한국인 수험생을 위한 입학 요건·DSE 과목·취업"
 description: "한국어로 작성된 홍콩 건축·디자인 학부 완전 가이드 — HKU 건축학(ARB 인증), PolyU Design(인테리어·제품), HKDI, 입학에 필요한 DSE 과목(수학/미술/지리), 포트폴리오 요건, 홍콩 건축사(ARB)·인테리어 디자인 자격 취득 루트, 졸업 후 취업처(자하 하디드/Foster+Partners HK/삼성물산 HK), 한국 건축학과와의 비교"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"
@@ -33737,7 +33737,7 @@ URL: https://dsedaquan.cn//ko/majors/arts-humanities-hk
 ---
 title: "홍콩 인문·예술 학부 완전 가이드: 한국인 수험생을 위한 입학 요건·전공·취업"
 description: "한국어로 작성된 홍콩 인문·예술 학부 완전 가이드 — HKU 문학부(영어/비교문학/철학/역사)·CUHK 인문학부·홍콩 침회대학(HKBU) 창작 문예, 입학에 유리한 DSE 과목, 졸업 후 진로(로스쿨/교원/저널리즘/NGO), 홍콩의 다언어 환경을 활용한 인문학 학위의 가치, 대학원 진학(영국/미국) 연계"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"
@@ -33874,7 +33874,7 @@ URL: https://dsedaquan.cn//ko/majors/business-finance-hk
 ---
 title: "홍콩 경영·금융 학부 가이드: HKU·HKUST·CUHK 입학 요건과 한국인의 기회"
 description: "한국어 홍콩 경영·금융 학부 완전 가이드 — HKU 경영학부(BBA)·HKUST 경영대학원·CUHK 비즈니스스쿨(CGSB) 특징 비교, JUPAS 최저 DSE 점수, 한국인 학생 취업처(골드만삭스/JP모건/맥킨지 등), 홍콩 FinTech·자산운용 업계 취업력, CFA·ACCA 자격과의 연계, 더블 디그리·교환 유학 옵션"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"
@@ -33976,7 +33976,7 @@ URL: https://dsedaquan.cn//ko/majors/communications-journalism-hk
 ---
 title: "홍콩 커뮤니케이션·저널리즘 학부 완전 가이드: 한국인 수험생을 위한 입학 요건·미디어 커리어"
 description: "한국어로 작성된 홍콩 커뮤니케이션·저널리즘 학부 완전 가이드 — HKBU 신문·커뮤니케이션 학원(QS 아시아 3~5위), CityU 미디어·커뮤니케이션, PolyU Human Communication, 입학에 유리한 DSE 과목, 홍콩 미디어 업계 현황, 졸업 후 커리어(PR/광고/디지털 미디어/국제 방송), 한국 신문방송학과와의 비교"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"
@@ -34120,7 +34120,7 @@ URL: https://dsedaquan.cn//ko/majors/computer-science-hk
 ---
 title: "홍콩 컴퓨터 사이언스 학부 가이드: HKU·HKUST·CUHK·CityU CS/IT 입학 요건"
 description: "한국어 홍콩 CS/IT 학부 완전 가이드 — HKU CS·HKUST CSE·CUHK CS·CityU CS의 입학 요건과 특색 비교, DSE 수학(확장 모듈 M1/M2)의 중요성, 홍콩 IT 산업 취업(스타트업/테크 대기업/금융 테크), 중국 본토 테크 기업(ByteDance/알리바바 HK) 취업, 프로그래밍 배경이 있는 한국인 학생의 우위, 글로벌 IT 기업 홍콩 오피스 채용 동향"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"
@@ -34226,7 +34226,7 @@ URL: https://dsedaquan.cn//ko/majors/education-teaching-hk
 ---
 title: "홍콩 교육·교직 학부 완전 가이드: 한국인 수험생을 위한 입학 요건·교원 자격·취업"
 description: "한국어 홍콩 교육·교직 학부 완전 가이드 — EdUHK(홍콩교육대)·HKU 교육학부·CUHK 교육학원의 BEd/PGDE 비교, 입학에 필요한 DSE 과목, 홍콩 교원 자격(합격교사·QTS) 취득 루트, 국제학교·한국국제학교·보습학원 취업, 한국 정교사 2급 자격증과의 차이, 교육학부 취업처·연봉"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"
@@ -34336,7 +34336,7 @@ URL: https://dsedaquan.cn//ko/majors/engineering-hk
 ---
 title: "홍콩 공학계 학부 가이드: HKUST·HKU·PolyU DSE 입학 요건·전공 선택과 취직 환경"
 description: "한국어 홍콩 공학계 학부 완전 가이드 — HKUST/HKU/PolyU/CityU 공학부 DSE 입학 스코어 비교(Level 5〜5★), 공학계 DSE 필수 과목(수학+물리/화학), 전공 선택 가이드(CS/전기/기계/화학공학/토목), 인턴십과 업계 채용 실태, 졸업 후 취직처(홍콩/싱가포르/GBA), M1/M2 연신 단원의 유리성"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"
@@ -34442,7 +34442,7 @@ URL: https://dsedaquan.cn//ko/majors/law-hk
 ---
 title: "홍콩 법학부 가이드: HKU·CUHK 법학부 입학 요건과 한국인 변호사에의 기회"
 description: "한국어 홍콩 법학부 완전 가이드 — HKU 법학부와 CUHK 법학부(LLB) 비교, JUPAS 최저 DSE 점수(2025년 실적), 홍콩 변호사(Solicitor)·대율사(Barrister)의 차이, 한국인 학생의 법학부 진학 의의(영미법/국제 중재/아시아 법무), PCLL(普通法研究生課程) 진학 요건, 졸업 후 로펌 취업(홍콩+글로벌 Law Firm), 한국 사법고시·로스쿨과의 비교"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"
@@ -34570,7 +34570,7 @@ URL: https://dsedaquan.cn//ko/majors/medicine-dentistry-hk
 ---
 title: "홍콩 의대·치대 진학 가이드: HKU·CUHK 입학 요건과 한국 학생의 기회"
 description: "한국어 홍콩 의대 완전 가이드 — HKU와 CUHK 의대·치대(MBBS/BDS) 입학 요건(DSE 점수/JUPAS 순위/영어 요건), JUPAS vs Non-JUPAS 루트 비교, 한국 의대와 홍콩 의대의 차이(6년제/실습 체계/졸업 후 커리어), 한국 학생 합격 현황, 의사 면허의 홍콩-한국 상호 인정, 입학 비용과 장학금"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"
@@ -34720,7 +34720,7 @@ URL: https://dsedaquan.cn//ko/majors/nursing-allied-health-hk
 ---
 title: "홍콩 간호·의료 코메디컬 학부 가이드: HKU/PolyU 입학 요건·자격과 한국인 커리어"
 description: "한국어 홍콩 간호·코메디컬 학부 완전 가이드 — HKU/PolyU/CUHK 간호학부 DSE 입학 스코어(Level 4〜5), 간호학사(BN)와 약학(PharmD) 차이, 홍콩 간호사 자격(RN)과 한국 간호사 자격의 상호 인정 상황, 물리치료사·작업치료사·방사선사 학위 코스, 졸업 후 취직처(HA 공립병원/민간 병원/해외), 간호사의 홍콩 급여 수준(HKD 28,000〜55,000/월)"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"
@@ -34815,7 +34815,7 @@ URL: https://dsedaquan.cn//ko/majors/pharmacy-hk
 ---
 title: "홍콩 약학부 가이드: HKU·CUHK DSE 입학 요건·PharmD·약사 면허와 한국과의 비교"
 description: "한국어 홍콩 약학부 완전 가이드 — HKU/CUHK 약학부(PharmD) DSE 입학 요건(Best 5 Level 5 이상), 4년제 Bachelor of Pharmacy vs 6년제 Doctor of Pharmacy(PharmD) 차이, 홍콩 약사 등록(RP) 취득 프로세스와 한국 약사 면허와의 상호 인정 상황, 홍콩 약사 취직처(병원/클리닉/제약회사/CRO), 약사의 홍콩 급여 수준(HKD 30,000〜70,000/월), 한국인 약사가 홍콩에서 일하는 경우 면허 취득 루트"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"
@@ -34894,7 +34894,7 @@ URL: https://dsedaquan.cn//ko/majors/science-hk
 ---
 title: "홍콩 이학부（Science）완전 가이드: 한국인 수험생을 위한 입학 요건·전공·취업"
 description: "한국어 홍콩 이학부 완전 가이드 — HKU·CUHK·HKUST 이학부 비교(물리/화학/생명과학/수학/통계/지구과학), 입학에 필요한 DSE 과목(이과 L5★ 권장), 졸업 후 진로(제약/금융공학/데이터사이언스/대학원 진학), 순수 이학 vs 공학·이공학부 선택 비교, 한국 자연과학대학과의 비교, 퀀트·골드만삭스 HK 취업 루트"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"
@@ -34994,7 +34994,7 @@ URL: https://dsedaquan.cn//ko/majors/social-sciences-hk
 ---
 title: "홍콩 사회과학·인문학부 가이드: HKU/CUHK/HKUST 사회과학계 입학 요건과 취직 환경"
 description: "한국어 홍콩 사회과학계 학부 완전 가이드 — HKU/CUHK/HKUST/HKBU의 사회과학(사회학/심리학/정치학/국제관계)과 인문학(역사/철학/영문학) 학부 개요와 입학 스코어, 문과 DSE 과목(영어/중국어/통식/경제/역사)과의 대응, 심리학 학사에서 대학원·임상심리사로의 길, 사회과학계 취직처(NGO/정부/금융 컴플라이언스/컨설팅), 한국인 학생에게 인기 있는 학부·전공"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "majors"
 last_updated: "2026-04-18"
@@ -35099,7 +35099,7 @@ URL: https://dsedaquan.cn//ko/overseas/canada-pathway
 ---
 title: "DSE에서 캐나다 대학 진학 가이드: UBC·토론토대·맥길대 DSE 지원 요건과 영주권 경로"
 description: "한국어 DSE→캐나다 대학 진학 완전 가이드 — DSE를 받아들이는 주요 캐나다 대학(UBC/U of Toronto/McGill/McMaster/UAlberta) 입학 요건, DSE Best 5 스코어와 캐나다 입학 기준 환산, 학부별 필요 과목(이과/문과/의계), 연간 비용(학비: CAD 20,000〜40,000+생활비), 졸업 후 취업 허가(PGWP)와 영주권(CEC/EEAP) 경로, 한국인 학생이 캐나다를 DSE 후 선택하는 이유(안전·다문화·영주권)"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -35201,7 +35201,7 @@ URL: https://dsedaquan.cn//ko/overseas/europe-pathway
 ---
 title: "DSE에서 유럽 대학 진학 가이드: 네덜란드·독일·스웨덴의 영어 프로그램과 비용"
 description: "한국어 DSE→유럽 대학 진학 완전 가이드 — DSE를 인정하는 유럽 영어 프로그램 대학(네덜란드: Leiden/Delft/Rotterdam, 독일: Munich LMU/TU Munich, 스웨덴: KTH/Stockholm), 비EU 학생 학비 수준(EUR 0〜20,000/년), 영어 학위 프로그램 폭(네덜란드가 특히 충실), 신청 타임라인(Studielink 등), EU권 취업 기회, 한국인에게 유럽 대학의 장점(독일 무상 교육/네덜란드 영어환경)"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -35388,7 +35388,7 @@ URL: https://dsedaquan.cn//ko/overseas/japan-pathway
 ---
 title: "DSE에서 일본 대학 진학 가이드: 재외국민 특별전형·영어 입시·학비와 일본 생활 환경"
 description: "한국어 DSE→일본 대학 진학 완전 가이드 — DSE 보유자가 일본 대학에 지원하는 재외국민 특별전형 활용법, 문부과학성의 홍콩 DSE 공식 인정 상황, 도쿄대학·와세다대학·게이오대학의 DSE/재외국민 요건과 시험 방법, DSE 스코어와 AO 입시·영어 입시의 조합, JASSO 장학금 적용, 한국인 가족이 귀국이 아닌 일본 유학을 선택하는 이유"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -35534,7 +35534,7 @@ URL: https://dsedaquan.cn//ko/overseas/singapore-pathway
 ---
 title: "DSE에서 싱가포르 대학 진학 가이드: NUS·NTU·SMU 지원 요건·비용·취직 환경"
 description: "한국어 DSE→싱가포르 대학 진학 완전 가이드 — NUS/NTU/SMU의 DSE 수용 상황과 필요 스코어(일반적으로 Best 5 Level 3〜5 이상), 홍콩 DSE와 싱가포르 A-Levels 위상, 학비(SGD 8,000〜30,000/년)와 장학금(ASEAN 장학금), 싱가포르와 홍콩의 지리적 근접성에 의한 편의성, 취직 후 익스팻 취급과 CPF(연금) 구조, 한국인 학생에게 싱가포르 대학의 장점(영어+중국어 환경)"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -35648,7 +35648,7 @@ URL: https://dsedaquan.cn//ko/overseas/taiwan-pathway
 ---
 title: "DSE에서 대만 대학 진학 가이드: 대만 국립대학·영어 프로그램과 비용·장학금"
 description: "한국어 DSE→대만 대학 진학 완전 가이드 — DSE를 받아들이는 대만 주요 대학(NTU/NCKU/NTHU/NCCU) 입학 요건, 중국어(국어) 요건과 DSE 중국어 대체, 영어만 수업 프로그램(TIGP 등) 선택지, 학비(TWD 70,000〜150,000/년; 매우 저비용), 생활비(월 TWD 15,000〜25,000), 대만 정부 장학금(MOFA/ETRF) 신청 방법, 한국인 DSE 졸업생이 대만을 선택하는 이유(반도체 산업/비용/한자 환경)"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -35794,7 +35794,7 @@ URL: https://dsedaquan.cn//ko/overseas/uk-australia-pathway
 ---
 title: "DSE로 영국·호주 대학에 진학: 지원 방법, 점수 환산과 한국인의 기회"
 description: "한국어 DSE를 이용한 영국·호주 대학 진학 완전 가이드 — DSE 점수를 이용한 UCAS(영국) 지원, 영국 러셀그룹 대학(임페리얼/UCL/에든버러)의 DSE 요건, 호주 대학(멜버른/시드니/ANU)의 DSE 인정 현황, UCAS Tariff와 입학 조건 환산, 영국·호주 학생 비자 요건, 한국 학생에게 있어 DSE 영국 진학 vs 한국 국내 진학 비교"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -35927,7 +35927,7 @@ URL: https://dsedaquan.cn//ko/overseas/us-pathway
 ---
 title: "DSE에서 미국 대학 진학 가이드: Common App·SAT/ACT 면제·장학금과 DSE 보유자의 입학 실적"
 description: "한국어 DSE→미국 대학 진학 완전 가이드 — DSE 보유자가 미국 대학에 지원할 때의 Common App 활용법, SAT/ACT가 면제·임의가 되는 대학 목록(MIT/Columbia/Penn 등), DSE Best 5 스코어의 GPA 환산 기준, 아이비리그 DSE 지원 실적, 미국 학생 비자(F-1) 신청 타임라인, 연간 비용(학비+생활비: USD 60,000〜90,000/년), 장학금과 재정 지원, 한국인 학생이 DSE 경유로 미국 대학을 노리는 전략"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -36063,7 +36063,7 @@ URL: https://dsedaquan.cn//ko/preparation/dse-exam-preparation-guide
 ---
 title: "DSE 시험 합격 전략: 스케줄 관리, 과목별 공부법과 한국 학생을 위한 가이드"
 description: "한국어 DSE 시험 준비 완전 가이드 — 6개월·12개월 공부 스케줄 샘플, 과목별 핵심 포인트(영어/중국어/수학/필수과목), 수능과 DSE의 차이점 및 전환 포인트, 모의고사 활용법, DSE 스트레스 관리, 홍콩 보습학원 vs 개인 과외 비교, 합격 기준(Level 3+의 의미)"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "preparation"
 last_updated: "2026-04-18"
@@ -36213,7 +36213,7 @@ URL: https://dsedaquan.cn//ko/subjects/applied-learning-dse-guide
 ---
 title: "DSE 응용학습（Applied Learning）완전 가이드: 한국인 수험생을 위한 과목 개요와 대학 입학 영향"
 description: "한국어로 작성된 DSE 응용학습（ApL）완전 가이드 — Applied Learning이란 무엇인가（직업·기술계 선택 과목），평가 방법（Attained/Attained with Distinction），주요 코스 목록（ICT/호스피탈리티/뷰티/디자인/항공），JUPAS 지원에서의 가산점 규칙（최대 2과목 환산），이과·문과 주요 과목과의 조합 전략，한국인 수험생이 ApL을 선택하는 장단점"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -36371,7 +36371,7 @@ URL: https://dsedaquan.cn//ko/subjects/bafs-dse-guide
 ---
 title: "DSE 기업회계·재무개론（BAFS）완전 가이드: 한국인 수험생을 위한 시험 구성·대책·비즈니스계 진학 활용"
 description: "한국어 DSE BAFS(Business, Accounting and Financial Studies) 완전 가이드 — BAFS 시험 구성(Paper 1 기초/Paper 2 업종별 선택), 2가지 선택 과목(회계·기업경영) 특징 비교, 한국의 상업계 과목·경영학계 과목과의 비교, 회계 선택 vs 기업경영 선택의 진로 영향, 고득점(Level 5★) 대책, BAFS가 입학에 유리한 HKU/HKUST/CUHK 학부 일람(경영/회계/금융), DSE 문과 과목에서 BAFS를 선택하는 전략적 메리트"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -36458,7 +36458,7 @@ URL: https://dsedaquan.cn//ko/subjects/biology-dse-guide
 ---
 title: "DSE 생물（Biology）완전 가이드: 한국인 수험생을 위한 이수 범위·시험 대책·의료계 진학 경로"
 description: "한국어 DSE 생물 완전 가이드 — DSE 생물 시험 구성(Paper 1/2/3의 SBA), 주요 토픽(세포·유전·진화·생태계·신체 기능)과 한국 생명과학의 비교, MCQ 형식과 서술형의 차이, 고득점(Level 5★)을 위한 암기·도해·논술 대책, 생물이 필요한 홍콩 대학 학부(의학/치학/간호/약학/생명과학), DSE 생물은 HKU 의대 입학에 필수인지 해설"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -36573,7 +36573,7 @@ URL: https://dsedaquan.cn//ko/subjects/chemistry-dse-guide
 ---
 title: "DSE 화학（Chemistry）완전 가이드: 한국인 수험생을 위한 이수 범위·시험 대책·이과 진학 활용"
 description: "한국어 DSE 화학 완전 가이드 — DSE 화학 시험 구성(Paper 1/2/3), 이수 내용(원자 구조·화학 결합·유기화학·전기화학·물질량)과 한국 화학의 비교, Paper 1 MCQ와 Paper 2 서술형, SBA 실험 보고서 평가, 고득점(Level 5★) 대책, 화학이 필요한 홍콩 대학 학부 일람(의치약/화학공학/식품과학)"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -36681,7 +36681,7 @@ URL: https://dsedaquan.cn//ko/subjects/chinese-history-dse-guide
 ---
 title: "DSE 중국사（Chinese History）완전 가이드: 한국인 수험생을 위한 시험 구성·학습 대책"
 description: "한국어로 작성된 DSE 중국사 완전 가이드 — 시험 구성（Paper 1 통사/Paper 2 주제 선택），학습 범위（고대~청말에서 중국 근현대사까지），한국인의 강점（수나라/당나라/한중관계/명청）과 약점（번체자/문화대혁명의 중국 시각），번체자 한문 독해 대책，중국사 선택이 유리한 대학 학과（역사/중어중문/지역학），Level 4 대책"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -36852,7 +36852,7 @@ URL: https://dsedaquan.cn//ko/subjects/chinese-language-dse-guide
 ---
 title: "DSE 중국어（Chinese Language）완전 가이드: 한국인 수험생을 위한 시험 구성·대책·현실적 목표 설정"
 description: "한국어 DSE 중국어 완전 가이드 — DSE 중국어 시험 구성(Paper 1 독해/Paper 2 작문/Paper 3 청해/Paper 4 구술/Paper 5 선택), 한국인 수험생에게 현실적인 목표(Level 2〜3이 현실적; Level 5★은 한자권도 어려움), 중국어를 면제받을 수 있는 경우(JUPAS 특별 조치), 중국어 대체 과목 검토, 한자 강점 활용과 한계, DSE 중국어는 이공계에서도 필수인지 정리"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -36963,7 +36963,7 @@ URL: https://dsedaquan.cn//ko/subjects/chinese-literature-dse-guide
 ---
 title: "DSE 중국문학（Chinese Literature）완전 가이드: 한국인 수험생을 위한 시험 구성과 학습 대책"
 description: "한국어로 작성된 DSE 중국문학 완전 가이드 — 시험 구성（Paper 1 고전문학 독해/Paper 2 논술）, 학습 범위（선진~청대 고전과 현대 백화문학）, 한국인 수험생의 번체자 고전 독해 유불리, 수능 한문 과목 경험 활용, 魯迅·張愛玲 친숙도, 소규모 코호트 상대평가 특성, Level 3 이상 현실적 전략"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -37131,7 +37131,7 @@ URL: https://dsedaquan.cn//ko/subjects/combined-science-dse-guide
 ---
 title: "DSE 복합이과（Combined Science）완전 가이드: 단과 이과와의 비교·시험 구성·전략적 선택"
 description: "한국어 DSE 복합이과 완전 가이드 — 시험 구성과 선택 모듈（물리+화학/화학+생물/물리+생물）, 단과 이과（물리/화학/생물）와의 배점·난이도 비교, Combined Science가 유리한 대학 학부, 이과 선택이 적은 문과 수험생이나 시간 제약이 있는 수험생의 전략적 선택 이유, Level 5 대책"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -37330,7 +37330,7 @@ URL: https://dsedaquan.cn//ko/subjects/design-applied-tech-dse-guide
 ---
 title: "DSE 디자인과 응용기술（D&AT）완전 가이드: 시험 구성과 대책"
 description: "한국어로 작성된 DSE 디자인과 응용기술（D&AT）완전 가이드 — 시험 구성（Paper 1 이론/Paper 2 설계 프로세스/SBA 설계 프로젝트）, 디자인 씽킹/소재과학/전자회로/지속가능한 디자인, 한국 기술·가정 vs DSE D&AT 비교, 한국 산업디자인 강국 이미지, 삼성 산업디자인 vs PolyU 디자인, 홍익대 비교, SBA 포트폴리오 평가"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -37491,7 +37491,7 @@ URL: https://dsedaquan.cn//ko/subjects/economics-dse-guide
 ---
 title: "DSE 경제（Economics）완전 가이드: 한국인 수험생을 위한 이수 범위·시험 구성·경상계 진학 활용"
 description: "한국어 DSE 경제 완전 가이드 — DSE 경제 시험 구성(Paper 1 MCQ/Paper 2 데이터 분석/Paper 3 서술형), 미시경제와 거시경제 이수 내용과 한국 경제의 비교, Paper 3 논술 문제 작성 템플릿, 고득점(Level 5★) 전략, 경제가 필요한 홍콩 대학 학부(경제학/상학/회계/법률), 홍콩과 세계경제 실례를 활용한 문제 경향"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -37596,7 +37596,7 @@ URL: https://dsedaquan.cn//ko/subjects/english-language-dse-guide
 ---
 title: "DSE 영어 과목 완전 가이드: 한국 학생을 위한 득점 전략과 합격 기준"
 description: "한국어 DSE 영어 과목(English Language) 완전 가이드 — DSE 영어 4개 페이퍼 구성(리딩/라이팅/리스닝/스피킹), 한국 학생의 일반적인 강점과 약점(문법○/스피킹×/독해 속도 문제), Level 3/4/5 평가 기준, 영어 라이팅 빈출 주제와 작성 패턴, 스피킹 시험(그룹 토론) 준비법, IELTS/TOEFL과 DSE 영어의 차이"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -37737,7 +37737,7 @@ URL: https://dsedaquan.cn//ko/subjects/ethics-religious-studies-dse-guide
 ---
 title: "DSE 윤리·종교학（Ethics & Religious Studies）완전 가이드: 시험 구성과 대책"
 description: "한국어로 작성된 DSE 윤리·종교학（ERS）완전 가이드 — 시험 구성（Paper 1 윤리 추론/Paper 2 종교·가치관 논술）, 공리주의/의무론/생명윤리/세계종교 비교, 수능 생활과 윤리/윤리와 사상 vs DSE ERS 비교, 한국 기독교/불교 비중·홍콩 기독교 학교 공통점, 유교 윤리 파트에서 한국 유교 전통의 강점, Level 4 이상 대책"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -37899,7 +37899,7 @@ URL: https://dsedaquan.cn//ko/subjects/exam-strategy-guide
 ---
 title: "DSE 시험 전략 완전 가이드: 한국인 수험생을 위한 과목 선택·시간 관리·Level 5★ 공략"
 description: "한국어 DSE 시험 전략 완전 가이드 — 최적 선택과목 조합（이과/문과/혼합）, DSE 시험 6주 전부터 당일까지의 타임라인, 공통 답안 작성 기술（데이터 분석/논술/MCQ）, SBA 조기 착수 전략, JUPAS 지원과의 연동, 한국인 수험생에게 자주 나타나는 실점 패턴과 대책"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -38130,7 +38130,7 @@ URL: https://dsedaquan.cn//ko/subjects/geography-dse-guide
 ---
 title: "DSE 지리（Geography）완전 가이드: 한국인 수험생을 위한 시험 구성·필드워크·진학 활용"
 description: "한국어 DSE 지리 완전 가이드 — DSE 지리 시험 구성(Paper 1 데이터 분석/Paper 2 논술/SBA 필드워크), 주요 토픽(자연지리: 기후/지형/수문과 인문지리: 도시/농업/공업/관광)과 한국 지리와의 비교, GIS와 필드워크 비중, 지리 선택이 유리한 대학 학부(도시계획/환경/지리정보), 문과 과목 중에서의 지리 상대적 난이도, 한국인 수험생 강점과 약점"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -38213,7 +38213,7 @@ URL: https://dsedaquan.cn//ko/subjects/history-dse-guide
 ---
 title: "DSE 역사（History）완전 가이드: 한국인 수험생을 위한 시험 구성·논술 대책·진학 활용"
 description: "한국어 DSE 역사 완전 가이드 — 시험 구성（Paper 1 자료 분석/Paper 2 논술）, 주요 테마（중국 근현대사: 청말/민국/냉전/개혁개방과 세계사: 제국주의/2차 대전/냉전）, 한국 수능 역사와의 비교, DSE 역사 논술 템플릿（PEEL/SOCT）, 역사 선택이 유리한 대학 학부（법/정치/외교/언론）, Level 5★ 대책"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -38463,7 +38463,7 @@ URL: https://dsedaquan.cn//ko/subjects/ict-dse-guide
 ---
 title: "DSE 정보통신기술（ICT）완전 가이드: 한국인 수험생을 위한 시험 범위·프로그래밍·진학 활용"
 description: "한국어 DSE ICT 완전 가이드 — DSE ICT 시험 구성(Paper 1 이론/Paper 2 실기), 주요 토픽(네트워크·데이터 관리·프로그래밍·보안·AI/빅데이터)과 한국 정보의 비교, Paper 2 실제 문제 형식(Python 또는 의사코드), 고득점(Level 5★) 대책, ICT가 유리한 홍콩 대학 학부(HKUST/PolyU 공학계), 수능 정보와 DSE ICT 비교"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -38580,7 +38580,7 @@ URL: https://dsedaquan.cn//ko/subjects/jupas-strategy-guide
 ---
 title: "JUPAS 지원 전략 완전 가이드: 한국인 수험생을 위한 DSE 점수 최대 활용법"
 description: "한국어 JUPAS 지원 전략 완전 가이드 — JUPAS 구조와 DSE 점수 환산(Best 5), Early Round(11월)와 Main Round(2월) 전략적 활용법, 밴드 계산(5★=7점/5=5점), UGC 8개 대학 지원 우선순위 설정, 재외국민 특별전형 vs JUPAS 이원 지원 전략, 7월 DSE 결과 발표부터 입학 확인까지의 타임라인"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -38716,7 +38716,7 @@ URL: https://dsedaquan.cn//ko/subjects/ls-dse-guide
 ---
 title: "DSE 통식교육（Liberal Studies/CSD）완전 가이드: 한국인 수험생을 위한 시험 구성과 대책"
 description: "한국어로 작성된 DSE 통식교육（Liberal Studies）및 후속 과목 「공민과 사회발전（CSD）」완전 가이드 — 과목 개편 경위（2024년 LS→CSD 전환），시험 구성（Paper 1 자료 문제/Paper 2 논술），주요 주제（홍콩/현대 중국/세계화），홍콩 정치 문맥에 대한 중립적 논술의 중요성，한국인 강점（논술 경험·글로벌 이슈）과 약점（홍콩 정치·사회 맥락），Level 3 이상 현실적 대책"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -38892,7 +38892,7 @@ URL: https://dsedaquan.cn//ko/subjects/mathematics-dse-guide
 ---
 title: "DSE 수학（Mathematics Compulsory Part）완전 가이드: 한국인 수험생을 위한 시험 구조·대책·진학 영향"
 description: "한국어 DSE 수학（필수）완전 가이드 — DSE 수학（Compulsory Part）시험 구성(Paper 1 서술형/Paper 2 MCQ), 주요 토픽(대수/기하/삼각함수/통계/확률)과 한국 수능 수학과의 비교, Paper 1 문제 풀이 테크닉과 부분점 획득법, 고득점(Level 5★) 대책 스케줄, 연신 단원(M1/M2)과의 조합 전략, 모든 대학 모든 학부에서 필요한 필수과목으로서의 중요성, 한국인 수험생의 강점과 약점(수능 수학 활용)"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -38998,7 +38998,7 @@ URL: https://dsedaquan.cn//ko/subjects/mathematics-extended-module
 ---
 title: "DSE 수학 확장 모듈(M1/M2) 완전 가이드: 한국 학생을 위한 선택 전략과 득점 최대화"
 description: "한국어 DSE 수학 확장 모듈 완전 가이드 — M1(미적분·통계) vs M2(대수·미적분) 내용 비교와 선택 기준, 한국 수학Ⅱ·확률과 통계·기하와 비교(공통점과 차이점), 학과별 권장(이공계는 M2/경제·사회과학은 M1), M1/M2 Level 5★ 달성 전략, 확장 모듈 없음 vs 있음의 입학 경쟁력 차이, 이계 학과(CS/공학/의학)에서의 중요성, DSE 수학B와의 조합"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -39123,7 +39123,7 @@ URL: https://dsedaquan.cn//ko/subjects/music-dse-guide
 ---
 title: "DSE 음악（Music）완전 가이드: 한국인 수험생을 위한 시험 구성·실기 대책·진학 활용"
 description: "한국어로 제공하는 DSE 음악 완전 가이드 — 시험 구성（Paper 1 청음·기보/Paper 2 악곡 분석/SBA 연주·작곡）, 서양 음악 이론과 광동 오페라（粤劇）양방향 출제, 한국 음악고/예고 vs DSE Music 비교, K-POP 산업 맥락, Level 5 대책"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -39234,7 +39234,7 @@ URL: https://dsedaquan.cn//ko/subjects/physical-education-dse-guide
 ---
 title: "DSE 체육（Physical Education）완전 가이드: 한국인 수험생을 위한 시험 구성·실기 대책"
 description: "한국어로 제공하는 DSE 체육 완전 가이드 — 시험 구성（필기 Paper 1+SBA 실기 퍼포먼스）, 선택 스포츠 종목（배드민턴/농구/수영/육상 등）, Sports Science 이론 범위, 한국 수능 체육교육과 vs DSE PE 비교, 배드민턴/수영/육상 한국인 강세 종목 전략, PolyU 스포츠과학→물리치료 진학 루트, Level 5 대책"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -39330,7 +39330,7 @@ URL: https://dsedaquan.cn//ko/subjects/physics-dse-guide
 ---
 title: "DSE 물리（Physics）완전 가이드: 한국인 수험생을 위한 이수 범위·시험 대책·대학 진학 영향"
 description: "한국어 DSE 물리 완전 가이드 — DSE 물리 시험 구성(Paper 1/2/3의 Section A·B), 이수 내용(역학·전자기·열·파동·양자·우주)과 한국 물리의 비교, Paper 1 계산 문제와 Paper 2 데이터 분석, 고득점(Level 5★)에 필요한 대책과 시간 배분, 홍콩 대학(HKU/HKUST/CUHK) 입학에 물리가 필요한 학부 일람, 한국 수능 물리Ⅰ·Ⅱ와 DSE 물리의 범위 비교"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -39437,7 +39437,7 @@ URL: https://dsedaquan.cn//ko/subjects/tourism-hospitality-dse-guide
 ---
 title: "DSE 관광·호스피탈리티（Tourism & Hospitality Studies）완전 가이드: 시험 구성과 진학 활용"
 description: "한국어로 제공하는 DSE 관광·호스피탈리티 완전 가이드 — 시험 구성（Paper 1 관광개론/Paper 2 케이스스터디/SBA）, 주요 테마（지속가능한 관광/관광마케팅/MICE/항공）, 한국 관광학과 vs DSE Tourism 비교, K-관광（한류관광/의료관광）맥락, PolyU HTM→롯데호텔/신라호텔 HK 취업 루트, Level 5 대책"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -39548,7 +39548,7 @@ URL: https://dsedaquan.cn//ko/subjects/visual-arts-dse-guide
 ---
 title: "DSE 시각예술（Visual Arts）완전 가이드: 한국인 수험생을 위한 시험 구성·포트폴리오 대책"
 description: "한국어로 제공하는 DSE 시각예술 완전 가이드 — 시험 구성（SBA 포트폴리오 60%/Paper 1 감상 필기 40%）, 제작 테마 선택법, 한국 미대입시（수능+실기）와 DSE 포트폴리오 비교, 포트폴리오 심사 포인트, 시각예술 선택이 유리한 대학 학부（건축/디자인/파인아트）, Level 5 대책"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-18"
@@ -41700,7 +41700,7 @@ description: "香港城市大学（CityU）2026 本科完整申请指南：QS �
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: CompanyForge AI 编辑团队
+author: DSE知识库编辑部
 ---
 
 # 香港城市大学（CityU）本科完整指南 2026：QS 全球第 63、亚洲第 7、JUPAS 与非联招申请、学费、王牌专业与就业前景
@@ -44396,7 +44396,7 @@ description: "2026 年度香港教育大学（EdUHK）本科完整指南：QS �
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港教育大学（EdUHK）本科完整指南 2026：师范教育亚洲第四、内地高考与非联招申请、学费、王牌专业与就业前景
@@ -44913,7 +44913,7 @@ description: 港八大本科 FYP / Capstone 完整指南：学分构成、时间
 lang: zh-hans
 category: admission
 date: 2026-05-02
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港八大本科毕业论文（Final Year Project / Capstone）完整指南 2026
@@ -46579,7 +46579,7 @@ description: "全面解析香港演艺学院（HKAPA）2026本科申请：六大
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港演艺学院（HKAPA）本科完整指南 2026
@@ -47079,7 +47079,7 @@ description: 2026/27 学年香港浸会大学（HKBU）本科最新申请指南�
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港浸会大学（HKBU）本科完整指南 2026
@@ -47356,7 +47356,7 @@ description: 详解香港都会大学 2026/27 本科入学，包括五大学院 
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港都会大学（HKMU）本科完整指南 2026
@@ -47612,7 +47612,7 @@ description: "全面解析香港树仁大学（Hong Kong Shue Yan University）2
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港树仁大学（HKSYU）本科完整指南 2026
@@ -48603,7 +48603,7 @@ description: 大陆学生从香港八大本科毕业后，如何通过 IANG → 
 lang: zh-hans
 category: admission
 slug: hong-kong-permanent-residence-guide-2026
-author: CompanyForge AI
+author: DSE知识库编辑部
 date: 2026-04-20
 license: CC BY 4.0
 ---
@@ -48942,7 +48942,7 @@ description: 2026 年香港高才通计划（TTPS）最新政策解读：A 类�
 lang: zh-hans
 category: admission
 slug: hong-kong-top-talent-pass-scheme-ttps-guide-2026
-author: CompanyForge AI
+author: DSE知识库编辑部
 date: 2026-05-03
 license: CC BY 4.0
 ---
@@ -49148,7 +49148,7 @@ description: 一文详解香港恒生大学（HSUHK）2026 年本科申请：六
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港恒生大学（HSUHK）本科完整指南 2026
@@ -50082,7 +50082,7 @@ URL: https://dsedaquan.cn//zh-hans/admission/jupas-explained
 ---
 title: "JUPAS 是什么？大陆学生需要了解吗？联招完整解析 2026"
 description: "JUPAS（大学联合招生办法）是香港本地生申请大学的核心通道。大陆学生几乎不走 JUPAS——本文解释为什么，以及哪些大陆/内地学生例外，附 JUPAS vs Non-JUPAS 对比表、2026 关键时间线。"
-author: "the editorial team AI editorial team"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "admission"
 last_updated: "2026-04-12"
@@ -50949,7 +50949,7 @@ description: 香港岭南大学 2026 年本科申请完整指南：亚洲十大�
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港岭南大学（LU）本科完整指南 2026：亚洲十大博雅大学、AACSB 认证商学院、内地高考与非联招申请、学费、王牌专业与就业前景
@@ -51234,7 +51234,7 @@ URL: https://dsedaquan.cn//zh-hans/admission/mainland-bada-guide
 ---
 title: "大陆学生申请香港八大完整指南 2026 — 入学要求、费用、奖学金、申请流程"
 description: "大陆学生申请香港八大（HKU/CUHK/HKUST/PolyU/CityU/HKBU/EdUHK/LU）的完整指南：高考分数线、申请时间表、学费、奖学金、签证、住宿。引用各大学官方资料。"
-author: "the editorial team AI editorial team"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "admission"
 last_updated: "2026-04-11"
@@ -52484,7 +52484,7 @@ URL: https://dsedaquan.cn//zh-hans/admission/non-jee-pathway
 ---
 title: "不考高考也能上港八大？非高考路径完整解析 2026"
 description: "大陆学生不参加高考也能申请香港八大。本文解析五大非高考路径：DSE 自修生、IB/A-Level/SAT 国际课程、副学士 2+2、港澳台联考、预科先修。附各校录取分数、申请时间线、费用对比。"
-author: "the editorial team AI editorial team"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "admission"
 last_updated: "2026-04-11"
@@ -53138,7 +53138,7 @@ URL: https://dsedaquan.cn//zh-hans/admission/personal-statement-guide
 ---
 title: "香港八大本科申请文书（Personal Statement）完整写作指南 2026 — 大陆学生版"
 description: "大陆学生申请香港八大本科的 Personal Statement 怎么写？本文拆解 HKU / CUHK / HKUST / PolyU / CityU / HKBU / LU / EdUHK 的字数要求、评审逻辑、五段式黄金结构，以及大陆高中生最常踩的七个致命错误。附医学 / 法律 / 商科 / 工程 / 社科不同专业的写法要点。"
-author: "the editorial team AI editorial team"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "admission"
 last_updated: "2026-04-17"
@@ -53825,7 +53825,7 @@ description: "深度解析 2026 年香港理工大学本科申请：JUPAS 计分
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港理工大学（PolyU）本科完整指南 2026
@@ -57468,7 +57468,7 @@ description: "内地学生申请香港大学、中文大学、科大、城大、
 lang: zh-hans
 category: application
 date: 2026-04-15
-author: Thomas Ho
+author: DSE知识库编辑部
 tags: [IELTS, 雅思, 香港大学, CUHK, 科大, 城大, 理大, 浸大, 英语要求]
 ---
 
@@ -57710,7 +57710,7 @@ URL: https://dsedaquan.cn//zh-hans/career/gba-career-guide
 ---
 title: "港校毕业生大湾区就业全指南 2026：深圳、广州、澳门求职路径与政策红利"
 description: "香港八大毕业后回大湾区就业完整攻略——工作许可豁免、GBA青年就业计划补贴、15%个税优惠、城市薪资对比、行业选择与留港 vs 回湾区决策框架"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 tags: ["大湾区就业", "港校毕业生", "深圳求职", "GBA青年就业计划", "香港毕业回流"]
 language: "zh-hans"
 last_updated: "2026-04-18"
@@ -58223,7 +58223,7 @@ description: "香港中学文凭考试（HKDSE）与中国高考全面对比。�
 lang: zh-hans
 category: comparison
 date: 2026-04-15
-author: Raymond
+author: DSE知识库编辑部
 tags:
   - DSE
   - 高考
@@ -58824,7 +58824,7 @@ description: "深度对比香港七所自资专上院校（恒生大学、都会
 lang: zh-hans
 category: comparison
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港自资院校 2026 完整指南：恒大、都大、树仁、珠海、明爱、东华——内地生择校与申请策略
@@ -60435,7 +60435,7 @@ description: "面向考虑香港八大与爱尔兰七大本科留学的内地 DS
 lang: zh-hans
 category: comparison
 date: 2026-05-03
-author: DSE Knowledge Hub 编辑部
+author: DSE知识库编辑部
 ---
 
 对内地 DSE 考生与高考家庭来说，香港八大（HKU、CUHK、HKUST、PolyU、CityU、HKBU、LingnanU、EdUHK）与爱尔兰七大（Trinity College Dublin、UCD、UCC、University of Galway、UL、DCU、Maynooth University）近两年都成为"性价比 + 工签 + 移民友好"路线里的热门候选。两地都用英语授课、本科多为三到四年、毕业后都有专门的留下工作签证、并都通向较清晰的永居路径。但二者在学费结构、申请通道、就业市场和文化适应上差异巨大。本文把 2026/27 入学周期里最关键的几个维度做一个并排对比，帮你判断哪条路更贴合自己的预算与职业方向。
@@ -63473,7 +63473,7 @@ URL: https://dsedaquan.cn//zh-hans/comparison/hkbu-vs-lingnan-vs-eduhk
 ---
 title: "浸大 vs 岭南 vs 教大：小而精的八大对比 2026"
 description: "香港浸会大学、岭南大学、香港教育大学三校深度对比 — 排名、强势专业、入学要求、学费、校园生活、就业前景。大陆学生选校指南。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "comparison"
 last_updated: "2026-04-17"
@@ -64726,7 +64726,7 @@ description: "内地家庭送子女赴港读大学的贷款融资全指南。对
 lang: zh-hans
 category: costs
 date: 2026-04-15
-author: Editorial Team
+author: DSE知识库编辑部
 tags: [留学贷款, 学费分期, 工银亚洲, 东亚银行, 渣打, 国家开发银行, 助学金]
 ---
 
@@ -64974,7 +64974,7 @@ URL: https://dsedaquan.cn//zh-hans/costs/total-cost-breakdown
 ---
 title: "香港八大留学一年总开销详解（学费+住宿+生活+保险）2026"
 description: "2025-2026 学年香港八大（HKU/CUHK/HKUST/PolyU/CityU/HKBU/EdUHK/LU）内地生实际总开销逐项拆解：学费、宿舍、饮食、交通、保险、签证、隐藏费用全收录，并与英国、澳洲、新加坡对比。引用各大学官方收费表。"
-author: "the editorial team AI editorial team"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "costs"
 last_updated: "2026-04-11"
@@ -65316,7 +65316,7 @@ URL: https://dsedaquan.cn//zh-hans/dse/2026-changes
 ---
 title: "DSE 2026 课程改革：考生必读重点变化"
 description: "2026年香港DSE考试改革详解 — 科目变化、评分制度、对大陆学生的影响。备考策略调整指南。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "dse"
 last_updated: "2026-04-17"
@@ -65622,7 +65622,7 @@ URL: https://dsedaquan.cn//zh-hans/dse/retake-guide
 ---
 title: "DSE 重考完整指南：重读 vs 自修、策略、成本与替代路径"
 description: "DSE重考全攻略 — 重读与自修对比、费用明细、报名流程、JUPAS评分政策、替代升学路径。适用于大陆DSE考生。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "dse"
 last_updated: "2026-04-17"
@@ -66149,7 +66149,7 @@ description: "HKDSE 英语 Paper 3 是听力与综合运用卷,占总分 30%,也
 lang: zh-hans
 category: exam
 date: 2026-04-15
-author: DSE 知识中枢
+author: DSE知识库编辑部
 tags: [DSE, 英语, Paper-3, 听力, 综合运用, 内地生, 备考攻略]
 ---
 
@@ -66427,7 +66427,7 @@ description: "面向内地考生的 HKDSE 英文 Paper 4 口语考试完整攻�
 lang: zh-hans
 category: exam
 date: 2026-05-02
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # DSE 英文卷四 Speaking 口语考试完整指南：题型、评分、SBA 与实战技巧 2026
@@ -66639,7 +66639,7 @@ description: "DSE 香港中学文凭试和内地高考的全面对比：考试�
 lang: zh-hans
 category: exam
 date: 2026-04-15
-author: Dr. Sarah Ng
+author: DSE知识库编辑部
 tags:
   - DSE
   - 高考
@@ -67337,7 +67337,7 @@ description: "全面解析香港三大顶级商学院面试流程、常见问题
 lang: zh-hans
 category: interview
 date: 2026-04-15
-author: Karen Leung
+author: DSE知识库编辑部
 tags:
   - 香港商学院
   - HKUST Business
@@ -67961,7 +67961,7 @@ description: "申请香港八大面试的完整准备指南：港大、中大、
 lang: zh-hans
 category: interview
 date: 2026-04-14
-author: "DSE 升学知识库"
+author: DSE知识库编辑部
 ---
 
 # 港校面试完整准备指南：常见问题、穿着、表达技巧 2026
@@ -68298,7 +68298,7 @@ description: "香港大学医学院（HKU）与香港中文大学医学院（CUH
 lang: zh-hans
 category: interview
 date: 2026-04-15
-author: Raymond
+author: DSE知识库编辑部
 tags:
   - HKU
   - CUHK
@@ -69012,7 +69012,7 @@ URL: https://dsedaquan.cn//zh-hans/jupas/band-a-strategy
 ---
 title: "JUPAS Band A 选科终极策略：怎样填最有利？"
 description: "JUPAS Band A排序策略完整解析 — 各校计分规则、冲/稳/保梯度法、案例分析、放榜后改选流程。大陆DSE考生必读。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "jupas"
 last_updated: "2026-04-17"
@@ -69446,7 +69446,7 @@ description: "JUPAS OEA（Other Experiences and Achievements）2026 完整申报
 lang: zh-hans
 category: jupas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # JUPAS OEA 比赛与活动经验完整指南：申报技巧、加分院校与撰写策略 2026
@@ -69678,7 +69678,7 @@ description: "深度解析 JUPAS 大学联招的计分方式：DSE 等级换算�
 lang: zh-hans
 category: jupas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # JUPAS 计分方法完整指南：4C+2X、Best 5、各院校加权与 5** 换算 2026
@@ -69949,7 +69949,7 @@ description: 2026 年 JUPAS 放榜后改选窗口（7 月 16-18 日）操作流�
 lang: zh-hans
 category: jupas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # JUPAS 放榜后改选策略完整指南：DSE 成绩公布后最后调整机会与录取流程 2026
@@ -70108,7 +70108,7 @@ description: "港大、中大、科大八大宿舍制度完整解析：申请条
 lang: zh-hans
 category: life
 date: 2026-04-14
-author: Vivian Lam
+author: DSE知识库编辑部
 ---
 
 # 香港留学住宿全攻略：宿舍 vs 校外租房完整对比 2026
@@ -70342,7 +70342,7 @@ description: "内地学生到香港读书，除了学业之外，最常碰到的
 lang: zh-hans
 category: life
 date: 2026-04-15
-author: DSE Hub
+author: DSE知识库编辑部
 tags:
   - 香港留学
   - 内地学生
@@ -70818,7 +70818,7 @@ description: "面向内地学生的香港饮食生活完整指南：八大院校
 lang: zh-hans
 category: life
 date: 2026-04-15
-author: Editorial Team
+author: DSE知识库编辑部
 tags:
   - 内地生
   - 香港饮食
@@ -71747,7 +71747,7 @@ description: "专为在香港就读的内地学生设计的心理健康指南。
 lang: zh-hans
 category: life
 date: 2026-04-15
-author: Editorial Team
+author: DSE知识库编辑部
 tags:
   - 心理健康
   - 内地生
@@ -72675,7 +72675,7 @@ description: "内地学生赴港完整公共交通指南：八达通办理与充
 lang: zh-hans
 category: life
 date: 2026-04-15
-author: DSE 知识库
+author: DSE知识库编辑部
 tags: [香港交通, 八达通, 港铁, 巴士, 学生优惠, 内地学生]
 ---
 
@@ -72948,7 +72948,7 @@ description: "内地学生初到香港的季节适应与生活装备完整指南
 lang: zh-hans
 category: life
 date: 2026-04-15
-author: DSE 知识库
+author: DSE知识库编辑部
 tags:
   - 香港生活
   - 内地学生
@@ -73828,7 +73828,7 @@ description: "深入解析香港建筑学与城市设计专业：港大建筑学
 lang: zh-hans
 category: majors
 date: 2026-04-15
-author: Dr. Sarah Ng
+author: DSE知识库编辑部
 tags:
   - 香港大学
   - 建筑学
@@ -74164,7 +74164,7 @@ URL: https://dsedaquan.cn//zh-hans/majors/arts-humanities-hk
 ---
 title: "香港大学文学与人文学科完全指南——内地生视角"
 description: "全面介绍香港各大学文学与人文学科课程：HKU文学院、CUHK文学院、HKBU人文学系等；涵盖文学、哲学、历史、语言学、文化研究等方向；职业发展路径、DSE选科建议、内地生与本地生比例、奖学金，以及与北大/复旦中文系的对比。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-04-19"
@@ -74548,7 +74548,7 @@ description: 想在香港读中医？本文深度解析香港浸会大学、香�
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 香港作为东西方文化交汇的国际都会，是全球少数将传统中医药纳入正规高等教育与公共医疗系统的城市之一。自1999年《中医药条例》通过、香港中医药管理委员会成立以来，香港的中医药教育已建立起严谨的本科与研究生体系，三所政府资助大学——香港浸会大学（HKBU）、香港中文大学（CUHK）与香港大学（HKU）——分别开办了六年制的全日制中医本科双学位课程。对于热爱中医、又希望接触现代生物医学与临床西医知识的内地高考生与DSE考生而言，香港中医本科是一条独特、含金量高且通往国际化职业发展的路径。本指南将系统解析香港三所大学中医本科课程的结构、入学要求、学费、临床实习安排，以及毕业后注册中医师执业资格考试（执业试）的现况与就业前景，帮助你做出知情决策。
@@ -74649,7 +74649,7 @@ description: "深度解析香港城市大学赛马会动物医学及生命科学
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港城市大学兽医学学士（BVM）完整指南 2026
@@ -74841,7 +74841,7 @@ URL: https://dsedaquan.cn//zh-hans/majors/communications-journalism-hk
 ---
 title: "香港大学传播与新闻学科完全指南——内地生视角"
 description: "全面介绍香港各大学传播与新闻学课程：HKBU新闻系、传理学院（电影/广播）、CUHK新闻与传播学院、HKU新闻系；课程内容（新闻写作/媒体法/数字新闻/公关）、双语训练、大湾区媒体就业前景、DSE选科建议及入学要求。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-04-19"
@@ -75042,7 +75042,7 @@ description: "香港八大公立大学的计算机科学 (Computer Science) 专�
 lang: zh-hans
 category: majors
 date: 2026-04-15
-author: DSE 知识中枢
+author: DSE知识库编辑部
 tags: [DSE, 计算机科学, 港大, 中大, 科大, 城大, JUPAS, 内地生, 就业]
 ---
 
@@ -75490,7 +75490,7 @@ description: "港大、中大、科大、城大、理大、浸大、岭大、教
 lang: zh-hans
 category: majors
 date: 2026-04-14
-author: Editorial Team
+author: DSE知识库编辑部
 ---
 
 # 香港八大计算机与工程专业深度解析（2026）
@@ -75704,7 +75704,7 @@ URL: https://dsedaquan.cn//zh-hans/majors/data-science-ai-hk
 ---
 title: "香港八大数据科学与人工智能专业完整申请指南 2026"
 description: "香港DSE升读数据科学/人工智能专业完整指南（简体中文）— 香港八大开设DS/AI相关本科课程比较（HKU/CUHK/HKUST/PolyU/CityU）、DSE最低入学要求、毕业生薪资水平（初级数据分析师HK$2.2-3.5万）、AI研究vs应用方向区别、与计算机科学的差异、大湾区AI就业机会、奖学金与进阶课程"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-04-18"
@@ -75941,7 +75941,7 @@ URL: https://dsedaquan.cn//zh-hans/majors/education-and-teaching-hk
 ---
 title: "香港师范与教育课程完全指南——内地生视角"
 description: "全面介绍香港各大学教育与师范课程：HKU教育学院、CUHK教育学院、EdUHK香港教育大学BEd课程；小学与中学师资培训方向、QEF注册资格、在港执教与内地执教对比、普通话教学机会，以及内地生在香港学校的执教路径。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-04-19"
@@ -76139,7 +76139,7 @@ URL: https://dsedaquan.cn//zh-hans/majors/engineering-hk
 ---
 title: "香港大学工程学科完全指南——内地生视角"
 description: "全面介绍香港各大学工程课程：HKUST、HKU、PolyU、CityU的机械、土木、电气、化学、计算机工程等方向；全球工程排名；大湾区（华为/比亚迪）实习机会；DSE选科要求（数学+物理+化学组合）；历年收分及4年vs5年课程对比。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-04-19"
@@ -76694,7 +76694,7 @@ description: "DSE 与内地考生申请香港精算学（Actuarial Science）学
 lang: zh-hans
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港精算学学士学位完整指南 2026
@@ -76822,7 +76822,7 @@ description: 一文看清 2026 年香港四间认可建筑学课程（HKU BA(AS)
 lang: zh-hans
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港建筑学（荣誉）学士完整指南 2026
@@ -77013,7 +77013,7 @@ description: 全港唯一直接注册牙医学士学位课程：香港大学牙�
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港牙医学士（港大 JS6107）完整指南 2026：六年制 BDS、香港牙医管理委员会注册、一年实习、卫生署起薪表
@@ -77256,7 +77256,7 @@ description: "面向内地高考生与 DSE 考生的全面指南：PolyU 酒店�
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港酒店及旅游管理本科完整指南 2026
@@ -77568,7 +77568,7 @@ description: 全面解析香港理工大学 JS3478 医疗化验科学（荣誉�
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港医疗化验科学（荣誉）理学士完整指南 2026：理大 JS3478、医务化验师管理委员会 Part II 注册、四年课程结构、JUPAS 计分与就业前景
@@ -77887,7 +77887,7 @@ description: 一文看尽香港四大护理学学士课程：港大 BNurs（含 
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港护理学学士课程完整指南 2026
@@ -78147,7 +78147,7 @@ description: "香港理工大学 PolyU JS3624 职业治疗（荣誉）理学士�
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港职业治疗（荣誉）理学士完整指南 2026：理大 JS3624 全景解读
@@ -78303,7 +78303,7 @@ description: "全面解析香港理工大学眼科视光学（荣誉）理学士
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 在香港，眼科视光学（Optometry）是一个极为独特的学科——全港八大资助院校中，**只有香港理工大学（PolyU）**开办眼科视光学（荣誉）理学士课程，每年仅招收约 60 名学生，是与城大兽医学（BVM）齐名的"香港独家"专业课程。完成这五年制学位并通过实习要求后，毕业生可向**视光师管理委员会**申请注册为 **Part I（第一部分）持牌眼科视光师**——这是香港唯一具备完整初级眼科诊断与处方权限的视光师类别，可以执行散瞳眼底检查、青光眼筛查、糖尿眼监测等综合视光检查（comprehensive eye examination）。
@@ -78472,7 +78472,7 @@ description: 2026 入学最完整香港药剂学士（BPharm）攻略——港�
 lang: zh-hans
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港药剂学荣誉学士完整指南 2026：港大 JS6494、中大 JS4525、四年课程、药剂业及毒药管理局注册、医管局药剂师起薪表
@@ -78673,7 +78673,7 @@ description: "香港理工大学 PolyU JS3636 物理治疗（荣誉）理学士�
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港物理治疗（荣誉）理学士完整指南 2026：理大 JS3636 全景解读
@@ -78832,7 +78832,7 @@ description: 全面解析香港理工大学放射学（荣誉）理学士课程�
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港放射学（荣誉）理学士完整指南 2026：理大 JS3612 PolyU 三宝、四年课程、放射技师管理委员会注册、JUPAS 计分与就业前景
@@ -79056,7 +79056,7 @@ description: "港大、中大、理大、浸大、城大五大资助 BSW 课程�
 lang: zh-hans
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港社会工作（荣誉）学士完整指南 2026
@@ -79248,7 +79248,7 @@ description: 全面解析香港大学言语治疗学士（JS6157）课程结构�
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港言语治疗（言语及听觉科学）荣誉理学士完整指南 2026：港大 JS6157、五年课程、临床实习与言语治疗师注册全攻略
@@ -79455,7 +79455,7 @@ URL: https://dsedaquan.cn//zh-hans/majors/hong-kong-sports-science-bachelor-comp
 ---
 title: "香港运动科学与体育学士完整指南 2026：教大 JS8010 与 JS8726、中大 JS4329、浸大 JS2620、理大 JS3160，体适能测试、HKCC 教练注册与精英运动员入学路径"
 description: "全面解析香港五所大学的运动科学与体育教育学士课程：EdUHK JS8010 双学位与 JS8726 单学位、CUHK JS4329 五年制 BEd、HKBU JS2620 体育及康乐管理、PolyU JS3160 运动科技；详述 DSE 选科组合、体适能与术科测试、面试模式、HKCC 教练注册、精英运动员直接录取（JSEAA/TADAS）、毕业出路（中学体育教师、运动表现分析师、康体署职位）与起薪。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-05-05"
@@ -79754,7 +79754,7 @@ description: 一文读懂港大 BSc(Surveying) JS6016 与理大 BSc(Hons) Survey
 lang: zh-hans
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港测量学荣誉学士完整指南 2026：港大 JS6016、理大 JS3789、HKIS 注册、RICS 双重资格、APC 专业评核试与政府工料测量师起薪
@@ -79960,7 +79960,7 @@ description: "香港法律本科（LLB）和 Juris Doctor（JD）申请完整指
 lang: zh-hans
 category: majors
 date: 2026-04-14
-author: Thomas Ho
+author: DSE知识库编辑部
 ---
 
 # 香港法律本科 LLB 与 JD 完整申请指南 2026 — 港大、中大、城大三大法学院深度对比
@@ -80588,7 +80588,7 @@ description: "全面解析香港各大学护理学本科课程 — 包括港大�
 lang: zh-hans
 category: majors
 date: 2026-04-15
-author: DSE 知识库
+author: DSE知识库编辑部
 tags:
   - 护理学
   - 香港大学
@@ -81048,7 +81048,7 @@ URL: https://dsedaquan.cn//zh-hans/majors/pharmacy-hk
 ---
 title: "香港八大药学（BPharm）专业完整申请指南 2026 — 大陆学生版"
 description: "大陆学生申请香港药学专业完整指南 — 港大/中大/理大BPharm课程对比、高考录取要求、非本地学费（折合人民币）、HKPC执照考试、香港注册药剂师薪酬、IANG留港路径与大湾区制药业出路"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-04-18"
@@ -81405,7 +81405,7 @@ URL: https://dsedaquan.cn//zh-hans/majors/psychology-programs-hk
 ---
 title: "香港八大心理学本科申请完整指南 2026 — 大陆学生版"
 description: "全面解析香港各大学心理学本科课程的申请要求、课程内容、职业出路及大陆学生申请策略，涵盖 HKU BPsych、CUHK BSocSc、CityU×Columbia 联合学位等核心信息"
-author: "the editorial team AI <ai@companyforge.ai>"
+author: DSE知识库编辑部
 tags: ["心理学", "港校申请", "大陆学生", "HKU", "CUHK", "CityU", "HKBU", "本科"]
 language: "zh-hans"
 last_updated: "2026-04-18"
@@ -81689,7 +81689,7 @@ URL: https://dsedaquan.cn//zh-hans/majors/science-hk
 ---
 title: "香港大学理学科完全指南——内地生视角"
 description: "全面介绍香港各大学理学课程：HKU、HKUST、CUHK的生物、化学、物理、生物化学、地球科学、环境科学等BSc课程；科研产出与诺贝尔联系（HKUST物理）；博士与研究生路径；DSE理科选科组合建议；内地学生奖学金；以及与清华、中科大理科的比较。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-04-19"
@@ -81916,7 +81916,7 @@ description: "香港八大社会科学本科专业完整对比：心理学、社
 lang: zh-hans
 category: majors
 date: 2026-04-15
-author: DSE 知识库
+author: DSE知识库编辑部
 tags: [社会科学, 心理学, 社会工作, 传媒, 政治学, 国际关系, 社会学, 香港八大]
 ---
 
@@ -82184,7 +82184,7 @@ description: "为选择在港读 DSE 的内地考生提供一份申请澳洲本�
 lang: zh-hans
 category: overseas
 date: 2026-04-15
-author: DSE Hub
+author: DSE知识库编辑部
 tags:
   - dse
   - 澳洲
@@ -82626,7 +82626,7 @@ URL: https://dsedaquan.cn//zh-hans/overseas/canada-pathway
 ---
 title: "加拿大升学完整指南 2026：大学排名、学费、移民衔接"
 description: "2026年加拿大留学完整攻略 — 多伦多大学、UBC、麦吉尔申请要求、学费、PGWP工签、移民路径。DSE与高考考生必读。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"
@@ -82920,7 +82920,7 @@ URL: https://dsedaquan.cn//zh-hans/overseas/europe-pathway
 ---
 title: "DSE生赴欧留学路径：英国、德国、荷兰和法国大学入学指南"
 description: "DSE学生赴欧升学完整指南（简体中文）— 英国大学UCAS申请（DSE成绩等效/Personal Statement/预录Offer）、德国公立大学免学费条件（语言要求/APS认证）、荷兰全英文授课本科（DSE接受情况/费用约港幣10-15万/年）、法国grandes écoles和预科系统（CPGE/FHEQ等效）、欧洲学生签证申请、欧洲毕业后在港就业前景"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -83473,7 +83473,7 @@ description: "面向香港DSE考生的法国本科申请全流程指南，涵盖
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生法国留学申请指南：Études en France系统、英文授课本科、Grandes Écoles与VLS-TS签证完整解读 2026
@@ -83638,7 +83638,7 @@ description: "面向香港DSE考生的德国本科留学完整指南，涵盖直
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生德国留学申请指南：Studienkolleg预科、英文授课本科、TU9与免学费公立大学完整解读 2026
@@ -83835,7 +83835,7 @@ URL: https://dsedaquan.cn//zh-hans/overseas/ireland-pathway
 ---
 title: "爱尔兰升学指南 2026：低成本英语系国家的升学选择"
 description: "2026年爱尔兰留学完整攻略 — 圣三一、UCD等名校申请、学费、毕业工签、欧洲科技中心就业。DSE与高考考生参考。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"
@@ -84144,7 +84144,7 @@ description: "面向香港DSE考生的意大利本科申请全流程指南，涵
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生意大利留学申请指南：Marco Polo计划、国际生通道、Universitaly与18个月待业居留完整解读 2026
@@ -84315,7 +84315,7 @@ URL: https://dsedaquan.cn//zh-hans/overseas/japan-pathway
 ---
 title: "日本升学完整指南 2026：EJU、大学别考试、学费与奖学金"
 description: "2026年日本留学完整攻略 — EJU考试结构、SGU英语授课项目、MEXT奖学金、学费对比、毕业工签。DSE与高考考生必读。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"
@@ -84699,7 +84699,7 @@ URL: https://dsedaquan.cn//zh-hans/overseas/korea-pathway
 ---
 title: "DSE生赴韩升学路径：SKY大学申请、韩文要求与香港学生录取实况"
 description: "DSE学生赴韩升学完整指南（简体中文）— 韩国顶尖大学（首尔大学/延世/高丽）的国际生招募计划、DSE成绩被接受的情况、韩文语言要求（TOPIK等级）vs英文授课项目、留学费用（学费+生活费年均30-45万港幣）、韩国政府奖学金（GKS/KGSP）申请资格、香港到韩国的文化适应、毕业后就业情况（韩国工作签证/香港韩国企业）"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -85009,7 +85009,7 @@ description: 面向2026年香港DSE考生的澳门升学完整指南，涵盖澳
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生澳门留学申请指南：澳门大学、澳科大、澳门理工大学英文授课与逗留许可完整解读 2026
@@ -85221,7 +85221,7 @@ description: "香港DSE考生申请马来西亚大学的完整路径：Monash、
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生马来西亚留学申请指南：双联课程、英国澳洲分校与学生准证完整解读 2026
@@ -85402,7 +85402,7 @@ description: 面向香港DSE考生的荷兰本科申请完整路径，涵盖U类
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生荷兰留学申请指南 2026
@@ -85617,7 +85617,7 @@ URL: https://dsedaquan.cn//zh-hans/overseas/new-zealand-pathway
 ---
 title: "新西兰升学指南 2026：八大公立、学费、工签与移民"
 description: "2026年新西兰留学完整攻略 — 八所公立大学排名、学费、毕业工签、技术移民路径。DSE与高考考生参考指南。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"
@@ -85910,7 +85910,7 @@ URL: https://dsedaquan.cn//zh-hans/overseas/singapore-pathway
 ---
 title: "新加坡升学完整指南 2026：NUS、NTU、SMU 申请攻略与工作签证"
 description: "2026年新加坡三大公立名校完整申请指南 — DSE与高考双轨解析、学费、MOE学费资助、毕业留坡路径。大陆学生与DSE考生必读。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"
@@ -86245,7 +86245,7 @@ description: "面向香港DSE毕业生的西班牙本科申请全流程：UNEDas
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生西班牙留学申请指南 2026
@@ -86438,7 +86438,7 @@ description: "面向香港DSE考生的瑞典本科留学完整路径：Lund、KT
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 瑞典凭借免试统一的申请系统、超过 1,000 个英文授课学位、以及世界领先的工程与生命科学研究水平，正在成为香港DSE考生跳出英美主流之外的高性价比选项。与英国UCAS或荷兰Studielink不同，瑞典所有公立大学都通过单一国家入口 universityadmissions.se 处理本科申请；HKDSE被官方认可为可直接进入瑞典本科的合格学历，无需预科。本文从院校选择、申请系统、HKDSE对接、学费与奖学金、签证到毕业后留瑞工作，逐项拆解DSE考生在2026/27学年申请瑞典的完整流程。
@@ -86597,7 +86597,7 @@ description: "面向香港DSE考生的瑞士升学路径全攻略，涵盖ETH Zu
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生瑞士留学申请指南：ETH苏黎世、EPFL洛桑联邦理工、英文授课硕士与D类签证完整解读 2026
@@ -86838,7 +86838,7 @@ URL: https://dsedaquan.cn//zh-hans/overseas/taiwan-pathway
 ---
 title: "台湾升学完整指南 2026：海外联招、评点制与留台出路"
 description: "2026年台湾大学申请完整攻略 — 海外联招制度、学费、奖学金、毕业留台就业路径。DSE考生与海外华人学生参考指南。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"
@@ -87184,7 +87184,7 @@ description: "内地学生在香港参加 DSE 考试后，除了本地 JUPAS 录
 lang: zh-hans
 category: overseas
 date: 2026-04-15
-author: DSE Hub
+author: DSE知识库编辑部
 tags:
   - 英国留学
   - UCAS
@@ -87664,7 +87664,7 @@ URL: https://dsedaquan.cn//zh-hans/overseas/us-pathway
 ---
 title: "DSE生赴美升学路径：美国大学申请、SAT/ACT豁免与香港学生录取实况"
 description: "DSE学生赴美升学完整指南（简体中文）— 美国大学对DSE成绩的认可情况（各校政策差异）、SAT/ACT豁免条件（Test Optional政策）、文书写作对香港学生的重要性（占比远超DSE）、申请时间线（Common App/11月提前申请/1月正式申请）、费用估算（学费+生活费年均港幣60-90万）、奖学金选项（Merit Aid/Need-Based Aid/香港留美学生协会资源）"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -88268,7 +88268,7 @@ description: "香港博士奖学金计划 HKPFS 2026/27 完整解析：申请条
 lang: zh-hans
 category: postgrad
 date: 2026-05-03
-author: "DSE 升学知识库"
+author: DSE知识库编辑部
 ---
 
 # 香港博士奖学金 HKPFS 完整申请指南 2026/27：申请条件、研究计划、套磁导师与院校选择
@@ -88527,7 +88527,7 @@ description: "面向内地生的香港 JD（Juris Doctor）+ PCLL 完整路径�
 lang: zh-hans
 category: postgrad
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港 JD 法学博士与 PCLL 完整指南 2026
@@ -88796,7 +88796,7 @@ description: "全面解析香港三大顶尖MBA项目（科大、中大、港大
 lang: zh-hans
 category: postgrad
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港MBA完整指南 2026：HKUST、CUHK、HKU 三大商学院申请、学费、就业与投资回报对比
@@ -88934,7 +88934,7 @@ description: "面向内地与海外学生的香港 PGDE（Postgraduate Diploma i
 lang: zh-hans
 category: postgrad
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港 PGDE 学位教师教育文凭完整指南 2026
@@ -89060,7 +89060,7 @@ description: "大陆学生申请香港八大授课型硕士（MSc/MA/MBA）的�
 lang: zh-hans
 category: postgrad
 date: 2026-04-14
-author: "DSE 升学知识库"
+author: DSE知识库编辑部
 ---
 
 # 香港八大授课型硕士申请完整攻略 2026
@@ -89382,7 +89382,7 @@ description: "面向内地学生的香港 MPhil（哲学硕士 / Master of Philo
 lang: zh-hans
 category: postgrad
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港 MPhil 研究型硕士完整指南 2026：港大、中大、科大申请条件、学费、奖学金与博士衔接策略
@@ -89586,7 +89586,7 @@ description: "大陆学生申请香港八大博士（PhD）的完整指南：RPG
 lang: zh-hans
 category: postgrad
 date: 2026-04-14
-author: "DSE 升学知识库"
+author: DSE知识库编辑部
 ---
 
 # 港校博士申请完整指南：RPG/TPG、奖学金、导师联系 2026
@@ -89895,7 +89895,7 @@ description: "针对内地学生的 DSE 中文科 Paper 1（阅读）和 Paper 2
 lang: zh-hans
 category: preparation
 date: 2026-04-15
-author: Michael Chan
+author: DSE知识库编辑部
 tags:
   - DSE中文
   - Paper1
@@ -90331,7 +90331,7 @@ description: 内地DSE考生必读：HKDSE英文Paper 1（阅读）与Paper 2（
 lang: zh-hans
 category: preparation
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE英文卷一阅读与卷二写作完整备考指南：题型剖析、高分技巧与时间分配 2026
@@ -90531,7 +90531,7 @@ description: "香港 DSE 数学延伸部分单元二(Module 2, M2)完整备考�
 lang: zh-hans
 category: preparation
 date: 2026-04-15
-author: Dr. Sarah Ng
+author: DSE知识库编辑部
 tags: [DSE, 数学, M2, 延伸部分, 微积分, 向量, 备考]
 ---
 
@@ -90776,7 +90776,7 @@ URL: https://dsedaquan.cn//zh-hans/preparation/dse-study-plan-6-months
 ---
 title: "DSE备考六个月学习计划：按科目制定时间表、考前冲刺与心理调适"
 description: "DSE六个月备考完整指南（简体中文）— 第6-4个月夯实基础期（逐科复习框架）、第3-2个月强化训练期（历年题训练/评卷标准分析）、第1个月考前冲刺（模拟考/时间管理/重点题型精练）、考试周策略（睡眠/营养/心理调节）、按科目分配时间的推荐比例（中英数通识）、常见备考错误（死记硬背/忽视评卷标准/过度备考某科）"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "preparation"
 last_updated: "2026-04-18"
@@ -91106,7 +91106,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-applied-learning-complete-guide
 ---
 title: "DSE应用学习（ApL）完全攻略：内地学生备考指南"
 description: "全面解析DSE应用学习（Applied Learning）的课程结构、学分认可机制、热门科目选择及JUPAS收生要求，帮助内地学生了解这一独特的职业导向评估路径。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -91229,7 +91229,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-bafs-complete-guide
 ---
 title: "DSE企业、会计与财务概论（BAFS）完全指南：内地生备考策略"
 description: "全面解析DSE BAFS科目的试卷结构、会计与企管两大选修模块、内地生强弱项分析及高分备考策略，助力内地生冲击香港顶尖商学院。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -91330,7 +91330,7 @@ description: "DSE生物科（Biology）完整指南：必修与选修内容、Pa
 lang: zh-hans
 category: subjects
 date: 2026-04-17
-author: Thomas Ho
+author: DSE知识库编辑部
 tags: [DSE, 生物, 理科, JUPAS, 医学, 备考指南]
 ---
 
@@ -91638,7 +91638,7 @@ description: "DSE化学科（Chemistry）完整指南：必修与选修内容、
 lang: zh-hans
 category: subjects
 date: 2026-04-17
-author: Dr. Sarah Ng
+author: DSE知识库编辑部
 tags: [DSE, 化学, 理科, JUPAS, 医学, 备考指南]
 ---
 
@@ -91942,7 +91942,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-chinese-history-complete-guide
 ---
 title: "DSE中国历史完全攻略：内地学生备考指南"
 description: "全面解析DSE中国历史（中史）的试卷结构、古代史与近现代史重点、与内地历史课程的差异对比，以及内地学生冲击Level 5+的核心策略。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -92096,7 +92096,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-chinese-language-complete-guide
 ---
 title: "DSE中国语文完全攻略：内地学生备考指南 2026"
 description: "全面解析DSE中国语文四份试卷结构（阅读30%、写作30%、聆听综合20%、SBA 20%），分析内地普通话母语学生的备考挑战，提供2025历届成绩数据与冲刺Level 5**策略。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -92401,7 +92401,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-chinese-literature-complete-guid
 ---
 title: "DSE中国文学完全攻略：内地学生备考指南"
 description: "全面解析DSE中国文学的试卷结构、诗歌散文小说鉴赏方法、与内地文学课程的差异，以及文理科学生如何借助中国文学冲击Level 5+并对接大学人文学科。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -92577,7 +92577,7 @@ description: 全面解析 2026 DSE 公民与社会发展科：课程结构、三
 lang: zh-hans
 category: subjects
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE 公民与社会发展科（公民科/CSD）完整指南 2026：三大主题、内地考察、达标评核与备考策略
@@ -92759,7 +92759,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-combined-science-complete-guide
 ---
 title: "DSE综合科学完全攻略：内地学生备考指南"
 description: "全面解析DSE综合科学（Combined Science）的三个模块组合（生物+化学、生物+物理、化学+物理）、试卷结构、与单科理科的比较，以及内地学生在选科时的策略考量。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -92931,7 +92931,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-design-applied-technology-comple
 ---
 title: "DSE设计与应用科技（DAT）完全攻略：内地学生备考指南"
 description: "全面解析DSE设计与应用科技（DAT）的试卷结构、设计组合、实践项目与书面评核，分析对接建筑、工业设计、产品设计等大学课程的路径，以及有设计背景内地学生的备考策略。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -93114,7 +93114,7 @@ description: "写给内地学生的 HKDSE 经济科（Economics）完整备考�
 lang: zh-hans
 category: subjects
 date: 2026-04-15
-author: DSE 知识中心
+author: DSE知识库编辑部
 tags:
   - HKDSE
   - 经济
@@ -93435,7 +93435,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-english-language-complete-guide
 ---
 title: "DSE英国语文完全攻略：内地学生备考指南"
 description: "全面解析DSE英文（English Language）的四份试卷结构（阅读、写作、聆听/综合、口语SBA），深入分析内地非英语母语学生的常见弱项，提供从Band 3冲击Level 5的系统策略。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -93648,7 +93648,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-ethics-religious-studies-complet
 ---
 title: "DSE伦理与宗教完全攻略：内地学生备考指南"
 description: "全面解析DSE伦理与宗教（Ethics and Religious Studies）的试卷结构、伦理与宗教两大选修方向、核心伦理框架，以及内地学生如何利用这一相对轻松的科目优化DSE选科组合。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -93884,7 +93884,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-exam-strategy-complete-guide
 ---
 title: "DSE整体应考策略完全指南——内地生视角"
 description: "专为内地赴港考生打造的HKDSE备考全攻略：考试日历、报考途径、5**冲刺策略、六科时间管理、必修四科与选修科平衡，以及内地生常见失误与模拟考攻略。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -94043,7 +94043,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-geography-complete-guide
 ---
 title: "DSE地理完全指南：自然地理、人文地理与SBA野外考察"
 description: "全面解析DSE地理科试卷结构、核心议题、选修模块、SBA野外考察要求，以及内地生强弱项与高分备考策略。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -94165,7 +94165,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-history-complete-guide
 ---
 title: "DSE历史完全指南：世界史脉络、论述技巧与高分策略"
 description: "全面解析DSE历史科试卷结构、核心世界史议题、PEEL论述架构、史料分析OPCVL技巧，以及内地生备考的独特优势与挑战。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -94278,7 +94278,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-ict-complete-guide
 ---
 title: "DSE资讯与通讯科技（ICT）完全指南：试卷结构、编程与SBA项目"
 description: "全面解析DSE ICT科目的试卷结构、核心知识点、编程语言要求、SBA项目策略，以及内地生的竞争优势与备考建议。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -94416,7 +94416,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-jupas-strategy-complete-guide
 ---
 title: "JUPAS申请策略完全指南——内地生视角"
 description: "专为内地DSE考生解析JUPAS联招系统：波段制度、DSE成绩换算、志愿填报顺序、SEAS早期录取、非本地生名额分配、热门学科（医学/法律/商科）历年最低分及面试准备全攻略。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -94617,7 +94617,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-liberal-studies-complete-guide
 ---
 title: "DSE通识教育／公民与社会发展完全指南——内地生视角"
 description: "全面解析DSE通识教育（LS）至公民与社会发展（CS）的演变历程、2024年后新考试结构、校本评核与笔试要点、香港认同/中国发展/全球化等核心议题，以及内地生如何利用中国议题优势取得高分。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -94768,7 +94768,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-mathematics-core-complete-guide
 ---
 title: "DSE数学必修部分完全指南——内地生视角"
 description: "全面解析DSE数学必修部分（Math Core）考试结构、Paper 1长答与Paper 2选择题要点、核心考点、与高考数学的异同对比、内地生常见失误，以及冲刺Level 5**策略。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -94945,7 +94945,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-mathematics-m1-m2-extended-modul
 ---
 title: "DSE数学延伸单元M1/M2完全指南：微积分·统计·线性代数的备考策略"
 description: "全面比较DSE数学延伸单元M1与M2的内容差异、JUPAS加分机制、核心知识点详解，以及内地生选科建议与高分备考策略。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -95080,7 +95080,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-music-complete-guide
 ---
 title: "DSE音乐科完全指南——内地生视角"
 description: "全面解析DSE音乐科考试结构（聆听卷、演奏、创作）、乐理考察范围、校本评核表演要求、选科建议（ABRSM五级及以上），以及香港大学音乐课程介绍与备考时间规划。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -95248,7 +95248,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-physical-education-complete-guid
 ---
 title: "DSE体育科完全指南——内地生视角"
 description: "全面解析DSE体育科（Physical Education）考试结构：笔试理论（运动科学、生理学、教练原则）与SBA实践表现评核、选修运动项目、适合考生类型、香港运动科学课程，以及与内地体育课的比较。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -95433,7 +95433,7 @@ description: "DSE物理科（Physics）完整指南：必修与选修内容、Pa
 lang: zh-hans
 category: subjects
 date: 2026-04-17
-author: Karen Leung
+author: DSE知识库编辑部
 tags: [DSE, 物理, 理科, JUPAS, 工程, 备考指南]
 ---
 
@@ -95683,7 +95683,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-tourism-hospitality-complete-gui
 ---
 title: "DSE旅游与款待科完全指南——内地生视角"
 description: "全面解析DSE旅游与款待科（Tourism and Hospitality Studies）考试结构：Paper 1资料题与Paper 2论述题、核心主题（香港旅游业、酒店管理、旅游规划、客户服务）、选修单元、相关大学课程（PolyU酒店及旅游管理），以及冲刺Level 5策略。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -95875,7 +95875,7 @@ URL: https://dsedaquan.cn//zh-hans/subjects/dse-visual-arts-complete-guide
 ---
 title: "DSE视觉艺术科完全指南——内地生视角"
 description: "全面解析DSE视觉艺术科（Visual Arts）考试结构：艺术创作档案SBA（50%）与艺术考核笔试（50%）、媒体选项（绘画/混合媒体/数码艺术）、理论知识（艺术史与艺术批评）、相关香港艺术课程，以及内地美术联考背景与DSE要求的比较。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"
@@ -96065,7 +96065,7 @@ description: "港八大毕业生申请中国教育部留学服务中心（留服
 lang: zh-hans
 category: verification
 date: 2026-04-14
-author: "DSE 升学知识库"
+author: DSE知识库编辑部
 ---
 
 # 留服认证完整指南 2026：港校毕业生教育部学历学位认证申请流程
@@ -97524,7 +97524,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/dse/dse-bafs-complete-guide
 ---
 title: "DSE BAFS 企業、會計與財務概論完全攻略 2026｜Accounting vs Business Management、Level 5**策略"
 description: "全面講解DSE BAFS（企業、會計與財務概論）考試結構、Accounting strand與Business Management strand比較、重點考核範疇、Level 5**備考策略及銜接大學課程，適合香港本地中學生。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"
@@ -97751,7 +97751,7 @@ description: "HKDSE 生物科全面指南，適合本地中學生同國際學生
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: Michael Chan
+author: DSE知識庫編輯部
 tags:
   - DSE 生物
   - HKDSE
@@ -98262,7 +98262,7 @@ description: "HKDSE 化學科完整備考指南：課程大綱、必修與選修
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: DSE 知識中心
+author: DSE知識庫編輯部
 tags:
   - HKDSE
   - 化學
@@ -98577,7 +98577,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/dse/dse-chinese-history-complete-guide
 ---
 title: "DSE 中國歷史完全攻略 2026｜古代史＋近代史、論述題技巧、Level 5**策略"
 description: "全面講解DSE中國歷史考試結構（卷一古代史、卷二近代史）、重要朝代、近代中國大事、論述答題技巧、與世界歷史科比較及Level 5**備考策略，適合香港本地中學生。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"
@@ -98795,7 +98795,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/dse/dse-chinese-language-complete-guide
 ---
 title: "DSE 中國語文完全攻略 2026｜四張試卷＋SBA全面解析、Level 5**策略"
 description: "全面講解DSE中國語文考試結構（閱讀、寫作、聆聽及綜合能力、說話能力、校本評核），常見文類、高分策略及備考建議，適合香港本地中學生。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"
@@ -99069,7 +99069,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/dse/dse-chinese-literature-complete-guide
 ---
 title: "DSE 中國文學完全攻略 2026｜文類分析、SBA朗誦、Level 5策略"
 description: "全面講解DSE中國文學考試結構（卷一指定篇章、卷二文學賞析與論述）、詩歌散文小說劇本分析框架、校本評核朗誦要求及Level 5備考策略，適合香港本地中學生。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"
@@ -99338,7 +99338,7 @@ description: "HKDSE 中文科 Paper 2 寫作卷是全科中最具變化、最難
 lang: zh-hant
 category: dse
 date: 2026-04-15
-author: Editorial Team
+author: DSE知識庫編輯部
 tags: [DSE, 中文, Paper-2, 寫作, 作文, 5星星, 評分標準]
 ---
 
@@ -99692,7 +99692,7 @@ description: "公民與社會發展科（Citizenship and Social Development, CSD
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: DSE Hub
+author: DSE知識庫編輯部
 tags:
   - DSE
   - 公民與社會發展
@@ -100063,7 +100063,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/dse/dse-combined-science-complete-guide
 ---
 title: "DSE 組合科學完全攻略 2026｜三種組合、計一科影響、JUPAS認可詳解"
 description: "全面講解DSE組合科學（Combined Science）三種組合（生物+化學、生物+物理、化學+物理）的考試結構、只計一個選修科位的大學影響、與獨立科學科比較及Level 5備考策略，適合香港本地中學生。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"
@@ -100318,7 +100318,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/dse/dse-design-applied-technology-complete
 ---
 title: "DSE 設計與應用科技（DAT）完全攻略 2026｜四大選修範疇、Portfolio要求、Level 5**策略"
 description: "全面講解DSE設計與應用科技（DAT）考試結構（設計理論卷35%、設計作品集SBA 30%、實作項目SBA 35%）、四大選修範疇、Portfolio要求、銜接大學課程及Level 5**備考策略，並比較DAT與視覺藝術科的分別。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"
@@ -100612,7 +100612,7 @@ description: "由香港中學生視角出發的 DSE 經濟科全面指南 — �
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: Thomas Ho
+author: DSE知識庫編輯部
 tags:
   - DSE Economics
   - 經濟
@@ -100876,7 +100876,7 @@ description: "DSE 英文科 Paper 1 閱讀理解同 Paper 2 寫作實用攻略�
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags:
   - DSE英文
   - Paper1
@@ -101287,7 +101287,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/dse/dse-exam-strategy-complete-guide
 ---
 title: "DSE 全科備考策略完全指南：選科、時間管理、Level 5** 戰術"
 description: "全面介紹 HKDSE 考試日曆、選科策略（3 vs 4 科）、時間管理、Mock 備考、HKEAA 評卷準則應用、SBA 時間線、最後一個月衝刺，以及精神健康建議，專為香港本地考生而設。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"
@@ -101593,7 +101593,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/dse/dse-extended-maths-complete-guide
 ---
 title: "DSE 延伸數學單元完全攻略：M1 與 M2 全面解析"
 description: "全面介紹 DSE 數學延伸部分 M1（微積分與統計）及 M2（代數與微積分），涵蓋選科建議、考試結構、內容大綱、大學收生要求及 5** 備考策略，專為香港本地考生而設。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"
@@ -101773,7 +101773,7 @@ description: "全面分析 DSE 地理科：課程結構、卷一題型、卷二�
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags:
   - DSE 地理
   - Geography
@@ -102226,7 +102226,7 @@ description: "DSE 歷史科（History）近年報考人數雖然唔算最多，�
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: DSE Hub
+author: DSE知識庫編輯部
 tags:
   - DSE
   - 歷史
@@ -102560,7 +102560,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/dse/dse-ict-complete-guide
 ---
 title: "DSE 資訊及通訊科技（ICT）完全攻略：考試結構、SBA、程式設計全解析"
 description: "全面介紹 DSE ICT 科的考試結構（MC 25%、結構題 40%、SBA 35%）、核心考試範疇、SBA 項目要求、程式語言應用，以及如何奪取 Level 5 的備考策略，專為香港本地考生而設。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"
@@ -102743,7 +102743,7 @@ description: "香港高中課程由通識教育科 (Liberal Studies) 改革為�
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: DSE 知識中樞
+author: DSE知識庫編輯部
 tags: [DSE, 通識科, 公民與社會發展科, 課程改革, 香港教育, 內地考察]
 ---
 
@@ -103032,7 +103032,7 @@ description: "香港中學文憑試數學必修部分 Paper 1 長題目、Paper 
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: Karen Leung
+author: DSE知識庫編輯部
 tags:
   - DSE數學
   - 數學攻略
@@ -103275,7 +103275,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/dse/dse-music-complete-guide
 ---
 title: "DSE 音樂科完全攻略：聆聽、演奏 SBA、創作 SBA 全面解析"
 description: "全面介紹 DSE 音樂科的考試結構（聆聽 30%、演奏 SBA 35%、創作 SBA 35%），涵蓋樂理考核、演奏評分準則、作曲要求、選科建議及 Level 5 備考策略，專為香港本地考生而設。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"
@@ -103466,7 +103466,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/dse/dse-physical-education-complete-guide
 ---
 title: "DSE 體育科完全攻略：筆試、SBA 實踐評核全面解析"
 description: "全面介紹 DSE 體育科的考試結構（筆試 40%、SBA 實踐 60%），涵蓋運動科學理論、四大實踐項目評分準則、選科建議及 Level 5 備考策略，專為香港本地考生而設。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"
@@ -103666,7 +103666,7 @@ description: "HKDSE 物理科完整指南。涵蓋課程大綱七大單元、三
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: Raymond
+author: DSE知識庫編輯部
 tags:
   - DSE
   - 物理
@@ -104007,7 +104007,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/dse/dse-visual-arts-complete-guide
 ---
 title: "DSE 視覺藝術完全攻略：作品集、考試創作、藝術評賞全面解析"
 description: "全面介紹 DSE 視覺藝術的考試結構（藝術創作 SBA 50%、考試文憑 50%），涵蓋三年作品集建立、3小時考試創作策略、藝評寫作技巧、媒介選擇及 Level 5** 備考指南，專為香港本地考生而設。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "dse"
 last_updated: "2026-04-19"
@@ -105779,7 +105779,7 @@ description: "JUPAS 選科最關鍵的戰略 — Band A/B/C 應該怎樣排?中�
 lang: zh-hant
 category: jupas
 date: 2026-04-15
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags: [JUPAS, Band-A, banding, 選科, DSE, 大學聯招, 志願]
 ---
 
@@ -106029,7 +106029,7 @@ description: "為香港 DSE 考生提供一份全面的 JUPAS 面試準備指南
 lang: zh-hant-hk
 category: jupas
 date: 2026-04-15
-author: DSE Hub
+author: DSE知識庫編輯部
 tags:
   - jupas
   - 面試
@@ -106519,7 +106519,7 @@ description: "DSE 放榜後 JUPAS 改選期詳細策略指南：常見情境、�
 lang: zh-hant-hk
 category: jupas
 date: 2026-04-15
-author: Thomas Ho
+author: DSE知識庫編輯部
 tags:
   - JUPAS
   - 放榜
@@ -107026,7 +107026,7 @@ description: "由自我評估、課程比較、收生分數分析到 Band A/B/C 
 lang: zh-hant-hk
 category: jupas
 date: 2026-04-15
-author: Raymond
+author: DSE知識庫編輯部
 tags:
   - JUPAS
   - DSE
@@ -108024,7 +108024,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/majors/architecture-design
 ---
 title: "香港大學建築及設計學科指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學建築及設計課程，包括HKU、PolyU、CUHK的課程特色、收生要求、組合建議及職業出路，幫助DSE學生作出明智選擇。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"
@@ -108238,7 +108238,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/majors/arts-humanities
 ---
 title: "香港大學文科及人文學科指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學文科及人文課程，包括HKU、CUHK、HKBU的課程特色、收生要求、個人陳述撰寫技巧及職業出路，幫助DSE學生作出明智選擇。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"
@@ -108471,7 +108471,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/majors/business-economics
 ---
 title: "香港大學商科及經濟學指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學BBA課程，包括HKU、HKUST、CUHK、PolyU、CityU的排名、課程特色、BAFS vs經濟科選擇、職業出路及實習文化，幫助DSE學生作出明智選擇。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"
@@ -108743,7 +108743,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/majors/communications-journalism
 ---
 title: "香港傳播及新聞學科指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學傳播及新聞課程，包括HKBU、CUHK、HKU的課程特色、收生要求、媒體行業現況及職業出路，幫助DSE學生作出明智選擇。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"
@@ -108974,7 +108974,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/majors/cs-and-engineering
 ---
 title: "香港電腦科學及工程學科指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學CS及工程課程，包括HKUST、HKU、CityU、PolyU的排名、課程特色、AI/數據科學路線、實習機遇及香港科技業起薪，幫助DSE學生作出明智選擇。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"
@@ -109221,7 +109221,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/majors/education-and-teaching
 ---
 title: "香港教育及師範課程指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學教育課程，包括EdUHK、HKU、CUHK的課程特色、QTE注冊要求、教師薪酬及EDB師訓津貼，幫助有志投身教育的DSE學生作出明智選擇。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"
@@ -109452,7 +109452,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/majors/finance-and-accounting
 ---
 title: "香港八大金融與會計學科指南：DSE學生報考全攻略 2026"
 description: "全面介紹香港各大學金融及會計課程，包括HKU、HKUST、CUHK、PolyU、CityU的JUPAS收生要求、課程特色、專業認證（HKICPA / ACCA / CFA）、職業出路及起薪，幫助DSE學生作出明智選擇。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"
@@ -110074,7 +110074,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/majors/law
 ---
 title: "香港法律學科指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學法律課程，包括HKU、CUHK、CityU的LLB+PCLL路線、英國法律體系、律師vs大律師分別、DSE收生要求及典型Band A cutoff，幫助DSE學生作出明智選擇。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"
@@ -110293,7 +110293,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/majors/medicine-dentistry
 ---
 title: "香港醫科及牙科指南：DSE學生報考全攻略"
 description: "全面介紹香港HKU及CUHK醫科（MBBS）及牙科（BDS）課程，包括6年課程結構、香港醫務委員會考試、DSE收生要求（頂1%）、面試準備及醫生起薪，幫助DSE學生作出明智選擇。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"
@@ -110517,7 +110517,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/majors/nursing-allied-health
 ---
 title: "香港護理及醫療輔助學科指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學護理及醫療輔助課程，包括HKU、PolyU、CityU、HKBU的護理學士、物理治療、職業治療、言語治療，以及香港護士管理局注冊、醫管局就業及起薪資訊。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"
@@ -110764,7 +110764,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/majors/pharmacy
 ---
 title: "香港藥劑學科指南：DSE學生報考全攻略"
 description: "全面介紹香港CUHK及HKU藥劑（BPharm）課程，包括4年課程結構、香港藥劑業及毒藥管理局注冊考試、DSE生物化學要求、醫院vs社區藥劑師職業比較及薪酬資訊。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"
@@ -110980,7 +110980,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/majors/science
 ---
 title: "香港理學院課程指南：DSE學生報考全攻略"
 description: "全面介紹香港HKU、HKUST、CUHK的理學院BSc課程，包括生物、化學、物理、數學各方向，研究vs應用路線，香港PhD Fellowship Scheme（HKPFS），科學教師職業，及STEM政策資助資訊。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"
@@ -111238,7 +111238,7 @@ URL: https://dsedaquan.cn//zh-hant-hk/majors/social-sciences
 ---
 title: "香港社會科學學科指南：DSE學生報考全攻略"
 description: "全面介紹香港HKU、CUHK、CityU社會科學課程，包括社會學、心理學、政治學、社會工作各方向，政府及NGO職業路線，HKBU社工課程，臨床心理學執照要求，及DSE科目建議。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"
@@ -111502,7 +111502,7 @@ description: "香港 DSE 考生升讀澳洲大學完整指南：G8 名校排名�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-14
-author: Vivian Lam
+author: DSE知識庫編輯部
 ---
 
 # 澳洲升學完整指南 2026：八大名校、費用、簽證、就業與移民全解
@@ -112079,7 +112079,7 @@ description: "香港 DSE 考生升讀愛爾蘭大學嘅完整指南：都柏林�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-14
-author: "DSE 升學知識庫"
+author: DSE知識庫編輯部
 ---
 
 # 愛爾蘭升學指南 2026：低成本英語系國家的升學選擇
@@ -112295,7 +112295,7 @@ description: "DSE 學生入讀日本大學的完整指南 — 從日本大學入
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-15
-author: Thomas Ho
+author: DSE知識庫編輯部
 tags:
   - 日本升學
   - 日本大學
@@ -112722,7 +112722,7 @@ lang: zh-hant-hk
 category: overseas
 slug: japan-pathway
 date: 2026-04-17
-author: the editorial team AI
+author: DSE知識庫編輯部
 tags:
   - 日本升學
   - EJU
@@ -113084,7 +113084,7 @@ description: "香港 DSE 考生報讀紐西蘭大學的完整指南：紐西蘭�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-14
-author: "DSE 升學知識庫"
+author: DSE知識庫編輯部
 ---
 
 # 紐西蘭升學指南 2026：八大、學費、工簽與移民銜接
@@ -113666,7 +113666,7 @@ description: "完整指南：香港 DSE 學生如何申請新加坡國立大學�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-15
-author: DSE 知識庫
+author: DSE知識庫編輯部
 tags:
   - 新加坡升學
   - NUS
@@ -114190,7 +114190,7 @@ description: "香港 DSE 考生報讀台灣大學嘅完整指南：海外聯招�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-14
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 ---
 
 # 台灣升學完整指南 2026：海外聯招、學費、評點制與留台出路
@@ -114473,7 +114473,7 @@ description: "為香港 DSE 考生準備的英國大學升學指南：UCAS 申�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-15
-author: DSE 知識中心
+author: DSE知識庫編輯部
 tags:
   - UCAS
   - 英國升學
@@ -114854,7 +114854,7 @@ description: "香港 DSE 考生最大決定——去英國還是留香港？四�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-14
-author: Michael Chan
+author: DSE知識庫編輯部
 ---
 
 # 英國升學 vs 留港升學：成本與職業前景完整對比（2026）
@@ -115106,7 +115106,7 @@ description: "香港 DSE 學生升讀美國大學的完整指南。涵蓋 8 間�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-14
-author: Vivian Lam
+author: DSE知識庫編輯部
 ---
 
 # 美國升學完整指南 2026：藤校、州立大學、社區學院與 OPT/H1B 移民路徑全解
@@ -118929,7 +118929,7 @@ URL: https://dsedaquan.cn//zh-hant/comparison/dse-vs-gaokao
 ---
 title: "DSE vs 高考：兩大考試制度全面比較"
 description: "深入比較香港DSE與內地高考的考試結構、評分制度、科目設置、升學路徑及國際認受性，幫助學生和家長理解兩制差異"
-author: Michael Chan
+author: DSE知識庫編輯部
 tags: ["DSE", "高考", "比較", "升學", "內地"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -119146,7 +119146,7 @@ URL: https://dsedaquan.cn//zh-hant/comparison/dse-vs-ib-vs-alevel
 ---
 title: "DSE vs IB vs A-Level：香港三大高中課程比較與升學出路分析"
 description: "DSE、IB文憑（IBDP）和英國A-Level三大高中課程全面比較 — 課程結構、評核方式、香港大學認受性、JUPAS申請及國際升學出路，以及轉換課程的實際考慮"
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags: ["DSE", "IB", "A-Level", "高中課程", "升學"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -119264,7 +119264,7 @@ URL: https://dsedaquan.cn//zh-hant/comparison/hku-vs-cuhk-vs-hkust
 ---
 title: "港大 vs 中大 vs 科大：三大比較全面分析"
 description: "深入比較香港大學、中文大學與科技大學的入學分數、學科優勢、校園文化、就業前景及JUPAS選校策略"
-author: Editorial Team
+author: DSE知識庫編輯部
 tags: ["HKU", "CUHK", "HKUST", "比較", "JUPAS", "大學"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -119493,7 +119493,7 @@ URL: https://dsedaquan.cn//zh-hant/comparison/polyu-vs-cityu
 ---
 title: "香港理工大學 vs 香港城市大學：課程、就業、校園文化全面比較"
 description: "PolyU vs CityU 完全比較指南（繁體中文）— 兩校定位差異、熱門課程比較（工程/設計/傳理/護理/商科），入學成績要求，就業排名與行業聯繫，校園設施與生活，宿舍情況，哪種學生更適合哪所大學"
-author: Karen Leung
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "comparison"
 canonical: "https://dsedaquan.cn/zh-hant/comparison/polyu-vs-cityu"
@@ -119680,7 +119680,7 @@ URL: https://dsedaquan.cn//zh-hant/costs/student-loan-and-bursary
 ---
 title: "香港大學生資助計劃：免入息審查貸款、學生財政援助計劃(SFAS)、獎學金申請完整指南"
 description: "香港大學生資助完整指南（繁體中文）— SFAS學生財政援助計劃申請資格與金額、免入息審查學生貸款(NLSAS)最高金額、政府獎學金計劃、各大學獎助學金比較、還款計劃選擇、低收入家庭額外補貼、DSE成績對獎學金的影響"
-author: Editorial Team
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "costs"
 last_updated: "2026-04-18"
@@ -119936,7 +119936,7 @@ URL: https://dsedaquan.cn//zh-hant/costs/total-cost-breakdown
 ---
 title: "DSE備考及大學費用全面拆解：補習、考試、學費與資助"
 description: "全面拆解DSE備考費用（補習、教材、模擬試）及大學學費（資助學位、自資課程）、住宿費、生活費及各類資助計劃"
-author: Editorial Team
+author: DSE知識庫編輯部
 tags: ["費用", "學費", "補習", "資助", "獎學金"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -120288,7 +120288,7 @@ URL: https://dsedaquan.cn//zh-hant/costs/tuition-and-fees-breakdown
 ---
 title: "DSE 備考及升學費用全面分析：補習費、考試費、大學學費一覽"
 description: "DSE 備考及香港大學升學費用完全指南（繁體中文）— DSE 報考費用、各科補習費市場行情、海外升學備考費用（IELTS/SAT/A-Level），香港八大學費及資助計劃比較、學生資助辦事處申請資格，奬學金及助學金資源"
-author: Thomas Ho
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "costs"
 last_updated: "2026-04-18"
@@ -120415,7 +120415,7 @@ URL: https://dsedaquan.cn//zh-hant/dse/2026-changes
 ---
 title: "2026年DSE改革全面解析：核心科目變革、公民科取代通識、評分調整"
 description: "深入剖析2026年香港中學文憑試（DSE）的重大改革——公民與社會發展科取代通識教育科、核心科目優化方案、評分制度變化及對考生的影響"
-author: Vivian Lam
+author: DSE知識庫編輯部
 tags: ["DSE", "2026改革", "公民科", "通識", "核心科目", "JUPAS"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -120640,7 +120640,7 @@ URL: https://dsedaquan.cn//zh-hant/dse/core-subjects-overview
 ---
 title: "DSE核心科目全覽：中文、英文、數學、通識/公民科的重要性與備考重點"
 description: "DSE四個核心科目完整概覽（繁體中文）— 中文、英文、數學、公民與社會發展科（取代通識）的評核結構、各科分數比重、不同升學路徑對核心科成績要求（香港八大/英美/新加坡）、核心科低分的補救選項（重考/AS-level/IGCSE補考）、四科並重vs重點突破的策略分析"
-author: Karen Leung
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "dse"
 last_updated: "2026-04-18"
@@ -120837,7 +120837,7 @@ URL: https://dsedaquan.cn//zh-hant/dse/grade-appeal-guide
 ---
 title: DSE 申請複閱成績指引：哪種情況值得複閱及申請程序
 description: DSE複閱成績（Re-mark/Re-check）完全指引（繁體中文）— 複閱 vs 覆核的分別、申請費用和時間、複閱後成績改變的實際比率、哪些科目複閱成功率較高、複閱期間JUPAS安排
-author: Karen Leung
+author: DSE知識庫編輯部
 language: zh-hant
 category: dse
 canonical: https://dsedaquan.cn/zh-hant/dse/grade-appeal-guide
@@ -120990,7 +120990,7 @@ URL: https://dsedaquan.cn//zh-hant/dse/retake-guide
 ---
 title: "DSE重考完全攻略：自修生報名、備考策略與成績合併規則"
 description: "全面解析DSE重考的報名流程、自修生資格、成績合併機制、科目選擇策略及備考時間規劃，助你作出最明智的重考決定"
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags: ["DSE", "重考", "自修生", "成績合併", "備考"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -121252,7 +121252,7 @@ URL: https://dsedaquan.cn//zh-hant/dse/school-based-assessment
 ---
 title: "DSE 校本評核（SBA）完全指南：計分比重、評核方式與應對策略"
 description: "DSE校本評核（SBA）完全指南（繁體中文）— SBA在各科目的佔分比重、評核方式（口試/實驗/作品集/表演），學校如何評分及上呈，SBA爭議處理機制，SBA vs 公開考試的策略性分配時間，各科SBA的備考重點"
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "dse"
 tags: ["SBA", "校本評核", "DSE"]
@@ -121571,7 +121571,7 @@ URL: https://dsedaquan.cn//zh-hant/jupas/band-a-strategy
 ---
 title: "JUPAS Band A選校策略：最大化入讀心儀大學的機會"
 description: "深入解析JUPAS Band A的運作機制、選校排序策略、往年收生數據分析及常見錯誤，助你制定最佳的大學志願組合"
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags: ["JUPAS", "Band A", "選校", "策略", "大學", "收生"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -122092,7 +122092,7 @@ URL: https://dsedaquan.cn//zh-hant/jupas/jupas-band-b-c-strategy
 ---
 title: "DSE JUPAS Band B/C 課程選擇攻略：中等成績如何最大化入學機會"
 description: "JUPAS Band B/C 課程選擇完全指南（繁體中文）— Band B/C 定義與分數範圍、中等成績的選科策略、冷門但值錢課程發掘方法、聯招中後期調整技巧、不同大學Band B/C課程特點比較"
-author: Michael Chan
+author: DSE知識庫編輯部
 tags: ["JUPAS", "Band B", "Band C", "選校", "策略", "中等成績", "大學"]
 language: "zh-hant"
 category: "jupas"
@@ -122279,7 +122279,7 @@ URL: https://dsedaquan.cn//zh-hant/jupas/jupas-e-category-strategy
 ---
 title: "JUPAS E類選擇策略：衝榜技巧、高志願排列、被拒後補救方案"
 description: "JUPAS E類（衝榜）選擇完整策略（繁體中文）— E類志願的定義與作用、高於自身成績的科目選擇標準、E類vs A類vs B類的策略分配、過去3年各科系最低收生分對照、E類落空後的補底方案（清算/Joint Admission/私立自資）、常見E類失敗原因分析"
-author: Michael Chan
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "jupas"
 last_updated: "2026-04-18"
@@ -122506,7 +122506,7 @@ URL: https://dsedaquan.cn//zh-hant/majors/architecture-design
 ---
 title: "DSE考生選讀建築與設計：港大建築、理大設計、PolyU工業設計入學要求與出路"
 description: "香港建築與設計學科完整指南（繁體中文）— 港大建築學院(HKU FAADUP)、理大設計學院(SD)、城大創意媒體(SCM)、嶺大視覺研究入學要求、作品集(Portfolio)準備要點、DSE最低收生分、建築師註冊要求、創意產業就業前景"
-author: Thomas Ho
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "majors"
 last_updated: "2026-04-18"
@@ -122793,7 +122793,7 @@ URL: https://dsedaquan.cn//zh-hant/majors/arts-humanities
 ---
 title: "DSE文科生出路全攻略：人文學科、藝術設計、傳播媒體的升學與就業分析"
 description: "香港DSE文科生升學指南 — 人文學科、藝術設計及傳播媒體專業的大學課程比較、JUPAS選科要求、海外升學機會，以及文科出路的現實分析"
-author: Karen Leung
+author: DSE知識庫編輯部
 tags: ["DSE", "文科", "藝術設計", "傳播媒體", "JUPAS"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -122922,7 +122922,7 @@ URL: https://dsedaquan.cn//zh-hant/majors/business-economics
 ---
 title: "DSE商科及經濟學系選擇指南：港、英、加、澳大學比較"
 description: "持DSE成績升讀商科及經濟學系的完整指南 — 香港各大學商學院比較、海外選項、學科差異、就業前景與入學成績要求"
-author: Editorial Team
+author: DSE知識庫編輯部
 tags: ["DSE", "商科", "Business", "Economics", "JUPAS"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -123044,7 +123044,7 @@ URL: https://dsedaquan.cn//zh-hant/majors/communications-journalism
 ---
 title: "DSE考生選讀傳播與新聞：港大、中大、城大、浸大入學要求與就業出路"
 description: "香港傳播新聞學科完整指南（繁體中文）— 港大新聞學院、中大新聞傳播、城大媒體傳播、浸大傳播(BBus Communication)入學要求及JUPAS代號、英文要求（5**幾乎必需）、主要方向（新聞/公關/廣告/廣播/數位媒體）、香港傳媒業就業前景坦誠分析、新媒體與科技傳播出路"
-author: Karen Leung
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "majors"
 last_updated: "2026-04-18"
@@ -123377,7 +123377,7 @@ URL: https://dsedaquan.cn//zh-hant/majors/cs-and-engineering
 ---
 title: "DSE考生讀電腦科學及工程學指南：入學要求、課程比較與就業前景"
 description: "全面解析香港各大學電腦科學、資訊工程及工程學課程的DSE入學要求、課程結構、就業薪酬及JUPAS選科策略"
-author: Vivian Lam
+author: DSE知識庫編輯部
 tags: ["CS", "工程", "Computer Science", "Engineering", "JUPAS"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -123643,7 +123643,7 @@ URL: https://dsedaquan.cn//zh-hant/majors/education-and-teaching
 ---
 title: "香港教育學科升學指引：幼師、小學教師、中學教師培訓課程與入職要求"
 description: "香港教育學科完全指南（繁體中文）— 幼兒教育/小學教育/中學學科教育比較、EdUHK vs 其他大學教育課程、教育文憑（PGDE）路線、師訓要求（QTS）、入職薪酬、教師短缺及招募情況"
-author: Thomas Ho
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "majors"
 canonical: "https://dsedaquan.cn/zh-hant/majors/education-and-teaching"
@@ -123769,7 +123769,7 @@ URL: https://dsedaquan.cn//zh-hant/majors/law-school-hk
 ---
 title: "DSE考生讀法律指南：LLB入學要求、PCLL路徑與法律職業前景"
 description: "全面解析港大、中大、城大法律課程的DSE入學要求、PCLL制度、事務律師及大律師職業路徑"
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags: ["法律", "LLB", "PCLL", "HKU", "CUHK", "CityU"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -124035,7 +124035,7 @@ URL: https://dsedaquan.cn//zh-hant/majors/medicine-dentistry-hk
 ---
 title: "DSE考生讀醫指南：醫科及牙科入學要求、面試準備與職業前景"
 description: "全面解析香港醫科及牙科課程的DSE入學要求、JUPAS收生分數、MMI面試準備、課程結構及醫生/牙醫職業發展路徑"
-author: Thomas Ho
+author: DSE知識庫編輯部
 tags: ["醫科", "牙科", "Medicine", "Dentistry", "JUPAS", "MMI"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -124375,7 +124375,7 @@ URL: https://dsedaquan.cn//zh-hant/majors/medicine-healthcare
 ---
 title: "DSE醫科、護理及醫療相關學系選擇指南：入讀要求、課程比較與職業前景"
 description: "持DSE成績升讀醫療相關學系的完整指南 — 香港醫科、護理、藥學、物理治療、職業治療、放射治療各學系入讀要求、課程年期、執業資格與薪酬前景"
-author: Karen Leung
+author: DSE知識庫編輯部
 tags: ["DSE", "醫科", "護理", "醫療", "JUPAS", "Medicine"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -124522,7 +124522,7 @@ URL: https://dsedaquan.cn//zh-hant/majors/nursing-and-allied-health
 ---
 title: "香港護理及醫療相關學科升學指引：護理、物理治療、職業治療成績要求與出路"
 description: "香港護理及醫療相關學科完全指南（繁體中文）— 各院校護理學位DSE要求、物理治療 vs 職業治療比較、放射治療/診斷放射學、言語治療學，畢業後薪酬與職業前景，政府醫院統一培訓與私人市場"
-author: Vivian Lam
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "majors"
 canonical: "https://dsedaquan.cn/zh-hant/majors/nursing-and-allied-health"
@@ -124664,7 +124664,7 @@ URL: https://dsedaquan.cn//zh-hant/majors/pharmacy
 ---
 title: "香港藥劑學位：HKU、CUHK、PolyU藥劑課程入學要求、學費與職業出路"
 description: "香港藥劑學位完整指南（繁體中文）— 港大/中大/理大藥劑課程比較、DSE入學要求（化學必修+生物加分）、學費結構、藥劑師執業資格（HKPC考試）、公立vs私立醫院藥劑師薪酬對比、研究院及製藥業出路"
-author: Editorial Team
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "majors"
 last_updated: "2026-04-18"
@@ -124975,7 +124975,7 @@ URL: https://dsedaquan.cn//zh-hant/majors/science-engineering
 ---
 title: "DSE理科及工程學系選擇指南：港、英、澳大學比較與就業前景"
 description: "持DSE成績升讀理科及工程學系的完整指南 — 本地JUPAS要求、海外理工院校選擇、各工程專科比較（電腦、機械、土木、電子）、就業前景與薪酬"
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags: ["DSE", "理科", "工程", "Engineering", "JUPAS", "Science"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -125165,7 +125165,7 @@ URL: https://dsedaquan.cn//zh-hant/majors/social-sciences
 ---
 title: "DSE社會科學升學攻略：社工、心理、政治、社會學的大學選擇與出路"
 description: "香港DSE社會科學專業升學指南 — 社會工作、心理學、政治與公共行政、社會學的大學課程比較、JUPAS入學要求、執照資格要求，以及社科畢業生的就業出路分析"
-author: Thomas Ho
+author: DSE知識庫編輯部
 tags: ["DSE", "社會科學", "社工", "心理學", "JUPAS"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -125294,7 +125294,7 @@ URL: https://dsedaquan.cn//zh-hant/overseas/australia-pathway
 ---
 title: "DSE生升讀澳洲大學：入學要求、城市選擇與畢業移民路徑"
 description: "持DSE成績申請澳洲大學的完整指南 — 主要大學DSE認可政策、八大院校比較、學費生活費、畢業生簽證（485）及永久居留路徑"
-author: Michael Chan
+author: DSE知識庫編輯部
 tags: ["DSE", "澳洲", "Australia", "升學", "移民"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -125428,7 +125428,7 @@ URL: https://dsedaquan.cn//zh-hant/overseas/canada-pathway
 ---
 title: "DSE生畢業後移民加拿大升學：升讀大學及移民路徑全解析"
 description: "持DSE成績申請加拿大大學的完整指南 — 各省主要大學的DSE認可政策、申請策略、熱門城市比較、畢業後工作簽證與移民路徑"
-author: Editorial Team
+author: DSE知識庫編輯部
 tags: ["DSE", "加拿大", "Canada", "升學", "移民"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -125566,7 +125566,7 @@ URL: https://dsedaquan.cn//zh-hant/overseas/europe-pathway
 ---
 title: "DSE學生申請歐洲大學：德國、荷蘭、法國頂尖院校入學要求與留學費用"
 description: "DSE學生申請歐洲大學完整指南 — 德國頂尖大學（慕尼黑工業大學、LMU）、荷蘭大學（代爾夫特、阿姆斯特丹）及法國精英院校的DSE成績要求、語言準備、免費/低費學費優勢，以及歐洲留學與英美的選擇比較"
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags: ["DSE", "歐洲留學", "德國", "荷蘭", "海外升學"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -125687,7 +125687,7 @@ URL: https://dsedaquan.cn//zh-hant/overseas/japan-pathway
 ---
 title: "DSE生升讀日本大學：EJU考試、頂尖院校要求與留日生活指南"
 description: "持DSE成績申請日本大學的完整指南 — EJU日本留學試、主要大學（東大、早稻田、慶應）DSE/EJU要求、學費生活費、日語要求、香港學生的留日升學路徑"
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags: ["DSE", "日本", "Japan", "升學", "EJU", "留學"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -125968,7 +125968,7 @@ URL: https://dsedaquan.cn//zh-hant/overseas/korea-pathway
 ---
 title: "DSE學生申請韓國大學：SKY大學入學要求、語言準備與留學費用"
 description: "DSE學生申請韓國大學完整指南 — SKY大學（首爾大、延世大、高麗大）的外國學生申請要求、TOPIK韓語資格準備、英語授課學程選擇，以及韓國留學費用與獎學金機會"
-author: Thomas Ho
+author: DSE知識庫編輯部
 tags: ["DSE", "韓國留學", "SKY大學", "TOPIK", "獎學金"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -126086,7 +126086,7 @@ URL: https://dsedaquan.cn//zh-hant/overseas/singapore-pathway
 ---
 title: "DSE考生升讀新加坡大學：NUS、NTU、SMU入學要求與申請途徑"
 description: "DSE考生申請新加坡大學完整指南（繁體中文）— NUS/NTU/SMU對DSE成績的承認制度、最低入學要求（3科5**+英文）、最受歡迎科系DSE最低分對照、DSE vs A-Level vs IB換算、獎學金、生活費用估算、學生簽證、畢業後就業機會"
-author: Karen Leung
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "overseas"
 last_updated: "2026-04-18"
@@ -126237,7 +126237,7 @@ URL: https://dsedaquan.cn//zh-hant/overseas/taiwan-pathway
 ---
 title: 用DSE成績升讀台灣大學：申請流程、認可院校與獎學金指引
 description: DSE成績申請台灣大學完全指南（繁體中文）— 台灣大學認可DSE的現況、招收港澳生的主要院校（台大/政大/交大/成大），DSE成績換算標準，申請流程時間線，香港學生台灣生活費與學費比較，獎學金及港澳生優惠
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 language: zh-hant
 category: overseas
 canonical: https://dsedaquan.cn/zh-hant/overseas/taiwan-pathway
@@ -126384,7 +126384,7 @@ URL: https://dsedaquan.cn//zh-hant/overseas/uk-pathway
 ---
 title: "DSE考生英國升學指南：UCAS申請、Russell Group要求與留英生活"
 description: "全面解析DSE考生申請英國大學的UCAS流程、Russell Group入學要求、學費與生活費、BN(O)身份影響及畢業簽證"
-author: Vivian Lam
+author: DSE知識庫編輯部
 tags: ["英國", "UCAS", "Russell Group", "海外升學", "簽證"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -126611,7 +126611,7 @@ URL: https://dsedaquan.cn//zh-hant/overseas/us-pathway
 ---
 title: "DSE學生申請美國大學：Test-Optional政策、Common App攻略與獎學金機會"
 description: "DSE成績申請美國大學完整指南 — Test-Optional院校列表、Common App時間線、文書技巧、財務助學金策略，以及與英澳留學路徑的比較"
-author: Michael Chan
+author: DSE知識庫編輯部
 tags: ["DSE", "美國留學", "Common App", "SAT", "獎學金"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -126775,7 +126775,7 @@ URL: https://dsedaquan.cn//zh-hant/preparation/chinese-language-exam-strategies
 ---
 title: "DSE中文科應試策略：閱讀、寫作、聆聽說話完整備考指南"
 description: "DSE中文科完整應試指南（繁體中文）— 中文卷一閱讀理解答題格式（引用/分析/評論三層次）、卷二寫作選題策略（記敘/說明/議論文類型要求）、卷三聆聽及說話評估準備、常見失分原因分析、DSE中文5**考生的備考習慣、中文補底與提升工具書推薦"
-author: Karen Leung
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "preparation"
 last_updated: "2026-04-18"
@@ -127027,7 +127027,7 @@ URL: https://dsedaquan.cn//zh-hant/preparation/dse-chinese
 ---
 title: "DSE中文科備考攻略：閱讀理解、寫作技巧與文言文溫習策略"
 description: "全面解析DSE中國語文科的卷一閱讀理解、卷二寫作、卷三聆聽綜合及文言文範文的備考方法與高分技巧"
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags: ["DSE", "中文", "Chinese", "閱讀", "寫作", "文言文"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -127249,7 +127249,7 @@ URL: https://dsedaquan.cn//zh-hant/preparation/english-oral-strategy
 ---
 title: "DSE英語科口試完全攻略：Group Interaction與Individual Response高分策略"
 description: "DSE英語科口試備考完整指南 — Group Interaction（小組討論）的角色分配策略、Individual Response（個人回應）的答題框架、常見評分陷阱、如何在討論中表現Leadership，以及模擬練習的有效方法"
-author: Thomas Ho
+author: DSE知識庫編輯部
 tags: ["DSE", "英文", "English", "口試", "Oral", "Group Interaction"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -127385,7 +127385,7 @@ URL: https://dsedaquan.cn//zh-hant/preparation/exam-day-strategy
 ---
 title: "DSE考試日策略：考前一週到放榜的完整心理及實戰指南"
 description: "DSE考試日的實用策略 — 考前一週準備、當日時間管理、各科答題技巧、應試心理調適，以及等待放榜期間的情緒管理"
-author: Editorial Team
+author: DSE知識庫編輯部
 tags: ["DSE", "應試", "考試策略", "時間管理", "心理準備"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -127542,7 +127542,7 @@ URL: https://dsedaquan.cn//zh-hant/preparation/exam-week-strategy
 ---
 title: "DSE考試週策略：考前一週、考試當天、考試後的完整計劃"
 description: "DSE考試週完整策略（繁體中文）— 考前7天複習計劃、考試當天時間管理（起床時間/交通/到場時間）、答題時間分配策略、各科目考試特定技巧、考後情緒管理、多科目應試期間的休息與睡眠計劃"
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "preparation"
 last_updated: "2026-04-18"
@@ -127712,7 +127712,7 @@ URL: https://dsedaquan.cn//zh-hant/preparation/jupas-strategy
 ---
 title: "JUPAS申請策略全攻略：選科序、Band界定、改選時機與放榜部署"
 description: "DSE生JUPAS申請完整策略指南 — 如何排列最佳選科序（Band A/B/C）、改選截止日期、攻讀心儀學系的實戰建議、放榜後Clearing Round應對"
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags: ["DSE", "JUPAS", "大學申請", "Band A", "選科"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -127862,7 +127862,7 @@ URL: https://dsedaquan.cn//zh-hant/preparation/mathematics-exam-strategies
 ---
 title: "DSE數學科（必修）應試策略：M1/M2選擇、答題格式、常見失分原因"
 description: "DSE數學必修科完整應試指南（繁體中文）— 卷一(Compulsory)與卷二(Multiple Choice)應試策略、M1(微積分與統計)vs M2(代數與微積分)選擇指引、答題格式要求（show all working）、常見錯誤（負號錯誤/單位忘記/二次方漏解）、數學5**/5*考生答題節奏管理、計算機使用技巧"
-author: Karen Leung
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "preparation"
 last_updated: "2026-04-18"
@@ -128142,7 +128142,7 @@ URL: https://dsedaquan.cn//zh-hant/preparation/mental-health-exam-stress
 ---
 title: "DSE 備考心理健康指南：考試壓力管理、焦慮應對與維持正常生活"
 description: "DSE 備考心理健康完全指南（繁體中文）— 考試壓力來源分析、常見焦慮症狀識別、科學實證的壓力管理技巧（番茄鐘/運動/睡眠）、考前恐慌應對方法、香港DSE學生求助資源"
-author: Editorial Team
+author: DSE知識庫編輯部
 tags: ["DSE", "心理健康", "壓力管理", "備考", "焦慮", "香港學生"]
 language: "zh-hant"
 category: "preparation"
@@ -128359,7 +128359,7 @@ URL: https://dsedaquan.cn//zh-hant/preparation/mock-exam-strategy
 ---
 title: "DSE模擬試策略：如何透過Mock Exam最大化備考效益"
 description: "DSE模擬試（Mock Exam）的最佳使用方法 — 計時做卷技巧、有效批改自評方法、錯題分析、校內Mock與自行操練的配合，以及如何根據模擬試結果調整最後衝刺策略"
-author: Vivian Lam
+author: DSE知識庫編輯部
 tags: ["DSE", "模擬試", "Mock Exam", "備考", "操卷"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -128511,7 +128511,7 @@ URL: https://dsedaquan.cn//zh-hant/preparation/note-taking-strategy
 ---
 title: "DSE 高效筆記策略：康乃爾筆記法、思維導圖與溫習筆記的製作技巧"
 description: "DSE 備考筆記策略完全指南（繁體中文）— 三種主要筆記法（康乃爾筆記/思維導圖/線性筆記）的比較與適用科目、如何製作高效溫習筆記、各科目最佳筆記格式、數碼筆記 vs 手寫筆記的取捨、考前整理重點筆記的策略"
-author: Vivian Lam
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "preparation"
 last_updated: "2026-04-18"
@@ -128627,7 +128627,7 @@ URL: https://dsedaquan.cn//zh-hant/preparation/past-paper-strategy
 ---
 title: "DSE歷屆試卷（Past Paper）備考攻略：從獲取到分析的完整高分策略"
 description: "DSE Past Paper備考完整指南 — 最佳開始時間、計時練習方法、評卷參考自我改卷、考題規律分析，以及各科Past Paper的高分策略差異"
-author: Michael Chan
+author: DSE知識庫編輯部
 tags: ["DSE", "Past Paper", "備考", "歷屆試卷", "應試技巧"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -128777,7 +128777,7 @@ URL: https://dsedaquan.cn//zh-hant/preparation/reading-comprehension-strategies
 ---
 title: "DSE中英文閱讀理解答題策略：閱讀技巧、題型分析與高分答法"
 description: "DSE中英文閱讀理解完整答題策略（繁體中文）— 略讀(skimming)與精讀(scanning)技巧、題型分類（字義題/推論題/主旨題/態度語氣題）、中文語文答題格式要求、英文Language and Usage題型、常見失分原因分析、練習時間分配"
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "preparation"
 last_updated: "2026-04-18"
@@ -129066,7 +129066,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-applied-learning
 ---
 title: "DSE應用學習（ApL）：課程種類、認可等級與升學銜接"
 description: "DSE應用學習（Applied Learning）完整指南 — ApL課程種類（科技·創意媒體·商業·健康·社會），認可等級（達標/達標+）的大學收分積分，JUPAS積分計算，ApL與其他選修科目的策略組合，如何選擇適合的ApL科目"
-author: Michael Chan
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "subjects"
 tags: ["DSE", "應用學習", "ApL", "HKDSE"]
@@ -129242,7 +129242,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-bafs
 ---
 title: "DSE企業、會計與財務概論（BAFS）攻略：核心概念與應試策略"
 description: "DSE BAFS科完整應試指南 — 必考核心概念（企管、會計、財務管理）、Paper 1選擇題技巧、Paper 2個案研究答題格式、各等級分布與JUPAS商科升學"
-author: Vivian Lam
+author: DSE知識庫編輯部
 tags: ["DSE", "BAFS", "會計", "商業", "JUPAS"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -129402,7 +129402,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-biology
 ---
 title: "DSE生物科完全攻略：課程大綱、溫習策略與答題技巧"
 description: "全面解析DSE生物科的課程架構、必修與選修單元、實驗技巧、歷屆出題趨勢及高分答題策略"
-author: Vivian Lam
+author: DSE知識庫編輯部
 tags: ["DSE", "生物", "Biology", "理科", "溫習"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -129652,7 +129652,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-chemistry
 ---
 title: "DSE化學科完全攻略：課程大綱、計算題技巧與實驗要點"
 description: "全面解析DSE化學科的課程架構、必修與選修單元、計算題方法、實驗技巧及高分溫習策略"
-author: Karen Leung
+author: DSE知識庫編輯部
 tags: ["DSE", "化學", "Chemistry", "理科", "溫習"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -129927,7 +129927,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-chinese-history
 ---
 title: "DSE中國歷史科完全攻略：卷一卷二結構、時代分析與高分答題策略"
 description: "DSE中國歷史科備考完整指南 — 必修與選修時代的考試結構、甲乙部試題分析、史料題與論述題答題框架、中史科選題策略（三時代選擇）、常見失分原因及備試資源"
-author: Karen Leung
+author: DSE知識庫編輯部
 tags: ["DSE", "中國歷史", "Chinese History", "中史", "選修科"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -130120,7 +130120,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-chinese-literature
 ---
 title: "DSE中國文學完全攻略：科目架構、詩詞鑑賞答題框架與升學出路"
 description: "DSE中國文學備考完整指南 — 中文文學科與中國語文科的核心分別、試卷架構（指定文學作品精讀+文學鑑賞+創意回應），詩詞分析的意象·意境·主旨框架，散文答題的結構化方法，歷年高分答題技巧，以及中文文學科的香港及海外升學出路（中大中文系·嶺大文學院）"
-author: Vivian Lam
+author: DSE知識庫編輯部
 tags: ["DSE", "中國文學", "Chinese Literature", "選修科", "文學"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -130306,7 +130306,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-chinese
 ---
 title: "DSE中國語文科攻略：閱讀、寫作、聆聽、說話四卷全解"
 description: "DSE中文科完整應試指南 — Paper 1閱讀理解答題技巧、Paper 2寫作審題構思、Paper 3聆聽綜合、Paper 4說話評核準備策略，以及各等級分布"
-author: Thomas Ho
+author: DSE知識庫編輯部
 tags: ["DSE", "中文", "Chinese Language", "應試技巧"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -130524,7 +130524,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-combined-science
 ---
 title: "DSE組合科學完全攻略：科目結構、分拆選擇（生物/化學/物理）與升學出路"
 description: "DSE組合科學備考完整指南 — 組合科學與獨立理科的分別、生物+化學/化學+物理/生物+物理三種組合的選擇策略、評核結構（試卷一甲乙部）、科學實驗SBA要求、組合科學的本地及海外升學銜接，以及是否值得選讀的分析"
-author: Thomas Ho
+author: DSE知識庫編輯部
 tags: ["DSE", "組合科學", "Combined Science", "理科", "選修科"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -130720,7 +130720,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-design-and-applied-technology
 ---
 title: "DSE設計與應用科技（DAT）完全攻略：科目結構、設計組合評核與升學出路"
 description: "DSE設計與應用科技備考完整指南 — DAT科目架構（理論卷+設計作業），設計項目評核的五個階段（問題識別到成品製作），呈現能力與設計思維的評分標準，DAT與視覺藝術及STEM科目的關係，香港及海外設計學院升學銜接"
-author: Karen Leung
+author: DSE知識庫編輯部
 tags: ["DSE", "設計與應用科技", "DAT", "Design", "STEM", "選修科"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -130882,7 +130882,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-economics
 ---
 title: "DSE經濟科完全攻略：微觀宏觀經濟、圖表分析與論述題技巧"
 description: "全面解析DSE經濟科的課程架構、微觀與宏觀經濟學重點、圖表繪製技巧、論述題答題框架及溫習策略"
-author: Karen Leung
+author: DSE知識庫編輯部
 tags: ["DSE", "經濟", "Economics", "商科", "溫習"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -131173,7 +131173,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-english
 ---
 title: "DSE英語科完全攻略：四卷結構、評核重點與高分策略"
 description: "全面解析DSE英語文憑（English Language）四份試卷的考核內容、評分準則、常見失分原因，以及非英語家庭考生的實用備考策略"
-author: Karen Leung
+author: DSE知識庫編輯部
 tags: ["DSE", "英語", "English", "Language", "寫作"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -131340,7 +131340,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-ethics-religious-studies
 ---
 title: "DSE 倫理與宗教科（E&RS）完全攻略 2026：課程結構、試卷分析、模組選擇與應試策略"
 description: "DSE 倫理與宗教科（Ethics & Religious Studies，E&RS）備考完整指南 — 卷一倫理（規範倫理學+應用倫理）與卷二宗教傳統（佛教模組 vs 基督教開卷模組）深度解析，SBA 校本評核要求、評分比重、歷屆試題分析及兩年備考時間表"
-author: "the editorial team AI 編輯團隊"
+author: DSE知識庫編輯部
 tags: ["DSE", "倫理與宗教", "E&RS", "Ethics", "Religious Studies", "選修科", "應試策略"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -131691,7 +131691,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-exam-strategy
 ---
 title: "DSE應考策略大全：時間管理、答題技巧與高分心理準備"
 description: "DSE應考全攻略 — 考試前3個月備考計劃、考試當日時間分配策略、MC題技巧（排除法·首選策略）、LQ（長答題）PEEL結構、ESQ（延伸回應題）評核重點、答錯不扣分策略、考試焦慮管理、常見失分陷阱，適用於DSE所有科目"
-author: Karen Leung
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "subjects"
 tags: ["DSE", "應考策略", "HKDSE", "時間管理"]
@@ -131913,7 +131913,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-extended-maths
 ---
 title: "DSE延伸數學單元（M1/M2）：選科指引、核心考題與高分策略"
 description: "DSE延伸數學單元完整指南 — M1（微積分與統計）vs M2（代數與微積分）的課程差異與選科建議，評分結構（Paper 1 MC + LQ），M1重點（概率分布·t檢定·迴歸分析）vs M2重點（矩陣·向量·微積分），大學收分要求，數理科學生的高分策略"
-author: Karen Leung
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "subjects"
 tags: ["DSE", "延伸數學", "M1", "M2", "HKDSE"]
@@ -132141,7 +132141,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-geography
 ---
 title: "DSE地理科攻略：課程結構、高頻考點與個案研究答題策略"
 description: "DSE地理科完整應試指南 — 必考自然及人文地理概念、Paper 1數據回應技巧、Paper 2個案研究答題框架、SBA要求，以及時事地理如何應用於考試"
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags: ["DSE", "地理", "Geography", "SBA", "個案研究"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -132291,7 +132291,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-history
 ---
 title: "DSE歷史科完全攻略：選修單元選擇、試卷結構與高分答題策略"
 description: "DSE歷史科備考完整指南 — 必修與選修單元結構、Paper 1和Paper 2試卷分析、歷史論文答題框架、史料分析題技巧，以及常見失分原因和備試資源推薦"
-author: Vivian Lam
+author: DSE知識庫編輯部
 tags: ["DSE", "歷史", "History", "選修科", "考試策略"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -132480,7 +132480,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-ict
 ---
 title: "DSE資訊及通訊科技（ICT）攻略：課程結構、程式設計考題與升學出路"
 description: "DSE ICT科完整應試指南 — 課程六大範疇、Paper 1選擇題技巧、Paper 2個案研究答題、程式設計題必備知識，以及ICT科與資訊科技相關大學課程的銜接"
-author: Karen Leung
+author: DSE知識庫編輯部
 tags: ["DSE", "ICT", "資訊科技", "程式設計", "JUPAS"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -132607,7 +132607,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-jupas-strategy
 ---
 title: "DSE JUPAS大學申請策略：選科、分數換算與競爭力分析"
 description: "DSE JUPAS（大學聯合招生辦法）完整策略指南 — JUPAS最低/平均分數的解讀，選科優先次序策略（Band A首選·Band B保底），加分科目（延伸數學·其他語言），應用學習ApL的JUPAS積分，各大學收生取向差異（HKU vs CUHK vs PolyU vs CityU），Band Shifting風險評估，國際課程（IB/BTEC）競爭影響"
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "subjects"
 tags: ["DSE", "JUPAS", "大學申請", "HKDSE"]
@@ -132830,7 +132830,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-ls
 ---
 title: "DSE公民與社會發展科（CS）攻略：三大主題、SBA實地考察與考試策略"
 description: "DSE公民與社會發展科（前通識教育科）完整應試指南 — 香港、國家、當代世界三大主題範疇、試卷結構分析、SBA實地考察要求，以及如何準備開放式大題"
-author: Editorial Team
+author: DSE知識庫編輯部
 tags: ["DSE", "公民與社會發展", "CS", "通識", "SBA"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -133039,7 +133039,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-maths
 ---
 title: "DSE數學科完全攻略：必修與延伸單元、高分策略"
 description: "全面解析DSE數學科（必修部分）及延伸單元M1/M2的課程架構、重點題型、常見失分原因與高分答題策略"
-author: Karen Leung
+author: DSE知識庫編輯部
 tags: ["DSE", "數學", "Mathematics", "M1", "M2"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -133206,7 +133206,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-music
 ---
 title: "DSE音樂科完全攻略：校本評核、聆聽卷結構與升學出路"
 description: "DSE音樂科備考完整指南 — 表演（演奏/演唱）校本評核要求、作品集評核標準、聆聽卷（Listening Paper）題型分析與答題技巧、對位法與樂理考核重點，以及音樂科的升學出路與相關大學課程"
-author: Karen Leung
+author: DSE知識庫編輯部
 tags: ["DSE", "音樂", "Music", "選修科", "校本評核"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -133352,7 +133352,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-physical-education
 ---
 title: "DSE體育科完全攻略：科目結構、體能評估與升學出路"
 description: "DSE體育科備考完整指南 — 體育科評核架構（學科學習成就評估SBA + 公開考試），體能測試標準，運動技能評估，理論考試的人體生理與運動科學，體育科與體院、大學運動科學課程的銜接"
-author: Vivian Lam
+author: DSE知識庫編輯部
 tags: ["DSE", "體育", "Physical Education", "選修科"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -133514,7 +133514,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-physics
 ---
 title: "DSE物理科完全攻略：課程大綱、公式應用與實驗技巧"
 description: "全面解析DSE物理科的課程架構、必修與選修單元、公式記憶法、實驗技巧及高分答題策略"
-author: Karen Leung
+author: DSE知識庫編輯部
 tags: ["DSE", "物理", "Physics", "理科", "溫習"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -133811,7 +133811,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-tourism-hospitality
 ---
 title: "DSE旅遊與款待科完全攻略：科目結構、實習評核與升學出路"
 description: "DSE旅遊與款待科備考完整指南 — 卷一理論考試（旅遊業概論、款待管理）與卷二應用題結構、校本評核（SBA）實習任務要求、科目選修策略，以及旅遊與款待科的本地及海外升學出路"
-author: Editorial Team
+author: DSE知識庫編輯部
 tags: ["DSE", "旅遊與款待", "Tourism", "Hospitality", "選修科"]
 language: "zh-hant"
 last_updated: "2026-04-18"
@@ -133944,7 +133944,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-tourism
 ---
 title: "DSE旅遊地理：核心課題、案例分析與高分答題策略"
 description: "DSE地理科旅遊業選修課題完整備考指南 — 旅遊業的定義與分類、旅遊業對目的地的影響（經濟·社會·環境）、可持續旅遊發展策略、旅遊業全球化與地方化、香港旅遊業案例，以及Paper 1/2高分答題框架"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "subjects"
 tags: ["DSE", "地理", "旅遊業", "Tourism", "選修課題", "可持續旅遊"]
@@ -134310,7 +134310,7 @@ URL: https://dsedaquan.cn//zh-hant/subjects/dse-visual-arts
 ---
 title: "DSE視覺藝術科完全攻略：校本評核、考試卷結構與備試策略"
 description: "DSE視覺藝術科備考完整指南 — 藝術製作（SBA）與藝術鑑賞（卷二）各佔比重分析、個人研習報告格式、主題選擇策略、實作技巧提升方法，以及視覺藝術科升學出路"
-author: Vivian Lam
+author: DSE知識庫編輯部
 tags: ["DSE", "視覺藝術", "Visual Arts", "SBA", "藝術科"]
 language: "zh-hant"
 last_updated: "2026-04-18"

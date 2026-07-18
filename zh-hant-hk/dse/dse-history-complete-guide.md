@@ -4,7 +4,7 @@ description: "DSE 歷史科（History）近年報考人數雖然唔算最多，�
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: DSE Hub
+author: DSE知識庫編輯部
 tags:
   - DSE
   - 歷史

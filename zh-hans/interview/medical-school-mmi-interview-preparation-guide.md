@@ -4,7 +4,7 @@ description: "香港大学医学院（HKU）与香港中文大学医学院（CUH
 lang: zh-hans
 category: interview
 date: 2026-04-15
-author: Raymond
+author: DSE知识库编辑部
 tags:
   - HKU
   - CUHK

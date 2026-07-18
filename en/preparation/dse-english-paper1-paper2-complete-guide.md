@@ -4,7 +4,7 @@ description: "Comprehensive guide to HKDSE English Language Paper 1 (Reading) an
 lang: en
 category: preparation
 date: 2026-04-15
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 tags:
   - HKDSE
   - English

@@ -1,7 +1,7 @@
 ---
 title: "DSE中国语文完全攻略：内地学生备考指南 2026"
 description: "全面解析DSE中国语文四份试卷结构（阅读30%、写作30%、聆听综合20%、SBA 20%），分析内地普通话母语学生的备考挑战，提供2025历届成绩数据与冲刺Level 5**策略。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

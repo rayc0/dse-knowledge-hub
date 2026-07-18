@@ -4,7 +4,7 @@ description: "A complete 2026 guide to studying European Studies, French and Ger
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong European Studies / French / German Bachelor Complete Guide 2026

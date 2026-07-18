@@ -4,7 +4,7 @@ description: "DSE 与国际／内地学生申请香港教育学士（BEd）必�
 lang: zh-hans
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港教育学士（BEd）完整指南 2026

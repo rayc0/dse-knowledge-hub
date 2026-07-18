@@ -4,7 +4,7 @@ description: 内地DSE考生必读：HKDSE英文Paper 1（阅读）与Paper 2（
 lang: zh-hans
 category: preparation
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE英文卷一阅读与卷二写作完整备考指南：题型剖析、高分技巧与时间分配 2026

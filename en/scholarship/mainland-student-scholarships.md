@@ -4,7 +4,7 @@ description: "Complete 2026 guide to scholarships for mainland Chinese students 
 lang: en
 category: scholarship
 date: 2026-04-15
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 tags: [scholarships, mainland-students, HKU, CUHK, HKUST, PolyU, belt-and-road, financial-aid]
 ---
 

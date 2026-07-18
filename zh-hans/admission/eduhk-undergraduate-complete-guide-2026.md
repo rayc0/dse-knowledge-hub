@@ -4,7 +4,7 @@ description: "2026 年度香港教育大学（EdUHK）本科完整指南：QS �
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港教育大学（EdUHK）本科完整指南 2026：师范教育亚洲第四、内地高考与非联招申请、学费、王牌专业与就业前景

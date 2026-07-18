@@ -4,7 +4,7 @@ description: "What do Hong Kong university graduates actually earn? A data-drive
 lang: en
 category: career
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong University Graduate Employment & Starting Salary Guide 2026

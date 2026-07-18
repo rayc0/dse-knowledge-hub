@@ -4,7 +4,7 @@ description: Thinking of studying Chinese Medicine in Hong Kong? This in-depth g
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 Hong Kong is one of the very few cities in the world that integrates traditional Chinese Medicine (CM) into both formal university education and the public healthcare system. Following the enactment of the Chinese Medicine Ordinance in 1999 and the establishment of the Chinese Medicine Council of Hong Kong, the city has built a rigorous undergraduate, master's and doctoral pipeline for CM, anchored by three publicly funded universities - Hong Kong Baptist University (HKBU), The Chinese University of Hong Kong (CUHK) and The University of Hong Kong (HKU) - each offering a six-year, full-time Bachelor of Chinese Medicine double-degree programme. For DSE students, mainland Gaokao candidates and international applicants who want a profession that fuses classical CM theory with modern biomedical science, Hong Kong's CM bachelor's pathway is genuinely distinctive: bilingual, internationally portable, and tied to a regulated, government-recognised practice in a global city. This guide breaks down programme structures, entrance requirements, tuition, internship arrangements and post-graduation licensing for the 2026 intake.

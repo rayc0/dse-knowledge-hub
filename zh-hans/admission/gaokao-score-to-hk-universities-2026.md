@@ -4,7 +4,7 @@ description: 用高考分数（超一本线 / 特殊类型线多少分）对应�
 lang: zh-hans
 category: admission
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 高考多少分能上香港的大学？香港八大 2026 内地招生分数线与选校定位完整指南

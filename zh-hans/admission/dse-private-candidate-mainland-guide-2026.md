@@ -1,7 +1,7 @@
 ---
 title: "内地学生以自修生身份报考香港 DSE 完整指南 2026（资格新规·流程·费用·时间线）"
 description: "2026 年起香港 DSE 自修生报考资格大幅收紧。本文为内地学生详解最新自修生资格两大类别、19 岁年龄线、未满 19 岁首次报考的特殊报考申请、所需学籍证明材料、报名时间线与全套费用，并附常见误区与升学衔接策略。"
-author: "the editorial team AI editorial team"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "admission"
 last_updated: "2026-05-18"

@@ -4,7 +4,7 @@ description: "Comprehensive 2026 guide to studying Computer Science in Hong Kong
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Computer Science Bachelor Complete Guide 2026: HKU, CUHK, HKUST, PolyU, CityU — JUPAS Scores, Curriculum, AI & Cybersecurity Tracks

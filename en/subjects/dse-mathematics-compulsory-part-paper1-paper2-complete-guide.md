@@ -4,7 +4,7 @@ description: "A full breakdown of the HKDSE Mathematics Compulsory Part for 2026
 lang: en
 category: subjects
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 Mathematics Compulsory Part is one of the four HKDSE core subjects every Hong Kong secondary school student must sit, alongside Chinese Language, English Language and Citizenship & Social Development. For most JUPAS programmes, the Mathematics grade is just as load-bearing as English: a Level 2 is the bare minimum to keep your "3322" alive, and competitive degrees in business, engineering, science and medicine routinely demand Level 4 or Level 5. This guide walks 2026 candidates through what Paper 1 and Paper 2 actually look like, how marks are distributed, which topics carry the most weight, and how to plan a focused revision cycle without wasting time on low-yield drills.

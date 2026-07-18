@@ -4,7 +4,7 @@ description: "2026 年港八大新闻、传播与媒体学士完整指南：JUPA
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港新闻传播与媒体学士完整指南 2026

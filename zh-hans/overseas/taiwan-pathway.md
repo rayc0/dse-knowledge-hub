@@ -1,7 +1,7 @@
 ---
 title: "台湾升学完整指南 2026：海外联招、评点制与留台出路"
 description: "2026年台湾大学申请完整攻略 — 海外联招制度、学费、奖学金、毕业留台就业路径。DSE考生与海外华人学生参考指南。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"

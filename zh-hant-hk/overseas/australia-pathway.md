@@ -4,7 +4,7 @@ description: "香港 DSE 考生升讀澳洲大學完整指南：G8 名校排名�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-14
-author: Vivian Lam
+author: DSE知識庫編輯部
 ---
 
 # 澳洲升學完整指南 2026：八大名校、費用、簽證、就業與移民全解

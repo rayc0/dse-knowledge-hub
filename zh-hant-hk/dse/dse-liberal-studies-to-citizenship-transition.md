@@ -4,7 +4,7 @@ description: "香港高中課程由通識教育科 (Liberal Studies) 改革為�
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: DSE 知識中樞
+author: DSE知識庫編輯部
 tags: [DSE, 通識科, 公民與社會發展科, 課程改革, 香港教育, 內地考察]
 ---
 

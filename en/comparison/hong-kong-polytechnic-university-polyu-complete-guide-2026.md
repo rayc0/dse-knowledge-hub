@@ -4,7 +4,7 @@ description: "A complete 2026 guide to The Hong Kong Polytechnic University (Pol
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # The Hong Kong Polytechnic University (PolyU) Complete Guide 2026

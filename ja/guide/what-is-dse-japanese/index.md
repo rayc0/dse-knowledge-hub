@@ -1,7 +1,7 @@
 ---
 title: "DSEとは何か？日本の学生のための完全ガイド：センター試験との比較・採点システム・大学進学"
 description: "DSE（香港中学文凭試験）完全ガイド（日本語）— DSEの歴史（HKCEE・HKAL廃止の背景）、採点システムの詳細解説、日本のセンター試験・共通テストとの比較、日本人学生がDSEで目指せる香港大学、国際的な認知度"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "guide"
 last_updated: "2026-05-13"

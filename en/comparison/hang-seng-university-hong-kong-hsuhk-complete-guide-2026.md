@@ -4,7 +4,7 @@ description: Comprehensive guide to The Hang Seng University of Hong Kong (HSUHK
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # The Hang Seng University of Hong Kong (HSUHK) Complete Guide 2026

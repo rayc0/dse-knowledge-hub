@@ -4,7 +4,7 @@ description: "Complete 2026 roadmap for DSE and Mainland applicants to Hong Kong
 lang: en
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Actuarial Science Bachelor Complete Guide 2026

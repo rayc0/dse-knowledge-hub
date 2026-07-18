@@ -4,7 +4,7 @@ description: "A complete 2026 guide to Hong Kong's Lingnan University (LU) for H
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Lingnan University (LU) Complete Guide 2026

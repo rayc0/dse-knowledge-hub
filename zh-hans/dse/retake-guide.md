@@ -1,7 +1,7 @@
 ---
 title: "DSE 重考完整指南：重读 vs 自修、策略、成本与替代路径"
 description: "DSE重考全攻略 — 重读与自修对比、费用明细、报名流程、JUPAS评分政策、替代升学路径。适用于大陆DSE考生。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "dse"
 last_updated: "2026-04-17"

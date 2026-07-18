@@ -1,7 +1,7 @@
 ---
 title: "JUPAS 是什么？大陆学生需要了解吗？联招完整解析 2026"
 description: "JUPAS（大学联合招生办法）是香港本地生申请大学的核心通道。大陆学生几乎不走 JUPAS——本文解释为什么，以及哪些大陆/内地学生例外，附 JUPAS vs Non-JUPAS 对比表、2026 关键时间线。"
-author: "the editorial team AI editorial team"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "admission"
 last_updated: "2026-04-12"

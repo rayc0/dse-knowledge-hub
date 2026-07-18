@@ -4,7 +4,7 @@ description: "Everything DSE and international students need to know about study
 lang: en
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Education Bachelor (BEd) Complete Guide 2026

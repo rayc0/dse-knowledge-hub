@@ -4,7 +4,7 @@ description: 面向香港DSE考生的荷兰本科申请完整路径，涵盖U类
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生荷兰留学申请指南 2026

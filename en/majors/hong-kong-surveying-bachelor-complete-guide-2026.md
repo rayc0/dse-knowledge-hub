@@ -4,7 +4,7 @@ description: A complete guide to Hong Kong's two JUPAS surveying bachelor progra
 lang: en
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Surveying Bachelor Complete Guide 2026 - HKU JS6016, PolyU JS3789, HKIS Six Divisions, RICS Dual Membership, APC Assessment of Professional Competence and Government Quantity Surveyor Starting Salary

@@ -1,7 +1,7 @@
 ---
 title: "DSE 윤리·종교학（Ethics & Religious Studies）완전 가이드: 시험 구성과 대책"
 description: "한국어로 작성된 DSE 윤리·종교학（ERS）완전 가이드 — 시험 구성（Paper 1 윤리 추론/Paper 2 종교·가치관 논술）, 공리주의/의무론/생명윤리/세계종교 비교, 수능 생활과 윤리/윤리와 사상 vs DSE ERS 비교, 한국 기독교/불교 비중·홍콩 기독교 학교 공통점, 유교 윤리 파트에서 한국 유교 전통의 강점, Level 4 이상 대책"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-19"

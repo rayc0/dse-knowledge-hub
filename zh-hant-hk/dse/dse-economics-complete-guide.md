@@ -4,7 +4,7 @@ description: "由香港中學生視角出發的 DSE 經濟科全面指南 — �
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: Thomas Ho
+author: DSE知識庫編輯部
 tags:
   - DSE Economics
   - 經濟

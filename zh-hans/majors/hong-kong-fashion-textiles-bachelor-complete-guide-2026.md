@@ -4,7 +4,7 @@ description: "香港理工大学时装与纺织学院（SFT）是亚洲排名第
 lang: zh-hans
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港时装与纺织本科完整指南 2026

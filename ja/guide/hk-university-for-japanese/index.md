@@ -1,7 +1,7 @@
 ---
 title: "日本人学生が香港の大学に進学する方法：国際入試・DSE・奨学金完全ガイド"
 description: "日本人学生向け香港大学進学ガイド（日本語）— 国際生入試ルート（Non-JUPASと異なる国際入学）、DSEを日本人が受験する方法（プライベート候補生として）、HKUST・HKU英語学位プログラム、日本との学費比較、国際生奨学金、GBA・金融ハブとしてのキャリアメリット"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "guide"
 last_updated: "2026-05-13"

@@ -4,7 +4,7 @@ description: "为 DSE 与内地考生设计的 2026 香港物流与供应链管�
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港物流与供应链管理学士完整指南 2026

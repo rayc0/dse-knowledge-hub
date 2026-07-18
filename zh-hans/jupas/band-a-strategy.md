@@ -1,7 +1,7 @@
 ---
 title: "JUPAS Band A 选科终极策略：怎样填最有利？"
 description: "JUPAS Band A排序策略完整解析 — 各校计分规则、冲/稳/保梯度法、案例分析、放榜后改选流程。大陆DSE考生必读。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "jupas"
 last_updated: "2026-04-17"

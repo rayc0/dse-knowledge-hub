@@ -4,7 +4,7 @@ description: "全面解析香港修读韩国研究的本科路径：HKU School o
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港韩国研究本科完整指南 2026

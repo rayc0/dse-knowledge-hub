@@ -4,7 +4,7 @@ description: "面向 DSE 考生与内地、国际申请者的 2026 年香港数�
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港数据科学与人工智能学士完整指南 2026

@@ -4,7 +4,7 @@ description: "A practical day-by-day, subject-by-subject logistics guide to the 
 lang: en
 category: exam
 date: 2026-04-15
-author: Raymond
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE
   - exam logistics

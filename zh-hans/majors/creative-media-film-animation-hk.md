@@ -4,7 +4,7 @@ description: 详解香港城市大学创意媒体学院、浸会大学电影学�
 lang: zh-hans
 category: majors
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港八大创意媒体、电影与动画专业完整申请指南 2026 — 大陆学生版

@@ -1,7 +1,7 @@
 ---
 title: "DSE 디자인과 응용기술（D&AT）완전 가이드: 시험 구성과 대책"
 description: "한국어로 작성된 DSE 디자인과 응용기술（D&AT）완전 가이드 — 시험 구성（Paper 1 이론/Paper 2 설계 프로세스/SBA 설계 프로젝트）, 디자인 씽킹/소재과학/전자회로/지속가능한 디자인, 한국 기술·가정 vs DSE D&AT 비교, 한국 산업디자인 강국 이미지, 삼성 산업디자인 vs PolyU 디자인, 홍익대 비교, SBA 포트폴리오 평가"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "subjects"
 last_updated: "2026-04-19"

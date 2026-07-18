@@ -1,7 +1,7 @@
 ---
 title: "香港八大商科「神科」完整申请指南 2026 — 港大 IBGM／计量金融、中大环球商业、科大环球商业深度拆解"
 description: "港大 BBA(IBGM)、BSc(QFin)、中大环球商业学（GBUS）、科大环球商业（GBUS）是香港竞争最激烈的精英商科课程，每届只收 25–60 人。本文为大陆高考生与国际课程学生拆解这些「神科」的课程结构、2026 录取门槛、面试要求、奖学金与就业出路。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "majors"
 last_updated: "2026-05-18"

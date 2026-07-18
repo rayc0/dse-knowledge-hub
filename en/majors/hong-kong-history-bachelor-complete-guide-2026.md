@@ -4,7 +4,7 @@ description: "A definitive 2026 guide to BA History programmes in Hong Kong via 
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong History Bachelor Complete Guide 2026

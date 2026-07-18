@@ -1,7 +1,7 @@
 ---
 title: "DSEデザインと応用技術（D&AT）完全ガイド：日本人受験生のための試験構成と対策"
 description: "日本語によるDSEデザインと応用技術（D&AT）完全ガイド — 試験構成（Paper 1理論/Paper 2設計プロセス/SBA設計プロジェクト）、設計思考/材料科学/電子回路/持続可能な設計、日本の技術科との比較、SBAポートフォリオ評価、PolyU工業デザインへの活用"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-19"

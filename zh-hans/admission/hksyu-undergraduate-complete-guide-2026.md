@@ -4,7 +4,7 @@ description: "全面解析香港树仁大学（Hong Kong Shue Yan University）2
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港树仁大学（HKSYU）本科完整指南 2026

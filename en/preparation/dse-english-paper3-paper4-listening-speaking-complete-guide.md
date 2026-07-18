@@ -4,7 +4,7 @@ description: "A full strategy guide to the two highest-leverage HKDSE English pa
 lang: en
 category: preparation
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # DSE English Paper 3 (Listening & Integrated Skills) & Paper 4 (Speaking) Complete Guide 2026

@@ -4,7 +4,7 @@ description: "2026 年香港金融科技学士学位全面指南。比较中大 
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港金融科技（FinTech）本科完整指南 2026

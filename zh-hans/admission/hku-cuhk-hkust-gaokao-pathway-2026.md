@@ -4,7 +4,7 @@ description: "香港三所顶尖名校（HKU 港大、CUHK 中大、HKUST 科大
 lang: zh-hans
 category: admission
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 港大、中大、科大大陆高考生录取完整指南 2026

@@ -4,7 +4,7 @@ description: "2026 年报读香港创意媒体专业完整攻略：聚焦城市�
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港创意媒体学士完整指南 2026：城大创意媒体学院 — JS1041、JS1042、JS1043

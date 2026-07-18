@@ -1,7 +1,7 @@
 ---
 title: "香港八大留学一年总开销详解（学费+住宿+生活+保险）2026"
 description: "2025-2026 学年香港八大（HKU/CUHK/HKUST/PolyU/CityU/HKBU/EdUHK/LU）内地生实际总开销逐项拆解：学费、宿舍、饮食、交通、保险、签证、隐藏费用全收录，并与英国、澳洲、新加坡对比。引用各大学官方收费表。"
-author: "the editorial team AI editorial team"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "costs"
 last_updated: "2026-04-11"

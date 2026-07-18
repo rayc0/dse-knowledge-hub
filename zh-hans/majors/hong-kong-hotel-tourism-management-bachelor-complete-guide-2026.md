@@ -4,7 +4,7 @@ description: "面向内地高考生与 DSE 考生的全面指南：PolyU 酒店�
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港酒店及旅游管理本科完整指南 2026

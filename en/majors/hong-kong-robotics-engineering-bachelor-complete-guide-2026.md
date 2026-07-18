@@ -4,7 +4,7 @@ description: "Definitive 2026 guide to robotics engineering bachelor pathways in
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Robotics Engineering Bachelor Complete Guide 2026

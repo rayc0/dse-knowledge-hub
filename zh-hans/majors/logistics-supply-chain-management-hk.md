@@ -4,7 +4,7 @@ description: 2026 年香港物流与供应链管理本科最全解析：理大 J
 lang: zh-hans
 category: majors
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港物流与供应链管理本科完整指南 2026

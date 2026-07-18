@@ -4,7 +4,7 @@ description: "香港博士奖学金计划 HKPFS 2026/27 完整解析：申请条
 lang: zh-hans
 category: postgrad
 date: 2026-05-03
-author: "DSE 升学知识库"
+author: DSE知识库编辑部
 ---
 
 # 香港博士奖学金 HKPFS 完整申请指南 2026/27：申请条件、研究计划、套磁导师与院校选择

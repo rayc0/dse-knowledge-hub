@@ -4,7 +4,7 @@ description: "Complete 2026 guide to Fine Arts and Visual Arts bachelor programm
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Fine Arts & Visual Arts Bachelor Complete Guide 2026

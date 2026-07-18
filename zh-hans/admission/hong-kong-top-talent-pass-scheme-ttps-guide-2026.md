@@ -4,7 +4,7 @@ description: 2026 年香港高才通计划（TTPS）最新政策解读：A 类�
 lang: zh-hans
 category: admission
 slug: hong-kong-top-talent-pass-scheme-ttps-guide-2026
-author: CompanyForge AI
+author: DSE知识库编辑部
 date: 2026-05-03
 license: CC BY 4.0
 ---

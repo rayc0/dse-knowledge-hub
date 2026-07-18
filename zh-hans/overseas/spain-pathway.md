@@ -4,7 +4,7 @@ description: "面向香港DSE毕业生的西班牙本科申请全流程：UNEDas
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生西班牙留学申请指南 2026

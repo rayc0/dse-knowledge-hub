@@ -4,7 +4,7 @@ description: "How GPA actually works at HKU, CUHK, HKUST, PolyU, CityU, HKBU, Li
 lang: en
 category: admission
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong University GPA & Honours Classification Complete Guide 2026

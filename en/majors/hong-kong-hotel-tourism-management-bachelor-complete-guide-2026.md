@@ -4,7 +4,7 @@ description: "A complete 2026 guide to Hong Kong's hotel, tourism and hospitalit
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Hotel and Tourism Management Bachelor's Programmes Complete Guide 2026

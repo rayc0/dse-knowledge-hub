@@ -4,7 +4,7 @@ description: Hong Kong's only direct-registration dental degree - HKU Faculty of
 lang: en
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Dental Surgery Bachelor (HKU JS6107) Complete Guide 2026: Six-Year BDS, Dental Council Registration, One-Year Internship, Department of Health Salary Scales

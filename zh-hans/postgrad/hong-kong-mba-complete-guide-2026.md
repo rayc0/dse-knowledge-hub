@@ -4,7 +4,7 @@ description: "全面解析香港三大顶尖MBA项目（科大、中大、港大
 lang: zh-hans
 category: postgrad
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港MBA完整指南 2026：HKUST、CUHK、HKU 三大商学院申请、学费、就业与投资回报对比

@@ -4,7 +4,7 @@ description: "内地学生到香港读书，除了学业之外，最常碰到的
 lang: zh-hans
 category: life
 date: 2026-04-15
-author: DSE Hub
+author: DSE知识库编辑部
 tags:
   - 香港留学
   - 内地学生

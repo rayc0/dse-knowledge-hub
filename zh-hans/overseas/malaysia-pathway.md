@@ -4,7 +4,7 @@ description: "香港DSE考生申请马来西亚大学的完整路径：Monash、
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生马来西亚留学申请指南：双联课程、英国澳洲分校与学生准证完整解读 2026

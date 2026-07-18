@@ -4,7 +4,7 @@ description: "2026 香港历史学（BA History）本科完整指南：港大、
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港历史学学士完整指南 2026

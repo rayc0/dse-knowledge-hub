@@ -4,7 +4,7 @@ description: "内地学生在香港参加 DSE 考试后，除了本地 JUPAS 录
 lang: zh-hans
 category: overseas
 date: 2026-04-15
-author: DSE Hub
+author: DSE知识库编辑部
 tags:
   - 英国留学
   - UCAS

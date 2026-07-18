@@ -4,7 +4,7 @@ description: "Complete guide for Hong Kong DSE students applying to Japanese uni
 lang: en
 category: overseas
 date: 2026-05-02
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Japan University Pathway for DSE Students: EJU, English-Taught Programmes, MEXT Scholarship and Visa Guide 2026

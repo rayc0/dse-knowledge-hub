@@ -4,7 +4,7 @@ description: The complete 2026 admission guide to Hong Kong's two UGC-funded Bac
 lang: en
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Pharmacy Bachelor Complete Guide 2026: HKU JS6494, CUHK JS4525, Four-Year BPharm, Pharmacy and Poisons Board Registration, Hospital Authority Pharmacist Salary Scales

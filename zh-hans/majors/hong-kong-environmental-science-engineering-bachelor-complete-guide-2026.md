@@ -4,7 +4,7 @@ description: "2026 年报考香港环境科学（Environmental Science）与环�
 lang: zh-hans
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港环境科学与环境工程本科完整指南 2026

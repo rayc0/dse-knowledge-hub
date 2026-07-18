@@ -4,7 +4,7 @@ description: "DSE 与内地考生申请香港精算学（Actuarial Science）学
 lang: zh-hans
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港精算学学士学位完整指南 2026

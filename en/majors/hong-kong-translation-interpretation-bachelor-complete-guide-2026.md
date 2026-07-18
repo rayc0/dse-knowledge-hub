@@ -4,7 +4,7 @@ description: "A complete 2026 guide to studying Translation and Interpretation a
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Translation & Interpretation Bachelor Complete Guide 2026

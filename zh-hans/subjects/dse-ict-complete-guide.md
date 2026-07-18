@@ -1,7 +1,7 @@
 ---
 title: "DSE资讯与通讯科技（ICT）完全指南：试卷结构、编程与SBA项目"
 description: "全面解析DSE ICT科目的试卷结构、核心知识点、编程语言要求、SBA项目策略，以及内地生的竞争优势与备考建议。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

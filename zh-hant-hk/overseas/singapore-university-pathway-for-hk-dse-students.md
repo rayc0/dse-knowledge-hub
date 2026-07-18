@@ -4,7 +4,7 @@ description: "完整指南：香港 DSE 學生如何申請新加坡國立大學�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-15
-author: DSE 知識庫
+author: DSE知識庫編輯部
 tags:
   - 新加坡升學
   - NUS

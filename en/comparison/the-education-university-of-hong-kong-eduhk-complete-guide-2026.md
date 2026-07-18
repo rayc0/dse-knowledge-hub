@@ -4,7 +4,7 @@ description: "Comprehensive 2026 guide to The Education University of Hong Kong 
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # The Education University of Hong Kong (EdUHK) Complete Guide 2026

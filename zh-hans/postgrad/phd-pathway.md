@@ -4,7 +4,7 @@ description: "大陆学生申请香港八大博士（PhD）的完整指南：RPG
 lang: zh-hans
 category: postgrad
 date: 2026-04-14
-author: "DSE 升学知识库"
+author: DSE知识库编辑部
 ---
 
 # 港校博士申请完整指南：RPG/TPG、奖学金、导师联系 2026

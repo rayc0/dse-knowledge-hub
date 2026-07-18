@@ -4,7 +4,7 @@ description: "深度对比香港七所自资专上院校（恒生大学、都会
 lang: zh-hans
 category: comparison
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港自资院校 2026 完整指南：恒大、都大、树仁、珠海、明爱、东华——内地生择校与申请策略

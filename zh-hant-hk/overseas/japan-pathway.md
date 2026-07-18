@@ -5,7 +5,7 @@ lang: zh-hant-hk
 category: overseas
 slug: japan-pathway
 date: 2026-04-17
-author: the editorial team AI
+author: DSE知識庫編輯部
 tags:
   - 日本升學
   - EJU

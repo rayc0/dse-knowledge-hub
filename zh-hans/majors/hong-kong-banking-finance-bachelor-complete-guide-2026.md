@@ -4,7 +4,7 @@ description: 2026 年 JUPAS 申请香港银行与金融（Banking and Finance）
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港银行与金融本科完整指南 2026：港大 BBA(Fin)、科大 JS5312、中大 IBBA JS4202、城大 JS1014、理大 JS3060 — JUPAS 收生分数、课程结构与投行/金管局就业出路

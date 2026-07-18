@@ -4,7 +4,7 @@ description: "Complete 2026 roadmap for DSE and Mainland applicants to mathemati
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Mathematics & Statistics Bachelor Complete Guide 2026

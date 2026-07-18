@@ -4,7 +4,7 @@ description: "Complete guide for Hong Kong DSE students applying to Korean unive
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Korea University Pathway for DSE Students: TOPIK, English-Taught Programmes, GKS Scholarship and D-2 Visa Guide 2026

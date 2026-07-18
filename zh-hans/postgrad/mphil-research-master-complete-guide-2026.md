@@ -4,7 +4,7 @@ description: "面向内地学生的香港 MPhil（哲学硕士 / Master of Philo
 lang: zh-hans
 category: postgrad
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港 MPhil 研究型硕士完整指南 2026：港大、中大、科大申请条件、学费、奖学金与博士衔接策略

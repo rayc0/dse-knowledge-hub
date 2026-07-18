@@ -4,7 +4,7 @@ description: "Comprehensive guide to HKDSE Physics for local and international s
 lang: en
 category: subjects
 date: 2026-04-15
-author: Thomas Ho
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE Physics
   - HKDSE

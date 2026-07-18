@@ -1,7 +1,7 @@
 ---
 title: "不考高考也能上港八大？非高考路径完整解析 2026"
 description: "大陆学生不参加高考也能申请香港八大。本文解析五大非高考路径：DSE 自修生、IB/A-Level/SAT 国际课程、副学士 2+2、港澳台联考、预科先修。附各校录取分数、申请时间线、费用对比。"
-author: "the editorial team AI editorial team"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "admission"
 last_updated: "2026-04-11"

@@ -4,7 +4,7 @@ description: "Complete 2026 guide to studying Korean at Hong Kong universities: 
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Korean Studies Bachelor Complete Guide 2026

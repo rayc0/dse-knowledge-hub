@@ -4,7 +4,7 @@ description: "Definitive 2026 guide to studying Law in Hong Kong. Compare HKU, C
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Bachelor of Laws (LLB) Complete Guide 2026

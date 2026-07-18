@@ -4,7 +4,7 @@ description: "专为在香港就读的内地学生设计的心理健康指南。
 lang: zh-hans
 category: life
 date: 2026-04-15
-author: Editorial Team
+author: DSE知识库编辑部
 tags:
   - 心理健康
   - 内地生

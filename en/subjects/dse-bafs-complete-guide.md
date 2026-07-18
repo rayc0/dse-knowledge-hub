@@ -4,7 +4,7 @@ description: "DSE BAFS (Business, Accounting and Financial Studies) is a popular
 lang: en
 category: subjects
 date: 2026-04-15
-author: Vivian Lam
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE
   - BAFS

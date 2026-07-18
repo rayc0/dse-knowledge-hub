@@ -4,7 +4,7 @@ description: "全面解析 2026 年香港中文系学士课程：中大 JS4031 �
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港中国语言及文学学士完整指南 2026

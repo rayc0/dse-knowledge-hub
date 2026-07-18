@@ -4,7 +4,7 @@ description: "HKDSE 化學科完整備考指南：課程大綱、必修與選修
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: DSE 知識中心
+author: DSE知識庫編輯部
 tags:
   - HKDSE
   - 化學

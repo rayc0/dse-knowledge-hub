@@ -4,7 +4,7 @@ description: 面向内地与本地学生的香港翻译/传译学士全攻略—
 lang: zh-hans
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港翻译与传译本科完整指南 2026：JUPAS 选校、收生要求、就业前景

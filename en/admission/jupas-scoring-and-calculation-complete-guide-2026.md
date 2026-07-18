@@ -4,7 +4,7 @@ description: "Comprehensive 2026 guide to how JUPAS scores are calculated — 4C
 lang: en
 category: admission
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # JUPAS Scoring and Calculation Complete Guide 2026

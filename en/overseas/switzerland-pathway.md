@@ -4,7 +4,7 @@ description: "Complete 2026 guide for Hong Kong DSE students applying to Swiss p
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 Switzerland is one of the most academically prestigious — and most misunderstood — destinations for Hong Kong DSE students. The country hosts two universities consistently ranked inside the world's top 30 (ETH Zurich and EPFL), public tuition is a small fraction of UK or US fees, and English-taught master's degrees are the norm at the federal institutes of technology. At the same time, Swiss bachelor's admission for HKDSE holders is genuinely tight, the cost of living is among the highest in the world, and the national D visa for Hong Kong passport holders is a slow process that needs to be started months in advance.

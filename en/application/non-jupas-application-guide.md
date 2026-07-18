@@ -4,7 +4,7 @@ description: "Complete guide to Non-JUPAS applications at Hong Kong's eight UGC-
 lang: en
 category: application
 date: 2026-04-15
-author: Michael Chan
+author: DSE Knowledge Hub Editorial Team
 tags: [non-JUPAS, international-students, mainland-students, HKU, CUHK, HKUST, admission]
 ---
 

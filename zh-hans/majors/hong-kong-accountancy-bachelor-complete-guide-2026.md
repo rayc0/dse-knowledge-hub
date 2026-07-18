@@ -4,7 +4,7 @@ description: 面向内地与本地学生的香港会计学士全攻略——港�
 lang: zh-hans
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港会计本科完整指南 2026：JUPAS 选校、HKICPA 认可、四大就业路径

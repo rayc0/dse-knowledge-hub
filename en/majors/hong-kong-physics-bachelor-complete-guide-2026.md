@@ -4,7 +4,7 @@ description: "Comprehensive 2026 guide to studying Physics in Hong Kong — JUPA
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Physics Bachelor Complete Guide 2026: HKU, CUHK, HKUST, CityU — JUPAS Scores, Curriculum, Quantum Tracks & Careers

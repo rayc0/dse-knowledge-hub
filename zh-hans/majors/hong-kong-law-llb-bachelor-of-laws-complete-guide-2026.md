@@ -4,7 +4,7 @@ description: "2026 年香港修读法律最权威的中文指南。深度比较�
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港法律学士 LLB 本科完整指南 2026

@@ -1,7 +1,7 @@
 ---
 title: "香港大學文科及人文學科指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學文科及人文課程，包括HKU、CUHK、HKBU的課程特色、收生要求、個人陳述撰寫技巧及職業出路，幫助DSE學生作出明智選擇。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"

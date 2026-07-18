@@ -4,7 +4,7 @@ description: "香港中学文凭考试（HKDSE）与中国高考全面对比。�
 lang: zh-hans
 category: comparison
 date: 2026-04-15
-author: Raymond
+author: DSE知识库编辑部
 tags:
   - DSE
   - 高考

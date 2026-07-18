@@ -4,7 +4,7 @@ description: "面向香港DSE考生的意大利本科申请全流程指南，涵
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生意大利留学申请指南：Marco Polo计划、国际生通道、Universitaly与18个月待业居留完整解读 2026

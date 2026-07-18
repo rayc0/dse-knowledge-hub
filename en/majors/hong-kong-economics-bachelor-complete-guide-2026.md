@@ -4,7 +4,7 @@ description: "A full 2026 guide to studying Economics at Hong Kong's top univers
 lang: en
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Economics Bachelor Complete Guide 2026

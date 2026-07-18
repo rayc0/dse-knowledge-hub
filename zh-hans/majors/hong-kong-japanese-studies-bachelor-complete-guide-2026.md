@@ -4,7 +4,7 @@ description: 2026 年香港日本研究本科完整指南。涵盖港大 BA JS60
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港日本研究本科完整指南 2026 — HKU JS6054、CUHK JS4068、JLPT 与日资企业就业路径

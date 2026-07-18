@@ -4,7 +4,7 @@ description: A complete 2026 guide for Hong Kong DSE candidates considering Maca
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Macau Pathway for DSE Students: University of Macau, MUST, Macao Polytechnic English-Taught Programmes and Stay Permit Guide 2026

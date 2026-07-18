@@ -4,7 +4,7 @@ description: "A 2026 deep dive into Hong Kong's biotechnology and biomedical sci
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Biotechnology & Biomedical Sciences Bachelor Complete Guide 2026

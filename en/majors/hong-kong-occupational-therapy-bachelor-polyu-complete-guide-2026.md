@@ -4,7 +4,7 @@ description: "A comprehensive 2026 guide to PolyU's BSc (Hons) in Occupational T
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Occupational Therapy Bachelor (PolyU JS3624) Complete Guide 2026

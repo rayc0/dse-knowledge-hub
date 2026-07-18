@@ -4,7 +4,7 @@ description: "港大、中大、理大、浸大、城大五大资助 BSW 课程�
 lang: zh-hans
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港社会工作（荣誉）学士完整指南 2026

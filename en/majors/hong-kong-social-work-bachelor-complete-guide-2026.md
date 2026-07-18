@@ -4,7 +4,7 @@ description: Full 2026 admission guide to Hong Kong's five UGC-funded Bachelor o
 lang: en
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Social Work Bachelor Complete Guide 2026: HKU JS6731, CUHK JS4874, PolyU JS3250, HKBU JS2660, CityU JS1113, SWRB Registration, ASWO Starting Salary HKD 36,850

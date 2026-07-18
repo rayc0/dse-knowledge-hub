@@ -4,7 +4,7 @@ description: "全面解析香港各大学护理学本科课程 — 包括港大�
 lang: zh-hans
 category: majors
 date: 2026-04-15
-author: DSE 知识库
+author: DSE知识库编辑部
 tags:
   - 护理学
   - 香港大学

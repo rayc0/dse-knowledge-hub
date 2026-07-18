@@ -4,7 +4,7 @@ description: "Comprehensive 2026 guide to Financial Technology bachelor's degree
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong FinTech (Financial Technology) Bachelor Complete Guide 2026

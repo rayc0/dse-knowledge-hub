@@ -4,7 +4,7 @@ description: "Comprehensive 2026 guide to nursing bachelor's degrees in Hong Kon
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Nursing Bachelor's Programmes Complete Guide 2026

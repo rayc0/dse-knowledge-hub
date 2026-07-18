@@ -4,7 +4,7 @@ description: "Complete 2026 guide to studying Fashion in Hong Kong: PolyU JS3050
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Fashion Design Bachelor Complete Guide 2026: PolyU JS3050 — JUPAS Scores, Five Specialisms, Portfolio, Careers

@@ -4,7 +4,7 @@ description: "A complete 2026 guide to City University of Hong Kong (CityUHK): Q
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # City University of Hong Kong (CityU) Complete Guide 2026

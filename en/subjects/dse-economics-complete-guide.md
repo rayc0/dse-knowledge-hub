@@ -4,7 +4,7 @@ description: "A comprehensive guide to HKDSE Economics (Elective) for 2026 candi
 lang: en
 category: subjects
 date: 2026-04-15
-author: Thomas Ho
+author: DSE Knowledge Hub Editorial Team
 tags: [DSE, Economics, elective, HKDSE, study-guide, Paper-1, Paper-2]
 ---
 

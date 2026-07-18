@@ -4,7 +4,7 @@ description: "Complete 2026 guide to Hong Kong permanent residence (right of abo
 lang: en
 category: visa
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Permanent Residence Pathway for International Students: 7-Year Rule, ROP145 Application and Common Pitfalls 2026

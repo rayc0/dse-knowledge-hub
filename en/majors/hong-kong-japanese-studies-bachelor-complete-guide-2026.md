@@ -4,7 +4,7 @@ description: "Complete 2026 guide to Hong Kong's Japanese Studies bachelor pathw
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Japanese Studies Bachelor Complete Guide 2026

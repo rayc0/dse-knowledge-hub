@@ -4,7 +4,7 @@ description: "面向香港DSE考生的法国本科申请全流程指南，涵盖
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生法国留学申请指南：Études en France系统、英文授课本科、Grandes Écoles与VLS-TS签证完整解读 2026

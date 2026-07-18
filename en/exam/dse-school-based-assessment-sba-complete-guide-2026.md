@@ -4,7 +4,7 @@ description: "What School-Based Assessment is in the HKDSE, which subjects carry
 lang: en
 category: exam
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # HKDSE School-Based Assessment (SBA) Complete Guide 2026

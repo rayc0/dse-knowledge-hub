@@ -4,7 +4,7 @@ description: "A full guide to HKDSE Citizenship and Social Development for 2026 
 lang: en
 category: subjects
 date: 2026-05-18
-author: Thomas Ho
+author: DSE Knowledge Hub Editorial Team
 tags: [DSE, Citizenship-and-Social-Development, CSD, core-subject, HKDSE, Liberal-Studies, study-guide]
 ---
 

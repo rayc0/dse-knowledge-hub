@@ -4,7 +4,7 @@ description: "Complete guide to the Hong Kong Student Visa for international stu
 lang: en
 category: visa
 date: 2026-04-14
-author: Editorial Team
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Student Visa Complete Guide 2026 — Application, Requirements, Processing Times

@@ -4,7 +4,7 @@ description: 2026/27 学年香港浸会大学（HKBU）本科最新申请指南�
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港浸会大学（HKBU）本科完整指南 2026

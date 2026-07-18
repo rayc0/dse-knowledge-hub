@@ -1,7 +1,7 @@
 ---
 title: "DSE倫理・宗教学（Ethics & Religious Studies）完全ガイド：日本人受験生のための試験構成と対策"
 description: "日本語によるDSE倫理・宗教学（ERS）完全ガイド — 試験構成（Paper 1倫理推論/Paper 2宗教・価値観論述）、功利主義/義務論/生命倫理/世界宗教比較、日本の倫理・現代社会との比較、香港キリスト教学校文化背景、Level 4以上対策"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-19"

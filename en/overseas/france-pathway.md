@@ -4,7 +4,7 @@ description: "Complete guide for Hong Kong DSE students applying to French unive
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # France Pathway for DSE Students: Études en France, English-Taught Programmes, Tuition and VLS-TS Visa Guide 2026

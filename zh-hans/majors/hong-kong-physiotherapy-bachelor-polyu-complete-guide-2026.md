@@ -4,7 +4,7 @@ description: "香港理工大学 PolyU JS3636 物理治疗（荣誉）理学士�
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港物理治疗（荣誉）理学士完整指南 2026：理大 JS3636 全景解读

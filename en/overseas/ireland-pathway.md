@@ -4,7 +4,7 @@ description: "Complete guide for HKDSE students applying to Irish universities i
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Ireland Pathway for DSE Students: Trinity College Dublin, UCD, English-Taught Programmes and Stamp 1G Graduate Visa Guide 2026

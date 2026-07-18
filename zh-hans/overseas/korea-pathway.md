@@ -1,7 +1,7 @@
 ---
 title: "DSE生赴韩升学路径：SKY大学申请、韩文要求与香港学生录取实况"
 description: "DSE学生赴韩升学完整指南（简体中文）— 韩国顶尖大学（首尔大学/延世/高丽）的国际生招募计划、DSE成绩被接受的情况、韩文语言要求（TOPIK等级）vs英文授课项目、留学费用（学费+生活费年均30-45万港幣）、韩国政府奖学金（GKS/KGSP）申请资格、香港到韩国的文化适应、毕业后就业情况（韩国工作签证/香港韩国企业）"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-18"

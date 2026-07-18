@@ -4,7 +4,7 @@ description: "Complete guide for Hong Kong DSE students applying to Swedish univ
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Sweden Pathway for DSE Students: universityadmissions.se Single Application, English-Taught Bachelor Programmes and Residence Permit Guide 2026

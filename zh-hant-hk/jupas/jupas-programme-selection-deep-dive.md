@@ -4,7 +4,7 @@ description: "由自我評估、課程比較、收生分數分析到 Band A/B/C 
 lang: zh-hant-hk
 category: jupas
 date: 2026-04-15
-author: Raymond
+author: DSE知識庫編輯部
 tags:
   - JUPAS
   - DSE

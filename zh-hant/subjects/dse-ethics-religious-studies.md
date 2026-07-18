@@ -1,7 +1,7 @@
 ---
 title: "DSE 倫理與宗教科（E&RS）完全攻略 2026：課程結構、試卷分析、模組選擇與應試策略"
 description: "DSE 倫理與宗教科（Ethics & Religious Studies，E&RS）備考完整指南 — 卷一倫理（規範倫理學+應用倫理）與卷二宗教傳統（佛教模組 vs 基督教開卷模組）深度解析，SBA 校本評核要求、評分比重、歷屆試題分析及兩年備考時間表"
-author: "the editorial team AI 編輯團隊"
+author: DSE知識庫編輯部
 tags: ["DSE", "倫理與宗教", "E&RS", "Ethics", "Religious Studies", "選修科", "應試策略"]
 language: "zh-hant"
 last_updated: "2026-04-18"

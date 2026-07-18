@@ -4,7 +4,7 @@ description: "Complete 2026 guide to studying Linguistics at Hong Kong universit
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Linguistics Bachelor Complete Guide 2026

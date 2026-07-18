@@ -4,7 +4,7 @@ description: HKUST School of Engineering 能源与环境工程主修、CUHK JS44
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港能源与环境工程本科完整指南 2026

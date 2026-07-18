@@ -1,7 +1,7 @@
 ---
 title: "香港 vs 澳门：大陆学生本科留学全面对比 2026 — 学费、录取门槛、留当地工作与回国认证"
 description: "对大陆高考生与家长而言，香港八大与澳门高校是两条成本与出路差异极大的路径。本文从国际排名、2026/27 学费、录取门槛、申请方式、生活成本、毕业留当地工作、留服认证七个维度给出可直接使用的量化对比。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "comparison"
 last_updated: "2026-05-18"

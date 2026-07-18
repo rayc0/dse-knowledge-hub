@@ -1,7 +1,7 @@
 ---
 title: "DSE历史完全指南：世界史脉络、论述技巧与高分策略"
 description: "全面解析DSE历史科试卷结构、核心世界史议题、PEEL论述架构、史料分析OPCVL技巧，以及内地生备考的独特优势与挑战。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "subjects"
 last_updated: "2026-04-19"

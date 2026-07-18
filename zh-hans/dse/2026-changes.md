@@ -1,7 +1,7 @@
 ---
 title: "DSE 2026 课程改革：考生必读重点变化"
 description: "2026年香港DSE考试改革详解 — 科目变化、评分制度、对大陆学生的影响。备考策略调整指南。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "dse"
 last_updated: "2026-04-17"

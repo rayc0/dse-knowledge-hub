@@ -4,7 +4,7 @@ description: "A complete 2026 guide to studying civil engineering in Hong Kong â
 lang: en
 category: majors
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Civil Engineering Bachelor Complete Guide 2026

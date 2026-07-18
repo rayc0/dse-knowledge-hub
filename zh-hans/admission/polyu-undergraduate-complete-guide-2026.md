@@ -4,7 +4,7 @@ description: "深度解析 2026 年香港理工大学本科申请：JUPAS 计分
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港理工大学（PolyU）本科完整指南 2026

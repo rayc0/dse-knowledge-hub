@@ -4,7 +4,7 @@ description: "面向内地 DSE 与高考生的香港环境科学/环境工程/�
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港环境科学与可持续发展本科完整指南 2026

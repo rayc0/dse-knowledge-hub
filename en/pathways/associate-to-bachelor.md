@@ -4,7 +4,7 @@ description: "A complete guide to the associate degree / higher diploma articula
 lang: en
 category: pathways
 date: 2026-04-14
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Associate Degree to Bachelor Articulation Pathway at Hong Kong Universities 2026

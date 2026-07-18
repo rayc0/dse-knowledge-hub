@@ -4,7 +4,7 @@ description: "A comprehensive guide comparing Hong Kong's DSE and China's Gaokao
 lang: en
 category: comparison
 date: 2026-04-17
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 tags: [DSE, gaokao, mainland-students, Hong-Kong, university-admission, comparison]
 ---
 

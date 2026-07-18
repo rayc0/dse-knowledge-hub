@@ -4,7 +4,7 @@ description: "香港 DSE 数学延伸部分单元二(Module 2, M2)完整备考�
 lang: zh-hans
 category: preparation
 date: 2026-04-15
-author: Dr. Sarah Ng
+author: DSE知识库编辑部
 tags: [DSE, 数学, M2, 延伸部分, 微积分, 向量, 备考]
 ---
 

@@ -4,7 +4,7 @@ description: 一文详解香港恒生大学（HSUHK）2026 年本科申请：六
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港恒生大学（HSUHK）本科完整指南 2026

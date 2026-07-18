@@ -4,7 +4,7 @@ description: "香港 DSE 學生升讀美國大學的完整指南。涵蓋 8 間�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-14
-author: Vivian Lam
+author: DSE知識庫編輯部
 ---
 
 # 美國升學完整指南 2026：藤校、州立大學、社區學院與 OPT/H1B 移民路徑全解

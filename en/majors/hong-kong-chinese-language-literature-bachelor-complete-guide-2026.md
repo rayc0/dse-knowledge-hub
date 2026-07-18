@@ -4,7 +4,7 @@ description: "A complete 2026 guide to Chinese Language and Literature bachelor 
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Chinese Language & Literature Bachelor Complete Guide 2026

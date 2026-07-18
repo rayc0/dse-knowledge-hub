@@ -4,7 +4,7 @@ description: "全面解析 2026 年香港八大及自资院校开设的网络安
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港网络安全与信息安全本科完整指南 2026

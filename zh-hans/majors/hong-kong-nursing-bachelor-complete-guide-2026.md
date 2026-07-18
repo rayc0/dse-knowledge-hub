@@ -4,7 +4,7 @@ description: 一文看尽香港四大护理学学士课程：港大 BNurs（含 
 lang: zh-hans
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港护理学学士课程完整指南 2026

@@ -4,7 +4,7 @@ description: "面向内地生的香港 JD（Juris Doctor）+ PCLL 完整路径�
 lang: zh-hans
 category: postgrad
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港 JD 法学博士与 PCLL 完整指南 2026

@@ -4,7 +4,7 @@ description: "HKDSE 物理科完整指南。涵蓋課程大綱七大單元、三
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: Raymond
+author: DSE知識庫編輯部
 tags:
   - DSE
   - 物理

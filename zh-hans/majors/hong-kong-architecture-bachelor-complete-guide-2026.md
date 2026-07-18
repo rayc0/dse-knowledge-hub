@@ -4,7 +4,7 @@ description: 一文看清 2026 年香港四间认可建筑学课程（HKU BA(AS)
 lang: zh-hans
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港建筑学（荣誉）学士完整指南 2026

@@ -1,7 +1,7 @@
 ---
 title: "DSE生物科完全攻略：課程大綱、溫習策略與答題技巧"
 description: "全面解析DSE生物科的課程架構、必修與選修單元、實驗技巧、歷屆出題趨勢及高分答題策略"
-author: Vivian Lam
+author: DSE知識庫編輯部
 tags: ["DSE", "生物", "Biology", "理科", "溫習"]
 language: "zh-hant"
 last_updated: "2026-04-18"

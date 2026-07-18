@@ -1,7 +1,7 @@
 ---
 title: "한국 학생의 홍콩 대학 진학 가이드: 입시 방법·학비·장학금·취업 전망"
 description: "한국 학생을 위한 홍콩 대학 진학 완벽 가이드（한국어）— HKU·HKUST·CUHK 영어 프로그램, 수능 vs DSE 비교, 학비·생활비 비용, 홍콩 한인 학생 커뮤니티, 금융 허브·GBA 취업 메리트"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ko"
 category: "guide"
 last_updated: "2026-05-13"

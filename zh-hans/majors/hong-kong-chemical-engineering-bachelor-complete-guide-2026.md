@@ -4,7 +4,7 @@ description: "2026 年报考香港化学工程（Chemical Engineering）本科�
 lang: zh-hans
 category: majors
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港化学工程本科完整指南 2026

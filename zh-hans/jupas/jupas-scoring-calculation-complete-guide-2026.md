@@ -4,7 +4,7 @@ description: "深度解析 JUPAS 大学联招的计分方式：DSE 等级换算�
 lang: zh-hans
 category: jupas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # JUPAS 计分方法完整指南：4C+2X、Best 5、各院校加权与 5** 换算 2026

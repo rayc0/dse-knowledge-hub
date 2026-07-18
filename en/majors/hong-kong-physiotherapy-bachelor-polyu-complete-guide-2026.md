@@ -4,7 +4,7 @@ description: "Comprehensive guide to PolyU's Bachelor of Science (Honours) in Ph
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Physiotherapy Bachelor (PolyU JS3636) Complete Guide 2026

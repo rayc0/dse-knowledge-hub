@@ -4,7 +4,7 @@ description: "面向香港DSE考生的德国本科留学完整指南，涵盖直
 lang: zh-hans
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE学生德国留学申请指南：Studienkolleg预科、英文授课本科、TU9与免学费公立大学完整解读 2026

@@ -4,7 +4,7 @@ description: "Public Health is one of the fastest-growing medical-adjacent degre
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Public Health Bachelor Complete Guide 2026

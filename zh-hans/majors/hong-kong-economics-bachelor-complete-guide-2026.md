@@ -4,7 +4,7 @@ description: "2026 年香港经济学本科（BEcon / BSSc Economics / BSc Econo
 lang: zh-hans
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港经济学本科完整指南 2026：港大、中大、科大三校深度对比

@@ -4,7 +4,7 @@ description: "A complete walkthrough of JUPAS 2026: the application timeline, th
 lang: en
 category: admission
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # JUPAS Explained 2026 — How Hong Kong's University Admission System Actually Works

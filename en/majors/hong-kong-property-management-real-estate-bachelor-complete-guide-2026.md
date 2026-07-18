@@ -4,7 +4,7 @@ description: "Comprehensive 2026 guide to Hong Kong undergraduate degrees in Pro
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Property Management & Real Estate Bachelor Complete Guide 2026

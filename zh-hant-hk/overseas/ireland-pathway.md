@@ -4,7 +4,7 @@ description: "香港 DSE 考生升讀愛爾蘭大學嘅完整指南：都柏林�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-14
-author: "DSE 升學知識庫"
+author: DSE知識庫編輯部
 ---
 
 # 愛爾蘭升學指南 2026：低成本英語系國家的升學選擇

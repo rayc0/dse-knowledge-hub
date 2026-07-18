@@ -4,7 +4,7 @@ description: "Full English guide to Hong Kong's SSSDP 2026/27 — up to HK$89,62
 lang: en
 category: scholarship
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Study Subsidy Scheme for Designated Professions/Sectors (SSSDP) Complete Guide 2026/27

@@ -4,7 +4,7 @@ description: "Thorough guide to HKDSE Chinese Language Paper 1 (Reading Comprehe
 lang: en
 category: preparation
 date: 2026-04-15
-author: Vivian Lam
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE Chinese
   - Paper 1

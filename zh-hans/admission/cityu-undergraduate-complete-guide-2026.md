@@ -4,7 +4,7 @@ description: "香港城市大学（CityU）2026 本科完整申请指南：QS �
 lang: zh-hans
 category: admission
 date: 2026-05-04
-author: CompanyForge AI 编辑团队
+author: DSE知识库编辑部
 ---
 
 # 香港城市大学（CityU）本科完整指南 2026：QS 全球第 63、亚洲第 7、JUPAS 与非联招申请、学费、王牌专业与就业前景

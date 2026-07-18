@@ -4,7 +4,7 @@ description: 一文读懂港大 BSc(Surveying) JS6016 与理大 BSc(Hons) Survey
 lang: zh-hans
 category: majors
 date: 2026-05-05
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港测量学荣誉学士完整指南 2026：港大 JS6016、理大 JS3789、HKIS 注册、RICS 双重资格、APC 专业评核试与政府工料测量师起薪

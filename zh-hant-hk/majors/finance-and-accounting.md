@@ -1,7 +1,7 @@
 ---
 title: "香港八大金融與會計學科指南：DSE學生報考全攻略 2026"
 description: "全面介紹香港各大學金融及會計課程，包括HKU、HKUST、CUHK、PolyU、CityU的JUPAS收生要求、課程特色、專業認證（HKICPA / ACCA / CFA）、職業出路及起薪，幫助DSE學生作出明智選擇。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"

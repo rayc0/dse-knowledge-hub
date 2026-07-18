@@ -1,7 +1,7 @@
 ---
 title: "香港藥劑學科指南：DSE學生報考全攻略"
 description: "全面介紹香港CUHK及HKU藥劑（BPharm）課程，包括4年課程結構、香港藥劑業及毒藥管理局注冊考試、DSE生物化學要求、醫院vs社區藥劑師職業比較及薪酬資訊。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"

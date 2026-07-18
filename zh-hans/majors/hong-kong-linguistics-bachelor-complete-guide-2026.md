@@ -4,7 +4,7 @@ description: "深度拆解香港五大院校语言学课程：中大 JS4070、�
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港语言学本科完整指南 2026

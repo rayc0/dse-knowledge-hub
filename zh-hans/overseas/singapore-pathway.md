@@ -1,7 +1,7 @@
 ---
 title: "新加坡升学完整指南 2026：NUS、NTU、SMU 申请攻略与工作签证"
 description: "2026年新加坡三大公立名校完整申请指南 — DSE与高考双轨解析、学费、MOE学费资助、毕业留坡路径。大陆学生与DSE考生必读。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"

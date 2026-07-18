@@ -4,7 +4,7 @@ description: "申请香港八大面试的完整准备指南：港大、中大、
 lang: zh-hans
 category: interview
 date: 2026-04-14
-author: "DSE 升学知识库"
+author: DSE知识库编辑部
 ---
 
 # 港校面试完整准备指南：常见问题、穿着、表达技巧 2026

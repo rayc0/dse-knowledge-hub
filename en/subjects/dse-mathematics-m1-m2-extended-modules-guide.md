@@ -4,7 +4,7 @@ description: "Complete guide to HKDSE Mathematics Extended Modules M1 (Calculus 
 lang: en
 category: subjects
 date: 2026-04-15
-author: Michael Chan
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE Mathematics
   - M1

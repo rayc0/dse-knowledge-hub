@@ -4,7 +4,7 @@ description: "Complete guide for Hong Kong DSE students applying to Dutch univer
 lang: en
 category: overseas
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Netherlands Pathway for DSE Students: Research Universities, Universities of Applied Sciences, English-Taught Programmes and Studielink Application Guide 2026

@@ -4,7 +4,7 @@ description: "Comprehensive 2026 guide to studying Philosophy at Hong Kong unive
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Philosophy Bachelor Complete Guide 2026

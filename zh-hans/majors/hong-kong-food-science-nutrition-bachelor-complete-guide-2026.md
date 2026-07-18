@@ -4,7 +4,7 @@ description: 一篇讲透香港食品科学、营养学与营养治疗本科—�
 lang: zh-hans
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub 编辑部
+author: DSE知识库编辑部
 ---
 
 # 香港食品科学与营养学本科完整指南 2026

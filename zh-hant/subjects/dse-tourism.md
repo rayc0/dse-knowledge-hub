@@ -1,7 +1,7 @@
 ---
 title: "DSE旅遊地理：核心課題、案例分析與高分答題策略"
 description: "DSE地理科旅遊業選修課題完整備考指南 — 旅遊業的定義與分類、旅遊業對目的地的影響（經濟·社會·環境）、可持續旅遊發展策略、旅遊業全球化與地方化、香港旅遊業案例，以及Paper 1/2高分答題框架"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant"
 category: "subjects"
 tags: ["DSE", "地理", "旅遊業", "Tourism", "選修課題", "可持續旅遊"]

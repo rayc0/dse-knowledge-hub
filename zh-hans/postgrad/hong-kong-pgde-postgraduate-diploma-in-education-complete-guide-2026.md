@@ -4,7 +4,7 @@ description: "面向内地与海外学生的香港 PGDE（Postgraduate Diploma i
 lang: zh-hans
 category: postgrad
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港 PGDE 学位教师教育文凭完整指南 2026

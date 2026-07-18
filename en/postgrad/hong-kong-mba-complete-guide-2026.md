@@ -4,7 +4,7 @@ description: "A 2026 comparison of Hong Kong's three flagship MBA programmes (HK
 lang: en
 category: postgrad
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong MBA Complete Guide 2026: HKUST, CUHK and HKU Business Schools

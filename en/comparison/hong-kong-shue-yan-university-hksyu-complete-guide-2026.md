@@ -4,7 +4,7 @@ description: "A complete 2026 guide to Hong Kong Shue Yan University (HKSYU): th
 lang: en
 category: comparison
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Shue Yan University (HKSYU) Complete Guide 2026

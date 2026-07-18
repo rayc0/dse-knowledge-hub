@@ -4,7 +4,7 @@ description: "In-depth analysis of Sociology bachelor programmes at 6 Hong Kong 
 lang: en
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Sociology Bachelor Complete Guide 2026: JUPAS Scores, Curriculum, Careers

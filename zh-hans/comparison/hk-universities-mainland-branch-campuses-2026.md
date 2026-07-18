@@ -4,7 +4,7 @@ description: 一文讲清香港中文大学（深圳）、香港科技大学（�
 lang: zh-hans
 category: comparison
 date: 2026-05-18
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港高校内地校区完整指南 2026：港中深、港科广、北师港浸大、港城大（东莞）录取与对比

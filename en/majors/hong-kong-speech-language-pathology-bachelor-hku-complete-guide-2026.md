@@ -4,7 +4,7 @@ description: Comprehensive guide to HKU's Bachelor of Science in Speech-Language
 lang: en
 category: majors
 date: 2026-05-04
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Speech-Language Pathology Bachelor (HKU JS6157) Complete Guide 2026 - The Only Local Direct-Registration Pathway, Five-Year Curriculum, 300+ Clinical Hours, HKIST Registration, Hospital Authority Salary Scales and Career Prospects

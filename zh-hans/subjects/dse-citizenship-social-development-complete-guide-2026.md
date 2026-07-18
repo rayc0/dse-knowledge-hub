@@ -4,7 +4,7 @@ description: 全面解析 2026 DSE 公民与社会发展科：课程结构、三
 lang: zh-hans
 category: subjects
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港DSE 公民与社会发展科（公民科/CSD）完整指南 2026：三大主题、内地考察、达标评核与备考策略

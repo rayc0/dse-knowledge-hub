@@ -1,7 +1,7 @@
 ---
 title: "日本升学完整指南 2026：EJU、大学别考试、学费与奖学金"
 description: "2026年日本留学完整攻略 — EJU考试结构、SGU英语授课项目、MEXT奖学金、学费对比、毕业工签。DSE与高考考生必读。"
-author: "the editorial team AI"
+author: DSE知识库编辑部
 language: "zh-hans"
 category: "overseas"
 last_updated: "2026-04-17"

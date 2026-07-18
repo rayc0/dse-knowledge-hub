@@ -4,7 +4,7 @@ description: 一文看清香港中大、科大、理大、城大、岭大等市�
 lang: zh-hans
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港市场学／市场营销本科完整指南 2026

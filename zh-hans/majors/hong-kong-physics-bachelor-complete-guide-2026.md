@@ -4,7 +4,7 @@ description: "深入解析香港三大研究型物理学课程：港大 JS6212 �
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港物理学学士完整指南 2026：港大、中大、科大三大研究型课程深度解析

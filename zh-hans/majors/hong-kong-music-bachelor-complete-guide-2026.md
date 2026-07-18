@@ -4,7 +4,7 @@ description: 一文看清香港四大音乐学士课程——中大音乐文学�
 lang: zh-hans
 category: majors
 date: 2026-05-20
-author: DSE 知识库编辑部
+author: DSE知识库编辑部
 ---
 
 # 香港音乐学士完整指南 2026

@@ -1,7 +1,7 @@
 ---
 title: "香港大學商科及經濟學指南：DSE學生報考全攻略"
 description: "全面介紹香港各大學BBA課程，包括HKU、HKUST、CUHK、PolyU、CityU的排名、課程特色、BAFS vs經濟科選擇、職業出路及實習文化，幫助DSE學生作出明智選擇。"
-author: "the editorial team AI"
+author: DSE知識庫編輯部
 language: "zh-hant-hk"
 category: "majors"
 last_updated: "2026-04-19"

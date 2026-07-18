@@ -4,7 +4,7 @@ description: "港八大毕业生申请中国教育部留学服务中心（留服
 lang: zh-hans
 category: verification
 date: 2026-04-14
-author: "DSE 升学知识库"
+author: DSE知识库编辑部
 ---
 
 # 留服认证完整指南 2026：港校毕业生教育部学历学位认证申请流程

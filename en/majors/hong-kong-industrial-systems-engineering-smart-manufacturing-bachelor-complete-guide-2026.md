@@ -4,7 +4,7 @@ description: A detailed breakdown of Hong Kong's Industrial / Systems Engineerin
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Industrial and Systems Engineering / Smart Manufacturing Bachelor Complete Guide 2026

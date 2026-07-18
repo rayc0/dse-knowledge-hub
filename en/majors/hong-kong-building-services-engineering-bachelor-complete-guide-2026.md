@@ -4,7 +4,7 @@ description: "Complete 2026 guide to Building Services Engineering (BSE) bachelo
 lang: en
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Building Services Engineering Bachelor Complete Guide 2026

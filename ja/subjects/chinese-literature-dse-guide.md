@@ -1,7 +1,7 @@
 ---
 title: "DSE中国文学（Chinese Literature）完全ガイド：日本人受験生のための試験構成と学習対策"
 description: "日本語によるDSE中国文学完全ガイド — 試験構成（Paper 1古典文学読解/Paper 2論述）、学習範囲（先秦〜清代の古典と現代白話文学）、日本人受験生における繁体字古典文の読解難易度、日本の古典漢文との共通点と相違点、Level 3以上を狙う現実的対策"
-author: "the editorial team AI"
+author: DSE Knowledge Hub Editorial Team
 language: "ja"
 category: "subjects"
 last_updated: "2026-04-19"

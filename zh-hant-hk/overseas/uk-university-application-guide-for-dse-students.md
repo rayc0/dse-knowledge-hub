@@ -4,7 +4,7 @@ description: "為香港 DSE 考生準備的英國大學升學指南：UCAS 申�
 lang: zh-hant-hk
 category: overseas
 date: 2026-04-15
-author: DSE 知識中心
+author: DSE知識庫編輯部
 tags:
   - UCAS
   - 英國升學

@@ -4,7 +4,7 @@ description: "Master the JUPAS interview process for HKU, CUHK, HKUST, PolyU, Ci
 lang: en
 category: admission
 date: 2026-05-03
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # JUPAS Interview Preparation Complete Guide for Hong Kong University Admissions 2026

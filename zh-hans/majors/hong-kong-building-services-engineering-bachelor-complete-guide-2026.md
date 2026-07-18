@@ -4,7 +4,7 @@ description: "全面解析香港屋宇装备工程（Building Services Engineeri
 lang: zh-hans
 category: majors
 date: 2026-05-21
-author: DSE Knowledge Hub
+author: DSE知识库编辑部
 ---
 
 # 香港屋宇装备/建筑科学与工程本科完整指南 2026

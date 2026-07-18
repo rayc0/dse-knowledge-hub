@@ -4,7 +4,7 @@ description: "Complete English guide to HKDSE Chinese History (中國歷史) for
 lang: en
 category: subjects
 date: 2026-05-19
-author: Karen Leung
+author: DSE Knowledge Hub Editorial Team
 tags:
   - DSE Chinese History
   - 中國歷史

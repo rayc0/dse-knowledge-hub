@@ -4,7 +4,7 @@ description: "全面分析 DSE 地理科：課程結構、卷一題型、卷二�
 lang: zh-hant-hk
 category: dse
 date: 2026-04-15
-author: Dr. Sarah Ng
+author: DSE知識庫編輯部
 tags:
   - DSE 地理
   - Geography

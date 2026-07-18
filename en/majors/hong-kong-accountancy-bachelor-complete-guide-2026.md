@@ -4,7 +4,7 @@ description: "A complete 2026 guide to studying accountancy in Hong Kong — the
 lang: en
 category: majors
 date: 2026-05-19
-author: DSE Knowledge Hub
+author: DSE Knowledge Hub Editorial Team
 ---
 
 # Hong Kong Accountancy Bachelor Complete Guide 2026
