@@ -12,7 +12,7 @@ tags:
   - 銀行開戶
   - 電話卡
   - 八達通
-canonical: "https://dsedaquan.cn/zh-hant-hk/life/banking-and-mobile-sim-for-mainland-students-in-hk.html
+canonical: "https://dsedaquan.cn/zh-hant-hk/life/banking-and-mobile-sim-for-mainland-students-in-hk.html"
 ---
 
 # 內地生來港必讀：銀行開戶、電話卡、八達通懶人包

@@ -14,7 +14,7 @@ tags:
   - JUPAS
   - 微觀經濟
   - 宏觀經濟
-canonical: "https://dsedaquan.cn/zh-hant-hk/subjects/dse-economics-complete-guide-for-mainland-students.html
+canonical: "https://dsedaquan.cn/zh-hant-hk/subjects/dse-economics-complete-guide-for-mainland-students.html"
 ---
 
 # DSE 經濟科完全攻略（內地生專屬）
